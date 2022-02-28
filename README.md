@@ -1,4 +1,9 @@
-# Model_of_the_Psyche
+# Model of the Psyche
+## An attempt at describing the human information system
+
+#### By André Schepers
+
+<br />
 
 Copyright (C)  2022  André Schepers.<br />
 Permission is granted to copy, distribute and/or modify this document<br />
@@ -9,6 +14,87 @@ A copy of the license is included in the section entitled "GNU<br />
 Free Documentation License".<br />
 
 More coming soon! Work in progress...
+
+## Introduction
+This writing makes an attempt to propose a new way of looking at the human psyche. It will do that by describing the layers of the psyche, the context in which humans act, general information theory, and more.
+<br />
+This writing is no way close to a research paper, nor a presentation of fact. It is merely the view of the author, of how the psyche works, and how we can benefit from this view.
+<br />
+Although this writing merely reflects the view of the author, the claims made will be presented as fact. This is merely to serve a certain writing style to ease the reader trying to understand what is put forward. It is up to the reader to decide on what is true, what is not, and what opinion to form based on this writing.
+
+## The Foundation
+
+### The Context
+
+The context we call reality, is described in many ways by humans. One way is science. Difference science fields study reality at different levels. Maths studies logic applied to numbers, physics studies the laws of nature, literature the written communication, etc… Different sciences, different viewpoints. And this is important to understand: Each viewpoint looks at a different slice of reality. Slices can be contained in one another, but the abstractions are nevertheless different: Models that focus on the mainlines of the subject being discussed. Chemistry for example, is a subject of physics, but only concerning chemical processes. Both use maths, but don’t fully describe the maths field in science.
+
+Looking at the psych of humans, and trying to describe it, asks from an observer and researcher, to first of all choose a viewpoint, a frame of reference, a context. A subcontext contained within the context of reality. What is that context and in what terms are we going to describe the psyche?
+
+Psychology, the science field concerned with the human psyche, mostly focussed on the behaviour of humans. In terms of behaviour the psyche was and is described. But one can ask the question, whether or not that is the only way to look at it. A possible other way is to look at the psyche as it being an information system. A system that processes, stores, retrieves, presents data. Data that becomes of importance, of value to an entity, at a certain place in space and time, is called information.
+
+Another perspective is to look at the organism from a biological point of view: An organism acts in such a way to survive both individually and genetically, as a species. Behaviour can be identified as actions to reach those two goals, or subgoals that eventually lead to reaching the two main goals of surviving. Taking that starting point, how does the psyche and all its functionality serve these goals?
+
+Another and last perspective is a physics point of view. How do human beings behave in the context of physics? What is that context exactly?
+
+### Psyche in the context of the physical world
+
+The physical world is the world of thermodynamics. Any system is subject to thermodynamics: [Quality of energy is lost over time](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics), in any system, in which whatever process takes place. This is the reason that any system, in order to keep going, needs energy input, otherwise it will halt or stop. 
+For biological systems, this is no different. Any biological system in the context of physics, will need to retrieve energy that can be used for work. In the context of biology, this means eat or be eaten.
+If we look at the function and the goals the psyche serves, in the context of physics, we see it must serve the purpose of getting energy, or at the very least serve a system that does this. If not, the system, the organism, will simply waste more energy than it gains. Or if other systems are more energy efficient, they will more easily survive than other systems. This way the most energy efficient systems will eventually remain and the others will die out.
+
+### Psyche in the context of biology
+
+Biological systems have to adhere to the rules of physics: Keep introducing usable energy into the system, or the system will stop. Without food, the organism will not gain energy, and the system that it is, cannot keep running. Biological systems therefore will behave in ways to gain that necessary energy. Furthermore, the information that describes how to build this system, which is kept in genes, has to survive too. This is how systems copy themselves into existence. It is the information that survives, and not only the system that the information describes.
+
+The psyche in this context, is then a subsystem of the biological system. It serves a certain goal in this scenario of gaining energy, and creating new systems with the information contained within the system that reproduces itself. The question then is, what goal does it serve?
+
+In biology a system is not predesigned. It evolves naturally, by natural selection and mutation. This way many systems, configurations, are tried out. Eventually only the most energy efficient ones will survive and be left standing.
+
+### Psyche as an Information System
+
+Information Systems are all around us. If we take money from the bank, if we pay in the shop, use social media or order something online. But is the main principle of Information Systems, what are they in essence?
+
+Formally Information Systems are described as systems that consist of everything that works together, with the main goal of producing information out of data. Data can be seen as plain facts. True or false, a colour, a text, a location of a shop. The definition of information is data that is of value to an entity, at a certain point in space and time. Information systems therefore have to deliver the data in time to have it become information, otherwise it is too late, for it to be valuable for the target entity.
+How does this relate to what the psyche does and/or is? Can the psyche be seen as an information system? And to what purpose does it behave like this?
+
+#### The scope of data and information
+
+In life a person needs a lot of information. But what data becomes what information that the psyche is responsible for? Compare for instance the information from a webshop, or the location of the shopping mall or the gym. This information comes from outside, is stored in a person's memory, after which it can be retrieved for use. When a person needs this data, and that data becomes information, it travels from memory to the consciousness. 
+
+Another path is data coming into the consciousness, from outside. Imagine walking in the forest and seeing the birds in the trees, the wind blowing through the grass. But not at any time does a person see it all at once. The data enters the psyche, but is filtered and only what is focussed on, does reach the consciousness. Here the psyche acts as an information system: Only the data that can become information is let through.
+
+#### Types of data and information
+
+Different types of data and information can be distinguished. Take for example data regarding the physical world around us. We need the psyche to filter properly to keep us alive. If we walk in a jungle,  instead of in a forest, we need to know in a split second if there is a snake in front of us. Not only does instinct kick in, also the consciousness is lit on fire by impulses from the Amygdala. The most primitive part of the human brain.
+
+Another type of data and information is of the social type. Social psychology has this as one of its research subjects.We take in a lot of social data, and form a model of the social situation. This model is part of the information we become conscious about. But not all information arrives in the consciousness. Part of it remains in the subconscious.Where it is used to decide how to act accordingly. Based on this information we can feel shame, guilt, happiness, love, jealousy and a whole lot more emotions and mental experiences. The question than is, who decides how to act in such a way based on the information presented to us, and why? Parts of the brain, parts of the psyche, or by our own choice?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Appendix A - Hypothesis of fast Learning
+
+## Appendix B - Social Defenses
+
+## Appendix C - Social Systems
+
+## 
 
 ### GNU Free Documentation License
 
