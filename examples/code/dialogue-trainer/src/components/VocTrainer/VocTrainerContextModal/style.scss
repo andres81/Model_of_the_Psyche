@@ -1,0 +1,95 @@
+/*
+Copyright (C) 2022  André Schepers
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+*/
+.dialogue-voc-exercise-modal-bg {
+
+    table {
+        td {
+            color: #2673BE!important;
+        }
+        color: #2673BE!important;
+        background-color: #FEFEFE;
+        width: 97%;
+        margin: auto;
+        margin-top: 15px;
+    }
+
+    .dialogue-modal-close-button-icon {
+        &:hover {
+            color: grey;
+        }
+    }
+
+    >div {
+
+        background-color: transparent!important;
+
+        >div {
+            &::-webkit-scrollbar {
+                width: 0;
+                background: transparent;
+            }
+            inset: 10px!important;
+            padding: 50px 0 0 0!important;
+            text-align: center;
+            background-color: teal!important;
+            color: white;
+        }
+    }
+
+    .vocabulary-trainer-bulk-input {
+        border: 1px solid lightgreen;
+        background-color: transparent;
+        height: 200px;
+        padding: 10px;
+        white-space: pre;
+        overflow-wrap: normal;
+        overflow-x: scroll;
+        color: white;
+
+        &::-webkit-scrollbar {
+            width: 0;
+            background: transparent;
+        }
+    }
+
+    .vocabulary-trainer-bulk-input-left {
+        text-align:right;
+        width: 100%
+    }
+
+    .vocabulary-trainer-bulk-input-right {
+        width: 100%
+    }
+
+    .vocabulary-trainer-column-inputs {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .vocabulary-trainer-base64 {
+        &::-webkit-scrollbar {
+            width: 0;
+            background: transparent;
+        }
+
+        background-color: transparent;
+        color: white;
+        width: 85%;
+        height: 200px;
+        border: 1px solid lightgreen;
+    }
+}

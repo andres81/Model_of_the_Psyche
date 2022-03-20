@@ -1,0 +1,118 @@
+/*
+Copyright (C) 2022  André Schepers
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+*/
+.dialogue-editor-controls {
+    background-color: #62e8e87a;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 5px;
+
+    .btn {
+        box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    }
+
+    .row {
+//         padding: 5px;
+    }
+
+    .file-input {
+        display: none;
+    }
+
+    .controls-buttons-wrapper {
+        text-align: left;
+        padding-left: 20px;
+
+        button {
+            margin-top: 10px;
+        }
+    }
+
+    .controls-input-wrapper {
+
+        padding-left: 20px;
+
+        input.title-input {
+            margin-top: 10px;
+            max-width: 85%;
+        }
+    }
+
+    .base64-info-icon-wrapper {
+        margin-top: 10px;
+        position: relative;
+        max-width: 85%;
+        margin-bottom: 8px;
+    }
+
+    .base64-info-icon {
+        position: absolute;
+        top: 50%;
+        right: -33px;
+        transform: translateY(-50%);
+        filter: drop-shadow(1px 1px 2px black);
+    }
+
+    .base64-info-icon:hover {
+        border: solid 1px #00d7ec;
+        border-radius: 50%;
+        cursor: pointer;
+    }
+}
+
+.dialogue-editor-controls-outer {
+
+    .ReactModal__Overlay {
+
+        background: #0000007d!important;
+
+        .dialogue-modal-inner {
+            max-width: 90%;
+            max-height: 90%;
+            width: 500px;
+            height: 300px;
+            top: 50%;
+            transform: translateY(-50%);
+            position: relative;
+            background-color: white;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 15px;
+            padding: 25px;
+
+            .dialogue-modal-close-button-icon {
+
+                position: absolute;
+                top: 20px;
+                right: 20px;
+                font-size: 2em;
+                cursor: pointer;
+
+                &:hover {
+                    color: grey;
+                }
+            }
+
+            .dialogue-editor-controls-modal-innertext {
+                top: 50%;
+                position: relative;
+                transform: translateY(-50%);
+                color: #07032d;
+                font-weight: 500;
+            }
+        }
+    }
+}

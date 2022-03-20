@@ -1,0 +1,97 @@
+/*
+Copyright (C) 2022  André Schepers
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+*/
+.dialogue-info-modal-multiplechoice {
+
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+
+    .title-container {
+        padding-left: 0px;
+        padding-right: 20px;
+        background-color: #0f274a;
+        border-radius: 5px;
+        width: inherit;
+        position: relative;
+        cursor: pointer;
+
+        & > .menu-arrow-wrapper {
+            position: absolute;
+            right: 10px;
+            top: 17px;
+            transform: translateY(-50%);
+
+            & > .menu-arrow {
+                display: inline-block;
+                border-color: white;
+                border-style: solid;
+                border-width: 0 2px 2px 0;
+                padding: 2.5px;
+                vertical-align: middle;
+                transition: transform .3s;
+                transform: rotate(45deg);
+            }
+        }
+
+        &.open {
+            & > .menu-arrow-wrapper {
+                .menu-arrow {
+                    transform: rotate(225deg);
+                }
+            }
+        }
+    }
+
+  span.title {
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: left;
+    text-shadow: none;
+    font-size: 20px;
+    color: white;
+    position: relative;
+  }
+
+  span.title-correct-answer {
+    color: lightgreen;
+    text-shadow: none;
+  }
+
+  span.title-incorrect-answer {
+    color: #ff0808;
+    text-shadow: none;
+  }
+
+  .dialogue-info-modal-header {
+    text-align: center;
+    text-shadow: grey 2px 1px;
+    color: white;
+  }
+
+  .dialogue-info-modal-addendum {
+    color: white;
+  }
+
+  .exercise-container {
+    position: initial;
+    transform: none;
+
+  }
+}
