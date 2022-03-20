@@ -1,0 +1,51 @@
+/*
+Copyright (C) 2022  André Schepers
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+*/
+.answer-line-editor {
+
+    text-align: left;
+    margin-bottom: 5px;
+    position: relative;
+
+    .answer-line-editor-radio {
+        text-align: right;
+    }
+
+    input[type=text] {
+        width: 100%;
+    }
+
+    textarea {
+        width: 90%;
+    }
+
+    .answer-line-editor-delete {
+        cursor: pointer;
+        position: absolute;
+        top: 5px;
+        right: 10px;
+        filter: drop-shadow(1px 1px 2px black);
+        width: initial;
+
+        &.fa-trash-alt:hover {
+            color: #e61b1b;
+        }
+
+        &.fa-trash-alt {
+            color: #a91515;
+        }
+    }
+}

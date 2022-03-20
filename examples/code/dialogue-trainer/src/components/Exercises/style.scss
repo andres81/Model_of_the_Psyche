@@ -1,0 +1,56 @@
+/*
+Copyright (C) 2022  André Schepers
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+*/
+.questions-container {
+
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    & > .title {
+        text-align: left;
+        text-shadow: grey 2px 1px;
+        font-size: 1.7em;
+        color: white;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    button {
+        margin-bottom: 10px;
+    }
+
+    margin-top:30px;
+    text-shadow: grey 2px 1px;
+    color: white;
+
+  .dialogue-info-modal-header {
+    text-align: center;
+    text-shadow: grey 2px 1px;
+    color: white;
+  }
+
+  .dialogue-info-modal-addendum {
+    color: white;
+  }
+
+  .exercise-container {
+    position: initial;
+    transform: none;
+
+  }
+
+}
