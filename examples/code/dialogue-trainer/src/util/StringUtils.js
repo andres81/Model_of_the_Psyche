@@ -57,12 +57,6 @@ export const getLastDiffIndex = (first, second) => {
         return first[0] === second[0] ? 0 : -1;
     }
 
-    //     3 2 1 0
-    //     1 2 3 4
-    // a b 1 2 3 4
-    //
-
-    // max index: 3
     let smallestLength = flen > slen ? slen -1 : flen -1;
     let fIndex = flen - 1;
     let sIndex = slen - 1;
@@ -92,23 +86,3 @@ export const isNewWord = (newString, diffIndex) => {
         (diffIndex < (newString.length-1) && newString[diffIndex+1] === " ");;
     return isNewByLetterInsert || isNewBySpaceInsert;
 }
-
-
-
-/*
-    Original: abc def ghi
-
-                 1         2
-       012345678901234567890
-       abc  def ghi
-    1. abc ? def ghi
-    2. abc  def g hi
-
-
-             76543210
-    abc def    _ ghij
-    abc def zwdf ghij
-
-    abc def zwdf ghij
-    abc def    _ ghij
-*/

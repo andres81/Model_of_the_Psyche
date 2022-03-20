@@ -180,9 +180,6 @@ class VocTrainerContextModal extends React.Component {
         let base64Str = this.encodeBase64(JSON.stringify(this.props.loadedVocabulary));
 
         return <Link to={"/learning/vocabularytrainer/"+base64Str}>link</Link>;
-//        return <a target="_blank"
-//            rel="noreferrer"
-//            href={"http://www.andreschepers.eu/learning/vocabularytrainer/" + base64Str}>link</a>;
     }
 
     encodeBase64 = (string) => {
