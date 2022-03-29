@@ -47,18 +47,14 @@ class Exercises extends React.Component {
 
         let questions = this.createQuestions(this.props.questions);
         return (
-            <div className="container">
-                <div className="row">
-                    <div className="questions-container">
-                        <h3 className="title">Exercises</h3>
-                        <button className="btn btn-primary" disabled={!!!this.state.areAllQuestionsAnswers}
-                                onClick={this.onShowCorrections}>{this.state.showCorrections ? "Hide" : "Show"} corrections</button>
-                        &nbsp;&nbsp;&nbsp;
-                        <button className="btn btn-primary" onClick={this.onCollapseAll}>Collapse all</button>
-                        <br /><br />
-                        {questions}
-                    </div>
-                </div>
+            <div className="questions-container container">
+                <h3 className="title">Exercises</h3>
+                <button className="btn btn-primary" disabled={!!!this.state.areAllQuestionsAnswers}
+                        onClick={this.onShowCorrections}>{this.state.showCorrections ? "Hide" : "Show"} corrections</button>
+                &nbsp;&nbsp;&nbsp;
+                <button className="btn btn-primary" onClick={this.onCollapseAll}>Collapse all</button>
+                <br /><br />
+                {questions}
             </div>
         )
     }

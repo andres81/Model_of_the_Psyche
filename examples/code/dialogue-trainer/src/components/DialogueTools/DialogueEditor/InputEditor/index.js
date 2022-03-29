@@ -16,16 +16,33 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 import React from 'react';
 import _ from "lodash";
-
+import {AiTwotoneFolderOpen} from 'react-icons/ai';
 import EditorRow from './EditorRow';
+import {readFileAsBase64} from '../../../../util/FileUtils';
 
 import {DIALOGUE_EDITOR_ROW} from '../../constants.js'
 
 class InputEditor extends React.Component {
 
+    constructor(props) {
+        super(props);
+
+        this.fileInputRef = React.createRef();
+    }
+
     render() {
         return (
-            <div className="dialogueeditoreditsection dialogueeditormaterialdesignhover">
+            <div className="dialogue-editor-edit-section">
+                <div className="row dialogue-editor-edit-section-audio-input">
+                    <div>
+                        <input value={this.props.youtubeEmbedId} onChange={(e) => this.props.onYoutubeEmbedId(e.target.value)} type={"text"} placeholder="Youtube Embed Id" />
+                    </div>
+                    <div className="audio-source-file-open-container">
+                        <AiTwotoneFolderOpen className="audio-source-file-open" onClick={() => this.fileInputRef.current.click()} />
+                        <input type='file' ref={this.fileInputRef} className="audio-file-input" onChange={() => readFileAsBase64(this.fileInputRef, (value) => this.props.onAudioChange(value))} />
+                        <input value={this.props.audioSource} onChange={(e) => this.props.onAudioChange(e.target.value)} type={"text"} placeholder="Dialogue audio (ogg)" />
+                    </div>
+                </div>
                 {this.createRows()}
             </div>
         )

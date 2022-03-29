@@ -16,6 +16,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 import React from 'react';
 import _ from "lodash";
+import { MdGTranslate } from 'react-icons/md';
 
 class EditorRowWordTranslator extends React.Component {
 
@@ -49,6 +50,9 @@ class EditorRowWordTranslator extends React.Component {
             return <div className="row dialogue-editor-word-translator-row" key={index}>
                 <div className="col-4 text-end">
                     <label className="col-form-label">{elem.left.text}</label>
+                    &nbsp;&nbsp;
+                    <a target="_blank"
+                        href={"https://translate.google.com/?hl=en&sl=auto&tl=en&text=" + elem.left.text + "&op=translate"}><MdGTranslate /></a>
                 </div>
                 <div className="col-6 text-start">
                     <input className="form-control " value={elem.right.text} onChange={(e) => this.onWordTranslationChange(e.target.value, index)} />

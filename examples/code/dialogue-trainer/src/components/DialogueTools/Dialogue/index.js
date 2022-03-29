@@ -17,13 +17,16 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 import React from 'react';
 import ReactModal from "react-modal";
 
-import {FaTimes, FaUniversity} from 'react-icons/fa';
+import {FaTimes, FaUniversity, FaPlay} from 'react-icons/fa';
 import {AiTwotoneFolderOpen, AiOutlineDownload} from 'react-icons/ai';
 
 import DialogueRow from './DialogueRow'
 import DialogueInfoModal from './DialogueInfoModal';
 import {readFile, downloadJson} from '../../../util/FileUtils';
 import Exercise from '../../Exercises';
+
+import EmbedYoutube from './EmbedYoutube';
+
 import './style.scss'
 
 class Dialogue extends React.Component {
@@ -34,6 +37,7 @@ class Dialogue extends React.Component {
             dialogueJson: this.props.dialogueJson
         };
         this.fileInputRef = React.createRef();
+        this.audioRef = React.createRef();
     }
 
     componentDidUpdate(prevProps) {
@@ -47,10 +51,15 @@ class Dialogue extends React.Component {
     render() {
         let isLoaded = !!this.state.dialogueJson
         let title = isLoaded ? this.state.dialogueJson.title : "";
+        let embedId = isLoaded ? this.state.dialogueJson.youtubeEmbedId : "";
 
         return (
             <div className="dialogue-container">
                 <h1 className="dialogue-title">{title}</h1>
+                <br />
+                {embedId &&
+                    <EmbedYoutube embedId={this.state.dialogueJson.youtubeEmbedId} />
+                }
                 <br />
                 <div className="dialogue-inner-container container">
                     {this.getControls()}
@@ -91,6 +100,9 @@ class Dialogue extends React.Component {
         let showFileControls = this.props.showFileControls === undefined || !!this.props.fileControls;
         return <div className="dialogue-controls row text-start">
             <div className="col-sm-6 dialogue-controls-inner">
+                {this.createAudioElement()}
+                {this.createAudiobutton()}
+                &nbsp;
                 { isLoaded && <div className="dialogue-controls-translation form-check form-switch">
                     <label className="form-check-label" htmlFor="flexSwitchCheckChecked">Dialogue translation</label>
                     <input onChange={this.toggleTranslation} className="form-check-input" type="checkbox" id="flexSwitchCheckChecked" />
@@ -100,7 +112,24 @@ class Dialogue extends React.Component {
                 { showFileControls && <AiOutlineDownload className="dialogue-controls-download-button" onClick={() => downloadJson(this.state.dialogueJson.title, this.state.dialogueJson)} /> }
                 { showFileControls && <input type='file' ref={this.fileInputRef} className="file-input" onChange={() => readFile(this.fileInputRef, this.processFileContents)} /> }
             </div>
+
         </div>;
+    }
+
+    createAudioElement = () => {
+        if (this.state.dialogueJson && !!this.state.dialogueJson.audioSource) {
+            return <audio ref={this.audioRef}>
+                <source src={this.state.dialogueJson.audioSource} type="audio/ogg" />
+            </audio>
+        }
+    }
+
+    createAudiobutton = () => {
+        if (this.state.dialogueJson && !!this.state.dialogueJson.audioSource) {
+            return <span onClick={() => this.audioRef.current.play()} className="dialogue-audio-play-button">
+                <FaPlay />
+            </span>
+        }
     }
 
     toggleTranslation = () => {

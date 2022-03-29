@@ -18,9 +18,11 @@ import React from 'react';
 import ReactModal from 'react-modal';
 
 import {FcInfo} from 'react-icons/fc';
-import {FaTimes} from 'react-icons/fa';
+import {FaTimes, FaPlay} from 'react-icons/fa';
 
 import DialogueRowModalContent from './DialogueRowModalContent';
+
+import './style.scss'
 
 class DialogueRow extends React.Component {
 
@@ -29,6 +31,7 @@ class DialogueRow extends React.Component {
         this.state = {
             showTranslation: false
         }
+        this.audioRef = React.createRef();
     }
 
     render() {
@@ -43,6 +46,8 @@ class DialogueRow extends React.Component {
                         {this.props.line.text}
                         <br />
                         {this.getTextTranslationElement()}
+                        {this.createAudiobutton()}
+                        {this.createAudioElement()}
                     </p>
                 </div>
                 <ReactModal isOpen={this.state.showLineModal}
@@ -53,6 +58,22 @@ class DialogueRow extends React.Component {
                 </ReactModal>
             </div>
         );
+    }
+
+    createAudioElement = () => {
+        if (!!this.props.line.audioSource) {
+            return <audio ref={this.audioRef}>
+                <source src={this.props.line.audioSource} type="audio/ogg" />
+            </audio>
+        }
+    }
+
+    createAudiobutton = () => {
+        if (!!this.props.line.audioSource) {
+            return <span onClick={() => this.audioRef.current.play()} className="dialogue-row-audio-play-button">
+                <FaPlay />
+            </span>
+        }
     }
 
     onLineModalClick = () => {
