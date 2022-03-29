@@ -17,9 +17,48 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 @import './EditorRow/style.scss';
 
 .dialogue-editor-edit-section {
-    padding: 5px;
-    background-color: #504e4e;
-    margin-bottom: 10px;
-    margin-top: 10px;
+
+    .dialogue-editor-edit-section-audio-input {
+        text-align: left;
+        margin: 15px;
+        background-color: gray;
+        box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+
+        .audio-source-file-open-container {
+
+            position: relative;
+
+            .audio-file-input {
+                display: none;
+            }
+
+            .audio-source-file-open {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                left: 15px;
+            }
+        }
+
+        input, input:hover, input:active, input:focus-visible {
+            margin-left: 25px;
+            width: initial;
+            color: white;
+            background-color: teal;
+            border: none;
+            box-shadow: none;
+            outline: none;
+            width: 70%;
+            border-radius: 5px;
+            padding-left: 10px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        input::placeholder {
+            color: coral;
+            opacity: 1;
+        }
+    }
 }
 

@@ -51,7 +51,12 @@ class DialogueEditor extends React.Component {
                           addRow={this.addRow}
                           onChangeBase64={this.onBase64Input} />
                 <br />
-                <InputEditor lines={this.state.dialogue.lines} updateLines={this.updateLines} />
+                <InputEditor lines={this.state.dialogue.lines}
+                        updateLines={this.updateLines}
+                        audioSource={this.state.dialogue.audioSource}
+                        onAudioChange={this.onAudioChange}
+                        youtubeEmbedId={this.state.dialogue.youtubeEmbedId}
+                        onYoutubeEmbedId={this.onYoutubeEmbedId} />
                 <br />
                 <Accordion>
                     <AccordionEntry id="1" headerText={"Preview"} child={<Dialogue showFileControls={false} dialogueJson={this.state.dialogue} />}/>
@@ -65,16 +70,24 @@ class DialogueEditor extends React.Component {
         )
     }
 
+    onYoutubeEmbedId = (embedId) => {
+        let dialogue = _.cloneDeep(this.state.dialogue);
+        dialogue.youtubeEmbedId = embedId;
+        this.setState({dialogue: dialogue});
+    }
+
+    onAudioChange = (audioSource) => {
+        let dialogue = _.cloneDeep(this.state.dialogue);
+        dialogue.audioSource = audioSource;
+        this.setState({dialogue: dialogue});
+    }
+
     updateQuestions = (questions) => {
         let dialogue = this.state.dialogue;
         dialogue.questions = _.cloneDeep(questions);
         this.setState({
             dialogue: dialogue
         });
-    }
-
-    updateDialogue = (dialogue) => {
-        this.setState({dialogue: dialogue});
     }
 
     onBase64Input = (base64) => {

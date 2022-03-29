@@ -15,12 +15,19 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 export const readFile = (inputRef, callback) => {
-    const file = inputRef.current.files[0]
+    createReader(callback).readAsText(inputRef.current.files[0]);
+}
+
+export const readFileAsBase64 = (inputRef, callback) => {
+    createReader(callback).readAsDataURL(inputRef.current.files[0]);
+}
+
+const createReader = (callback) => {
     const reader = new FileReader();
     reader.addEventListener("load", () => {
         callback(reader.result);
     }, false);
-    reader.readAsText(file);
+    return reader;
 }
 
 export const downloadJson = (filename, jsObject) => {

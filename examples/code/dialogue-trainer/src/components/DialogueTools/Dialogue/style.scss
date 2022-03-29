@@ -19,8 +19,27 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 .dialogue-container {
     position: relative;
 
-    max-height: 100%;
-    padding-top: 10%;
+    max-height: 85%;
+    overflow: scroll;
+    overflow-x: hidden;
+
+    $breakpoint-tablet: 605px;
+    @media (min-height: $breakpoint-tablet) {
+        max-height: 85%;
+    }
+
+    &::-webkit-scrollbar {
+        width: 5px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: green;
+        border-radius: 20px;
+    }
+
+    &::-webkit-scrollbar-thumb:hover {
+        background: #b30000;
+    }
 }
 
 .dialogue-info-modal-bg {
@@ -51,8 +70,8 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 }
 
 .dialogue-inner-container {
-//     background-color: white;
     max-width: 800px;
+
 }
 
 .dialogue-title {
@@ -128,9 +147,27 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
         /* justify-content: center; */
         border-radius: 5px;
         min-height: 20px;
+        padding-left: 25px;
 
         .file-input {
             display:none;
+        }
+
+        .dialogue-audio-play-button {
+            position: absolute;
+            top: 50%;
+            left: 5px;
+            transform: translateY(-55%);
+            width: initial;
+            color: purple;
+        }
+
+        .dialogue-audio-play-button:hover {
+            color: #ef31ef;
+        }
+
+        .dialogue-audio-play-button:active {
+            color: #b540b5;
         }
 
         .dialogue-controls-exercise-button {

@@ -76,8 +76,27 @@ $myColor2: blue;
 
     .dialogue-text {
 
+        position: relative;
         min-height: 30px;
+        padding-right: 35px;
         box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+
+        .dialogue-row-audio-play-button {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            right: 15px;
+            width: initial;
+            color: purple;
+        }
+
+        .dialogue-row-audio-play-button:hover {
+            color: #ef31ef;
+        }
+
+        .dialogue-row-audio-play-button:active {
+            color: #b540b5;
+        }
 
         .base64-info-icon {
             font-size: 18px;

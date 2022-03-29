@@ -18,8 +18,16 @@ import React from 'react';
 import { FaPlus, FaTrashAlt } from 'react-icons/fa';
 import _ from "lodash";
 import {splitSentenceUpInWords} from "../../../../../../util/StringUtils";
+import TextareaAutosize from 'react-textarea-autosize';
+import {AiTwotoneFolderOpen} from 'react-icons/ai';
+import {readFileAsBase64} from '../../../../../../util/FileUtils';
 
 class EditorRowLineEditor extends React.Component {
+
+    constructor(props) {
+        super(props);
+        this.fileInputRef = React.createRef();
+    }
 
     render() {
 
@@ -33,10 +41,15 @@ class EditorRowLineEditor extends React.Component {
                     </div>
                     <div className="col text-start dialogue-editor-row-input">
                         <div>
-                            <textarea rows={1} type="text" {...this.getInputAttributes('Text', row.text, "text")} />
+                            <TextareaAutosize {...this.getInputAttributes('Text', row.text, "text")} />
+                        </div>
+                        <div className="dialogue-editor-audio-source-file-open-container">
+                            <AiTwotoneFolderOpen className="dialogue-editor-audio-source-file-open" onClick={() => this.fileInputRef.current.click()} />
+                            <input type='file' ref={this.fileInputRef} className="audio-file-input" onChange={() => readFileAsBase64(this.fileInputRef, (value) => this.updateOnChange("audioSource", value))} />
+                            <textarea rows={1} {...this.getInputAttributes('Audio source (ogg) as URL or chosen file', row.audioSource, "audioSource")} />
                         </div>
                         <div>
-                            <textarea rows={1} type="text" {...this.getInputAttributes('Translation', row.translation, "translation")} />
+                            <TextareaAutosize {...this.getInputAttributes('Translation', row.translation, "translation")} />
                         </div>
                     </div>
                     <div className="col-sm-1 dialogue-editor-row-controls">
@@ -53,16 +66,18 @@ class EditorRowLineEditor extends React.Component {
 
     getInputAttributes(placeholderText, value, fieldName) {
         return {
-            onChange: (e) => {
-                let row = _.cloneDeep(this.props.row);
-                row[fieldName] = e.target.value;
-                this.updateWordTranslations(this.props.row, row);
-                this.props.updateRow(this.props.id, row);
-            },
+            onChange: (e) => this.updateOnChange(fieldName, e.target.value),
             className: "form-control dialogue-editor-row-input",
             placeholder: placeholderText,
             value: value,
         };
+    }
+
+    updateOnChange = (fieldName, value) => {
+        let row = _.cloneDeep(this.props.row);
+        row[fieldName] = value;
+        this.updateWordTranslations(this.props.row, row);
+        this.props.updateRow(this.props.id, row);
     }
 
     updateWordTranslations = (oldRow, row) => {

@@ -19,6 +19,22 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
     border-radius: 5px;
     margin: 15px 5px 25px 5px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+
+    .dialogue-editor-audio-source-file-open-container {
+
+        position: relative;
+
+        .dialogue-editor-audio-source-file-open {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            left: -15px
+        }
+
+        .audio-file-input {
+            display: none;
+        }
+    }
 }
 
 .dialogue-editor-row-controls-button {
