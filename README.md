@@ -147,7 +147,22 @@ receives.
 But how can the system reward and/or punish nodes? Also, how can it punish, without realising the opposite: Motivating the node to move out of the system to no longer experience the punishment? If the system punishes, a motivation to move away starts. But if another motivation is also acting upon the node, in the opposite direction and stronger, the net result is that the node will wish to remain within the group, and act exactly as is needed to have
 the goals of the system reached.
 
-The question then becomes, what are the rewards and punishments? In what form do they come and under what circumstances?
+The question then becomes, what are the rewards and punishments? In what form do they come and under what circumstances? What should be rewarded and what should be punished?
+
+#### The What
+
+As indicated, the system has goals to achieve, in order to survive. The nodes, however have
+to act to get this done. We have to do some bookkeeping now to get an idea what the nodes
+have to do, in order for the system to achieve individual goals.
+
+#### The How
+
+But how to get the what? The way the psyche as a system gets the what done, is
+through emotions. Shame, insult, feelings of exclusion, low self esteem, etc...
+But also strong fear if the thread exists of being thrown out of the group: Group survival
+is physical survival. Here in lies also a hint for social defenses: If someone
+tries to insult you, but you don't consider them part of your clan, tribe or group,
+that individual can use anything but won't be able to make you feel insulted!
 
 ## Appendix A - Hypothesis of fast Learning
 
