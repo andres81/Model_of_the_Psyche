@@ -38,7 +38,7 @@ Another and last perspective is a physics point of view. How do human beings beh
 
 ### Psyche in the context of the physical world
 
-The physical world is the world of thermodynamics. Any system is subject to thermodynamics: [Quality of energy is lost over time](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics), in any system, in which whatever process takes place. This is the reason that any system, in order to keep going, needs energy input, otherwise it will halt or stop. 
+The physical world is the world of thermodynamics. Any system is subject to thermodynamics: [Quality of energy is lost over time](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics), in any system, in which whatever process takes place. This is the reason that any system, in order to keep going, needs energy input, otherwise it will halt or stop.
 For biological systems, this is no different. Any biological system in the context of physics, will need to retrieve energy that can be used for work. In the context of biology, this means eat or be eaten.
 If we look at the function and the goals the psyche serves, in the context of physics, we see it must serve the purpose of getting energy, or at the very least serve a system that does this. If not, the system, the organism, will simply waste more energy than it gains. Or if other systems are more energy efficient, they will more easily survive than other systems. This way the most energy efficient systems will eventually remain and the others will die out.
 
@@ -59,7 +59,7 @@ How does this relate to what the psyche does and/or is? Can the psyche be seen a
 
 #### The scope of data and information
 
-In life a person needs a lot of information. But what data becomes what information that the psyche is responsible for? Compare for instance the information from a webshop, or the location of the shopping mall or the gym. This information comes from outside, is stored in a person's memory, after which it can be retrieved for use. When a person needs this data, and that data becomes information, it travels from memory to the consciousness. 
+In life a person needs a lot of information. But what data becomes what information that the psyche is responsible for? Compare for instance the information from a webshop, or the location of the shopping mall or the gym. This information comes from outside, is stored in a person's memory, after which it can be retrieved for use. When a person needs this data, and that data becomes information, it travels from memory to the consciousness.
 
 Another path is data coming into the consciousness, from outside. Imagine walking in the forest and seeing the birds in the trees, the wind blowing through the grass. But not at any time does a person see it all at once. The data enters the psyche, but is filtered and only what is focussed on, does reach the consciousness. Here the psyche acts as an information system: Only the data that can become information is let through.
 
@@ -69,32 +69,91 @@ Different types of data and information can be distinguished. Take for example d
 
 Another type of data and information is of the social type. Social psychology has this as one of its research subjects.We take in a lot of social data, and form a model of the social situation. This model is part of the information we become conscious about. But not all information arrives in the consciousness. Part of it remains in the subconscious.Where it is used to decide how to act accordingly. Based on this information we can feel shame, guilt, happiness, love, jealousy and a whole lot more emotions and mental experiences. The question than is, who decides how to act in such a way based on the information presented to us, and why? Parts of the brain, parts of the psyche, or by our own choice?
 
+# The Thesis
 
+The big question is, how does it all fit together. How humans behave, feel, think. And why? What for? A proper model of the psyche has all these components described and come together harmoniously to become one whole. While at the same time describing how this fits in the different contexts previously discussed. If it fails for even just one, it fails to describe reality properly already.
+The question then is where to start, and how to describe it once one has arrived at a working model.
+The best start is where it all began. The early humans that lived together to survive and did not have nearly what we have. There we can find the reasons why the psyche is what it is today. But also equally important: It makes it easier to understand why it is as it is now.
 
+## Solo or together
 
+The first thing we have to identify is the fact that humans are social. But in what sense? Humans are social in the sense that they live in groups. They have relations with other people, to perform tasks, divide the work that needs to be done, and to stay safe from dangers. It is easier to survive as a group, then flying solo.
 
+We have to realise that our close cousins, the chimpanzees, do the same thing. Just like us, they  live in groups just like humans. This is different from, for example, the Orang oetan. These beautiful lovely creatures can go into the jungle and remain there for months, after which they come out and say hello. If a chimpanzee does this, it comes out batshit insane.
+Looking back at the context discussion, one has to realise, nothing comes for free, or is in existence without a reason: Thermodynamics will have it for breakfast and clean it up. So if a system is in existence, what goal does it serve?
 
+The system here, is the system that either makes the organism behave solo, like the Orang Oetan, or together as a group, like Chimpanzees or us humans. Both systems work fine, but one might be and seems more successful than the other. Whichever one is the case, the system has to be implemented in the individual organism. The system describes how the organism behaves either solo or as a member of a group, but the question is how the system is implemented: How does the individual behave the way the system describes? Physical: Moving from place to place, on a day to day basis, and long term. Biological: Mating rituals, hunting for food, survival. Social: Finding each other and finding comfort in being together: affiliation. But also working together. People have different skills and offer different skills and input to the group. Using culture to harden what was learned, and to communicate the skills and wisdom to the next generations.
 
+## The Premis
 
+With the previous as a firm basis, we are ready to move forward to the main claim: The Model of the Psyche. It will be presented as fact, and will be fully explained. It is up to the reader to reason the viability of the claim, as well as the merit.
 
+### Part I: The System
 
+Nature forces us to live in groups. It forces this by way of punishment and reward. This by the definition of power: Having power over something means, having the ability to give rewards and/or punishment to that entity. Nature has mechanisms built in to give us pain and pleasure. When we do not act according to the rules of the system, nature will give us pain to abide by the rules. So what is the system and what are the rules?
 
+The system is a group. We form a group and have a mental projection of that group in our minds. That group has to survive as a system in its contexts. Physical, biological and social. Physically it has to survive, in the form of having enough energy input. No energy means physically the system will deteriorate real quick. In a group of humans: The bodies will not survive.
 
+Biologically, it means to reproduce, to keep the gene pool healthy by way of diversity, removing the weak spots… etc. But also: Survival of the fittest.
+Socially, by keeping away from toxic and/or dangerous other groups. Protect territory, or fight for expansion. Internally keeping hierarchical bookkeeping in place. This to reward the ones you wish to keep, and possibly motivate the ones you don’t to vacate.
 
+### Part II: The Subject
 
+The subject is part of the group and subject to the system. If it wants to survive, it needs to survive in the group. If it does, it will be guaranteed of protection, food (energy input), and sexual reproduction. Here the needs of the individual are the same as of organisms that don’t live in groups. The difference is the strategy to accomplish these goals: The social animal will do this through survival within the group.
 
+It is important to realise that this way of survival is not a choice at a conscious level. Nature enforces this, and it does not allow any choice to be made to either abide or not. Because of this, nature in this context, will favour the group over the individual. This is not exposed through group decisions, although it happens, but moreover through for example the fact that both humans and chimpanzees won’t remain mentally healthy if not living with others, but instead wander alone through the forest or jungle.
 
+### Part III: The implementation
 
+But how are these two systems, the group level system and the subject level system, implemented? Where are they built, configured, and physically represented? The only place it can be residing is in the subjects themselves. Through behaviour the system exposes itself. Through behaviour the system itself is maintained, by the subjects that are subject to these systems.
 
+To start seeing the mechanisms in place, we should work with an abstraction that will leave the details behind, and try to find a description of a system, least energy intensive, that fits the description of the previously described group system. We can arrive at this model, an abstraction, by posing a problem in the form of a set of requirements for a system we are supposed to build. The problem is then, what system solves the problem of having individual nodes, work together as a group, identify as such, and maintain the group at the group level?
 
+For this lets first recap the requirements:
+
+1. The system has to be regulated and implemented through the nodes subject to it.
+2. The system has as a main purpose, to survive in the different contexts.
+
+Let us first explore the main purpose of the system. The perspective we have to use is of the system. The system will be posed with problems it needs to solve, in order to reach its goals. If we make an inventory of the problems it needs to solve, we get a better grip on the requirements that need to be fulfilled, in order to fulfil the requirement of being able to survive.
+
+1. Physical
+    1. Be healthy and strong
+2. Biological
+    1. Replenish nodes that will die eventually: Reproduction.
+    2. Only reproduce healthy new nodes: Favour the strong, healthy, skilled.
+    3. Remove weak, toxic, sick nodes to prevent unfavourable reproduction.
+3. Social
+    1. To survive socially, against other clans, tribes, groups, the group has
+       to form one front to defend in the most effective way possible.
+    2. It has to present itself as being qualitatively favourable over others
+       (status): Healthy genes are attracted residing in nodes looking for a
+       group, tribe, clan. Or to prevent healthy nodes from leaving the group.
+    3. How to maintain hierarchy, how to do the bookkeeping and align this
+       between the nodes. There needs to be a system in place and a way of
+       communicating it between the nodes of the system.
+
+It is now clear what problems the group has to overcome. Now it is time to see what mechanisms we can identify that will aid in enforcing the actions like 2.2, or 3.3. As mentioned previously, the group is maintained through the nodes. The nodes themselves implement the system and through the behaviour of nodes, the system can act. Another side to this, is that the system can also only perceive the situation through the nodes.
+
+#### Directing of nodes
+
+The only way of reaching the goals of the system is by the motivation of the individual nodes.
+If the individual nodes in the system act the right way, it will work towards reaching
+the goals of the system. But the question then is, how to motivate individual nodes
+just the right way?
+As described previously, power is described in terms of being able to reward or punish. Through reward and/or punishment, a node can be motivated to reach certain goals, or move in a certain direction. The node does not have to be aware of the goals of the system, it just
+acts in a way dictated by the net result of the total reward and punishment it
+receives.
+
+But how can the system reward and/or punish nodes? Also, how can it punish, without realising the opposite: Motivating the node to move out of the system to no longer experience the punishment? If the system punishes, a motivation to move away starts. But if another motivation is also acting upon the node, in the opposite direction and stronger, the net result is that the node will wish to remain within the group, and act exactly as is needed to have
+the goals of the system reached.
+
+The question then becomes, what are the rewards and punishments? In what form do they come and under what circumstances?
 
 ## Appendix A - Hypothesis of fast Learning
 
 ## Appendix B - Social Defenses
 
 ## Appendix C - Social Systems
-
-## 
 
 ### GNU Free Documentation License
 
