@@ -166,6 +166,29 @@ that individual can use anything but won't be able to make you feel insulted!
 
 ## Appendix A - Hypothesis of fast Learning
 
+The idea is that because we are social, and we have to survive socially in the group, we have
+to stand out, or at the very least contribute the skills and/or wisdom/knowledge to be worthwhile
+to the group. In the end you are costing energy and the group is paying the price.
+
+It is therefore important to learn fast that what is beneficial to social survival. In the end it costs also
+a lot of energy to acquire the skills or gain the knowledge/wisdom. 200_000 years ago there were no fridges
+to replenish energy. And the brain burns a lot of fuel to work and operate.
+
+These requirements can be regarded as filters and prerequisites to learn fast. The filters determine what to
+learn. The prerequisites determine if the knowledge is in the right form and the circumstances are such that
+learning will be done.
+
+Prerequisites:
+
+1. Scope: What is the model of the subject. Without a model, an abstraction, the brain cannot calculate how
+   much energy it will cost, how much work it will cost to gain the knowledge/wisdom or acquire the skill.
+   1. Clear boundaries
+   2. Clear logical explanations that make sense: Vagueness will stop the process immediately.
+2. What will it be useful for, what can the subject do with it, so that it can determine if it will benefit
+   social survival
+3. Learning goes by doing it. For languages this means understanding texts and audio. In a psychosocial context.
+
+
 ## Appendix B - Social Defenses
 
 ## Appendix C - Social Systems
