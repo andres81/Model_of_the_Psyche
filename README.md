@@ -1,9 +1,34 @@
 # Model of the Psyche
+
+* [An attempt at describing the human information system](#an-attempt-at-describing-the-human-information-system)
+* [Introduction](#introduction)
+* [The Foundation](#the-foundation)
+  * [The Context](#the-context)
+  * [Psyche in the context of the physical world](#psyche-in-the-context-of-the-physical-world)
+  * [Psyche in the context of biology](#psyche-in-the-context-of-biology)
+  * [Psyche as an Information System](#psyche-as-an-information-system)
+    * [The scope of data and information](#the-scope-of-data-and-information)
+    * [Types of data and information](#types-of-data-and-information)
+* [The Thesis](#the-thesis)
+  * [Solo or together](#solo-or-together)
+  * [The Premis](#the-premis)
+    * [Part I: The System](#part-i-the-system)
+    * [Part II: The Subject](#part-ii-the-subject)
+    * [Part III: The implementation](#part-iii-the-implementation)
+      * [Directing of nodes](#directing-of-nodes)
+      * [The What](#the-what)
+      * [The How](#the-how)
+* [TL;DR (Too Long, Didn't Read)](#tldr-too-long-didnt-read)
+  * [Architecture of the psyche](#architecture-of-the-psyche)
+    * [The consciousness](#the-consciousness)
+* [Appendix A - Hypothesis of fast Learning](#appendix-a---hypothesis-of-fast-learning)
+* [Appendix B - Social Defenses](#appendix-b---social-defenses)
+* [Appendix C - Social Systems](#appendix-c---social-systems)
+* [GNU Free Documentation License](#gnu-free-documentation-license)
+
 ## An attempt at describing the human information system
 
 #### By André Schepers
-
-<br />
 
 Copyright (C)  2022  André Schepers.<br />
 Permission is granted to copy, distribute and/or modify this document<br />
@@ -69,13 +94,13 @@ Different types of data and information can be distinguished. Take for example d
 
 Another type of data and information is of the social type. Social psychology has this as one of its research subjects.We take in a lot of social data, and form a model of the social situation. This model is part of the information we become conscious about. But not all information arrives in the consciousness. Part of it remains in the subconscious.Where it is used to decide how to act accordingly. Based on this information we can feel shame, guilt, happiness, love, jealousy and a whole lot more emotions and mental experiences. The question than is, who decides how to act in such a way based on the information presented to us, and why? Parts of the brain, parts of the psyche, or by our own choice?
 
-# The Thesis
+## The Thesis
 
 The big question is, how does it all fit together. How humans behave, feel, think. And why? What for? A proper model of the psyche has all these components described and come together harmoniously to become one whole. While at the same time describing how this fits in the different contexts previously discussed. If it fails for even just one, it fails to describe reality properly already.
 The question then is where to start, and how to describe it once one has arrived at a working model.
 The best start is where it all began. The early humans that lived together to survive and did not have nearly what we have. There we can find the reasons why the psyche is what it is today. But also equally important: It makes it easier to understand why it is as it is now.
 
-## Solo or together
+### Solo or together
 
 The first thing we have to identify is the fact that humans are social. But in what sense? Humans are social in the sense that they live in groups. They have relations with other people, to perform tasks, divide the work that needs to be done, and to stay safe from dangers. It is easier to survive as a group, then flying solo.
 
@@ -84,11 +109,11 @@ Looking back at the context discussion, one has to realise, nothing comes for fr
 
 The system here, is the system that either makes the organism behave solo, like the Orang Oetan, or together as a group, like Chimpanzees or us humans. Both systems work fine, but one might be and seems more successful than the other. Whichever one is the case, the system has to be implemented in the individual organism. The system describes how the organism behaves either solo or as a member of a group, but the question is how the system is implemented: How does the individual behave the way the system describes? Physical: Moving from place to place, on a day to day basis, and long term. Biological: Mating rituals, hunting for food, survival. Social: Finding each other and finding comfort in being together: affiliation. But also working together. People have different skills and offer different skills and input to the group. Using culture to harden what was learned, and to communicate the skills and wisdom to the next generations.
 
-## The Premis
+### The Premis
 
 With the previous as a firm basis, we are ready to move forward to the main claim: The Model of the Psyche. It will be presented as fact, and will be fully explained. It is up to the reader to reason the viability of the claim, as well as the merit.
 
-### Part I: The System
+#### Part I: The System
 
 Nature forces us to live in groups. It forces this by way of punishment and reward. This by the definition of power: Having power over something means, having the ability to give rewards and/or punishment to that entity. Nature has mechanisms built in to give us pain and pleasure. When we do not act according to the rules of the system, nature will give us pain to abide by the rules. So what is the system and what are the rules?
 
@@ -97,13 +122,13 @@ The system is a group. We form a group and have a mental projection of that grou
 Biologically, it means to reproduce, to keep the gene pool healthy by way of diversity, removing the weak spots… etc. But also: Survival of the fittest.
 Socially, by keeping away from toxic and/or dangerous other groups. Protect territory, or fight for expansion. Internally keeping hierarchical bookkeeping in place. This to reward the ones you wish to keep, and possibly motivate the ones you don’t to vacate.
 
-### Part II: The Subject
+#### Part II: The Subject
 
 The subject is part of the group and subject to the system. If it wants to survive, it needs to survive in the group. If it does, it will be guaranteed of protection, food (energy input), and sexual reproduction. Here the needs of the individual are the same as of organisms that don’t live in groups. The difference is the strategy to accomplish these goals: The social animal will do this through survival within the group.
 
 It is important to realise that this way of survival is not a choice at a conscious level. Nature enforces this, and it does not allow any choice to be made to either abide or not. Because of this, nature in this context, will favour the group over the individual. This is not exposed through group decisions, although it happens, but moreover through for example the fact that both humans and chimpanzees won’t remain mentally healthy if not living with others, but instead wander alone through the forest or jungle.
 
-### Part III: The implementation
+#### Part III: The implementation
 
 But how are these two systems, the group level system and the subject level system, implemented? Where are they built, configured, and physically represented? The only place it can be residing is in the subjects themselves. Through behaviour the system exposes itself. Through behaviour the system itself is maintained, by the subjects that are subject to these systems.
 
@@ -134,7 +159,7 @@ Let us first explore the main purpose of the system. The perspective we have to 
 
 It is now clear what problems the group has to overcome. Now it is time to see what mechanisms we can identify that will aid in enforcing the actions like 2.2, or 3.3. As mentioned previously, the group is maintained through the nodes. The nodes themselves implement the system and through the behaviour of nodes, the system can act. Another side to this, is that the system can also only perceive the situation through the nodes.
 
-#### Directing of nodes
+##### Directing of nodes
 
 The only way of reaching the goals of the system is by the motivation of the individual nodes.
 If the individual nodes in the system act the right way, it will work towards reaching
@@ -149,13 +174,13 @@ the goals of the system reached.
 
 The question then becomes, what are the rewards and punishments? In what form do they come and under what circumstances? What should be rewarded and what should be punished?
 
-#### The What
+##### The What
 
 As indicated, the system has goals to achieve, in order to survive. The nodes, however have
 to act to get this done. We have to do some bookkeeping now to get an idea what the nodes
 have to do, in order for the system to achieve individual goals.
 
-#### The How
+##### The How
 
 But how to get the what? The way the psyche as a system gets the what done, is
 through emotions. Shame, insult, feelings of exclusion, low self esteem, etc...
@@ -163,6 +188,82 @@ But also strong fear if the thread exists of being thrown out of the group: Grou
 is physical survival. Here in lies also a hint for social defenses: If someone
 tries to insult you, but you don't consider them part of your clan, tribe or group,
 that individual can use anything but won't be able to make you feel insulted!
+
+## TL;DR (Too Long, Didn't Read)
+
+The Model Of The Psyche proposed, consists of an architecture, a legitimisation of why nature would favour this
+architecture and how this architecture causes the experiences humans have.
+
+### Architecture of the psyche
+
+The architecture consists of three layers:
+
+1. [The consciousness](#the-conscious)
+2. [The emotional barrier](#the-emotional-barrier)
+3. [The subconscious](#the-subconscious)
+   1. [Control layer](#control-layer)
+      * [Data Management Component (I/O)](#data-management-component-io)
+      * [The Overseer Component](#the-overseer-component)
+   2. [Data layer](#data-layer)
+
+#### The Conscious
+
+The conscious part of the psyche is where someone thinks, is aware of the thoughts experienced, and resides the
+experience of the [illusion of free will](#appendix-d---illusion-of-free-will-the-only-choice-you-really-have).
+Furthermore it is the subject of the emotion. the choice is to give in to an emotion, that can be rewarding or
+punishing, in the form of choosing a certain behaviour. For example, seeing a chocolate chip cookie on the table, choose
+to pick it up and eat it, which is behaviour that will give a positive feeling from the chocolate. A reward.
+
+But if it is a cookie owned by someone else, then other emotions are looming to kick in: Shame, guilt, fear of
+repercussions... etc.
+
+#### The Emotional Barrier
+
+The emotional barrier forms a cliff between the conscious and the subconscious. Through emotions the subconscious
+communicates to the subconscious what it wants. But as is abundantly clear, emotions are not restricted to communicating
+information. They also reward and punish, which are vectors (force with a direction) in themselves to move an individual
+towards a certain behaviour.
+
+#### The Subconscious
+
+The subconscious is responsible for keeping the individual alive. It works according to a fixed set of rules. It does
+not change these rules, which deviates from the way the conscious works:
+[Attitudes](https://en.wikipedia.org/wiki/Attitude_(psychology)#Structure) and
+[Schema](https://www.britannica.com/science/schema-cognitive).
+Using attitudes (opinions) and knowledge structures (facts about the world) the person describes and reasons about the
+world. Based on that the conscious makes (rational) decisions.
+The subconscious however works always the same, for every human being in no other way. But the data it acts upon, can
+differ, and therefore is the reason for a different outcome of how a person acts and feels.
+
+##### Data Layer
+
+The subconscious therefore holds a library of knowledge in the form of schematas, that are semantically linked to each
+other: Think of a tree, you think of its branches, then its leaves, then the colors they can have in its season. Then a
+forest, the childhood memories of walking through the forest, a picnic, seeing what you saw...
+This library is in the bottom layer of the psyche: the data layer.
+
+##### Control layer
+
+The control layer is the layer in the subconscious that holds several components with different responsibilities.
+
+###### Data Management Component (I/O)
+
+Right on top of the data layer resides the data management layer. It is responsible for maintaining the data, and
+keeping it all congruent. If data is not congruent between each other, it will be escalated to the conscious. See for
+example the impossible [staircase](https://en.wikipedia.org/wiki/Penrose_stairs).
+
+It also rigorously checks the facts that are incoming, but does this not like a scientist. If information comes from a
+source with high status, it will be regarded more easily as fact then when it comes dropping out of the sky.
+
+###### The Overseer Component
+
+The overseer component (for a lack of a better naming) checks the situation perceived by the individual continuously as
+well as the data stored. It is responsible for the emotions and triggering instincts if it deems so necessary.
+
+### Explanation of the perceived emotions with the proposed architecture
+
+Emotions can be seen then as communications and forces put on the subject, by the overseer. But the question then still
+remains why what emotions when.
 
 ## Appendix A - Hypothesis of fast Learning
 
@@ -193,7 +294,11 @@ Prerequisites:
 
 ## Appendix C - Social Systems
 
-### GNU Free Documentation License
+## Appendix D - Illusion of Free Will (the only choice you really have)
+
+Start with this: [One of my heroes: Sean carroll](https://www.youtube.com/watch?v=x26a-ztpQs8)
+
+# GNU Free Documentation License
 
 Version 1.3, 3 November 2008
 
