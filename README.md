@@ -235,13 +235,6 @@ world. Based on that the conscious makes (rational) decisions.
 The subconscious however works always the same, for every human being in no other way. But the data it acts upon, can
 differ, and therefore is the reason for a different outcome of how a person acts and feels.
 
-##### Data Layer
-
-The subconscious therefore holds a library of knowledge in the form of schematas, that are semantically linked to each
-other: Think of a tree, you think of its branches, then its leaves, then the colors they can have in its season. Then a
-forest, the childhood memories of walking through the forest, a picnic, seeing what you saw...
-This library is in the bottom layer of the psyche: the data layer.
-
 ##### Control layer
 
 The control layer is the layer in the subconscious that holds several components with different responsibilities.
@@ -259,6 +252,13 @@ source with high status, it will be regarded more easily as fact then when it co
 
 The overseer component (for a lack of a better naming) checks the situation perceived by the individual continuously as
 well as the data stored. It is responsible for the emotions and triggering instincts if it deems so necessary.
+
+##### Data Layer
+
+The subconscious therefore holds a library of knowledge in the form of schematas, that are semantically linked to each
+other: Think of a tree, you think of its branches, then its leaves, then the colors they can have in its season. Then a
+forest, the childhood memories of walking through the forest, a picnic, seeing what you saw...
+This library is in the bottom layer of the psyche: the data layer.
 
 ### Explanation of the perceived emotions with the proposed architecture
 
