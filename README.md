@@ -262,8 +262,24 @@ This library is in the bottom layer of the psyche: the data layer.
 
 ### Explanation of the perceived emotions with the proposed architecture
 
-Emotions can be seen then as communications and forces put on the subject, by the overseer. But the question then still
-remains why what emotions when.
+Emotions can be seen then as communication with and forces put upon the subject, by the overseer. But the question then
+still remains why what emotions when.
+
+Emotions to put in context:
+
+* Embarrassment
+* Shame
+* Guilt
+* Aggression
+* Anger
+* Insult
+
+The idea of the model of the psyche put forward in this piece if insanely beautifully written proza, is that the only
+reason is preservation of status within a social context. In which the social context should be seen as the group, tribe
+or clan we live in. A group, tribe or clan is nothing more than an organisational structure. It is what is projected
+onto it, that makes it a dynamic system that continuously is monitored by the overseer to check ones status. The status
+within a group is a measure of how important a subject is to the organisation. This way the tribe, clan or group
+has a system in place, to do some bookkeeping on who to keep and who to loose.
 
 ## Appendix A - Hypothesis of fast Learning
 
