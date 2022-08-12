@@ -241,12 +241,19 @@ The control layer is the layer in the subconscious that holds several components
 
 ###### Data Management Component (I/O)
 
-Right on top of the data layer resides the data management layer. It is responsible for maintaining the data, and
-keeping it all congruent. If data is not congruent between each other, it will be escalated to the conscious. See for
-example the impossible [staircase](https://en.wikipedia.org/wiki/Penrose_stairs).
+Right on top of the data layer resides the data management layer, accompanied by the overseer component. It is
+responsible for maintaining the data, and keeping it all congruent. If data is not congruent between each other, it will
+be escalated to the conscious. See for example the impossible [staircase](https://en.wikipedia.org/wiki/Penrose_stairs).
 
 It also rigorously checks the facts that are incoming, but does this not like a scientist. If information comes from a
-source with high status, it will be regarded more easily as fact then when it comes dropping out of the sky.
+source with high status, it will be regarded more easily as fact then when it comes dropping out of the sky. But it will
+also compare it with existing data already stored. If new data implies a new truth that is proven to be more true, that
+will be stored. This is important to understand: No one, not the subject itself, nor outsiders, with malevolent intent
+or not, can change data anymore if not given data that is giving a higher truth. This will be thoroughly explored later
+and in depth explained. Because of this it is possible to become immune to manipulation or at the least be much better
+equipped against manipulation like marketing, social media or even bullying at schools! For this we will use vector
+spaces and individual dimensions to separate different types of data and subsequent understandings of the world we live
+in.
 
 ###### The Overseer Component
 
@@ -279,7 +286,7 @@ reason is preservation of status within a social context. In which the social co
 or clan we live in. A group, tribe or clan is nothing more than an organisational structure. It is what is projected
 onto it, that makes it a dynamic system that continuously is monitored by the overseer to check ones status. The status
 within a group is a measure of how important a subject is to the organisation. This way the tribe, clan or group
-has a system in place, to do some bookkeeping on who to keep and who to loose.
+has a system in place, to do some bookkeeping on who to keep and who to lose.
 
 ## Appendix A - Hypothesis of fast Learning
 
