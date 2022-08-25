@@ -241,12 +241,12 @@ world. Based on that the conscious makes (rational) decisions.
 The subconscious however works always the same, for every human being in no other way. But the data it acts upon, can
 differ, and therefore is the reason for a different outcome of how a person acts and feels.
 
-    If this premis is true, the premis that states that just like a human physical body works
-    the same for everybody and that only the data it acts upon can differ and is the reason for
-    differences in behaviour, it implies an opportunity to manipulate behaviour, by only
-    changing the data a person has at its disposal. Because the behaviour is controlled by
-    emotions, it implies also, that emotions can be manipulated with the right data given to a
-    subject.
+    If this premis is true, the premis that states that just like a human physical body, the
+    subconscious works the same for everybody, and that only the data it acts upon can differ
+    and is the reason for differences in behaviour, it implies an opportunity to manipulate
+    behaviour, by only changing the data a person has at its disposal. Because the behaviour
+    is controlled by emotions, it implies also, that emotions can be manipulated with the
+    right data given to a subject.
 
 ##### Control layer
 
