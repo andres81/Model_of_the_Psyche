@@ -304,7 +304,13 @@ Different dimensions can describe the worthiness of a subject to a social group.
 worthiness determines the status attributed to that person. The higher the status, the more that
 person is important to the group, and the more incentive there is to keep the person in the group.
 
-
+One should not forget that worthiness to the group and status within the group, are two different
+things. Although related and one causes the other, because they are different, they can be communicated
+separately. The status of an individual can be communicated by the group to members, without those same members
+perceiving the worthiness of the individual with that status. The status of an individual can therefore have different
+values within the group at the same time. It is subject to the perception of the members of the group.<br />
+And the question is what wins: The own perception, the status communicated, and what does it cause within the subject?
+Cognitive dissonance? Anger? Frustration?
 
 ## Appendix A - Hypothesis of fast Learning
 
