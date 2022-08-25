@@ -20,7 +20,13 @@
       * [The How](#the-how)
 * [TL;DR (Too Long, Didn't Read)](#tldr-too-long-didnt-read)
   * [Architecture of the psyche](#architecture-of-the-psyche)
-    * [The consciousness](#the-consciousness)
+    * [The consciousness](#the-conscious)
+    * [The emotional barrier](#the-emotional-barrier)
+    * [The subconscious](#the-subconscious)
+      1. [Control layer](#control-layer)
+          * [Data Management Component (I/O)](#data-management-component-io)
+          * [The Overseer Component](#the-overseer-component)
+      2. [Data layer](#data-layer)
 * [Appendix A - Hypothesis of fast Learning](#appendix-a---hypothesis-of-fast-learning)
 * [Appendix B - Social Defenses](#appendix-b---social-defenses)
 * [Appendix C - Social Systems](#appendix-c---social-systems)
@@ -235,6 +241,13 @@ world. Based on that the conscious makes (rational) decisions.
 The subconscious however works always the same, for every human being in no other way. But the data it acts upon, can
 differ, and therefore is the reason for a different outcome of how a person acts and feels.
 
+    If this premis is true, the premis that states that just like a human physical body works
+    the same for everybody and that only the data it acts upon can differ and is the reason for
+    differences in behaviour, it implies an opportunity to manipulate behaviour, by only
+    changing the data a person has at its disposal. Because the behaviour is controlled by
+    emotions, it implies also, that emotions can be manipulated with the right data given to a
+    subject.
+
 ##### Control layer
 
 The control layer is the layer in the subconscious that holds several components with different responsibilities.
@@ -287,6 +300,11 @@ or clan we live in. A group, tribe or clan is nothing more than an organisationa
 onto it, that makes it a dynamic system that continuously is monitored by the overseer to check ones status. The status
 within a group is a measure of how important a subject is to the organisation. This way the tribe, clan or group
 has a system in place, to do some bookkeeping on who to keep and who to lose.
+Different dimensions can describe the worthiness of a subject to a social group. The perceived
+worthiness determines the status attributed to that person. The higher the status, the more that
+person is important to the group, and the more incentive there is to keep the person in the group.
+
+
 
 ## Appendix A - Hypothesis of fast Learning
 
