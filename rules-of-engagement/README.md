@@ -19,7 +19,7 @@ people, that didn't make it possible to have a successful meeting that could be
 described as fruitful. However, this framework not only promises to give one the
 tools to be effective and successful, but moreover become immune to psychosocial
 attacks, exclusion, confusion and frustration and a lot more negative
-experiences. Trust the author, he is a professional (in what...? BS-ing?).
+experiences.
 
 The framework consists of a set of layers. The highest layer is layer 1. The
 deeper you go, layer after layer that you descent, the higher the number of the
@@ -36,7 +36,7 @@ reader: The world of phenomena we call reality. (And yes... read that book
 The minimal situation can be described as a situation that cannot be simplified
 more. But in addition, it is a situation that serves to reach certain goals for
 a person, of which the person is fully aware. If it is not useful for a person
-in any possible way, it is simply a situation.
+to reach any particular goal, it is simply a situation.
 
 The requirements to call a situation a minimal situation:
 
@@ -46,32 +46,40 @@ The requirements to call a situation a minimal situation:
 3. It cannot be simplified further, or be consisting of fewer characteristics, 
    without losing the functionality for the participant to reach a certain set
    of goals.
-4. It is a situation with other participants: People, entities, AI... 
-   Any intelligent, engaging party present and part of the situation.
+4. It is a situation with other people, where one is dependent on those people
+   in that same situation.
 
 ### Examples of the Minimal Situation
 
 1. Sitting in a bus.
    <br />
    This situation is to start with nothing but a situation: A concept relating
-   to a position (location) or a set of circumstances. The reason is that the
-   person in the bus is not in a situation with others, to reach any goal. The
+   to a position (location) or a set of circumstances. But not necessarily
+   a minimal situation if only looking at the location and the people in the bus
+   other than the bus driver. The reason is that the
+   person in the bus is not in a situation with the other passengers, to reach any goal. The
    only goal of being in the bus, is to go from point A to B. But the person
-   does not need any other person in that bus to reach that goal. The only
+   does not need any other passenger in that bus to reach that goal. The only
    person, that is needed, is the bus driver. With the bus driver the person
-   does share a minimal situation. If for example one of the other travelers,
-   asks our main character, a question, let's say about the weather, there is
-   still no minimal situation: What goal is there to reach for the person asked.
-   Not necessarily any goal. One could think of being polite, which relates to
-   maintaining social status or gaining it, obtaining a more positive self
-   image or even the thought of gaining positive karma. But those are optional
-   goals. The person has a choice, because of being doomed to freedom, to not
-   see any goal to reach, and therefore leaving the situation of being asked by
-   a stranger in the bus, for what it is: Being asked and totally ignoring these
+   does share a minimal situation. The person needs the bus driver to drive the
+   bus to the destination the person wishes to get to. The bus driver expects
+   certain things from the passenger: Obey the house rules, pressing the stop
+   button in time and clearly communicate when there is a question for example.
+   On the other hand, if one of the other travelers, asks the person, a
+   question, let's say about the weather, there is still no minimal situation:
+   What goal is there to reach for the person asked. Not necessarily any goal.
+   One could think of being polite, which relates to
+   maintaining social status or gaining it, obtaining a more positive self-image
+   or even the thought of gaining positive karma. But those are optional goals.
+   The person has a choice, to not see any
+   goal to reach, and therefore leaving the situation of being asked by a
+   stranger in the bus, for what it is: Being asked and totally ignoring these
    events. Socially, one might consider this rude, and inappropriate. But those
    are rules in a social context. One must clearly see the freedom to choose
    here: Do I engage or not, do I consider the situation a minimal situation or
-   just a situation.
+   just a situation. The reader will recognise hopefully the freedom that now
+   comes to light. The freedom in that one can choose between going from the
+   situation one is in, the passenger with fellow passengers in the bus, 
 
 
 2. Being in public places
@@ -316,7 +324,7 @@ when one is traveling to an event, where one does try to communicate with the
 persons at the event, by way of these clothes, but not to the people that person
 encounters on the way to that particular event.
 
-## Appendix C: Applying these rules in the context of Social Defenses
+## Appendix D: Applying these rules in the context of Social Defenses
 
 Humans are social in nature, but at the same time not bound to only acting
 socially. There are a lot of emotions hinging on our social functioning and the
@@ -330,7 +338,54 @@ in nature? And if not, how do social defenses relate to them?
 
 ## Appendix F: Implications of a (mathematical) Model of the Psyche
 
+## Appendix G: Practical instructions
 
+Do yourself a favour and revisit the Matrix, to then realise it is not a
+physical world matrix that is tried to be conveyed, but instead a social Matrix,
+that one needs to be Red Pilled from. It is the set of social constructs, one
+believes in, to be true, deterministic in nature, and inescapable, that causes
+hell. Wasn't it Sartre who said: ["Hell is other people"](https://en.wikipedia.org/wiki/No_Exit)?
+
+Instead, free yourself by realising, you choose to be with "other people"
+in the
+same room, where the "room" here is a set of social constructs. Just choose no,
+[choose not to choose li...](https://en.wikipedia.org/wiki/Trainspotting_(film))
+the social construct: "I'm not part of that other
+person's tribe, clan or social group, nor is that other person part of my tribe,
+clan or social group." The first resistance comes in the form of your
+subconscious, that will immediately check if you are sure, by giving the subtle
+counterargument in the form of a rhetorical question: Aren't we (the subconscious
+and you, the soul, the awareness, the nothingness), socially dependent on that
+other person? (Which is exactly that social matrix one needs to be Red Pilled
+from)
+
+No! The starting point is a situation, that can become a minimal situation. From
+there a minimal social situation. But to function in society, work, eat, sleep,
+be included, one can suffice by choosing nothing but at the most a minimal
+situation. Not ever is a minimal social situation desired, nor should one feel
+forced to upgrade a minimal situation to a social one: "Why do you act so anti
+social", "Why are you ignoring me", "Why are you so rude". Instead: "Im just
+here to get my groceries", "Im here to do my job, not to make friends", "You're
+the police officer being paid to do your job, I'm not being paid to have a
+social conversation with you now, so what do you want otherwise I'm gone."
+
+The inclination of conforming to social rituals and unwritten rules, finds its
+roots in the fear of being kicked out of the tribe, clan or social group which
+is no longer present. When we were still living in groups of hundreds of people
+we needed to survive socially in the group to survive as an individual. You
+abide by the rules, or you would get lower status, which would act as a
+mechanism to keep track who to keep and who to ditch. But, in modern day
+society, we don't survive as a group anymore. We are dealing instead with an
+information system. Each and every person has equal base rights, and a number:
+The infamous social security number. Roles still exist, and a role can be
+privileged, but not the human being fulfilling a role in society.
+Your social status does not determine whether you have access to healthcare or
+the public library, or education. Although people might form social groups
+anyway, and try to convince people that social status is a prerequisite to be
+able to use services or utilities offered by society. By way of proxy they are
+in between the good intention of social system builders that describe and advise
+the use of said services and utilities, and the consumer, the member of society
+for which the services and utilities are meant.
 
 
 # Random BS to think about, that could potentially evolve into something useful to someone
