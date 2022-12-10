@@ -373,20 +373,43 @@ The inclination of conforming to social rituals and unwritten rules, finds its
 roots in the fear of being kicked out of the tribe, clan or social group which
 is no longer present. When we were still living in groups of hundreds of people
 we needed to survive socially in the group to survive as an individual. You
-abide by the rules, or you would get lower status, which would act as a
+abide by the rules, or you would get lower social status, which would act as a
 mechanism to keep track who to keep and who to ditch. But, in modern day
 society, we don't survive as a group anymore. We are dealing instead with an
 information system. Each and every person has equal base rights, and a number:
 The infamous social security number. Roles still exist, and a role can be
 privileged, but not the human being fulfilling a role in society.
 Your social status does not determine whether you have access to healthcare or
-the public library, or education. Although people might form social groups
+the public library, or education.<br />
+
+Although people might form social groups
 anyway, and try to convince people that social status is a prerequisite to be
 able to use services or utilities offered by society. By way of proxy they are
 in between the good intention of social system builders that describe and advise
 the use of said services and utilities, and the consumer, the member of society
-for which the services and utilities are meant.
+for which the services and utilities are meant. Isn't this a form of bad faith
+of these proxy people? Of course! They deny the freedom they have to not do
+this, and the freedom to do this which comes at a price: It is morally
+deplorable and unethical because it deprives in the worst case scenario people
+from using the services and utilities of society.
+<br />
+Another side effect this proxy creating behaviours might have, is that consumers
+might start projecting these proxies further than that context: Projecting a
+social situation over the whole of society. This is even worse: The instinctive
+survival mechanisms to survive socially, shame, guilt, insult you name it, start
+becoming active in situations with complete strangers. These strangers are of
+course not part of an individuals social context, but what does one expect if
+the ambiguity is presented by society and even perpetuated... Bad faith!
 
+But, understanding this does not help in any way the consumers. Instead, the
+only way to deal with this bad faith proxy people, is not putting in place
+policing systems, but instead realise, that consumers themselves, can choose
+not to engage in the act of social interaction: Not choosing even the minimal
+social situation, but instead only the minimal situation. This way, proxies
+won't work for they are not consumed by the consumer of the services and
+utilities. Realising that one is never dependent on (minimal) social situations,
+but at the most minimal situations, is the realisation that is the Red Pilling
+from the social matrix.
 
 # Random BS to think about, that could potentially evolve into something useful to someone
 
