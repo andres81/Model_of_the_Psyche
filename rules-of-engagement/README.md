@@ -28,8 +28,35 @@ and not having to update all those numbers everytime he does that, but it also
 is an indication of the difficulty level of processing and dealing with that
 particular layer.
 Each layer is an addition to the understanding of what you're dealing with as a
-reader: The world of phenomena we call reality. (And yes... read that book
-"L'Être et le Néant").
+reader: The world of phenomena we call reality.
+
+## Social System
+
+A set(s) of social constructs and a description of how they relate to each 
+other and the ideology behind these complete whole.
+
+## The Situation
+
+To take a [quote](https://en.wikipedia.org/wiki/Situation_(Sartre)) of 
+Sartre as an introduction:
+
+    there is freedom only in a situation, and there is a situation only 
+    through freedom...
+
+### Degrees of Freedom in a Situation
+
+What are the degrees of freedom of a person in a given situation? How does
+that affect the person (emotionally, psychologically, its perception... etc).
+
+#### Place
+
+A person can walk, run, swim, collectively called moving in a situation or not.
+It is the freedom described by Sartre already in his piece L'Être et le Neant.
+You are born where you are born, if you are the lawyer in the office, the 
+mountain disappears into being just part of the world, not as it appears to 
+Paul when he has the freedom to choose to climb it or not.
+Important here is to understand Sartre's description of place, and how it 
+relates to freedom.
 
 ## Minimal Situation
 
@@ -51,67 +78,81 @@ The requirements to call a situation a minimal situation:
 
 ### Examples of the Minimal Situation
 
-1. Sitting in a bus.
-   <br />
-   This situation is to start with nothing but a situation: A concept relating
-   to a position (location) or a set of circumstances. But not necessarily
-   a minimal situation if only looking at the location and the people in the bus
-   other than the bus driver. The reason is that the
-   person in the bus is not in a situation with the other passengers, to reach any goal. The
-   only goal of being in the bus, is to go from point A to B. But the person
-   does not need any other passenger in that bus to reach that goal. The only
-   person, that is needed, is the bus driver. With the bus driver the person
-   does share a minimal situation. The person needs the bus driver to drive the
-   bus to the destination the person wishes to get to. The bus driver expects
-   certain things from the passenger: Obey the house rules, pressing the stop
-   button in time and clearly communicate when there is a question for example.
-   On the other hand, if one of the other travelers, asks the person, a
-   question, let's say about the weather, there is still no minimal situation:
-   What goal is there to reach for the person asked. Not necessarily any goal.
-   One could think of being polite, which relates to
-   maintaining social status or gaining it, obtaining a more positive self-image
-   or even the thought of gaining positive karma. But those are optional goals.
-   The person has a choice, to not see any
-   goal to reach, and therefore leaving the situation of being asked by a
-   stranger in the bus, for what it is: Being asked and totally ignoring these
-   events. Socially, one might consider this rude, and inappropriate. But those
-   are rules in a social context. One must clearly see the freedom to choose
-   here: Do I engage or not, do I consider the situation a minimal situation or
-   just a situation. The reader will recognise hopefully the freedom that now
-   comes to light. The freedom in that one can choose between going from the
-   situation one is in, the passenger with fellow passengers in the bus, 
+#### Sitting in a bus.
+
+This situation is to start with, nothing but a situation: A concept relating 
+to a position (location) or a set of circumstances. But not necessarily a 
+minimal situation if only looking at the location and the people in the bus
+other than the bus driver. The reason is that the person in the bus is not 
+in a situation with the other passengers, to reach any goal. The only goal 
+of being in the bus, is to go from point A to B. But the person
+does not need any other passenger in that bus to reach that goal. The only
+person, that is needed, is the bus driver. With the bus driver the person
+does share a minimal situation. The person needs the bus driver to drive the
+bus to the destination the person wishes to get to. The bus driver expects
+certain things from the passenger: Obey the house rules, pressing the stop
+button in time and clearly communicate when there is a question for example.
+On the other hand, if one of the other travelers, asks the person a
+question, let's say about the weather, there is still no minimal situation:
+What goal is there to reach for the person asked. Not necessarily any goal.
+One could think of being polite, which relates to
+maintaining social status or gaining it, obtaining a more positive self-image
+or even the thought of gaining positive karma. But those are optional goals.
+The person has a choice, to not see any
+goal to reach, and therefore leaving the situation of being asked by a
+stranger in the bus, for what it is: Being asked and totally ignoring these
+events. Socially, one might consider this rude, and inappropriate. But those
+are rules in a social context. One must clearly see the freedom to choose
+here: Do I engage or not, do I consider the situation a minimal situation or
+just a situation. The reader will recognise hopefully the freedom that now
+comes to light. The freedom in that one can choose between going from the
+situation one is in, the passenger with fellow passengers in the bus, to a
+minimal situation, and from there even to a minimal social situation.
 
 
-2. Being in public places
-   <br />
-   When in a shop, government building, education institute or whatever place
-   that can be considered a public place, one is physically in the same place.
-   However, every person is reaching their own individual goals. These goals
-   might be the same in their nature, but they evolve separately and
-   independent of other people in that situation.
+#### Being in public places
+
+When in a shop, government building, education institute or whatever place
+that can be considered a public place, one is physically in the same place.
+However, every person is reaching their own individual goals, which are 
+merely limited by what that public place offers in terms of what it offers, 
+and what it allows in the form of behavior of persons in that place.
+
+In a library you can sit together, but you have no dependency on other 
+persons, if you wish to read a book there, or just sit there to look at 
+people ( if that makes you happy ).
+
+The only minimal situation, is with the people that work there, that you 
+need to reach your goals. If you look for a book and can't find it, you ask 
+a worker of the library. Same, when you can't figure out how computers work 
+that you wish to use to find information. The situation that starts the 
+moment a person engages a worker, is then a minimal situation. The worker is 
+meant to engage in a minimal situation, the worker is for example tasked to 
+help persons. But another worker, there for maintenance, can opt out of 
+entering a minimal situation: That worker is not paid to help persons.
 
 
-3. Being in a meeting
-   <br />
-   What is the minimal situation in a meeting? The goal of a meeting is
-   dependent on what the goal is of each individual. What is clear, from the
-   definition of a meeting, is that participants of that meeting will discuss
-   with each other.
-   Therefore, the goals might involve to increase skills of persuasion, to
-   debate or to agree on a certain subject. The reason to be there might be as
-   trivial as to not get in trouble because a person is simply expected to be
-   there.
-   From the point of view of the participant, the minimal situation is nothing
-   but getting together and at the very least witness a discussion and
-   optionally partaking in discussions if that aids in reaching the individuals
-   goals.
+##### Being in a meeting
 
-   Ask yourself these questions:
-   a. Are you dependent on others?
-   b. Are your goals of the meeting a necessary incentive to act in such a way
-   to make people act the way you think they need to for you to be able to
-   reach your goals?
-   c.
+What is the minimal situation in a meeting? The goal of a meeting is
+dependent on what the goal is of each individual. What is clear, from the
+definition of a meeting, is that participants of that meeting will discuss
+with each other.
+Therefore, the goals might involve to increase skills of persuasion, to
+debate or to agree on a certain subject. The reason to be there might be as
+trivial as to not get in trouble because a person is simply expected to be
+there.
+From the point of view of the participant, the minimal situation is nothing
+but getting together and at the very least witness a discussion and
+optionally partaking in discussions if that aids in reaching the individuals
+goals.
+
+Ask yourself these questions:
+a. Are you dependent on others?
+b. Are your goals of the meeting a necessary incentive to act in such a way
+to make people act the way you think they need to for you to be able to
+reach your goals?
+c.
 
 ## Layer 1: Rules of Engagement
 
