@@ -1,0 +1,58 @@
+databaseChangeLog:
+  - changeSet:
+      id: 0002-1
+      author: André
+      changes:
+        - createTable:
+            tableName: line_word
+            columns:
+              - column:
+                  name: id
+                  type: UUID
+                  constraints:
+                    primaryKey:  true
+                    nullable:  false
+              - column:
+                  name: version
+                  type: BIGINT
+              - column:
+                  name: index
+                  type: INT
+              - column:
+                  name: word_id
+                  type: UUID
+              - column:
+                  name: line_id
+                  type: UUID
+        - createTable:
+            tableName: word
+            columns:
+              - column:
+                  name: id
+                  type: UUID
+                  constraints:
+                    primaryKey:  true
+                    nullable:  false
+              - column:
+                  name: version
+                  type: BIGINT
+              - column:
+                  name: word
+                  type: TEXT
+              - column:
+                  name: word_sha_sum
+                  type: VARCHAR(512)
+        - addForeignKeyConstraint:
+            baseColumnNames: word_id
+            baseTableName: line_word
+            constraintName: fk_line_word_word
+            referencedColumnNames: id
+            referencedTableName: word
+            validate: true
+        - addForeignKeyConstraint:
+            baseColumnNames: line_id
+            baseTableName: line_word
+            constraintName: fk_line_word_line
+            referencedColumnNames: id
+            referencedTableName: line
+            validate: true
