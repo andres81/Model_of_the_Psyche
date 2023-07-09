@@ -19,13 +19,14 @@
 package eu.andreschepers.dialogueandortext.gateway.database.port;
 
 import eu.andreschepers.dialogueandortext.domain.DialogueAndOrText;
-import eu.andreschepers.dialogueandortext.gateway.database.jpaentities.DialogueAndOrTextJpaEntity;
 import eu.andreschepers.dialogueandortext.gateway.database.mapper.DialogueAndOrTextMapper;
 import eu.andreschepers.dialogueandortext.gateway.database.repository.DialogueAndOrTextJpaRepository;
 import eu.andreschepers.dialogueandortext.usecase.outputport.IDBDialogueAndOrTextOutputPort;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
+
+import java.util.UUID;
 
 @Component
 @RequiredArgsConstructor
@@ -36,14 +37,30 @@ public class DBDialogueAndOrTextOutputPort implements IDBDialogueAndOrTextOutput
 
     @Override
     @Transactional
-    public DialogueAndOrTextJpaEntity persistDialogueAndOrText(DialogueAndOrText dialogueAndOrText) {
+    public UUID persistDialogueAndOrText(DialogueAndOrText dialogueAndOrText) {
 
         if (daotRepository.existsDialogueAndOrTextJpaEntityByDialogueHash(dialogueAndOrText.getSha512Sum())) {
-            return daotRepository.findByDialogueHash(dialogueAndOrText.getSha512Sum()).get();
+            return daotRepository.findByDialogueHash(dialogueAndOrText.getSha512Sum()).get().getId();
         }
 
-        var dialogueEntity = dialogueAndOrTextMapper.mapDialogueAndOrText(dialogueAndOrText);
+        var dialogueEntity = dialogueAndOrTextMapper.mapDialogueAndOrTextToEntity(dialogueAndOrText);
 
-        return daotRepository.save(dialogueEntity);
+        return daotRepository.save(dialogueEntity).getId();
+    }
+
+    @Override
+    @Transactional
+    public DialogueAndOrText readDialogueAndOrTextByHashSum(String hashSum) {
+        return daotRepository.findByDialogueHash(hashSum)
+            .map(dialogueAndOrTextMapper::mapEntityToDialogueAndOrText)
+            .orElse(null);
+    }
+
+    @Override
+    @Transactional
+    public DialogueAndOrText readDialogueAndOrTextById(UUID id) {
+        return daotRepository.findById(id)
+            .map(dialogueAndOrTextMapper::mapEntityToDialogueAndOrText)
+            .orElse(null);
     }
 }

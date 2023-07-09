@@ -20,7 +20,9 @@ package eu.andreschepers.dialogueandortext.integration;
 
 import eu.andreschepers.dialogueandortext.gateway.database.repository.DialogueAndOrTextJpaRepository;
 import eu.andreschepers.dialogueandortext.usecase.CreateDialogueAndOrTextUseCase;
+import eu.andreschepers.dialogueandortext.usecase.ReadDialogueAndOrTextUseCase;
 import eu.andreschepers.dialogueandortext.usecase.inputport.ICreateDialogueAndOrTextUseCase;
+import eu.andreschepers.dialogueandortext.usecase.inputport.IReadDialogueAndOrTextUseCase;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -49,6 +51,9 @@ class CreateDialogueAndOrTextUseCaseIntegrationTest {
     private DialogueAndOrTextJpaRepository daotRepository;
 
     @Autowired
+    private IReadDialogueAndOrTextUseCase readDialogueAndOrTextUseCase;
+
+    @Autowired
     private CreateDialogueAndOrTextUseCase sut;
 
     @Test
@@ -56,6 +61,8 @@ class CreateDialogueAndOrTextUseCaseIntegrationTest {
         sut.createDialogueAndOrText(createDialogueAndOrTextLineRecords());
         var daots = daotRepository.findAll();
         log.info("Daots: {}", daots);
+        var readDaot = readDialogueAndOrTextUseCase.readDialogueAndOrTextByHashSum(daots.get(0).getDialogueHash());
+        log.info("Daot: [{}]", readDaot);
     }
 
     private List<ICreateDialogueAndOrTextUseCase.DialogueAndOrTextLineRecord> createDialogueAndOrTextLineRecords() {

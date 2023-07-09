@@ -16,17 +16,17 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package eu.andreschepers.dialogueandortext.usecase.outputport;
+package eu.andreschepers.dialogueandortext.usecase.inputport;
 
 import eu.andreschepers.dialogueandortext.domain.DialogueAndOrText;
+import eu.andreschepers.dialogueandortext.usecase.CreateDialogueAndOrTextUseCase;
 
+import java.util.List;
 import java.util.UUID;
 
-public interface IDBDialogueAndOrTextOutputPort {
-
-    UUID persistDialogueAndOrText(DialogueAndOrText dialogueAndOrText);
-
-    DialogueAndOrText readDialogueAndOrTextByHashSum(String hashSum);
+public interface IReadDialogueAndOrTextUseCase {
 
     DialogueAndOrText readDialogueAndOrTextById(UUID id);
+
+    DialogueAndOrText readDialogueAndOrTextByHashSum(String hashSum);
 }

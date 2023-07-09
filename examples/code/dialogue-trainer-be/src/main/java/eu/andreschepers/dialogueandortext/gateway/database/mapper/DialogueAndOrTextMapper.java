@@ -32,16 +32,23 @@ public class DialogueAndOrTextMapper {
 
     private final DialogueAndOrTextLineMapper dialogueAndOrTextLineMapper;
 
-    public DialogueAndOrTextJpaEntity mapDialogueAndOrText(DialogueAndOrText dialogueAndOrText) {
+    public DialogueAndOrTextJpaEntity mapDialogueAndOrTextToEntity(DialogueAndOrText dialogueAndOrText) {
         var dialogueEntity = new DialogueAndOrTextJpaEntity();
         dialogueEntity.setLines(mapDialogueLines(dialogueEntity, dialogueAndOrText));
         dialogueEntity.setDialogueHash(dialogueAndOrText.getSha512Sum());
         return dialogueEntity;
     }
 
+    public DialogueAndOrText mapEntityToDialogueAndOrText(DialogueAndOrTextJpaEntity entity) {
+        var lines = entity.getLines().stream()
+            .map(dialogueAndOrTextLineMapper::mapEntityToDialogueAndOrTextLine)
+            .toList();
+        return new DialogueAndOrText(lines);
+    }
+
     private List<DialogueAndOrTextLineJpaEntity> mapDialogueLines(DialogueAndOrTextJpaEntity dialogueEntity, DialogueAndOrText dialogueAndOrText) {
         return dialogueAndOrText.getLines().stream()
-            .map(line -> dialogueAndOrTextLineMapper.mapDialogueLine(dialogueEntity, line))
+            .map(line -> dialogueAndOrTextLineMapper.mapDialogueLineToEntity(dialogueEntity, line))
             .toList();
     }
 }
