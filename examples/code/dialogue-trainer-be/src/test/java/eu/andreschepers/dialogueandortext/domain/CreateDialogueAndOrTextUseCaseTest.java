@@ -21,7 +21,6 @@ package eu.andreschepers.dialogueandortext.domain;
 import com.fasterxml.jackson.core.JsonPointer;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import eu.andreschepers.dialogueandortext.gateway.database.jpaentities.DialogueAndOrTextJpaEntity;
 import eu.andreschepers.dialogueandortext.gateway.database.port.DBDialogueAndOrTextOutputPort;
 import eu.andreschepers.dialogueandortext.usecase.CreateDialogueAndOrTextUseCase;
 import eu.andreschepers.dialogueandortext.usecase.inputport.ICreateDialogueAndOrTextUseCase;
@@ -62,9 +61,7 @@ class CreateDialogueAndOrTextUseCaseTest {
 
     @Test
     void testCreationOfDialogueAndOrText() throws IOException {
-        var daotEntity = new DialogueAndOrTextJpaEntity();
-        daotEntity.setId(UUID.randomUUID());
-        when(dbOutputPort.persistDialogueAndOrText(any())).thenReturn(daotEntity);
+        when(dbOutputPort.persistDialogueAndOrText(any())).thenReturn(UUID.randomUUID());
         var testDaots = getTestDaots();
         for (JsonNode testDaot : testDaots) {
 

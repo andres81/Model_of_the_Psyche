@@ -35,7 +35,7 @@ public class DialogueAndOrTextLineMapper {
     private final LineMapper lineMapper;
     private final LineJpaRepository lineJpaRepository;
 
-    public DialogueAndOrTextLineJpaEntity mapDialogueLine(DialogueAndOrTextJpaEntity dialogueEntity, DialogueAndOrTextLine dialogueAndOrTextLine) {
+    public DialogueAndOrTextLineJpaEntity mapDialogueLineToEntity(DialogueAndOrTextJpaEntity dialogueEntity, DialogueAndOrTextLine dialogueAndOrTextLine) {
 
         var lineEntity = new DialogueAndOrTextLineJpaEntity();
         lineEntity.setName(dialogueAndOrTextLine.getPersonName());
@@ -45,6 +45,12 @@ public class DialogueAndOrTextLineMapper {
         lineEntity.setLine(mapLine(dialogueAndOrTextLine));
 
         return lineEntity;
+    }
+
+    public DialogueAndOrTextLine mapEntityToDialogueAndOrTextLine(DialogueAndOrTextLineJpaEntity entityLine) {
+        return new DialogueAndOrTextLine(entityLine.getLineIndex(),
+                entityLine.getName(),
+                entityLine.getLine().getLine());
     }
 
     private DialogueAndOrTextLineTypeJpa mapType(DialogueAndOrTextLineType type) {
