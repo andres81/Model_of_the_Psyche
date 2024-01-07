@@ -218,7 +218,14 @@ c.
   want reflection, feedback, criticism regarding what you think is true / the
   truth? If not, why are you in a meeting with them?
   Most people can't handle the reflection of themselves in the eyes of the
-  other they are speaking with.
+  other they are speaking with. That is because people regard themselves as
+  part of a social situation. The context has a social situation as background.
+  Subsequently, certain instincts that force us to act social, including the
+  experience of emotions, cause the behaviour of the individual. But through
+  social situations, and the facade people then choose, one never gets to know
+  the other person, nor do others get to know the individual, while getting
+  into relationships, including marriage, with the people we only know by their
+  social facade they have mastered so well.
 
 <br />
 
