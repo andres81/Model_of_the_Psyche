@@ -217,6 +217,8 @@ c.
   context switching. Don't you want to hear the opinion of others? Don't you
   want reflection, feedback, criticism regarding what you think is true / the
   truth? If not, why are you in a meeting with them?
+  Most people can't handle the reflection of themselves in the eyes of the
+  other they are speaking with.
 
 <br />
 
