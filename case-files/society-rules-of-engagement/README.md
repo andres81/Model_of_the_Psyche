@@ -37,6 +37,8 @@ the streets to survive. If not that, "Hell is other people", merely the
 view of others, will be enough pain to be expected in order for an individual to
 conform to the will of the group.
 
+### Organisational consequence
+
 The thread looming on the horizon with choosing to act in such a manner and
 choosing these convictions to be part of your culture, is a pyramid structure,
 in which the top layer understands there is only trade and profit. The next
@@ -48,34 +50,52 @@ all: There is no social context, merely a minimal situation, in which each
 individual present in said situation has the same goal: Profit. May it be
 financial in nature or power.
 
-The old technique used, of proxying the function to give political substance to
-the tasks belonging to a role that one fulfills, only works as long as the tasks
-are not described precisely, but in addition people subject to the execution of
-these tasks, don't actively check the quality of said execution. One clearly
-deviates from the task description once political substance has been added.
-Take the [Dutch childcare benefits scandal](https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal)
-for example. Didn't public servants proxy there functions? Racism as a starting
+### 
+
+The age-old technique used, of proxying the function to give political substance
+to the tasks belonging to a role that one fulfills, only works as long as the
+tasks are not described precisely, but in addition people subject to the
+execution of these tasks, don't actively check the quality of said execution.
+One clearly deviates from the task description once political substance has been
+added. Take the [Dutch childcare benefits scandal](https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal)
+for example. Didn't public servants proxy their functions? Racism as a starting
 point when judging if civilians of the Netherlands should be "punished"? I'm
 just asking, because one can never proof the intention of other people.
 
 What about Dutch judges? Can we know or not what their true intentions were,
-when we look at how things have unfolded? To what extend can you give the
-benefit of the doubt, and rule they were a victim of there situation? Acting out
-of incompentence, or actually acting with bad intent, and bad faith in the form
-of denying you were acting with bad intent? But wait... Sartre! What about being
-"condemned to be free"?
+when we look at how things have unfolded? To what extent can you give the
+benefit of the doubt, and judge they were a victim of their situation? Acting
+out of incompetence, or actually acting with bad intent, and bad faith in the
+form of denying you were acting with bad intent? But wait... Sartre! What about
+being "condemned to be free"?
 ["One must not exercise bad faith by denying the self's freedom of choice and
 accountability."](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)#:~:text=One%20must%20not%20exercise%20bad%20faith%20by%20denying%20the%20self%27s%20freedom%20of%20choice%20and%20accountability.)
 Couldn't Dutch judges resign to prevent ruling the way they did, and harming
 civilians, of which they said in [hindsight](https://dictionary.cambridge.org/dictionary/english/hindsight),
 [they regret how things happened](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5259123/toeslagenaffaire-rechters-oneerlijk-rapport-rechtsstaat-kritisch#:~:text=In%20het%20rapport%20maken%20de%20rechters%20gehakt%20van%20de%20alles%2Dof%2Dniets%2Dregel%20die%20zij%20moesten%20volgen.%20Volgens%20die%20regel%20mocht%20de%20Belastingdienst%20bij%20%C3%A9lke%20afwijking%20de%20hele%20kinderopvangtoeslag%20terugeisen.)?
 
-Then politics. Offering apologies to the victims of the benefits scandal. But,
-can a government or any non-natural person ever apologies? Does that work? What
-is an apology anyway? In what context does it work? In what type of situations
-does it make sense, in which does it not?
+Then politics. [Offering apologies to the victims of the benefits scandal.](https://www.rtlnieuws.nl/nieuws/politiek/artikel/5254215/persoonlijk-excuus-kabinet-voor-gedupeerden-toeslagenaffaire)
+But, can a government or any non-natural person ever apologize? Does that work?
+What is an apology anyway? In what context does it work? In what type of
+situations does it make sense, in which does it not?
+
 One only makes apologies in a social context. It is a method of healing and
 repairing social relationships, and ones own social position in a social group.
 Did politicians try to heal the relationship between victims of the scandal and
 the government? Hoping to regain trust of not only the victims, but of citizens
-in general? 
+in general? If so, how can you proof to me, a citizen myself, the author of this
+piece ('of %^*&' if you want), that you are not making it way too easy for
+yourself? By saying you merely have to apologise to heal trust in the
+"system", you don't have to do the hard work anymore of doing the analysis, explaining the
+outcome of that analysis, and coming up with a fix of the problem that was
+analysed. That, my dear politicians, is your job. Yes, it is not easy, and if
+you fail at that, you might lose trust and might be considered an amateur. But, in
+the end, you chose your job. And if we, as a society, chose the job description
+of a member of the parliament, you just have to do your job, and not try to
+trick us with [We, the people at Toilet Duck, recommend Toilet Duck](https://en.wikipedia.org/wiki/Toilet_Duck#:~:text=In%20the%20Netherlands%2C%20the%20advertising%20slogan%20%22Wij%20van%20Wc%2Deend%20adviseren%20Wc%2Deend%22%20(%22We%2C%20the%20people%20at%20Toilet%20Duck%2C%20recommend%20Toilet%20Duck%22)%20was%20used%20in%20a%20campaign%20that%20ended%20in%201996.)
+mentality rhetoric, saying you will tell us what your job is.
+
+This continuous trickery, the Toilet Duck magic trick, isn't that debit now to
+the [growing loss of trust of civilians in the government](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5426691/onderzoek-scp-omverwerpen-overheidssysteem-hardere-acties-regering)?
+Too much trust in ones own competence, ignoring signals from outside, and
+silencing any form of protest from within?
