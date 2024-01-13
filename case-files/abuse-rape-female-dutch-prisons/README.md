@@ -47,7 +47,7 @@ practice? How do we check that? What kind of culture is created and maintained
 within the Dutch prison system? How much do we know? Can we know? Are prisoners
 still seen as humanbeings? Is a prison sentence in the Netherlands, more than
 only being robbed of your freedom? Implicitly, in addition to loosing your
-freedom, also the possible abuse and rape of prison guards in female prisons,
+freedom, also the possible abuse and rape by prison guards in female prisons,
 that do whatever they like?
 
 It is time that citizens take a more proactive role in partaking in society. It
