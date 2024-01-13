@@ -74,6 +74,8 @@ Couldn't Dutch judges resign to prevent ruling the way they did, and harming
 civilians, of which they said in [hindsight](https://dictionary.cambridge.org/dictionary/english/hindsight),
 [they regret how things happened](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5259123/toeslagenaffaire-rechters-oneerlijk-rapport-rechtsstaat-kritisch#:~:text=In%20het%20rapport%20maken%20de%20rechters%20gehakt%20van%20de%20alles%2Dof%2Dniets%2Dregel%20die%20zij%20moesten%20volgen.%20Volgens%20die%20regel%20mocht%20de%20Belastingdienst%20bij%20%C3%A9lke%20afwijking%20de%20hele%20kinderopvangtoeslag%20terugeisen.)?
 
+### Politics
+
 Then politics. [Offering apologies to the victims of the benefits scandal.](https://www.rtlnieuws.nl/nieuws/politiek/artikel/5254215/persoonlijk-excuus-kabinet-voor-gedupeerden-toeslagenaffaire)
 But, can a government or any non-natural person ever apologize? Does that work?
 What is an apology anyway? In what context does it work? In what type of
