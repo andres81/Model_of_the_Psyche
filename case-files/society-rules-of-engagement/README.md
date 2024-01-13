@@ -50,7 +50,7 @@ all: There is no social context, merely a minimal situation, in which each
 individual present in said situation has the same goal: Profit. May it be
 financial in nature or power.
 
-### 
+### Techniques used
 
 The age-old technique used, of proxying the function to give political substance
 to the tasks belonging to a role that one fulfills, only works as long as the
@@ -61,6 +61,8 @@ added. Take the [Dutch childcare benefits scandal](https://en.wikipedia.org/wiki
 for example. Didn't public servants proxy their functions? Racism as a starting
 point when judging if civilians of the Netherlands should be "punished"? I'm
 just asking, because one can never proof the intention of other people.
+
+### Dutch Judges
 
 What about Dutch judges? Can we know or not what their true intentions were,
 when we look at how things have unfolded? To what extent can you give the
@@ -100,4 +102,38 @@ mentality rhetoric, saying you will tell us what your job is.
 This continuous trickery, the Toilet Duck magic trick, isn't that debit now to
 the [growing loss of trust of civilians in the government](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5426691/onderzoek-scp-omverwerpen-overheidssysteem-hardere-acties-regering)?
 Too much trust in ones own competence, ignoring signals from outside, and
-silencing any form of protest from within?
+silencing any form of protest from within? One cannot state this for an
+organisation as big as the Dutch government. But does the majority of civilians
+understand this? Can they comprehend the size of the government? Merely the
+number of individual departments, subunits, task-forces is overwhelming.
+
+### A possible solution: Organisation for the protection of the natural person
+
+What is needed is protection that truly protects at any point in any process
+involving a natural person interacting with any component of society that is not
+a natural person itself. It implies an organisation for the protection of
+natural persons, that, in a legal context as an attorney, acts on behalf of the
+client. This forms a trinity, that as a construct, acts as a protector of the
+natural person at any time a natural person, interacts with any form of
+organisation in society, that is not a natural person. In addition, this will
+relieve the pressure of non-natural person agents acting in society, of their
+moral obligations to the point of always being responsible for their actions.
+An example is the interaction of a natural person interacting with a public
+servant. If there are only two people present, the public servant, and the
+natural person, when
+the public servant proxies the role, the natural person that fulfills the role
+of being a public servant, causing the natural person to become aggressive,
+it is the municipality that will retaliate. This gives too much power to natural
+persons, fulfilling the role of public servants. One can easily ventilate
+personal frustrations with society through their function by proxying it. Who
+will check for this? The natural person is overburdened with responsibility by
+society, if it is expected from the person itself. You act from a subjective
+position, and that implies lack of rational view of the situation. Doctors don't
+heal themselves: General Physicians, go to colleagues.
+
+#### Examples of existing organisations protecting natural persons
+
+Acting on behalf of or supporting a natural person is already done, by for
+example [labor unions](https://en.wikipedia.org/wiki/Trade_union). The problem
+here is, they only act in certain contexts, not in all possible situations.
+Other examples consist of [human rights organisations](https://en.wikipedia.org/wiki/List_of_human_rights_organisations).
