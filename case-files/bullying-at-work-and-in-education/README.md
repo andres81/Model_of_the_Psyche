@@ -22,6 +22,8 @@
 
 ## Analysis
 
+
+
 ### Bullying Employers
 
 When an employer sees you as your servant (see reference #15), you need some
@@ -69,7 +71,7 @@ employer is at the top, he will be happy and able to consume this experience of
 control and power. A toxic mix that leads to highly unethical situations in
 which bullying by proxy by the employer becomes common practice and because the
 bullying is proxied, the employer never is seen as the instigator. He delegates,
-while being always fully in control. To the outsight world, he might be seen as
+while being always fully in control. To the outside world, he might be seen as
 a hero, hiring the unwanted, the disabled, and anyone else that makes it look
 what a hero he is, while at the same time, it merely serves his goal of expanding
 the pyramid at the bottom. The bigger the pyramid, the larger the black box in
