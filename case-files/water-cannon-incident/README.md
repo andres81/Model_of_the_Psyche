@@ -6,6 +6,7 @@
 * https://www.rtlnieuws.nl/nieuws/video/video/5210559/politie-grijpt-bij-illegale-protesten-eindhoven-en-amsterdam
 * https://www.rtlnieuws.nl/nieuws/nederland/artikel/5327033/om-vervolgt-agente-voor-incident-met-waterkanon-rellen-eindhoven
 * https://www.rtlnieuws.nl/nieuws/nederland/artikel/5327086/politiebond-geirriteerd-over-vervolging-agente-van-waterkanon
+* https://www.omroepbrabant.nl/nieuws/4133733/politiebond-geirriteerd-over-vervolging-waterkanonagent-verkeerd-signaal
 * https://www.rtlnieuws.nl/nieuws/nederland/artikel/5327193/agent-vervolgt-voor-spuiten-vrouw-met-waterkanon-rellen-eindhoven
 * https://www.amnesty.nl/vijf-vragen-over-de-inzet-van-het-waterkanon-bij-vreedzame-demonstraties
 
@@ -25,7 +26,8 @@ by her, are disastrous:
 
 The question here is, was this action, the action consisting of choosing to use
 the power of the water canon in this situation justified. But there is another
-issue at hand: [The response of the police unions](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5327086/politiebond-geirriteerd-over-vervolging-agente-van-waterkanon).
+issue at hand: [The response of the police unions](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5327086/politiebond-geirriteerd-over-vervolging-agente-van-waterkanon)
+and [here.](https://www.omroepbrabant.nl/nieuws/4133733/politiebond-geirriteerd-over-vervolging-waterkanonagent-verkeerd-signaal)
 
 The police union ACP was "geïrriteerd", which translates to: [irritated](https://translate.google.com/details?sl=auto&tl=en&text=ge%C3%AFrriteerd&op=translate)
 over the choice to prosecute the police officer that operated the water canon
