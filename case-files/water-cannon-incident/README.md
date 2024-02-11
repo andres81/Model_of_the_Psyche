@@ -23,5 +23,25 @@ by her, are disastrous:
 * Cut in the face
 * Psychological trauma
 
+The question here is, was this action, the action consisting of choosing to use
+the power of the water canon in this situation justified. But there is another
+issue at hand: [The response of the police unions](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5327086/politiebond-geirriteerd-over-vervolging-agente-van-waterkanon).
+
+The police union ACP was "geïrriteerd", which translates to: [irritated](https://translate.google.com/details?sl=auto&tl=en&text=ge%C3%AFrriteerd&op=translate)
+over the choice to prosecute the police officer that operated the water canon
+against the woman that got hurt subsequently.
+
+## Actions
+
+An article with some rhetoric, by an author that doesn't even have a bachelors
+degree, does not do much for anyone, but burn energy resources by some
+internet servers hosting the website on which the article can be read.
+Instead, what is more effective, is an open letter asking for justification for
+the actions described in this article.
+
+1. Police actions, consisting of using a water canon.
+2. Union actions, consisting of the responses that were given to the media.
+
+
 
 
