@@ -12,7 +12,70 @@ view of that construct or not.
 The social construct, amongst other purposes, will serve also the goal of
 [protecting us from being morally accountability for our actions](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)#:~:text=Taking%20on%20the%20burden%20of%20personal%20accountability%20in%20all%20situations%20is%20an%20intimidating%20proposition%C2%A0%E2%80%93%20by%20pointing%20out%20the%20freedom%20of%20the%20individual%2C%20Sartre%20seeks%20to%20demonstrate%20that%20the%20social%20roles%20and%20moral%20systems%20we%20adopt%20protect%20us%20from%20being%20morally%20accountable%20for%20our%20actions.)
 
-## Dutch mentality
+# Table of Contents
+
+* Public Transport
+* Dutch mentality
+
+# Public Transport
+
+## Problems and Solutions
+
+### #1. Yelling, drunk in public, obscene language, traumatizing young children
+
+#### Problem description
+
+At the time of this writing, 17 February 2024, it is a day after the author was
+in the bus trying to get home. Some young folk, late teenagers, early twenties,
+enter the bus (size ~10 people), that had a dynamic reminiscent of the bus scene
+in [Nobody](https://en.wikipedia.org/wiki/Nobody_(2021_film)). There was also
+a mother present, with two young daughters, ~5 and ~8 I guess. Sitting in front,
+the back, and communicating from back to front, and vice versa. That is one
+thing. But yelling: "Why don't you talk about doing a xx-year-old again", is one
+bridge too far.
+Let's analyse this situation to see what problems we have going on here.
+
+1. The bus driver didn't do anything about the problem of harassment.
+2. There are no clear rules of engagement for passengers how to deal with this
+   situation in case a bus driver remains passive.
+3. Society is not in the position to treat young people in such a way, that it
+   is clear what is expected of them.
+
+The bus driver, should be the responsible person in the bus, to protect the 
+passengers from harmful situations. If this was a harmful situation, which it is
+in the opinion of the author of this piece, then she should have acted. Possible
+solutions for her could have been, to give one warning, and then ask them to
+leave the bus. Another, calling the police. Yet another, talking to them to ask
+what the problem is, indicating that she won't drive further if they keep
+behaving like this.
+
+Passengers could have talked to them, and indicated that they don't like it.
+They could have complained to the bus driver, and left the bus. After which they
+could have filed a complained with the public transport company.
+Another option, could have been, being like the antagonist in Nobody. Which
+would have resulted in enormous damages, potential trauma of the children
+present, civil unrest, lawsuits, prosecutions, etc...
+The violent escalation, could also happen after speaking up, addressing the
+behaviour in the bus. The boys were intoxicated, might have been overjealous,
+not in control of their own behaviour and what not. A passenger doesn't have
+much options then, than to call the police themselves. But will the police come
+at all? Will they come in time? Will they fix the problem, or leave it with a
+warning? "Don't do this again boys!" While smiling: "Yeah, we understand, we
+were young once too... ;)".
+
+These young people, were potentially not aware of their behaviour. Punishing
+them for the impact it had on others, instead of the behaviour itself, is like
+punishing a dog a week after, he has shitted on the new couch of one day old,
+you wished to have a romantic engagement on that same evening, but now that
+didn't happen, and never did because the other person was no longer interested
+after hearing this had happened...
+
+
+#### Solution description
+
+### Conclusion
+
+# Dutch mentality
 
 The personal experience of the author with Dutch culture and Dutchies is often:
 
@@ -37,7 +100,7 @@ the streets to survive. If not that, "Hell is other people", merely the
 view of others, will be enough pain to be expected in order for an individual to
 conform to the will of the group.
 
-### Organisational consequence
+## Organisational consequence
 
 The thread looming on the horizon with choosing to act in such a manner and
 choosing these convictions to be part of your culture, is a pyramid structure,
@@ -50,7 +113,7 @@ all: There is no social context, merely a minimal situation, in which each
 individual present in said situation has the same goal: Profit. May it be
 financial in nature or power.
 
-### Techniques used
+## Techniques used
 
 The age-old technique used, of proxying the function to give political substance
 to the tasks belonging to a role that one fulfills, only works as long as the
@@ -62,7 +125,7 @@ for example. Didn't public servants proxy their functions? Racism as a starting
 point when judging if civilians of the Netherlands should be "punished"? I'm
 just asking, because one can never proof the intention of other people.
 
-### Dutch Judges
+## Dutch Judges
 
 What about Dutch judges? Can we know or not what their true intentions were,
 when we look at how things have unfolded? To what extent can you give the
@@ -76,7 +139,7 @@ Couldn't Dutch judges resign to prevent ruling the way they did, and harming
 civilians, of which they said in [hindsight](https://dictionary.cambridge.org/dictionary/english/hindsight),
 [they regret how things happened](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5259123/toeslagenaffaire-rechters-oneerlijk-rapport-rechtsstaat-kritisch#:~:text=In%20het%20rapport%20maken%20de%20rechters%20gehakt%20van%20de%20alles%2Dof%2Dniets%2Dregel%20die%20zij%20moesten%20volgen.%20Volgens%20die%20regel%20mocht%20de%20Belastingdienst%20bij%20%C3%A9lke%20afwijking%20de%20hele%20kinderopvangtoeslag%20terugeisen.)?
 
-### Politics
+## Politics
 
 Then politics. [Offering apologies to the victims of the benefits scandal.](https://www.rtlnieuws.nl/nieuws/politiek/artikel/5254215/persoonlijk-excuus-kabinet-voor-gedupeerden-toeslagenaffaire)
 But, can a government or any non-natural person ever apologize? Does that work?
@@ -107,7 +170,7 @@ organisation as big as the Dutch government. But does the majority of civilians
 understand this? Can they comprehend the size of the government? Merely the
 number of individual departments, subunits, task-forces is overwhelming.
 
-### A possible solution: Organisation for the protection of the natural person
+## A possible solution: Organisation for the protection of the natural person
 
 What is needed is protection that truly protects at any point in any process
 involving a natural person interacting with any component of society that is not
@@ -131,7 +194,7 @@ society, if it is expected from the person itself. You act from a subjective
 position, and that implies lack of rational view of the situation. Doctors don't
 heal themselves: General Physicians, go to colleagues.
 
-#### Examples of existing organisations protecting natural persons
+### Examples of existing organisations protecting natural persons
 
 Acting on behalf of or supporting a natural person is already done, by for
 example [labor unions](https://en.wikipedia.org/wiki/Trade_union). The problem
