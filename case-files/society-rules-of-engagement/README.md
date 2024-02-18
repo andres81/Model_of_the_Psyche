@@ -56,22 +56,42 @@ Another option, could have been, being like the antagonist in Nobody. Which
 would have resulted in enormous damages, potential trauma of the children
 present, civil unrest, lawsuits, prosecutions, etc...
 The violent escalation, could also happen after speaking up, addressing the
-behaviour in the bus. The boys were intoxicated, might have been overjealous,
+behaviour in the bus. The boys were intoxicated, might have been overzealous,
 not in control of their own behaviour and what not. A passenger doesn't have
-much options then, than to call the police themselves. But will the police come
+many options then, than to call the police themselves. But will the police come
 at all? Will they come in time? Will they fix the problem, or leave it with a
 warning? "Don't do this again boys!" While smiling: "Yeah, we understand, we
 were young once too... ;)".
 
 These young people, were potentially not aware of their behaviour. Punishing
 them for the impact it had on others, instead of the behaviour itself, is like
-punishing a dog a week after, he has shitted on the new couch of one day old,
+punishing a dog a week after, because he shitted on the new couch of one day old,
 you wished to have a romantic engagement on that same evening, but now that
 didn't happen, and never did because the other person was no longer interested
 after hearing this had happened...
 
-
 #### Solution description
+
+Let's super position these problems into one, and find one solution that gives
+us the desired outcome.
+All problems have in common, that the behaviour needs to be stopped
+immediately, to prevent damage. Trauma to the passengers, behaviour by the young
+group that will get them in trouble, societal unrest due to this incident.
+So let's start by stopping this behaviour in its tracks and see what actors
+are responsible to stop this behaviour. Furthermore, what are the escalation
+paths.
+
+1. The bus driver.
+
+The bus driver is responsible for the safety of the passengers. In the case of
+young people, that don't control their behaviour enough yet, especially not when
+intoxicated with alcohol, and having alcohol on them, drinking it in the bus,
+the bus driver has to ask them the next stop, to leave the bus. There is no
+excuse for letting them remain on the bus. Exit! The rules are as follows to be
+in the bus, that the bus driver has to enforce:
+
+* You talk with people, don't yell.
+* 
 
 ### Conclusion
 
