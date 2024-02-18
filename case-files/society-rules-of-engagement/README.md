@@ -87,11 +87,28 @@ The bus driver is responsible for the safety of the passengers. In the case of
 young people, that don't control their behaviour enough yet, especially not when
 intoxicated with alcohol, and having alcohol on them, drinking it in the bus,
 the bus driver has to ask them the next stop, to leave the bus. There is no
-excuse for letting them remain on the bus. Exit! The rules are as follows to be
-in the bus, that the bus driver has to enforce:
+excuse for letting them remain on the bus. Exit! We have to define the Rules of
+Engagement for passengers and the public transport companies. The rules are as
+follows to be in the bus, that the bus driver has to enforce:
 
 * You talk with people, don't yell.
-* 
+* You talk with the people that choose to talk with you, don't enforce talking.
+* You don't drink in the bus.
+* If asked to leave, you leave.
+
+Failure to comply, means immediately being invited to leave the bus the next
+stop. A bus driver that does not act, is complicit to the wrongful act.
+
+2. Passengers
+
+Passengers in the bus, keep an eye on the behaviour of others. If acting
+wrongfully, the bus driver needs to be asked to act. If the driver remains
+passive, the passenger calls the police. The police has to take over and let the
+situation be restored to a save one.
+
+3. Society
+
+
 
 ### Conclusion
 
