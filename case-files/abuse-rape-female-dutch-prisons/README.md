@@ -78,11 +78,19 @@ But what systems are currently in place? Does the government have the intention
 at all to put systems in place with at least the reason to prevent violation of
 human rights? In other words, is prevention a goal in itself, to put systems in
 place, and determining in part the choice of systems being used to execute
-policy governed by the government? If for example it is implied it is not, in
-the case that the government, for example, delegates the responsibility to an
-institution, and implies by doing that, that the act of preventing the violation
-of human rightsit is  implied in itself, preventing the
-violation of human rights that is, by a culture within an institution like a
-prison, for which no one is responsible, but the people that work within that
+policy governed by the government? 
+
+If for example it is implied that the responsibility to prevent the violation of
+human rights, is something that the government chooses to delegate to an
+institution, and in addition not explicitly communicating that the government
+sees it as the responsibility of an institution like a
+prison, finger pointing starts once it goes wrong, like in the case of rapes in
+prisons. It is not the responsibility
+of the natural persons working in the context of the prison, it is not the
+government, it is not the system to blame, but maybe merely the culture within
+the organisation.
+
+
+for which no one is responsible, but the people that work within that
 institution. But once one understands that a culture is a thing implied by
 itself, one should understand that you 
