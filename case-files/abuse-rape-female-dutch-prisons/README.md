@@ -111,3 +111,16 @@ cultural situation, the only way?
 Was the above even checked by the government? In other words, was anything put
 in explicit writing?
 
+The solution is very simple:
+
+* Strict function definitions.
+* The roles defined by the teams in which natural persons work, checked
+  proactively (not after something goes wrong), by the organization and an
+  external government agency.
+* Because we are working with human beings, the natural persons, in this case
+  the prisoners, need to have a clear line of communication with the external
+  organization that on behalf of the government checks if all is well. Any
+  complaint, is taken serious, especially if it concerns the highest level of
+  unethical behaviour. Any signal ignored, should result in severe penalties for
+  the people involved. That includes, and maybe especially, the warden of the
+  prison.
