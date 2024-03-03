@@ -108,9 +108,17 @@ situation be restored to a save one.
 
 3. Society
 
-
+As a society, it is necessary to proactively communicate, discuss, and evolve
+ideas regarding what is expected from individuals within the context.
+What the context is, depends on everybodies views, but moreover, some
+tend to lean towards the view of not needing a clear concept, but just
+use what ever is in front of you.
 
 ### Conclusion
+
+# Societal exclusion of minorities based on geography, culture or ethnicity by way of social engineering
+
+
 
 # Dutch mentality
 

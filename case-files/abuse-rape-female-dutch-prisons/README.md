@@ -14,6 +14,12 @@
 * https://www.rtlnieuws.nl/nieuws/nederland/artikel/5392321/aangifte-gevangenis-nieuwersluis-personeel-seksueel
 * https://www.rtlnieuws.nl/nieuws/nederland/artikel/5392385/vrouwengevangenis-misstanden-documentaire-zitten-en-zwijgen
 * https://www.rtlnieuws.nl/entertainment/misdaad/video/5387763/grensoverschrijdend-gedrag-gevangenis-nieuwersluis-vrouwelijke
+* https://www.inspectie-jenv.nl/actueel/nieuws/2022/07/14/onderzoek-naar-signalen-misbruik-vrouwelijke-gedetineerden
+* https://www.inspectie-jenv.nl/toezichtgebieden/sanctietoepassing
+* https://www.inspectie-jenv.nl/zoeken?trefwoord=Nieuwersluis+&search-submit=
+* https://www.inspectie-jenv.nl/Publicaties/rapporten/2023/05/31/rapport-pi-nieuwersluis
+* https://www.inspectie-jenv.nl/Publicaties/reacties-op-wederhoor/2023/05/31/reactie-wederhoortabel-onderzoek-pi-nieuwersluis
+* https://www.inspectie-jenv.nl/actueel/nieuws/2023/05/31/seksueel-grensoverschrijdend-gedrag-in-vrouweninrichting-nieuwersluis
 
 ## Introduction
 
@@ -62,3 +68,21 @@ other organisations to help any natural person, whenever and wherever.
 
 Let's analyse the system that has allowed for this disaster: The violation of
 human rights by the Dutch government.
+
+The goverment, has done research into how the prison was operating and concluded
+it was all nice and dandy. Sure, it shows again, to the author at least, that
+the government is not capable or willing, to come with systems that we can trust
+to 
+[protect us from being morally accountability for our actions](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)#:~:text=Taking%20on%20the%20burden%20of%20personal%20accountability%20in%20all%20situations%20is%20an%20intimidating%20proposition%C2%A0%E2%80%93%20by%20pointing%20out%20the%20freedom%20of%20the%20individual%2C%20Sartre%20seeks%20to%20demonstrate%20that%20the%20social%20roles%20and%20moral%20systems%20we%20adopt%20protect%20us%20from%20being%20morally%20accountable%20for%20our%20actions.).
+But what systems are currently in place? Does the government have the intention
+at all to put systems in place with at least the reason to prevent violation of
+human rights? In other words, is prevention a goal in itself, to put systems in
+place, and determining in part the choice of systems being used to execute
+policy governed by the government? If for example it is implied it is not, in
+the case that the government, for example, delegates the responsibility to an
+institution, and implies by doing that, that the act of preventing the violation
+of human rightsit is  implied in itself, preventing the
+violation of human rights that is, by a culture within an institution like a
+prison, for which no one is responsible, but the people that work within that
+institution. But once one understands that a culture is a thing implied by
+itself, one should understand that you 
