@@ -61,7 +61,7 @@ It is time that citizens take a more proactive role in partaking in society. It
 is time to show the government and government employees, that society decides
 the rules, not some employees with their personal set of convictions!
 It is time for an organisation for the protection of natural persons. One that
-overarches all the organisations that help people in specific circumstances. One
+over arches all the organisations that help people in specific circumstances. One
 that fights for human rights, and specialises in helping natural persons and
 other organisations to help any natural person, whenever and wherever.
 
@@ -97,4 +97,17 @@ effectiveness of the culture resulting from internal dynamics, social and what
 not, an escalating set of attitudes might lead to undesired outcomes, that are
 hard to spot. Also, who are held responsible? There is room for way too much
 politics.
-s
+Also, to what extent are individuals held accountable for their actions? How is
+proxying of the function to give political substance to the tasks belonging to 
+the role defined by the team the natural person has to fulfil discouraged? Is
+it at all possible to hold individuals accountable, for said proxying, when you
+communicate clearly as a government to an organization, you are expected to use
+culture as a control mechanism of behavior of individual natural persons with
+their function and roles assigned? How do you assess individual performance, in
+the context of functioning within the context of a culture, with implicit and
+informal rules? How do you keep track of cultural values, attitudes, if you do
+wish to formalise them, but let them be created natural, which is in case of a
+cultural situation, the only way?
+Was the above even checked by the government? In other words, was anything put
+in explicit writing?
+
