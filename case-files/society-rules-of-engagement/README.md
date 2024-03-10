@@ -118,7 +118,78 @@ use what ever is in front of you.
 
 # Societal exclusion of minorities based on geography, culture or ethnicity by way of social engineering
 
+# Love
 
+If a man sees the partner, a woman, in a heterosexual relationship, as an
+object, including the sex rituals, the relationship itself and the view others
+have of the relationship and the man in the context of said relationship, how
+does that reflect on the psyche of and the experience of the relationship by the
+woman? If a love relationship and the engagement with one, is considered as
+merely a social construct in the context of a perceived social group, what are
+the consequences? Not only psychological, but also in terms of the longevity of
+the relationship, the others and society?
+When a woman knows and feels she is merely an object in the eyes of her partner,
+she starts realising that all the rituals in the relationship, are part of
+playing a role in the context. Contexts switch, so do the roles that are
+expected to be played.
+When she breaks up with him, she might opt for a clean, cold exit. He might be
+wondering why she doesn't have the emotions he projects onto her consisting of
+love and affection for him. But once one realises, that real emotions are not
+there, due to the fact she realised before that the relationship was merely a
+social construct, it is understandable that there are no emotions, nor have
+there ever been.
+When women are raised by upbringing, society and experiences, that the above is
+what there is, and nothing else, no Hollywood romantic real love, then she might
+choose her money's worth in the form of accepting the minimal love situation she
+sees as the only option, and go for extra's. Extra's can come in several forms:
+
+* A man making good money, 100k, 150k, 200k...
+* He is good-looking, will age well
+* He has high social standing, which will be given to her once together
+* He has the ability to give her children with the good genes she perceives him
+  having. (Perceives, because autism flies below the radar, as is the case with
+  the author. All nice and dandy, until she finds out that thát is going on, and
+  she will look one door further down the road.)
+
+The above will result in two individuals regarding relationships as engagements
+like you see with formal business ones. Everything is calculated, trust is low,
+knowing the other person can at anytime step out of the engagement, in favor of
+a better (business) partner. "No hard feelings, no offense, strictly business".
+
+If women instead receive better experiences, how would the world look like then?
+If women can act like women, men will receive the care and patience and love
+that they need from a partner, to remain healthy. Wasn't it shown in social
+psychology, that men have a 10 times higher chance to die after divorce, than
+women? And why was that the case? Because women talk with each other, and
+regulate their emotions through their social relations, while men only have
+their wives to talk to until divorce.<br/>
+If humans engage with the world, based on how they are taught to perceive it,
+how are women raised and educated on how to engage with men? Is courtship
+something that happens only in the context of a social situation? How should a
+man be evaluated to decide if he is proper marriage material? Is a love
+relationship a form or type of social relationship, or not at all?
+
+Love is between two people, not between a person and the other persons social
+group. If a woman checks with her social group, she perceives being part of,
+if he is good partner material, if at all she has the intention to want the man
+for a long term relationship, doesn't she end up marrying and having children
+with a man she hardly knows, except for the social role he is playing? When you
+have children, you find out the hard way, social rules might not apply in
+interactions with other human beings: Children don't care about your social
+status. If you are not a team as the parents, children will smell the weaknesses
+and start exploiting them. He will also stop playing the social role he was
+playing in the relationship, because other people, your children, changed the
+rules of engagement. You no longer can keep up the window dressing necessary
+for a social situation. No more social facade, because it simply doesn't work
+towards your children, they need you to play a different role. Once this plays
+out, a woman can easily just leave. But what is different all of a sudden? How
+come you never got to know the other person? What is there to know and how do
+you approach this problem when looking for a partner?<br ?>
+Women effectively have only a few years once they hit 20. If they keep playing
+with love like teenagers do, when men subsequently opt out, because they realise
+they are the price, not the women, they will choose the wrong partner, will be
+unhappy, and society is left with societal collapse because not enough babies
+are born.
 
 # Dutch mentality
 
@@ -130,7 +201,7 @@ The personal experience of the author with Dutch culture and Dutchies is often:
     Whether they offer it voluntarily or not. If you see an opportunity, grab it.
 
 The age-old [VOC](https://en.wikipedia.org/wiki/Dutch_East_India_Company) 
-mentality maybe, the Dutch never really got rid of. And what for? If
+[mentality](https://nl.wikipedia.org/wiki/VOC-mentaliteit) maybe, the Dutch never really got rid of. And what for? If
 [what is considered ethical](https://en.wikipedia.org/wiki/Ethics), is nothing
 more than what is contextually considered right, where the context is the social
 group perceived by themselves, or the others they use. In essence saying, what
