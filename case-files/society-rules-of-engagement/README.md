@@ -118,7 +118,26 @@ use what ever is in front of you.
 
 # Societal exclusion of minorities based on geography, culture or ethnicity by way of social engineering
 
+# Love
 
+If a man sees the partner, a woman, in a heterosexual relationship, as an
+object, including the sex rituals, the relationship itself and the view others
+have of the relationship and the man in the context of said relationship, how
+does that reflect on the psyche of and the experience of the relationship by the
+woman? If a love relationship and the engagement with one, is considered as
+merely a social construct in the context of a perceived social group, what are
+the consequences? Not only psychological, but also in terms of the longevity of
+the relationship, the others and society?
+When a woman knows and feels she is merely an object in the eyes of her partner,
+she starts realising that all the rituals in the relationship, are part of
+playing a role in the context. Contexts switch, so do the roles that are
+expected to be played.
+When she breaks up with him, she might opt for a clean, cold exit. He might be
+wondering why she doesn't have the emotions he projects onto her consisting of
+love and affection for him. But once one realises, that real emotions are not
+there, due to the fact she realised before that the relationship was merely a
+social construct, it is understandable that there are no emotions, nor have
+there ever been.
 
 # Dutch mentality
 
@@ -130,7 +149,7 @@ The personal experience of the author with Dutch culture and Dutchies is often:
     Whether they offer it voluntarily or not. If you see an opportunity, grab it.
 
 The age-old [VOC](https://en.wikipedia.org/wiki/Dutch_East_India_Company) 
-mentality maybe, the Dutch never really got rid of. And what for? If
+[mentality](https://nl.wikipedia.org/wiki/VOC-mentaliteit) maybe, the Dutch never really got rid of. And what for? If
 [what is considered ethical](https://en.wikipedia.org/wiki/Ethics), is nothing
 more than what is contextually considered right, where the context is the social
 group perceived by themselves, or the others they use. In essence saying, what
