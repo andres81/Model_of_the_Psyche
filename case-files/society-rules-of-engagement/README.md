@@ -15,9 +15,11 @@ The social construct, amongst other purposes, will serve also the goal of
 # Table of Contents
 
 * Public Transport
+* Societal exclusion of minorities based on geography, culture or ethnicity by way of social engineering
+* Love
 * Dutch mentality
 
-# Public Transport
+# 1. Public Transport
 
 ## Problems and Solutions
 
@@ -116,9 +118,9 @@ use what ever is in front of you.
 
 ### Conclusion
 
-# Societal exclusion of minorities based on geography, culture or ethnicity by way of social engineering
+# 2. Societal exclusion of minorities based on geography, culture or ethnicity by way of social engineering
 
-# Love
+# 3. Love
 
 If a man sees the partner, a woman, in a heterosexual relationship, as an
 object, including the sex rituals, the relationship itself and the view others
@@ -191,7 +193,7 @@ they are the price, not the women, they will choose the wrong partner, will be
 unhappy, and society is left with societal collapse because not enough babies
 are born.
 
-# Dutch mentality
+# 4. Dutch mentality
 
 The personal experience of the author with Dutch culture and Dutchies is often:
 
