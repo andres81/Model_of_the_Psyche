@@ -142,13 +142,21 @@ When women are raised by upbringing, society and experiences, that the above is
 what there is, and nothing else, no Hollywood romantic real love, then she might
 choose her money's worth in the form of accepting the minimal love situation she
 sees as the only option, and go for extra's. Extra's can come in several forms:
+
 * A man making good money, 100k, 150k, 200k...
-* He is good looking, will age well
+* He is good-looking, will age well
 * He has high social standing, which will be given to her once together
 * He has the ability to give her children with the good genes she perceives him
   having. (Perceives, because autism flies below the radar, as is the case with
   the author. All nice and dandy, until she finds out that thát is going on, and
   she will look one door further down the road.)
+
+The above will result in two individuals regarding relationships as engagements
+like you see with formal business ones. Everything is calculated, trust is low,
+knowing the other person can at anytime step out of the engagement, in favor of
+a better (business) partner. "No hard feelings, no offense, strictly business".
+
+
 
 # Dutch mentality
 
