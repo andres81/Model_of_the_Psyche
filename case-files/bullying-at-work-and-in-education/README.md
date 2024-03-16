@@ -86,6 +86,10 @@ what guarantee, does the author, a simple cake eating civilian, the peasant, the
 
 ## Analysis
 
+### Fraternities: The abuse and damaging of young women
+
+
+
 ### Bullying Employers
 
 When an employer sees you as your servant (see reference #15), you need some
