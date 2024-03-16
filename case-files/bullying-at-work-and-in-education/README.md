@@ -27,8 +27,8 @@
 
 Loosing themselves in social group rituals, completely hypnotised by the urges
 to act social in the context of a group merely due to old instincts, while at
-any given time being completely aware of the situation, that at any given time,
-this all goes at the expense of other people. Others are the definition of the
+any given time being completely aware of the situation, that this all goes at
+the expense of other people. Others are the definition of the
 group. The others are the outsiders. Not part of the inner group, that itself is
 within the social group perceived by the people trying to belong to that, which
 is only real to them. The grand illusion: "Come on... it's just a joke". Is this
