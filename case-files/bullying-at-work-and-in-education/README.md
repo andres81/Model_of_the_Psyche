@@ -44,20 +44,45 @@ you as the humanbeing you are, just like you must be doing the same with us. You
 don't know us, don't tell me you consider us friends... We hardly ever spoke.",
 while opening the door to [becoming the hell you are then considered to be](https://en.wikipedia.org/wiki/No_Exit).
 
-If ethics are the rules to abide by, to be accepted as a group in a larger context,
-and morals that what you truly internally believe is write and wrong, how does one check
-group is of true intent
+If ethics are the rules to abide by, to be accepted as a group in a larger
+context, and morals that what you truly internally believe is right and wrong,
+how does one check group is of true intent
 
 1. Evolving ideas regarding what is morally right and wrong
 2. Evolving of rules of ethics, believes of how the group will fit within the larger
    group.
 3. Proof the group is of true intent to evolve ideas regarding moral and the intent
    to fit in. The insight of the context, that it doesn't matter what the morals are.
-4. Insight of the context, that when non members of the group, enter the situation,
+4. Insight of the context, that when non-members of the group, enter the situation,
    behind closed doors, without knowing what is going on, and then being exposed
    to the moral believes of the group. Keeping that what is immoral to the context,
    a secret, by way of contract signing and threads of damage and destruction.
 
+In general, a group that defends their actions, with the argument that they
+would never have an intention to act bad, immorally, unethical, while evading
+the question, how to prevent actions that are actually in themselves immoral,
+unethical and not acceptable in the outer context, could very well have immoral
+convictions, but moral according to the convictions of the members of the group.
+It all depends on the frame of reference you take as a point of view. The
+argument they subsequently might put forward, that of saying that they, the
+members of teh group choose these morals, that might be immoral outside of the
+group, but that the group should have the freedom to act as they are inside
+of the context of the group, say a private clubhouse. 
+
+How does society, the social construct it might be considered, cater for the
+needs of young women, that join fraternities? How locked in, in a room without
+exits, are young women when they go studying at universities, thinking of their
+future, and dependent on perceived social groups? Existential angst, the fear of
+not getting the guy, the respect, the network, a future with children with a man
+they wish to be with, purely because they didn't sacrifice a little comfort now?
+"Just join, dehazing nobody likes, but afterwards...", while at the same time
+the fraternity needing a group of young women to feed off for the prospect
+members they actually see as permanent ones. The "chickens" that have no place,
+but will merely be (ab)used for the growth and experiences of the new ones, that
+as part of the whole experience consume the objects the young women are
+perceived as being. The fraternities might argue, they would never do that, but
+what guarantee, does the author, a simple cake eating civilian, the peasant, the
+"droeftoeter" that he is, have?
 
 ## Analysis
 
