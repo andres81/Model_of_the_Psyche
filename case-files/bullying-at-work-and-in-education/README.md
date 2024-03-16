@@ -19,6 +19,7 @@
 15. https://youtube.com/shorts/tfVdNSR6ybA?si=PcshRQlDkDdAKYq0
 16. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440410/ouders-slachtoffers-bangalijst-utrecht-dreigen-met-juridische
 17. https://www.rtlnieuws.nl/nieuws/nederland/artikel/173036/milou-wordt-regelmatig-uitgemaakt-voor-slet-hoer-slutshaming-niet
+18. https://nos.nl/artikel/2512864-utrechtse-studentes-mikpunt-van-seksisme-in-grietenpresentatie-door-corps
 
 ## Introduction
 
@@ -48,13 +49,17 @@ that harm the civilians subject to the system called society. We protect
 individuals from falling off of higher grounds, hazardous materials, dangerous
 individuals, but when it comes to institutions, that deal with people,
 everything goes. "Let us play a little bit will yah... Traditions something".
-Were the "Banga" lists a direct consequence of categorising women, and treating
-them as lesser beings, reminiscent of the Germans during the WWII where Jews
+Were the "Banga" lists a direct consequence of [categorising women, and treating
+them as lesser beings](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440306/leden-utrechts-corps-geschorst-om-weerzinwekkende)
+, reminiscent of the Germans during the WWII where Jews
 were the target? Did we not learn anything? It might never have been the
 intention, but coming close to the behaviour of which we know it has negative
 consequences, is bad enough. The question is then, can you call yourself a
 victim of ignorance when you behave as such? Who could have prevented this? How
 believable is it, that people really didn't know what they were doing? 
+
+Not taking enough distance and waiting for [the parents to start lawsuits](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440410/ouders-slachtoffers-bangalijst-utrecht-dreigen-met-juridische)
+shows to the author how passive is reacted to these atrocities. 
 
 Loosing themselves in social group rituals, completely hypnotised by the urges
 to act social in the context of a group merely due to old instincts, while at
