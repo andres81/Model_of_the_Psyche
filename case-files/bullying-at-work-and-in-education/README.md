@@ -75,14 +75,38 @@ exits, are young women when they go studying at universities, thinking of their
 future, and dependent on perceived social groups? Existential angst, the fear of
 not getting the guy, the respect, the network, a future with children with a man
 they wish to be with, purely because they didn't sacrifice a little comfort now?
-"Just join, dehazing nobody likes, but afterwards...", while at the same time
+"Just join, dehazing nobody likes, but afterward...", while at the same time
 the fraternity needing a group of young women to feed off for the prospect
 members they actually see as permanent ones. The "chickens" that have no place,
 but will merely be (ab)used for the growth and experiences of the new ones, that
 as part of the whole experience consume the objects the young women are
 perceived as being. The fraternities might argue, they would never do that, but
 what guarantee, does the author, a simple cake eating civilian, the peasant, the
-"droeftoeter" that he is, have?
+"droeftoeter" that he is, have? I simply have to trust your system, that is in
+part secret, looking at the contracts new members have to sign to keep their mouths
+shut. While at the same time receiving signals from society that things go
+terribly wrong during initiation rituals? What guarantee do I have, you don't 
+rape, sexually abuse and humiliate new members, while threatening them with
+social destruction, humiliation, financial damage, lawsuits and what not, if
+they speak, ask understanding from society, help for the pain... simple justice
+for what was done to them.
+
+[Calling young women "whore", "slut" or "laag wijf"](https://www.rtlnieuws.nl/nieuws/nederland/artikel/173036/milou-wordt-regelmatig-uitgemaakt-voor-slet-hoer-slutshaming-niet)
+, might be a simple projection of men not knowing how to please and/or satisfy
+women. These men should be taken by hand maybe to show them how this is done.
+Projecting as a coping mechanism to deal with the fact they themselves are at
+fault that sex isn't really happening nor keeping the woman interest in them,
+isn't the solution. It simply doesn't work. The goal might be to manipulate the
+social group they wish to perceive, or worse, they wish the target audience,
+women, to perceive, to form this prison they can't escape from, and then to
+prevent social shaming, they should choose these men despite the incompetence
+displayed and maybe even a lack of personality. Reflection is a thing gentlemen,
+if not you, others will do it for you.
+
+Young women need sex just like we all need it. How come society is so passive to
+stand up for young women and invite them to feel sexually free, try out as much
+as possible, before they settle down with one partner, have kids and form
+families that form the foundation of society? Need to be reminded of Simone?
 
 ## Analysis
 
