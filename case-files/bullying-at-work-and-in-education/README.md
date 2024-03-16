@@ -29,6 +29,8 @@
 
 ### Fraternities: The abuse and damaging of young women
 
+#### !!! WORK IN PROGRESS !!!
+
 Loosing themselves in social group rituals, completely hypnotised by the urges
 to act social in the context of a group merely due to old instincts, while at
 any given time being completely aware of the situation, that this all goes at
