@@ -17,12 +17,108 @@
 13. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5370593/excuses-misstanden-nos-sport-hoofdredactie-discriminatie
 14. https://www.rtlnieuws.nl/lifestyle/artikel/5366262/rita-wil-nooit-meer-gepest-worden-op-haar-werk-continu-opgejaagd
 15. https://youtube.com/shorts/tfVdNSR6ybA?si=PcshRQlDkDdAKYq0
- 
+16. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440410/ouders-slachtoffers-bangalijst-utrecht-dreigen-met-juridische
+17. https://www.rtlnieuws.nl/nieuws/nederland/artikel/173036/milou-wordt-regelmatig-uitgemaakt-voor-slet-hoer-slutshaming-niet
+
 ## Introduction
+
+[Bullying](https://www.apa.org/topics/bullying) is destructive, damaging,
+[immoral and unethical](https://en.wikipedia.org/wiki/Morality). We had the
 
 ## Analysis
 
+### Fraternities: The abuse and damaging of young women
 
+Loosing themselves in social group rituals, completely hypnotised by the urges
+to act social in the context of a group merely due to old instincts, while at
+any given time being completely aware of the situation, that this all goes at
+the expense of other people. Others are the definition of the
+group. The others are the outsiders. Not part of the inner group, that itself is
+within the social group perceived by the people trying to belong to that, which
+is only real to them. The grand illusion: "Come on... it's just a joke". Is this
+what they call [gaslighting](https://en.wikipedia.org/wiki/Gaslighting)? "We
+'abuse'... uuuh make fun of you, because you are part of the group, our way of
+celebrating you are part of what we got going on here. Right guys? ;) wink wink
+nodge nodge".
+
+Saying "It's just a joke, [calling you a slut, a whore, easy to get horizontal...](https://www.rtlnieuws.nl/nieuws/nederland/artikel/173036/milou-wordt-regelmatig-uitgemaakt-voor-slet-hoer-slutshaming-niet)
+Don't be such a square, you don't want to be considered that dull girl now do
+you? ;)" is the same as saying "We are not dehumanizing you, merely objectifying
+you as the humanbeing you are, just like you must be doing the same with us. You
+don't know us, don't tell me you consider us friends... We hardly ever spoke.",
+while opening the door to [becoming the hell you are then considered to be](https://en.wikipedia.org/wiki/No_Exit).
+
+If ethics are the rules to abide by, to be accepted as a group in a larger
+context, and morals that what you truly internally believe is right and wrong,
+how does one check group is of true intent
+
+1. Evolving ideas regarding what is morally right and wrong
+2. Evolving of rules of ethics, believes of how the group will fit within the larger
+   group.
+3. Proof the group is of true intent to evolve ideas regarding moral and the intent
+   to fit in. The insight of the context, that it doesn't matter what the morals are.
+4. Insight of the context, that when non-members of the group, enter the situation,
+   behind closed doors, without knowing what is going on, and then being exposed
+   to the moral believes of the group. Keeping that what is immoral to the context,
+   a secret, by way of contract signing and threads of damage and destruction.
+
+In general, a group that defends their actions, with the argument that they
+would never have an intention to act bad, immorally, unethical, while evading
+the question, how to prevent actions that are actually in themselves immoral,
+unethical and not acceptable in the outer context, could very well have immoral
+convictions, but moral according to the convictions of the members of the group.
+It all depends on the frame of reference you take as a point of view. The
+argument they subsequently might put forward, that of saying that they, the
+members of teh group choose these morals, that might be immoral outside of the
+group, but that the group should have the freedom to act as they are inside
+of the context of the group, say a private clubhouse.
+
+How does society, the social construct it might be considered, cater for the
+needs of young women, that join fraternities? How locked in, in a room without
+exits, are young women when they go studying at universities, thinking of their
+future, and dependent on perceived social groups? Existential angst, the fear of
+not getting the guy, the respect, the network, a future with children with a man
+they wish to be with, purely because they didn't sacrifice a little comfort now?
+"Just join, dehazing nobody likes, but afterward...", while at the same time
+the fraternity needing a group of young women to feed off for the prospect
+members they actually see as permanent ones. The "chickens" that have no place,
+but will merely be (ab)used for the growth and experiences of the new ones, that
+as part of the whole experience consume the objects the young women are
+perceived as being. The fraternities might argue, they would never do that, but
+what guarantee, does the author, a simple cake eating civilian, the peasant, the
+"droeftoeter" that he is, have? I simply have to trust your system, that is in
+part secret, looking at the contracts new members have to sign to keep their mouths
+shut. While at the same time receiving signals from society that things go
+terribly wrong during initiation rituals? What guarantee do I have, you don't
+rape, sexually abuse and humiliate new members, while threatening them with
+social destruction, humiliation, financial damage, lawsuits and what not, if
+they speak, ask understanding from society, help for the pain... simple justice
+for what was done to them.
+
+[Calling young women "whore", "slut" or "laag wijf"](https://www.rtlnieuws.nl/nieuws/nederland/artikel/173036/milou-wordt-regelmatig-uitgemaakt-voor-slet-hoer-slutshaming-niet)
+, might be a simple projection of men not knowing how to please and/or satisfy
+women. These men should be taken by hand maybe to show them how this is done.
+Projecting as a coping mechanism to deal with the fact they themselves are at
+fault that sex isn't really happening nor keeping the woman interest in them,
+isn't the solution. It simply doesn't work. The goal might be to manipulate the
+social group they wish to perceive, or worse, they wish the target audience,
+women, to perceive, to form this prison they can't escape from, and then to
+prevent social shaming, they should choose these men despite the incompetence
+displayed and maybe even a lack of personality. Reflection is a thing gentlemen,
+if not you, others will do it for you. These antics are reminiscent of what
+social groups, communities did in the old days. But back then, it were the older
+women being jealous, bitter, vindictive because of the fact they would never
+have a young male body again. You want to be like that as a young man?
+
+Young women need sex just like we all need it. How come society is so passive to
+stand up for young women and invite them to feel sexually free, try out as much
+as possible, before they settle down with one partner, have kids and form
+families that form the foundation of society? Need to be reminded of Simone?
+
+Tip for men: The female body is a diesel, not a gasoline. Take it slow, get to
+the second threshold of biological arousal and you will have success! Getting
+too fast to the first one, will only biologically activate her and top of
+arousal, never getting to the second threshold.
 
 ### Bullying Employers
 
@@ -40,7 +136,7 @@ more. The employee is not there to deliver anything more, like for example:
 * Being a friend
 * Socialise
 * Being a status symbol
-* Being a toy or symbol of having power over other humanbeings.
+* Being a toy or symbol of having power over other human beings.
 
 The employer might have personality disorders like [antisocial personality disorder](https://en.wikipedia.org/wiki/Antisocial_personality_disorder).
 [Psychopathy and sociopathy](https://www.verywellhealth.com/sociopath-vs-psychopath-characteristics-and-differences-5193369)
