@@ -27,9 +27,34 @@
 
 ## Analysis
 
-### Fraternities: The abuse and damaging of young women
+### [Student societies](https://en.wikipedia.org/wiki/Student_society): The abuse and damaging of young women
 
 #### !!! WORK IN PROGRESS !!!
+
+What went wrong with the student societies? Why were [young women abused and
+bullied](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440306/leden-utrechts-corps-geschorst-om-weerzinwekkende)?
+Were there clearly defined rules of engagement? What did the municipalities do?
+Demand at the least a set of rules and a rules of engagement document to
+operate within the bounds of the municipality? Do they even care? Does the
+university care at all, truly? Actions speak louder than words. Proactive actions
+instead of reactive actions, where reactive actions might merely by an attempt
+to act ethically to remain accepted as an institute within society. Often seen
+as social participation, looking at individuals acting on behalf of the
+organisation apologising as if there is a social relationship to be repaired.
+Implicitly communicating the view that the simple "peasants", civilians, don't
+know any better anyway. Where it is better to refer to the system that is society
+where the system should have mechanisms in place to identify toxic subsystems
+that harm the civilians subject to the system called society. We protect
+individuals from falling off of higher grounds, hazardous materials, dangerous
+individuals, but when it comes to institutions, that deal with people,
+everything goes. "Let us play a little bit will yah... Traditions something".
+Were the "Banga" lists a direct consequence of categorising women, and treating
+them as lesser beings, reminiscent of the Germans during the WWII where Jews
+were the target? Did we not learn anything? It might never have been the
+intention, but coming close to the behaviour of which we know it has negative
+consequences, is bad enough. The question is then, can you call yourself a
+victim of ignorance when you behave as such? Who could have prevented this? How
+believable is it, that people really didn't know what they were doing? 
 
 Loosing themselves in social group rituals, completely hypnotised by the urges
 to act social in the context of a group merely due to old instincts, while at
