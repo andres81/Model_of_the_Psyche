@@ -17,12 +17,34 @@
 13. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5370593/excuses-misstanden-nos-sport-hoofdredactie-discriminatie
 14. https://www.rtlnieuws.nl/lifestyle/artikel/5366262/rita-wil-nooit-meer-gepest-worden-op-haar-werk-continu-opgejaagd
 15. https://youtube.com/shorts/tfVdNSR6ybA?si=PcshRQlDkDdAKYq0
- 
+16. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440410/ouders-slachtoffers-bangalijst-utrecht-dreigen-met-juridische
+17. https://www.rtlnieuws.nl/nieuws/nederland/artikel/173036/milou-wordt-regelmatig-uitgemaakt-voor-slet-hoer-slutshaming-niet
+
 ## Introduction
 
+[Bullying](https://www.apa.org/topics/bullying) is destructive, damaging,
+[immoral and unethical](https://en.wikipedia.org/wiki/Morality). We had the 
+
+Loosing themselves in social group rituals, completely hypnotised by the urges
+to act social in the context of a group merely due to old instincts, while at
+any given time being completely aware of the situation, that at any given time,
+this all goes at the expense of other people. Others are the definition of the
+group. The others are the outsiders. Not part of the inner group, that itself is
+within the social group perceived by the people trying to belong to that, which
+is only real to them. The grand illusion: "Come on... it's just a joke". Is this
+what they call [gaslighting](https://en.wikipedia.org/wiki/Gaslighting)? "We
+'abuse'... uuuh make fun of you, because you are part of the group, our way of
+celebrating you are part of what we got going on here. Right guys? ;) wink wink
+nodge nodge".  
+
+Saying "It's just a joke, [calling you a slut, a whore, easy to get horizontal...](https://www.rtlnieuws.nl/nieuws/nederland/artikel/173036/milou-wordt-regelmatig-uitgemaakt-voor-slet-hoer-slutshaming-niet)
+Don't be such a square, you don't want to be considered that dull girl now do
+you? ;)" is the same as saying "We are not dehumanizing you, merely objectifying
+you as the humanbeing you are, just like you must be doing the same with us. You
+don't know us, don't tell me you consider us friends... We hardly ever spoke.",
+while opening the door to [becoming the hell you are then considered to be](https://en.wikipedia.org/wiki/No_Exit).
+
 ## Analysis
-
-
 
 ### Bullying Employers
 
