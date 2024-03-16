@@ -44,6 +44,21 @@ you as the humanbeing you are, just like you must be doing the same with us. You
 don't know us, don't tell me you consider us friends... We hardly ever spoke.",
 while opening the door to [becoming the hell you are then considered to be](https://en.wikipedia.org/wiki/No_Exit).
 
+If ethics are the rules to abide by, to be accepted as a group in a larger context,
+and morals that what you truly internally believe is write and wrong, how does one check
+group is of true intent
+
+1. Evolving ideas regarding what is morally right and wrong
+2. Evolving of rules of ethics, believes of how the group will fit within the larger
+   group.
+3. Proof the group is of true intent to evolve ideas regarding moral and the intent
+   to fit in. The insight of the context, that it doesn't matter what the morals are.
+4. Insight of the context, that when non members of the group, enter the situation,
+   behind closed doors, without knowing what is going on, and then being exposed
+   to the moral believes of the group. Keeping that what is immoral to the context,
+   a secret, by way of contract signing and threads of damage and destruction.
+
+
 ## Analysis
 
 ### Bullying Employers
