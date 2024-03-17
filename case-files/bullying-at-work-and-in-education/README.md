@@ -191,6 +191,12 @@ the second threshold of biological arousal and you will have success! Getting
 too fast to the first one, will only biologically activate her and top of
 arousal, never getting to the second threshold.
 
+Let it be very clear: An attack on women, especially young women, is an attack
+on society itself. We stand tall together. Society has as a responsibility to
+protect women. Our mothers of our children, our wives, the loving beautiful
+creatures that they are. You dare to abuse and attack them, you will feel the
+wrath of a community.
+
 ### Bullying Employers
 
 When an employer sees you as your servant (see reference #15), you need some

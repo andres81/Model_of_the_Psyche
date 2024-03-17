@@ -14,10 +14,25 @@ The social construct, amongst other purposes, will serve also the goal of
 
 # Table of Contents
 
+* Role of society to cater for the needs of women in a male dominated world
 * Public Transport
 * Societal exclusion of minorities based on geography, culture or ethnicity by way of social engineering
 * Love
 * Dutch mentality
+
+# Role of society to cater for the needs of women in a male dominated world
+
+## Female students
+
+Fraternities, student-societies, have clearly [failed](https://andreschepers.nl/#bullying-at-work-and-in-education), 
+in offering an addendum to the experiences a student goes through. Instead of
+constructive experiences to aid and add to the growth process, and making happy
+memories, females are abused, damaged, scorned, and given the experience of a
+society that couldn't care less.
+
+Let's not complain here, in this work of writing, but instead look at a solution
+and a design of a system, offered as a proposal to the members of society, to
+put in place, in order to be able to rely on 
 
 # 1. Public Transport
 
