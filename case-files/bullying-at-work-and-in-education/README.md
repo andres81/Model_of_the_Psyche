@@ -19,6 +19,7 @@
 15. https://youtube.com/shorts/tfVdNSR6ybA?si=PcshRQlDkDdAKYq0
 16. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440410/ouders-slachtoffers-bangalijst-utrecht-dreigen-met-juridische
 17. https://www.rtlnieuws.nl/nieuws/nederland/artikel/173036/milou-wordt-regelmatig-uitgemaakt-voor-slet-hoer-slutshaming-niet
+18. https://nos.nl/artikel/2512864-utrechtse-studentes-mikpunt-van-seksisme-in-grietenpresentatie-door-corps
 
 ## Introduction
 
@@ -48,13 +49,56 @@ that harm the civilians subject to the system called society. We protect
 individuals from falling off of higher grounds, hazardous materials, dangerous
 individuals, but when it comes to institutions, that deal with people,
 everything goes. "Let us play a little bit will yah... Traditions something".
-Were the "Banga" lists a direct consequence of categorising women, and treating
-them as lesser beings, reminiscent of the Germans during the WWII where Jews
+Were the "Banga" lists a direct consequence of [categorising women, and treating
+them as lesser beings](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440306/leden-utrechts-corps-geschorst-om-weerzinwekkende)
+, reminiscent of the Germans during the WWII where Jews
 were the target? Did we not learn anything? It might never have been the
 intention, but coming close to the behaviour of which we know it has negative
 consequences, is bad enough. The question is then, can you call yourself a
 victim of ignorance when you behave as such? Who could have prevented this? How
-believable is it, that people really didn't know what they were doing? 
+believable is it, that people really didn't know what they were doing?
+
+Not taking enough distance and waiting for [the parents to start lawsuits](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440410/ouders-slachtoffers-bangalijst-utrecht-dreigen-met-juridische)
+shows to the author how passive is reacted to these atrocities by authorities.
+Take the mayor of the municipality Utrecht. She would [address the society
+firmly](https://nos.nl/artikel/2512864-utrechtse-studentes-mikpunt-van-seksisme-in-grietenpresentatie-door-corps).
+Shouldn't you, as a mayor, but also as a municipality, act proactively, by
+agreeing to a rules of engagement agreement between the representatives of
+society, the local government in this case, and the society? Stating that you
+do protect the citizens of the Netherlands, and not abuse them. But also the
+consequences of not honoring the agreement. Stating clear control mechanisms,
+like an audit trail how every natural person that comes to become a member is 
+treated, how they are protected from rape, sexual abuse, mental abuse, threats,
+manipulation into doing unlawful things and what not. Protecting them from
+psycho- and sociopaths, sadists, narcissists, and other types of human beings
+that merely care about consuming human emotions caused by the situation they
+create for just that purpose. Or are the mayor and the
+municipalities in the Netherlands that naive, that they want us to believe, that these
+organisations will regulate themselves from within without any oversight from
+outside, society? Trusting also, that signals will come out, because there is no
+contract signed by members to keep their mouth shut, if things go very wrong?
+You should clearly show
+proof of doing everything in your power to prevent mistreatment of natural
+persons by organisations, or better said, any entity other than natural persons,
+that fall under your jurisdiction. If not, I would like to refer to Sartre: You 
+are condemned to freedom. You are in part responsible for the abuse and damage
+done to the natural persons involved. In the case of "Banga lists", women.
+I myself, the author of this piece, am responsible, to keep an eye on your
+actions. I have to depend on systems,
+[protecting us from being morally accountability for our actions](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)#:~:text=Taking%20on%20the%20burden%20of%20personal%20accountability%20in%20all%20situations%20is%20an%20intimidating%20proposition%C2%A0%E2%80%93%20by%20pointing%20out%20the%20freedom%20of%20the%20individual%2C%20Sartre%20seeks%20to%20demonstrate%20that%20the%20social%20roles%20and%20moral%20systems%20we%20adopt%20protect%20us%20from%20being%20morally%20accountable%20for%20our%20actions.)
+
+Women are not a social construct in themselves. Nor nothing more than a social
+construct. They cannot be objectified for the mere purpose of legitimising
+exploiting them for sexual pleasure, at the cost of their mental and emotional
+well-being. Organisations, like student societies, [might conform on the outside](https://www.simplypsychology.org/conformity.html),
+as an organisation, ethics, but also as individuals, morals, to what society
+expects from them in terms of behaviour. More precise: How they will treat
+women. But that does not mean they conform on the inside. If society trusts
+societies, and individuals that are members of these societies, to behave
+according to the rules conformed to on the outside, then we will see a failing
+system being in place. How can individuals, subject to society, trust society
+as the system to protect us from moral accountability, when society fails as
+mentioned above?
 
 Loosing themselves in social group rituals, completely hypnotised by the urges
 to act social in the context of a group merely due to old instincts, while at
