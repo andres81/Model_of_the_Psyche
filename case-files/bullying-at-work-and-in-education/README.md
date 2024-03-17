@@ -150,7 +150,7 @@ exits, are young women when they go studying at universities, thinking of their
 future, and dependent on perceived social groups? Existential angst, the fear of
 not getting the guy, the respect, the network, a future with children with a man
 they wish to be with, purely because they didn't sacrifice a little comfort now?
-"Just join, dehazing nobody likes, but afterward...", while at the same time
+"Just join, [hazing](https://en.wikipedia.org/wiki/Hazing) nobody likes, but afterward...", while at the same time
 the fraternity needing a group of young women to feed off for the prospect
 members they actually see as permanent ones. The "chickens" that have no place,
 but will merely be (ab)used for the growth and experiences of the new ones, that
