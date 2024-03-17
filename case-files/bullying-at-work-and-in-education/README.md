@@ -64,12 +64,20 @@ Take the mayor of the municipality Utrecht. She would [address the society
 firmly](https://nos.nl/artikel/2512864-utrechtse-studentes-mikpunt-van-seksisme-in-grietenpresentatie-door-corps).
 Shouldn't you, as a mayor, but also as a municipality, act proactively, by
 agreeing to a rules of engagement agreement between the representatives of
-society, the local governemnt in this case, and the society? Stating that you
+society, the local government in this case, and the society? Stating that you
 do protect the citizens of the Netherlands, and not abuse them. But also the
-consequences if not honoring the agreement. Stating clear control mechanisms,
-like a audit trail how every natural person that comes to become a member is 
+consequences of not honoring the agreement. Stating clear control mechanisms,
+like an audit trail how every natural person that comes to become a member is 
 treated, how they are protected from rape, sexual abuse, mental abuse, threats,
-manipulation into doing unlawful things and what not. You should clearly show
+manipulation into doing unlawful things and what not. Protecting them from
+psycho- and sociopaths, sadists, narcissists, and other types of human beings
+that merely care about consuming human emotions caused by the situation they
+create for just that purpose. Or are the mayor and the
+municipalities in the Netherlands that naive, that they want us to believe, that these
+organisations will regulate themselves from within without any oversight from
+outside, society? Trusting also, that signals will come out, because there is no
+contract signed by members to keep their mouth shut, if things go very wrong?
+You should clearly show
 proof of doing everything in your power to prevent mistreatment of natural
 persons by organisations, or better said, any entity other than natural persons,
 that fall under your jurisdiction. If not, I would like to refer to Sartre: You 
@@ -90,7 +98,7 @@ societies, and individuals that are members of these societies, to behave
 according to the rules conformed to on the outside, then we will see a failing
 system being in place. How can individuals, subject to society, trust society
 as the system to protect us from moral accountability, when society fails as
-above mentioned?
+mentioned above?
 
 Loosing themselves in social group rituals, completely hypnotised by the urges
 to act social in the context of a group merely due to old instincts, while at
