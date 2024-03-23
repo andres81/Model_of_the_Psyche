@@ -254,18 +254,27 @@ brown beans for breakfast, you can hardly be held accountable for a policy of
 the university consisting of subsidising an external group that abuses young,
 fragile individuals.
 
-If you are a professor educating PhD students, on the other hand, teaching what
-Sartre said, and to what extent that was a result of Simone telling him:
-"Non, non, ce n'est pas vrai!", how can you possibly deny you could have known
-that what happened would happen? What
+If you are a professor educating PhD students, on the other hand, or any
+professional teaching what Sartre shared with the world, and to what extent that
+was a result of Simone telling him: "Non, non, ce n'est pas vrai!", how can you
+possibly deny you could have known that what happened would happen? What
 [moral system](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))
 giving you a 100% guarantee, the
 [abuse](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5441427/voorlopig-geen-subsidie-voor-studentencorps-utrecht-om-bangalijst)
-could not possibly happen, did you see in place to prevent this? Did you at the least, if you saw one
-missing, indicate to your employer, to society, [USC](https://nl.wikipedia.org/wiki/Utrechtsch_Studenten_Corps) itself,
+could not possibly happen, did you see in place to prevent this? Did you at the
+least, if you saw one missing, indicate to your employer, to society,
+[USC](https://nl.wikipedia.org/wiki/Utrechtsch_Studenten_Corps) itself,
 that they need to come with safety systems in place, to prevent the abuse and
-potential destruction of young women?
+potential destruction of young women? Or do you wish to deny your freedom to do
+so, denying your responsibility of said freedom, and perceiving yourself as
+merely an object in the reality of the context, being society, your colleagues,
+the victims?
 
+Because the
+[faculty of philosophy](https://www.uu.nl/en/research/philosophy)
+of the
+[Utrecht Universiteit](https://www.uu.nl/en)
+, is responsible for you, knowing what you should be capable of, 
 
 
 
