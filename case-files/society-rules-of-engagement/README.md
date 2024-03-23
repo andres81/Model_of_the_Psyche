@@ -10,7 +10,7 @@ In the end, each individual always has to choose themselves to go with that
 view of that construct or not. 
 
 The social construct, amongst other purposes, will serve also the goal of
-[protecting us from being morally accountability for our actions](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)#:~:text=Taking%20on%20the%20burden%20of%20personal%20accountability%20in%20all%20situations%20is%20an%20intimidating%20proposition%C2%A0%E2%80%93%20by%20pointing%20out%20the%20freedom%20of%20the%20individual%2C%20Sartre%20seeks%20to%20demonstrate%20that%20the%20social%20roles%20and%20moral%20systems%20we%20adopt%20protect%20us%20from%20being%20morally%20accountable%20for%20our%20actions.)
+[protecting us from being morally accountability for our actions](https://en.wikipedia.org/wiki/Bad_faith_(existentialism).)
 
 # Table of Contents
 

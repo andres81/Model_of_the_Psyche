@@ -246,14 +246,24 @@ not called being condemned without reason.
 To what extent you really can be held accountable, depends of course in part on
 your ability to check and understand what the organisation is doing and the
 subsequent impact on the context: Society in the case of a university like the
-[Utrecht Universiteit](https://www.uu.nl/en). If you are a cleaner, for example,
-cleaning a toilet in the evening after the author came by with diarrhea, due to
-a busy week drinking too much coffee and brown beans for breakfast, you can
-hardly be held accountable for a policy of the university consisting of
-subsidising an external group that abuses young, fragile individuals.
+[Utrecht Universiteit](https://www.uu.nl/en).
+
+If you are a cleaner, for example, cleaning a toilet in the evening after the
+author came by with diarrhea, due to a busy week drinking too much coffee and
+brown beans for breakfast, you can hardly be held accountable for a policy of
+the university consisting of subsidising an external group that abuses young,
+fragile individuals.
+
 If you are a professor educating PhD students, on the other hand, teaching what
-Sartre said, and to what extent that was a result of Simone telling him: "Non,
-non, ce n'est pas vrai!",
+Sartre said, and to what extent that was a result of Simone telling him:
+"Non, non, ce n'est pas vrai!", how can you possibly deny you could have known
+that what happened would happen? What
+[moral system](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))
+did you see in place to prevent this? Did you at the least, if you saw one
+missing, giving you 100% guarantee the
+[abuse](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5441427/voorlopig-geen-subsidie-voor-studentencorps-utrecht-om-bangalijst)
+
+
 
 
 ### Bullying Employers
