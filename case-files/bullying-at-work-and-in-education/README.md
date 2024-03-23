@@ -363,6 +363,18 @@ victims. The women, but also the families of the women. I will not have this!
 You have only stopped paying sponsoring, you have waited with that way too long,
 but that in itself, is not close to enough.
 
+#### Immediate intervention
+
+What I see lacking, accept for the lawyer of the women and their families, is
+help for the victims. They are at home, suffering pain, experiencing social
+shame, living in a prison reminiscent of a
+[room without exits](https://en.wikipedia.org/wiki/No_Exit). Who will free them
+of that sentence? What did they do to deserve this? It is now most important to
+help them. Why don't I hear anything from the
+[Utrecht Universiteit](https://www.uu.nl/en),
+[Hogeschool Utrecht](https://www.hu.nl/) or the
+[municipality of Utrecht](https://www.utrecht.nl/)? Why so silent...?
+
 ### Bullying Employers
 
 When an employer sees you as your servant (see reference #15), you need some
