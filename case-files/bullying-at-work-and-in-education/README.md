@@ -350,8 +350,9 @@ previous century, goes too far. But also, not only the members that created the
 lists are to be seen as responsible for what happened, also the parties having
 been passive, allowing this to happen, should face the consequences.
 
-The [Utrecht Universiteit](https://www.uu.nl/en and
-[Hogeschool Utrecht](https://www.hu.nl/)
+The [Utrecht Universiteit](https://www.uu.nl/en),
+[Hogeschool Utrecht](https://www.hu.nl/) and the
+[municipality of Utrecht](https://www.utrecht.nl/)
 have, in the opinion of the author (before you bastards start suing me!
 Try me on!), not done enough. They should be held accountable. Meaning they
 should compensate the women that are a victim. Not only financially, but also
@@ -359,7 +360,8 @@ societal, by reputation, psychological, emotional and educational. You figure it
 out how and what it exactly means. But you can count on the following: I, the
 author of this writing, will not rest, before full justice is done to the
 victims. The women, but also the families of the women. I will not have this!
-You have only stopped paying sponsoring, you have waited with that way too long.
+You have only stopped paying sponsoring, you have waited with that way too long,
+but that in itself, is not close to enough.
 
 ### Bullying Employers
 
