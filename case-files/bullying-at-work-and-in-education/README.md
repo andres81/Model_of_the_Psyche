@@ -274,7 +274,8 @@ the victims?
 Because any employee, knowledgeable of the above-mentioned regarding Sartre, to
 the level of being allowed to teach philosophy, no one can convince the author,
 that there is any legitimate reason one can think of, the university can hide
-behind, that relieves it of its duty to protect the students of said university.
+behind the fact of ignorance regarding the necessity of moral systems, that relieves it
+of its duty to protect the students of said university, by way of moral systems.
 Paying money, to an external organisation, in itself communicates trust in that
 organisation, that allow students to legitimately believe that the university
 extends the policy of protection to that organisation.
@@ -284,6 +285,23 @@ thereby enforcing the same rules of engagement as the university lives by. This
 incorporates protection of individuals and the clear conviction, to withhold
 from engagement with natural persons in society, if implied safety cannot be
 guaranteed.
+Does this make the university accountable like UCS is accountable? In the
+opinion of the author of this piece, absolutely! But not only the university of
+Utrecht as an organisation, but also the faculty of philosophy. They could have
+clearly warned the university, escalated if not taken serious, to society, and
+proof that that was done by way of an audit trail on the escalation procedures.
+Was this at all done? Did anyone care? Or is the excuse going to be given: "We
+didn't know, we didn't expect this to happen..." etc, etc, etc.
+
+### Society
+
+Because the concept of a university is a moral system in itself, if it comes to
+the moral obligation to offer education to natural persons in society, but not
+only to a moral system that offers it according to certain moral beliefs:
+Education for everyone, inclusion, able to pay for it etc..., but also a moral
+system that should take care of protecting natural persons from others. Hell is
+other people. How does society check that that moral system is adequate? To what
+extent is society responsible for the abuse and damage done to young women?
 
 Because the
 [faculty of philosophy](https://www.uu.nl/en/research/philosophy)
