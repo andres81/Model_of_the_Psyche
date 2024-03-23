@@ -20,15 +20,34 @@
 16. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440410/ouders-slachtoffers-bangalijst-utrecht-dreigen-met-juridische
 17. https://www.rtlnieuws.nl/nieuws/nederland/artikel/173036/milou-wordt-regelmatig-uitgemaakt-voor-slet-hoer-slutshaming-niet
 18. https://nos.nl/artikel/2512864-utrechtse-studentes-mikpunt-van-seksisme-in-grietenpresentatie-door-corps
+19. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5441581/lieve-steekt-familielid-op-utrechtse-bangalijs-hart-onder-de-riem
+20. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5441427/voorlopig-geen-subsidie-voor-studentencorps-utrecht-om-bangalijst
+21. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5441254/bangalijst-utrecht-meerdere-aangiftes-gedaan
+22. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440410/ouders-slachtoffers-bangalijst-utrecht-dreigen-met-juridische
+23. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440306/leden-utrechts-corps-geschorst-om-weerzinwekkende
+24. https://www.vox.com/2014/11/17/7229547/philosophy-quotes-misunderstood-wittgenstein-sartre-descartes
+25. https://en.wikipedia.org/wiki/No_Exit
+26. https://en.wikipedia.org/wiki/Being_and_Nothingness
 
 ## Introduction
 
 [Bullying](https://www.apa.org/topics/bullying) is destructive, damaging,
-[immoral and unethical](https://en.wikipedia.org/wiki/Morality). We had the
+[immoral and unethical](https://en.wikipedia.org/wiki/Morality). It is bad, at least in the view of regarding the
+universe as a place created by, or consisting of the intention, to create, grow, evolve, let life be and exist. Moving
+towards complexity, instead of simplicity in the form of complete monotonous existence of pure energy.
+Bullying, by definition, which describes a clear intention to destroy, instead of create, is therefore the opposite of
+that. The same behaviour, with a different intention, which makes it classified as not bullying, could be regarded as
+in line with moving towards more complexity. It is the intention that matters. But that, the necessity of knowing the
+intention, to be able to classify it as bullying, that behaviour that is clearly destructive, makes it in so many
+situations so hard to stop it, prevent it, repair the damage as a cause of it. While the solution is simple: If the
+behaviour comes close enough to behaviour that should never be tolerated, when it would have the intention of bullying,
+stop it, prevent it, heal the damage no matter the cost as far as possible, because it doesn't matter what the intention
+was: "Hell is other people". You wish to protect people? Prevent them from choosing better be safe than sorry, and
+assuming the worst: "The bad intention wás there" could be the assumption of the victims.
 
 ## Analysis
 
-### [Student societies](https://en.wikipedia.org/wiki/Student_society): The abuse and damaging of young women
+## [Student societies](https://en.wikipedia.org/wiki/Student_society): The abuse and damaging of young women
 
 #### !!! WORK IN PROGRESS !!!
 
@@ -196,6 +215,69 @@ on society itself. We stand tall together. Society has as a responsibility to
 protect women. Our mothers of our children, our wives, the loving beautiful
 creatures that they are. You dare to abuse and attack them, you will feel the
 wrath of a community.
+
+### University of Utrecht
+
+The lack of consciously checking what happens to the money offered to an
+external party without checking what is done with it, isn't that showcasing a
+lack of taking responsibility of the duty of the university? Isn't that then
+in turn a clear signal the university is not aware of all other responsibilities
+as well? How does one check employees: Professors, security, cafeteria personnel,
+all others, to what extent they proxy their function to give political substance
+to the tasks that belong to a role that is fulfilled at any given time? How
+damaging that can be to young people, whose brains are literally still growing,
+whose contact with society consists mostly of interaction with the university,
+in the form of interacting with personnel, the rules, policies, the continuous
+gaze of these others.
+
+#### Employee Responsibility
+
+What responsibility does an employee of the university have? At the very least,
+knowing what the employer is doing in society and knowing if that interaction
+is ethically within bounds. Is it behaving ethically? What
+are the ethics to uphold? How do you check it? The reason is because of what
+Sartre conveys in **L'être et le néant**: One is condemned to freedom. The
+moment you choose to work for an organisation, you are part of whatever the
+organisation is responsible for in terms of how it impacts reality, in whatever
+form that may be. Working for the organisation, is contributing to the processes
+within that organisation. It is your responsibility to check if you are acting
+ethically within bounds of the context, as an individual, natural person. It is
+not called being condemned without reason.
+To what extent you really can be held accountable, depends of course in part on
+your ability to check and understand what the organisation is doing and the
+subsequent impact on the context: Society in the case of a university like the
+[Utrecht Universiteit](https://www.uu.nl/en).
+
+If you are a cleaner, for example, cleaning a toilet in the evening after the
+author came by with diarrhea, due to a busy week drinking too much coffee and
+brown beans for breakfast, you can hardly be held accountable for a policy of
+the university consisting of subsidising an external group that abuses young,
+fragile individuals.
+
+If you are a professor educating PhD students, on the other hand, or any
+professional teaching what Sartre shared with the world, and to what extent that
+was a result of Simone telling him: "Non, non, ce n'est pas vrai!", how can you
+possibly deny you could have known that what happened would happen? What
+[moral system](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))
+giving you a 100% guarantee, the
+[abuse](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5441427/voorlopig-geen-subsidie-voor-studentencorps-utrecht-om-bangalijst)
+could not possibly happen, did you see in place to prevent this? Did you at the
+least, if you saw one missing, indicate to your employer, to society,
+[USC](https://nl.wikipedia.org/wiki/Utrechtsch_Studenten_Corps) itself,
+that they need to come with safety systems in place, to prevent the abuse and
+potential destruction of young women? Or do you wish to deny your freedom to do
+so, denying your responsibility of said freedom, and perceiving yourself as
+merely an object in the reality of the context, being society, your colleagues,
+the victims?
+
+Because the
+[faculty of philosophy](https://www.uu.nl/en/research/philosophy)
+of the
+[Utrecht Universiteit](https://www.uu.nl/en)
+, is responsible for you, knowing what you should be capable of, 
+
+
+
 
 ### Bullying Employers
 
