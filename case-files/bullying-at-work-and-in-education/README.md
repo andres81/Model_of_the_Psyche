@@ -285,13 +285,19 @@ thereby enforcing the same rules of engagement as the university lives by. This
 incorporates protection of individuals and the clear conviction, to withhold
 from engagement with natural persons in society, if implied safety cannot be
 guaranteed.
-Does this make the university accountable like UCS is accountable? In the
+Does this make the
+[Utrecht Universiteit](https://www.uu.nl/en)
+accountable like
+[USC](https://nl.wikipedia.org/wiki/Utrechtsch_Studenten_Corps)
+is accountable? In the
 opinion of the author of this piece, absolutely! But not only the university of
-Utrecht as an organisation, but also the faculty of philosophy. They could have
-clearly warned the university, escalated if not taken serious, to society, and
-proof that that was done by way of an audit trail on the escalation procedures.
-Was this at all done? Did anyone care? Or is the excuse going to be given: "We
-didn't know, we didn't expect this to happen..." etc, etc, etc.
+Utrecht as an organisation, but also the
+[faculty of philosophy](https://www.uu.nl/en/research/philosophy)
+. They could have clearly warned the university, escalated if not taken serious,
+to society, and proof that that was done by way of an audit trail on the
+escalation procedures. Was this at all done? Did anyone care? Or is the excuse
+going to be given: "We didn't know, we didn't expect this to happen..." etc,
+etc, etc.
 
 ### Society
 
@@ -299,9 +305,31 @@ Because the concept of a university is a moral system in itself, if it comes to
 the moral obligation to offer education to natural persons in society, but not
 only to a moral system that offers it according to certain moral beliefs:
 Education for everyone, inclusion, able to pay for it etc..., but also a moral
-system that should take care of protecting natural persons from others. Hell is
-other people. How does society check that that moral system is adequate? To what
-extent is society responsible for the abuse and damage done to young women?
+system that should take care of protecting natural persons from others, as a way
+for cake eating civilians like the author, to not worry about the safety of
+other natural persons, like young super intelligent women.
+
+[Hell is other people](https://en.wikipedia.org/wiki/No_Exit).
+How does society check that that moral system is adequate? To what extent is
+society responsible for the abuse and damage done to young women, when it is a
+consequence of a failing moral system or lack there of to begin with? To what
+extent can we still trust
+[hogescholen](https://en.wikipedia.org/wiki/Vocational_university)
+and universities in the Netherlands, or for that matter, the west?
+
+How can I, the author of this writing, with tears in his eyes knowing that
+young women were abused and damaged, trust society if society is so passive, and
+reactive, not even to a proper extent? Where is society so to say? Is anyone
+even bothered at all? The answer is yes! Journalists, in the form of
+[Rtlnieuws](htts://www.rtlnieuws.nl) or on top of this, as the societal pitbulls
+that journalists are. But really, are they the only ones? How much should the
+author feel ashamed, towards the rest of the world when looking at how passive
+we react towards these atrocities? Who is caring about the young women, to
+relieve them of their pains, to invite them to society, indicating clearly, they
+should not now, not ever project a perceived social context over society, that
+there is nothing to be ashamed of, that they are more than welcome, and we care
+about them! Now more than ever. They are the future, with so much to offer, and
+love to give to society. But where is the love of society to them?
 
 Because the
 [faculty of philosophy](https://www.uu.nl/en/research/philosophy)
