@@ -321,9 +321,9 @@ How can I, the author of this writing, with tears in his eyes knowing that
 young women were abused and damaged, trust society if society is so passive, and
 reactive, not even to a proper extent? Where is society so to say? Is anyone
 even bothered at all? The answer is yes! Journalists, in the form of
-[Rtlnieuws](htts://www.rtlnieuws.nl) or on top of this, as the societal pitbulls
-that journalists are. But really, are they the only ones? How much should the
-author feel ashamed, towards the rest of the world when looking at how passive
+[Rtlnieuws](htts://www.rtlnieuws.nl) or on top of this, as the societal Pit
+Bulls that journalists are. But really, are they the only ones? How much should
+the author feel ashamed, towards the rest of the world when looking at how passive
 we react towards these atrocities? Who is caring about the young women, to
 relieve them of their pains, to invite them to society, indicating clearly, they
 should not now, not ever project a perceived social context over society, that
@@ -331,14 +331,37 @@ there is nothing to be ashamed of, that they are more than welcome, and we care
 about them! Now more than ever. They are the future, with so much to offer, and
 love to give to society. But where is the love of society to them?
 
-Because the
-[faculty of philosophy](https://www.uu.nl/en/research/philosophy)
-of the
-[Utrecht Universiteit](https://www.uu.nl/en)
-, is responsible for you, knowing what you should be capable of, 
+Special forces use the phrase: "We leave no man behind.". We should not leave
+these women behind. And keep fighting the fight against evil. The author does
+not perceive a few young men, victim themselves of a lack of walls having been
+put in front of them, lack of raising them by society, love in the form of
+coaching, as evil. They are an easy scapegoat now of a university, a
+[hogeschool](https://en.wikipedia.org/wiki/Vocational_university),
+and society, to put the blame on. The above parties seeing themselves
+potentially as victims themselves of this situation, which is not very smart,
+because the author is coming after them, with requests for change, resignation
+of key people, and proof of moral systems being put in place, at least the author
+can trust, in order to feel comfortable that this will néver ever happen again.
+Of course, the members of the society are accountable, and should be sued,
+please don't get the author wrong: They should be punished, and prosecuted.
+Justice should be served to the real victims: The women that were abused and
+damaged. But considering them evil, as we have seen during the 40s of the
+previous century, goes too far. But also, not only the members that created the
+lists are to be seen as responsible for what happened, also the parties having
+been passive, allowing this to happen, should face the consequences.
 
-
-
+The [Utrecht Universiteit](https://www.uu.nl/en),
+[Hogeschool Utrecht](https://www.hu.nl/) and the
+[municipality of Utrecht](https://www.utrecht.nl/)
+have, in the opinion of the author (before you bastards start suing me!
+Try me on!), not done enough. They should be held accountable. Meaning they
+should compensate the women that are a victim. Not only financially, but also
+societal, by reputation, psychological, emotional and educational. You figure it
+out how and what it exactly means. But you can count on the following: I, the
+author of this writing, will not rest, before full justice is done to the
+victims. The women, but also the families of the women. I will not have this!
+You have only stopped paying sponsoring, you have waited with that way too long,
+but that in itself, is not close to enough.
 
 ### Bullying Employers
 
