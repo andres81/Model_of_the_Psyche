@@ -26,8 +26,9 @@
 22. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440410/ouders-slachtoffers-bangalijst-utrecht-dreigen-met-juridische
 23. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5440306/leden-utrechts-corps-geschorst-om-weerzinwekkende
 24. https://www.vox.com/2014/11/17/7229547/philosophy-quotes-misunderstood-wittgenstein-sartre-descartes
-25. https://en.wikipedia.org/wiki/No_Exit
-26. https://en.wikipedia.org/wiki/Being_and_Nothingness
+25. https://medium.com/the-philosophers-stone/what-does-everyone-get-wrong-about-the-quote-hell-is-other-people-by-jean-paul-sartre-74827b30cbd9
+26. https://en.wikipedia.org/wiki/No_Exit
+27. https://en.wikipedia.org/wiki/Being_and_Nothingness
 
 ## Introduction
 
@@ -269,6 +270,20 @@ potential destruction of young women? Or do you wish to deny your freedom to do
 so, denying your responsibility of said freedom, and perceiving yourself as
 merely an object in the reality of the context, being society, your colleagues,
 the victims?
+
+Because any employee, knowledgeable of the above-mentioned regarding Sartre, to
+the level of being allowed to teach philosophy, no one can convince the author,
+that there is any legitimate reason one can think of, the university can hide
+behind, that relieves it of its duty to protect the students of said university.
+Paying money, to an external organisation, in itself communicates trust in that
+organisation, that allow students to legitimately believe that the university
+extends the policy of protection to that organisation.
+In other words, it can be assumed students will trust the organisation being
+paid by the university, that the university demands a policy extension, and
+thereby enforcing the same rules of engagement as the university lives by. This
+incorporates protection of individuals and the clear conviction, to withhold
+from engagement with natural persons in society, if implied safety cannot be
+guaranteed.
 
 Because the
 [faculty of philosophy](https://www.uu.nl/en/research/philosophy)
