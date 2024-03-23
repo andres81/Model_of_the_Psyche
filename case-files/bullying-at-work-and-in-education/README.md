@@ -259,9 +259,13 @@ Sartre said, and to what extent that was a result of Simone telling him:
 "Non, non, ce n'est pas vrai!", how can you possibly deny you could have known
 that what happened would happen? What
 [moral system](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))
-did you see in place to prevent this? Did you at the least, if you saw one
-missing, giving you 100% guarantee the
+giving you a 100% guarantee, the
 [abuse](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5441427/voorlopig-geen-subsidie-voor-studentencorps-utrecht-om-bangalijst)
+could not possibly happen, did you see in place to prevent this? Did you at the least, if you saw one
+missing, indicate to your employer, to society, [USC](https://nl.wikipedia.org/wiki/Utrechtsch_Studenten_Corps) itself,
+that they need to come with safety systems in place, to prevent the abuse and
+potential destruction of young women?
+
 
 
 
