@@ -52,6 +52,10 @@ assuming the worst: "The bad intention wás there" could be the assumption of th
 
 ## [Student societies](https://en.wikipedia.org/wiki/Student_society): The abuse and damaging of young women
 
+### Actions:
+
+* [Letter to USC](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/bullying-at-work-and-in-education/letters/letter-to-usc.pdf)
+
 #### !!! WORK IN PROGRESS !!!
 
 What went wrong with the student societies? Why were [young women abused and
