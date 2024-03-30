@@ -90,7 +90,9 @@ In high schools for example, there are forms that fly under the radar.
 Psychological abuse can come in the form of social exclusion amongst other
 forms.
 
-
+Prevention of damage caused by bullying in the form of social abuse, can come in
+the form of not perceiving one self in the perceived social situation that
+allows for the damage to take place.
 
 #### Cyber
 
