@@ -50,6 +50,54 @@ assuming the worst: "The bad intention wás there" could be the assumption of th
 
 ## Analysis
 
+## Prevention of damage as a consequence of bullying
+
+The prevention of damage being caused by bullying is more constructive, than
+defining and enforcing rules to a group of people, in order to prevent bullying
+within that group. That group being society, a high school, employees in an
+organisation or department within, ... etc.
+
+### Forms of bullying
+
+The first step to prevent damage by bullying, is to identify the forms of
+bullying. What types of behavior and actions can be classified as bullying. What
+is the damage inflicted, by each type. But also, if behavior comes close to
+bullying, in terms of similarity, to what extent can it then be damaging, and to
+what extent can it be classified as bullying? Is it justified to call behavior
+bullying if it comes close in similarity, when it implies bad intent by the
+person, that acted as such? What legal grounds are left to prosecute, if the
+person indicates a certain necessity for the behavior and perceived good
+intentions?
+
+[What is the essence of bullying?](https://en.wikipedia.org/wiki/Bullying)
+According to Wikipedia, there are four basic types of abuse. In all cases, it
+can be described as the act of intentionally harming one or more people with the
+goal also being to harm.
+
+### Prevention by type
+
+#### Physical
+
+Physical bullying is prevented in society, not by social status and social
+status bookkeeping, but by way of enforcing rules of engagement through a legal
+system. If you harass another citizen within a country, the department of
+justice will prosecute. That is, if the abuse is reported, seen and provable.
+
+In high schools for example, there are forms that fly under the radar.
+
+#### Psychological
+
+Psychological abuse can come in the form of social exclusion amongst other
+forms.
+
+
+
+#### Cyber
+
+### 
+
+### 
+
 ## [Student societies](https://en.wikipedia.org/wiki/Student_society): The abuse and damaging of young women
 
 ### Actions:

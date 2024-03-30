@@ -2,6 +2,16 @@
 
 !!! WORK IN PROGRESS!!!
 
+
+// KLAD
+
+Consuming the situation that you created merely for the purpose to consume it in
+the first place. At the cost of anyone or anything as long as you think you get
+away with it.
+
+// 
+
+
 This is an evolving view of society, what it should be, society as a non-social
 construct, that serves to help people live together on this planet ethically.
 The ethics should be described by the construct called society itself.
@@ -32,7 +42,7 @@ society that couldn't care less.
 
 Let's not complain here, in this work of writing, but instead look at a solution
 and a design of a system, offered as a proposal to the members of society, to
-put in place, in order to be able to rely on 
+put in place, in order to be able to rely on a moral system that 
 
 # 1. Public Transport
 
