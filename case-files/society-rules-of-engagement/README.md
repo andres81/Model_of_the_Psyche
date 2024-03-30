@@ -24,17 +24,82 @@ The social construct, amongst other purposes, will serve also the goal of
 
 # Table of Contents
 
+* Feminism Revisited
 * Role of society to cater for the needs of women in a male dominated world
 * Public Transport
 * Societal exclusion of minorities based on geography, culture or ethnicity by way of social engineering
 * Love
 * Dutch mentality
 
+# Feminism Revisited
+
+        For Simone. To you, who showed the world the power of women and your
+        love to give to the world. Not being merely a social construct, the
+        social construct once women perceived to merely be. But instead, so much
+        more. The love you gave, will never be forgotten, at the very least, not
+        by my.
+
+"I will merely play my roll as a woman in my next relationship. I won't
+complicate things unnecessarily anymore."
+
+If the only way women know how to engage with a man in the context of love, is
+by giving herself physically and sexually, after which she expects there to be love,
+coming from the man, as she, with her instincts, will feel love for him, if he
+did his job right, then what use is it to her to invest anything more during courtship?
+Like talking
+first during extensive conversations, walking in the park, going to museums,
+during a proper courtship period? It won't make him love her... right? Isn't he
+interested in her? Projecting her own experience of love onto the man.
+
+Ending up in a social situation, in itself being a social construct that the
+relationship and later marriage is. But in itself no longer serving a purpose as
+the social context changes, as people leave the social group and context therefore. But
+also, the longer being together, anyway getting to know each other non-socially,
+who the other person really is. The woman finding out, she is missing something.
+Not the connection she has with friends, she might now be wanting with her partner.
+That set of inner core believes regarding the world, she has always been hiding,
+except for inner circle close friends, people she trusts and cares about. The experience
+she perceived as only possible to have with people other than your partner.
+What job does a man have? Father of your children, being the man in your life,
+fitting the profile of the social construct tha man is, that in the context of the
+relationship has to serve the woman's social life, not damage it, her reputation,
+the view of others have of her, others that become hell, if he is not that, that
+what he should be. Although he might be great in bed, great conversation buddy,
+is it worth the trouble to find that man? If so, how?
+
+But do women not understand this at all? Or do they know, and do older women tell them this?
+Young women knowing how it works, understanding it. Men have no more to offer,
+then the consequence in the form of their behavior due to their simple
+understanding of their surroundings. The inner child still being present, never
+really being taken care of.
+Women being a victim of a limited set of options, from which to choose, and accept
+their fate. Eventually, the heroes that they are of society, simply choosing to 
+make it easier for the guys that come after you, which in her case, are the kids.
+No love in this marriage, maybe even a sexless one, but suffer for those that
+come after me. I will merely play my roll in this situation.
+
+"Go with his drama, play your roll, once with him, you will have
+what you need. Children, sex, affection, safety. Society simply doesn't have
+more to offer now..."
+
+But women always will eventually find out, how it is to be with a love partner
+that you share your inner, core beliefs with. Talking being more important than
+sex at that moment of being intimate with each other with merely words. Pushing
+out everybody from the social situation, that are present in the physical
+situation you find yourself in. Only to being brought back to reality in the
+harshest way possible. Reality sets in, when you go home, with the other guy:
+Your husband, partner, "best friend". Is it fair to women to not help them, find
+that guy, whose energy she likes, feels safe with, finding the intimacy with
+while talking etc?
+If we just give women the experience of real love, the alignment of deepest
+conviction between two people, the experience of talking with each other being
+enough.
+
 # Role of society to cater for the needs of women in a male dominated world
 
 ## Female students
 
-Fraternities, student-societies, have clearly [failed](https://andreschepers.nl/#bullying-at-work-and-in-education), 
+Fraternities, student-societies, have clearly [failed](https://andreschepers.nl/#bullying-at-work-and-in-education),
 in offering an addendum to the experiences a student goes through. Instead of
 constructive experiences to aid and add to the growth process, and making happy
 memories, females are abused, damaged, scorned, and given the experience of a
@@ -42,9 +107,9 @@ society that couldn't care less.
 
 Let's not complain here, in this work of writing, but instead look at a solution
 and a design of a system, offered as a proposal to the members of society, to
-put in place, in order to be able to rely on a moral system that 
+put in place, in order to be able to rely on a moral system that
 
-# 1. Public Transport
+# Public Transport
 
 ## Problems and Solutions
 
@@ -143,9 +208,9 @@ use what ever is in front of you.
 
 ### Conclusion
 
-# 2. Societal exclusion of minorities based on geography, culture or ethnicity by way of social engineering
+# Societal exclusion of minorities based on geography, culture or ethnicity by way of social engineering
 
-# 3. Love
+# Love
 
 If a man sees the partner, a woman, in a heterosexual relationship, as an
 object, including the sex rituals, the relationship itself and the view others
@@ -218,7 +283,7 @@ they are the price, not the women, they will choose the wrong partner, will be
 unhappy, and society is left with societal collapse because not enough babies
 are born.
 
-# 4. Dutch mentality
+# Dutch mentality
 
 The personal experience of the author with Dutch culture and Dutchies is often:
 
