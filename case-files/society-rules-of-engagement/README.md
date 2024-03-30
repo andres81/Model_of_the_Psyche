@@ -33,7 +33,7 @@ The social construct, amongst other purposes, will serve also the goal of
 
 # Feminism Revisited
 
-        For Simone. To you, who showed the world the power of women and your
+        For Simone. To you, who showed the world the power of women and their
         love to give to the world. Not being merely a social construct, the
         social construct once women perceived to merely be. But instead, so much
         more. The love you gave, will never be forgotten, at the very least, not
