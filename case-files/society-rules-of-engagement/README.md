@@ -48,11 +48,18 @@ punishments.
 <p>By way of manipulating the perception of one-self, internal manipulation, or
 by way of manipulating the situation itself, one can manipulate and steer the
 to consume emotions/feelings of one-self.
-
-Taking the point of view of someone choosing the Sartrian situation as a starting
-point of engagement with the world, and all phenomena reaching this person, than
-we know the person perceives itself as free to choose and responsible for its
-actions.
+<p>But how can you morally justify any form of manipulation of any situation,
+when it is impossible to know the consequences of said manipulations in the form
+of effect on others? [Hell is other people](https://en.wikipedia.org/wiki/No_Exit)
+becomes you potentially, to the individual the others can become a source of
+pleasant situations at the cost of them.
+<p>Taking the point of view of someone choosing the Sartrian situation as a
+starting point of engagement with the world, and all phenomena reaching this
+person, then we know the person perceives itself as free to choose and being
+responsible for its actions. A person with this starting point entering any
+situation, that chooses to act morally responsible, will have to choose to never
+manipulate the situation for the mere goal of consuming the emotions/feelings
+that are a consequence of said manipulation.
 
 # Feminism Revisited
 
