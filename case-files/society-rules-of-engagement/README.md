@@ -82,6 +82,8 @@ come after me. I will merely play my roll in this situation.
 what you need. Children, sex, affection, safety. Society simply doesn't have
 more to offer now..."
 
+Being a victim of the state society finds itself in now.
+
 But women always will eventually find out, how it is to be with a love partner
 that you share your inner, core beliefs with. Talking being more important than
 sex at that moment of being intimate with each other with merely words. Pushing
