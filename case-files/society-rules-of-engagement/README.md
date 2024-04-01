@@ -34,26 +34,30 @@ The social construct, amongst other purposes, will serve also the goal of
 
 # The (im)morality of things
 
-<p>Looking at how humans are subject to the emotions that drive us, one has to
+Looking at how humans are subject to the emotions that drive us, one has to
 conclude mother nature should be perceived as an agent with power over a person.
 Mother nature has power, in the sense that it can give and withhold reward and
 punishment in the form of emotions and feelings.
 This also means, that emotions and feelings can be consumed, when they are
 rewarding, like medicine can be abused and can become an addition.
-<p>It is through consumption of the situation, that one can consume the emotions/
+
+It is through consumption of the situation, that one can consume the emotions/
 feelings. How other than through the situation, if the situation is that what
 is perceived by the individual, and one has a position in, a role, in which
 one can be pushed to move in a certain direction, by the said rewards and
 punishments.
-<p>By way of manipulating the perception of one-self, internal manipulation, or
+
+By way of manipulating the perception of one-self, internal manipulation, or
 by way of manipulating the situation itself, one can manipulate and steer the
 to consume emotions/feelings of one-self.
-<p>But how can you morally justify any form of manipulation of any situation,
+
+But how can you morally justify any form of manipulation of any situation,
 when it is impossible to know the consequences of said manipulations in the form
 of effect on others? [Hell is other people](https://en.wikipedia.org/wiki/No_Exit)
 becomes you potentially, to the individual the others can become a source of
 pleasant situations at the cost of them.
-<p>Taking the point of view of someone choosing the Sartrian situation as a
+
+Taking the point of view of someone choosing the Sartrian situation as a
 starting point of engagement with the world, and all phenomena reaching this
 person, then we know the person perceives itself as free to choose and being
 responsible for its actions. A person with this starting point entering any
