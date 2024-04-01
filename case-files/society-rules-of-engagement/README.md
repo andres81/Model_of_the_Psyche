@@ -24,12 +24,35 @@ The social construct, amongst other purposes, will serve also the goal of
 
 # Table of Contents
 
+* The (im)morality of things
 * Feminism Revisited
 * Role of society to cater for the needs of women in a male dominated world
 * Public Transport
 * Societal exclusion of minorities based on geography, culture or ethnicity by way of social engineering
 * Love
 * Dutch mentality
+
+# The (im)morality of things
+
+<p>Looking at how humans are subject to the emotions that drive us, one has to
+conclude mother nature should be perceived as an agent with power over a person.
+Mother nature has power, in the sense that it can give and withhold reward and
+punishment in the form of emotions and feelings.
+This also means, that emotions and feelings can be consumed, when they are
+rewarding, like medicine can be abused and can become an addition.
+<p>It is through consumption of the situation, that one can consume the emotions/
+feelings. How other than through the situation, if the situation is that what
+is perceived by the individual, and one has a position in, a role, in which
+one can be pushed to move in a certain direction, by the said rewards and
+punishments.
+<p>By way of manipulating the perception of one-self, internal manipulation, or
+by way of manipulating the situation itself, one can manipulate and steer the
+to consume emotions/feelings of one-self.
+
+Taking the point of view of someone choosing the Sartrian situation as a starting
+point of engagement with the world, and all phenomena reaching this person, than
+we know the person perceives itself as free to choose and responsible for its
+actions.
 
 # Feminism Revisited
 
