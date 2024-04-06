@@ -97,6 +97,12 @@ enough attention by parents and environment) and subsequent supplementary
 and overriding programming by a groomer. Society paying attention here? Get to
 work!*__
     
+## Society: Implicit concept or explicit functional construct
+
+Now what about society? Everybody knows, we have something called and vaguely
+described as society. 
+
+## The Morality of the Social situation and the lack of choice not to partake in it
 
 
 
