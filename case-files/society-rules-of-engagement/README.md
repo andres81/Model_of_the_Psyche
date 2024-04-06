@@ -1,5 +1,10 @@
 # Society: Rules of Engagement
 
+## Sources:
+
+* https://www.rtlnieuws.nl/nieuws/artikel/5442336/wel-een-schuldgevoel-toch-vliegen-waarom-doen-we-dat
+* https://www.roosvonk.nl/
+
 !!! WORK IN PROGRESS!!!
 
 
@@ -31,6 +36,7 @@ The social construct, amongst other purposes, will serve also the goal of
 * Societal exclusion of minorities based on geography, culture or ethnicity by way of social engineering
 * Love
 * Dutch mentality
+* Work in progress: Brain farts / Snippets of Genius (yeah, sure...) / building blocks
 
 # The (im)morality of things
 
@@ -39,7 +45,7 @@ conclude mother nature should be perceived as an agent with power over a person.
 Mother nature has power, in the sense that it can give and withhold reward and
 punishment in the form of emotions and feelings.
 This also means, that emotions and feelings can be consumed, when they are
-rewarding, like medicine can be abused and can become an addition.
+rewarding, like medicine can be abused and can become an addiction.
 
 It is through consumption of the situation, that one can consume the emotions/
 feelings. How other than through the situation, if the situation is that what
@@ -63,7 +69,25 @@ person, then we know the person perceives itself as free to choose and being
 responsible for its actions. A person with this starting point entering any
 situation, that chooses to act morally responsible, will have to choose to never
 manipulate the situation for the mere goal of consuming the emotions/feelings
-that are a consequence of said manipulation.
+that are a consequence of said manipulation. This is defined by the definition
+of morals: [relating to the standards of good or bad behaviour, fairness
+, honesty, etc. that each person believes in, rather than to laws](https://dictionary.cambridge.org/dictionary/english/moral)
+But that definition of morals, implies a rational view, not subjective. If what
+one does is based on emotions/feelings, by definition, one is acting based on
+subjectivity. It does not matter what your morals are, it matters that you base
+your choices regarding your behavior on rationality, and only on rationality
+when your starting point is a Sartrian situation.
+
+An example is [flying and feeling guilt](https://www.rtlnieuws.nl/nieuws/artikel/5442336/wel-een-schuldgevoel-toch-vliegen-waarom-doen-we-dat).
+Saying yes to the infant in ourselves, instead of basing our choices on moral
+convictions and acting upon it. This is not necessarily immoral in itself, but
+rather non-moral. It is according to what mother nature chooses what is good and
+or bad. Moral according to an external system: Mother nature. Isn't it mother
+nature that first of all evolved the system that we find in us, to give us the
+experience of emotions and feelings. To subsequently, through the use of this
+system, 
+
+
 
 # Feminism Revisited
 
@@ -71,7 +95,7 @@ that are a consequence of said manipulation.
         love to give to the world. Not being merely a social construct, the
         social construct once women perceived to merely be. But instead, so much
         more. The love you gave, will never be forgotten, at the very least, not
-        by my.
+        by me.
 
 "I will merely play my roll as a woman in my next relationship. I won't
 complicate things unnecessarily anymore."
@@ -444,3 +468,11 @@ Acting on behalf of or supporting a natural person is already done, by for
 example [labor unions](https://en.wikipedia.org/wiki/Trade_union). The problem
 here is, they only act in certain contexts, not in all possible situations.
 Other examples consist of [human rights organisations](https://en.wikipedia.org/wiki/List_of_human_rights_organisations).
+
+# Work in progress: Brain farts / Snippets of Genius (yeah, sure...) / building blocks
+
+## Reasons not to use social systems
+
+### Empty Rhetoric
+
+### Oppression of minorities: At the expense of others, increasing group cohesion
