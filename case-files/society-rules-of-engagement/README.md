@@ -69,7 +69,7 @@ person, then we know the person perceives itself as free to choose and being
 responsible for its actions. A person with this starting point entering any
 situation, that chooses to act morally responsible, will have to choose to never
 manipulate the situation for the mere goal of consuming the emotions/feelings
-that are a consequence of said manipulation. This is defined by the definition
+that are a consequence of said manipulation. This is by definition
 of morals: [relating to the standards of good or bad behaviour, fairness
 , honesty, etc. that each person believes in, rather than to laws](https://dictionary.cambridge.org/dictionary/english/moral)
 But that definition of morals, implies a rational view, not subjective. If what
@@ -85,7 +85,18 @@ rather non-moral. It is according to what mother nature chooses what is good and
 or bad. Moral according to an external system: Mother nature. Isn't it mother
 nature that first of all evolved the system that we find in us, to give us the
 experience of emotions and feelings. To subsequently, through the use of this
-system, 
+system, force us to behave like she wants us to behave.
+
+__*Yes... you hackers you, reading this. You can perform a [MITM attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
+here on the human psyche, or moreover, a person. If not nature, but you,
+program a person, that the system that creates emotions and feelings reads
+off from, then the person will behave as you desired, based on your programming.
+[Loverboy](https://en.wikipedia.org/wiki/Procuring_(prostitution)#grooming)
+problems are in part due to a lack of proper programming of young girls (not
+enough attention by parents and environment) and subsequent supplementary
+and overriding programming by a groomer. Society paying attention here? Get to
+work!*__
+    
 
 
 
