@@ -492,4 +492,18 @@ Other examples consist of [human rights organisations](https://en.wikipedia.org/
 
 ### Empty Rhetoric
 
-### Oppression of minorities: At the expense of others, increasing group cohesion
+### Oppression of minorities: At the expense of others, increasing group 
+
+### Hacking the human psyche
+
+Buffer overflow attacks are the prevalent way of getting into IT systems. But,
+can it be used on a human being? If we take a look at social engineers:
+Absolutely yes! Overload the situation described, with in addition some sound
+effects... et voila! "Get me the access to my 'husbands' bank account, my baby,
+oh no my poor baby... who will help me?".
+
+#### Defenses
+
+* Data buffers: Like the equivalent chemical buffers setting the pH stable at a certain point, set the psyche stable at a certain position.
+* Prevent a subject from perceiving a social situation: Not social, no emotions.
+* 
