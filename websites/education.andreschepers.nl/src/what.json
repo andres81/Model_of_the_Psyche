@@ -1,0 +1,266 @@
+{
+  "title": "Greeting a friend",
+  "markdown": "A paragraph with *emphasis* and **strong importance**.\n\n> A block quote with ~strikethrough~ and a URL: https://reactjs.org.\n\n* Lists\n* [ ] todo\n* [x] done\n\nA table:\n\n| a | b |\n| - | - |\n|table|tttt|",
+  "lines": [
+    {
+      "personName": "Jane",
+      "text": "Hallo, Tom!",
+      "translation": "Hello Tom!",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "hallo"
+          },
+          "right": {
+            "text": "hello"
+          }
+        }
+      ]
+    },
+    {
+      "personName": "Tom",
+      "text": "Hoi Jane!",
+      "translation": "Hi Jane!",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "hoi"
+          },
+          "right": {
+            "text": "hi"
+          }
+        }
+      ]
+    },
+    {
+      "personName": "Jane",
+      "text": "Hoe gaat het met je?",
+      "translation": "How are you doing?",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "hoe"
+          },
+          "right": {
+            "text": "how"
+          }
+        },
+        {
+          "left": {
+            "text": "gaat"
+          },
+          "right": {
+            "text": "going"
+          }
+        },
+        {
+          "left": {
+            "text": "het"
+          },
+          "right": {
+            "text": "it"
+          }
+        },
+        {
+          "left": {
+            "text": "met"
+          },
+          "right": {
+            "text": "with"
+          }
+        },
+        {
+          "left": {
+            "text": "je"
+          },
+          "right": {
+            "text": "you"
+          }
+        }
+      ]
+    },
+    {
+      "personName": "Tom",
+      "text": "Met mij gaat het goed dank je wel. En hoe gaat het met jou?",
+      "translation": "I'm doing good thank you. And how are you?",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Met"
+          },
+          "right": {
+            "text": "with"
+          }
+        },
+        {
+          "left": {
+            "text": "mij"
+          },
+          "right": {
+            "text": "me"
+          }
+        },
+        {
+          "left": {
+            "text": "gaat"
+          },
+          "right": {
+            "text": "going"
+          }
+        },
+        {
+          "left": {
+            "text": "het"
+          },
+          "right": {
+            "text": "it"
+          }
+        },
+        {
+          "left": {
+            "text": "goed"
+          },
+          "right": {
+            "text": "good"
+          }
+        },
+        {
+          "left": {
+            "text": "dank"
+          },
+          "right": {
+            "text": "thank"
+          }
+        },
+        {
+          "left": {
+            "text": "je"
+          },
+          "right": {
+            "text": "you"
+          }
+        },
+        {
+          "left": {
+            "text": "wel"
+          },
+          "right": {
+            "text": "part of 'dank je wel', no explicit meaning"
+          }
+        },
+        {
+          "left": {
+            "text": "en"
+          },
+          "right": {
+            "text": "and"
+          }
+        },
+        {
+          "left": {
+            "text": "hoe"
+          },
+          "right": {
+            "text": "how"
+          }
+        },
+        {
+          "left": {
+            "text": "gaat"
+          },
+          "right": {
+            "text": "going"
+          }
+        },
+        {
+          "left": {
+            "text": "het"
+          },
+          "right": {
+            "text": "it"
+          }
+        },
+        {
+          "left": {
+            "text": "met"
+          },
+          "right": {
+            "text": "with"
+          }
+        },
+        {
+          "left": {
+            "text": "jou"
+          },
+          "right": {
+            "text": "you"
+          }
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "df71505c-1741-4df9-aa56-7d9715be8557",
+      "title": "First question",
+      "answerType": "multiple",
+      "answers": [
+        {
+          "id": "feed51bf-6f1f-4587-8986-84909e9a51ab",
+          "correct": true,
+          "text": "1",
+          "explanationText": "2"
+        },
+        {
+          "id": "e713d09f-bf47-4f30-a02b-432b834c138e",
+          "correct": true,
+          "text": "3",
+          "explanationText": "4"
+        },
+        {
+          "id": "5590d9c6-45f3-422c-8591-6d0344b7d6e0",
+          "correct": false,
+          "text": "5",
+          "explanationText": "6"
+        },
+        {
+          "id": "e242c3b6-0255-4373-8776-e35493d5b41c",
+          "correct": false,
+          "text": "7",
+          "explanationText": "8"
+        }
+      ]
+    },
+    {
+      "id": "bf5db518-5ff9-4f37-a2b1-f596d09cf01a",
+      "title": "Second question",
+      "answerType": "singular",
+      "answers": [
+        {
+          "id": "5ced579e-c3cd-4f49-8cd3-47ee493dc80a",
+          "correct": false,
+          "text": "a",
+          "explanationText": "b"
+        },
+        {
+          "id": "65df5b70-5155-4303-b974-3409c63545f0",
+          "correct": false,
+          "text": "c",
+          "explanationText": "d"
+        },
+        {
+          "id": "af4f9a8a-6bad-4303-94d3-619983d0ad39",
+          "correct": true,
+          "text": "e",
+          "explanationText": "f"
+        },
+        {
+          "id": "c6892b00-a836-4b9b-a0a0-b2f8618687b0",
+          "correct": false,
+          "text": "g",
+          "explanationText": "h"
+        }
+      ]
+    }
+  ]
+}

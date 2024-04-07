@@ -1,0 +1,199 @@
+{
+  "name": "Dutch greetings",
+  "version": "0.1.0",
+  "pairs": [
+    {
+      "left": {
+        "text": "goedemorgen"
+      },
+      "right": {
+        "text": "good morning"
+      }
+    },
+    {
+      "left": {
+        "text": "goedemiddag"
+      },
+      "right": {
+        "text": "good afternoon"
+      }
+    },
+    {
+      "left": {
+        "text": "goedenavond"
+      },
+      "right": {
+        "text": "good evening"
+      }
+    },
+    {
+      "left": {
+        "text": "goedenacht"
+      },
+      "right": {
+        "text": "good night"
+      }
+    },
+    {
+      "left": {
+        "text": "goedendag"
+      },
+      "right": {
+        "text": "goodday"
+      }
+    },
+    {
+      "left": {
+        "text": "hallo"
+      },
+      "right": {
+        "text": "hello"
+      }
+    },
+    {
+      "left": {
+        "text": "hoi"
+      },
+      "right": {
+        "text": "hi"
+      }
+    },
+    {
+      "left": {
+        "text": "Hee/hey"
+      },
+      "right": {
+        "text": "hey"
+      }
+    },
+    {
+      "left": {
+        "text": "hoe gaat het met je?"
+      },
+      "right": {
+        "text": "how are you? (informal)"
+      }
+    },
+    {
+      "left": {
+        "text": "hoe maakt u het?"
+      },
+      "right": {
+        "text": "How are you doing? (formal)"
+      }
+    },
+    {
+      "left": {
+        "text": "Alles goed?"
+      },
+      "right": {
+        "text": "Everything okay?"
+      }
+    },
+    {
+      "left": {
+        "text": "Fijne dag / prettige dag"
+      },
+      "right": {
+        "text": "Have a nice day"
+      }
+    },
+    {
+      "left": {
+        "text": "Fijne middag / prettige middag"
+      },
+      "right": {
+        "text": "Have a nice afternoon"
+      }
+    },
+    {
+      "left": {
+        "text": "Fijne avond / prettige avond"
+      },
+      "right": {
+        "text": "Have a nice evening"
+      }
+    },
+    {
+      "left": {
+        "text": "fijne nacht"
+      },
+      "right": {
+        "text": "good night"
+      }
+    },
+    {
+      "left": {
+        "text": "prettige nacht"
+      },
+      "right": {
+        "text": "good night"
+      }
+    },
+    {
+      "left": {
+        "text": "Tot ziens"
+      },
+      "right": {
+        "text": "see you next time"
+      }
+    },
+    {
+      "left": {
+        "text": "doei / doeg / daag"
+      },
+      "right": {
+        "text": "bye"
+      }
+    }, {
+      "left": {
+        "text": "tot straks"
+      },
+      "right": {
+        "text": "till soon"
+      }
+    }, {
+      "left": {
+        "text": "tot later"
+      },
+      "right": {
+        "text": "see you later"
+      }
+    }, {
+      "left": {
+        "text": "tot morgen"
+      },
+      "right": {
+        "text": "see you tomorrow"
+      }
+    }, {
+      "left": {
+        "text": "tot vanavond"
+      },
+      "right": {
+        "text": "see you this evening"
+      }
+    }, {
+      "left": {
+        "text": "tot dan"
+      },
+      "right": {
+        "text": "see you then"
+      }
+    }, {
+      "left": {
+        "text": "tot volgende week"
+      },
+      "right": {
+        "text": "see you next week"
+      }
+    }, {
+      "left": {
+        "text": "goed, fijn, prettig weekend"
+      },
+      "right": {
+        "text": "have a nice weekend"
+      }
+    }
+  ]
+}

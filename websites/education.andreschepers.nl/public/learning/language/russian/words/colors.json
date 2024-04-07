@@ -1,0 +1,87 @@
+{
+  "name": "Russian colors",
+  "version": "0.1.0",
+  "pairs": [
+    {
+      "left": {
+        "text": "жёлтый",
+        "sound": "http://packs.shtooka.net/rus-balm-voc/ogg/rus-8b4c50dd.ogg"
+      },
+      "right": {
+        "text": "yellow"
+      }
+    },
+    {
+      "left": {
+        "text": "зелёный",
+        "sound": "http://packs.shtooka.net/rus-balm-voc/ogg/rus-718f9ad6.ogg"
+      },
+      "right": {
+        "text": "green"
+      }
+    },
+    {
+      "left": {
+        "text": "кра́сный",
+        "sound": "http://packs.shtooka.net/rus-balm-voc/ogg/rus-11b0538a.ogg"
+      },
+      "right": {
+        "text": "red"
+      }
+    },
+    {
+      "left": {
+        "text": "голубо́й",
+        "sound": "http://packs.shtooka.net/rus-balm-voc/ogg/rus-3dba57fc.ogg"
+      },
+      "right": {
+        "text": "sky blue"
+      }
+    },
+    {
+      "left": {
+        "text": "си́ний",
+        "sound": "http://packs.shtooka.net/rus-balm-voc/ogg/rus-1305e75a.ogg"
+      },
+      "right": {
+        "text": "navy blue"
+      }
+    },
+    {
+      "left": {
+        "text": "чёрный",
+        "sound": "http://packs.shtooka.net/rus-balm-voc-sakhno/ogg/rus-77ee85aa.ogg"
+      },
+      "right": {
+        "text": "black"
+      }
+    },
+    {
+      "left": {
+        "text": "бе́лый",
+        "sound": "http://packs.shtooka.net/rus-balm-voc-sakhno/ogg/rus-a2f0e47a.ogg"
+      },
+      "right": {
+        "text": "white"
+      }
+    },
+    {
+      "left": {
+        "text": "кори́чневый",
+        "sound": "http://packs.shtooka.net/rus-balm-voc/ogg/rus-857933ce.ogg"
+      },
+      "right": {
+        "text": "brown"
+      }
+    },
+    {
+      "left": {
+        "text": "ро́зовый",
+        "sound": "http://packs.shtooka.net/rus-balm-voc/ogg/rus-24903abd.ogg"
+      },
+      "right": {
+        "text": "pink"
+      }
+    }
+  ]
+}

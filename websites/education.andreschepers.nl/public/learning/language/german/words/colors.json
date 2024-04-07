@@ -1,0 +1,70 @@
+{
+  "name": "German colors",
+  "version": "0.1.0",
+  "pairs": [
+    {
+      "left": {
+        "text": "gelb"
+      },
+      "right": {
+        "text": "yellow"
+      }
+    },
+    {
+      "left": {
+        "text": "orange"
+      },
+      "right": {
+        "text": "orange"
+      }
+    },
+    {
+      "left": {
+        "text": "grün"
+      },
+      "right": {
+        "text": "green"
+      }
+    },
+    {
+      "left": {
+        "text": "rot"
+      },
+      "right": {
+        "text": "red"
+      }
+    },
+    {
+      "left": {
+        "text": "lila"
+      },
+      "right": {
+        "text": "purple"
+      }
+    },
+    {
+      "left": {
+        "text": "blau"
+      },
+      "right": {
+        "text": "blue"
+      }
+    },
+    {
+      "left": {
+        "text": "schwarz"
+      },
+      "right": {
+        "text": "black"
+      }
+    },
+    {
+      "left": {
+        "text": "weiss"
+      },
+      "right": {
+        "text": "white"
+      }
+    }
+  ]
+}

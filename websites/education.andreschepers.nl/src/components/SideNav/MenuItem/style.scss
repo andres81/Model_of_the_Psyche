@@ -1,0 +1,95 @@
+/*!
+ * Copyright 2024 André Schepers
+ *
+ *    Licensed under the Apache License, Version 2.0 (the "License");
+ *    you may not use this file except in compliance with the License.
+ *    You may obtain a copy of the License at
+ *
+ *        http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *    Unless required by applicable law or agreed to in writing, software
+ *    distributed under the License is distributed on an "AS IS" BASIS,
+ *    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *    See the License for the specific language governing permissions and
+ *    limitations under the License.
+ */
+
+.sidenav-menuitem {
+    text-align: left;
+    position: relative;
+    cursor: pointer;
+
+    & > .menu-item-wrapper {
+        position: relative;
+        padding: 5px 0px 5px 55px;
+
+        .menu-item-icon-wrapper {
+            margin-right: 10px;
+            font-size: 14px;
+            width: 35px;
+            min-width: 35px;
+            height: 35px;
+            line-height: 35px;
+            text-align: center;
+            display: inline-block;
+            position: absolute;
+            left: 10px;
+        }
+
+        .menu-item-icon {
+            display: flex;
+            height: 100%;
+            align-items: center;
+            justify-content: center;
+        }
+
+        & > .menu-arrow-wrapper {
+            position: absolute;
+            right: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+
+            & > .menu-arrow {
+                display: inline-block;
+                border-color: #b3b8d4;
+                border-style: solid;
+                border-width: 0 2px 2px 0;
+                padding: 2.5px;
+                vertical-align: middle;
+                transition: transform .3s;
+                transform: rotate(-45deg);
+            }
+        }
+    }
+
+    &.open {
+        & > .sub-menu-items-container {
+            padding: 8px 0px 8px 15px;
+            height: auto;
+        }
+
+        & > .menu-item-wrapper {
+            & > .menu-arrow-wrapper {
+                .menu-arrow {
+                    transform: rotate(45deg);
+                }
+            }
+        }
+    }
+
+    .menu-title {
+        padding: 5px 0px 5px 0px;
+        display: inline-block;
+
+        &:hover {
+            color: #dee2ec;
+        }
+    }
+
+    .sub-menu-items-container {
+        padding: 0;
+        height: 0px;
+        overflow: hidden;
+    }
+}
+

@@ -1,0 +1,86 @@
+{
+  "name": "Dutch greetings",
+  "version": "0.1.0",
+  "pairs": [
+    {
+      "left": {
+        "text": "één"
+      },
+      "right": {
+        "text": "1"
+      }
+    },
+    {
+      "left": {
+        "text": "twee"
+      },
+      "right": {
+        "text": "2"
+      }
+    },
+    {
+      "left": {
+        "text": "drie"
+      },
+      "right": {
+        "text": "3"
+      }
+    },
+    {
+      "left": {
+        "text": "vier"
+      },
+      "right": {
+        "text": "4"
+      }
+    },
+    {
+      "left": {
+        "text": "vijf"
+      },
+      "right": {
+        "text": "5"
+      }
+    },
+    {
+      "left": {
+        "text": "zes"
+      },
+      "right": {
+        "text": "6"
+      }
+    },
+    {
+      "left": {
+        "text": "zeven"
+      },
+      "right": {
+        "text": "7"
+      }
+    },
+    {
+      "left": {
+        "text": "acht"
+      },
+      "right": {
+        "text": "8"
+      }
+    },
+    {
+      "left": {
+        "text": "negen"
+      },
+      "right": {
+        "text": "9"
+      }
+    },
+    {
+      "left": {
+        "text": "tien"
+      },
+      "right": {
+        "text": "10"
+      }
+    }
+  ]
+}

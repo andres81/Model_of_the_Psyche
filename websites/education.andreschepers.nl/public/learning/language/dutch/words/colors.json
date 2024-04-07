@@ -1,0 +1,78 @@
+{
+  "name": "Dutch colors",
+  "version": "0.1.0",
+  "pairs": [
+    {
+      "left": {
+        "text": "geel",
+        "sound": "http://packs.shtooka.net/nld-wcp/ogg/Nl-geel.ogg"
+      },
+      "right": {
+        "text": "yellow"
+      }
+    },
+    {
+      "left": {
+        "text": "oranje",
+        "sound": "http://packs.shtooka.net/nld-wcp/ogg/Nl-oranje.ogg"
+      },
+      "right": {
+        "text": "orange"
+      }
+    },
+    {
+      "left": {
+        "text": "groen",
+        "sound": "http://packs.shtooka.net/nld-wcp/ogg/Nl-groen.ogg"
+      },
+      "right": {
+        "text": "green"
+      }
+    },
+    {
+      "left": {
+        "text": "rood",
+        "sound": "http://packs.shtooka.net/nld-wcp/ogg/Nl-rood.ogg"
+      },
+      "right": {
+        "text": "red"
+      }
+    },
+    {
+      "left": {
+        "text": "paars",
+        "sound": "http://packs.shtooka.net/nld-wcp/ogg/Nl-paars.ogg"
+      },
+      "right": {
+        "text": "purple"
+      }
+    },
+    {
+      "left": {
+        "text": "blauw",
+        "sound": "http://packs.shtooka.net/nld-balm-dorenda/ogg/nld-811c53b0.ogg"
+      },
+      "right": {
+        "text": "blue"
+      }
+    },
+    {
+      "left": {
+        "text": "zwart",
+        "sound": "http://packs.shtooka.net/nld-wcp/ogg/Nl-zwart.ogg"
+      },
+      "right": {
+        "text": "black"
+      }
+    },
+    {
+      "left": {
+        "text": "wit",
+        "sound": "http://packs.shtooka.net/nld-wcp/ogg/Nl-wit.ogg"
+      },
+      "right": {
+        "text": "white"
+      }
+    }
+  ]
+}

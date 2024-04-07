@@ -1,0 +1,98 @@
+/*!
+ * Copyright 2024 André Schepers
+ *
+ *    Licensed under the Apache License, Version 2.0 (the "License");
+ *    you may not use this file except in compliance with the License.
+ *    You may obtain a copy of the License at
+ *
+ *        http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *    Unless required by applicable law or agreed to in writing, software
+ *    distributed under the License is distributed on an "AS IS" BASIS,
+ *    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *    See the License for the specific language governing permissions and
+ *    limitations under the License.
+ */
+
+.side-nav {
+    padding-top: 40px;
+    background-color: #0c1e35;
+    width: 310px;
+    height: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+    transition: width 0.5s;
+    color: #b3b8d4;
+    z-index: 1;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+
+    hr {
+        margin-bottom: 0px;
+    }
+
+    .side-nav-inner {
+        overflow: hidden;
+        overflow-x: hidden;
+        overflow-y: scroll;
+
+        &::-webkit-scrollbar {
+            width: 5px;
+        }
+
+        &::-webkit-scrollbar-thumb {
+            background: #375984;
+            border-radius: 20px;
+        }
+
+        &::-webkit-scrollbar-thumb:hover {
+            background: #b30000;
+        }
+    }
+
+    li {
+        text-align: left;
+    }
+
+    &.collapsed {
+        width: 0px;
+    }
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .menu-toggle-button {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        z-index: 1;
+        background-color: #224571;
+        border-color: #224571;
+        box-shadow: none;
+    }
+
+    .menu-toggle-button:active {
+        box-shadow: none;
+        background-color: #224571!important;
+        border-color: #224571!important;
+    }
+
+    .menu-toggle-button:focus {
+        box-shadow: none;
+        background-color: #224571!important;
+        border-color: #224571!important;
+    }
+
+    .menu-toggle-button:hover {
+        color: #fff;
+        background-color: #224571;
+        border-color: #224571;
+    }
+}
