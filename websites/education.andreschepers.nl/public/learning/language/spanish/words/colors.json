@@ -1,0 +1,86 @@
+{
+  "name": "Spanish colors",
+  "version": "0.1.0",
+  "pairs": [
+    {
+      "left": {
+        "text": "amarillo"
+      },
+      "right": {
+        "text": "yellow"
+      }
+    },
+    {
+      "left": {
+        "text": "anaranjado"
+      },
+      "right": {
+        "text": "orange"
+      }
+    },
+    {
+      "left": {
+        "text": "verde"
+      },
+      "right": {
+        "text": "green"
+      }
+    },
+    {
+      "left": {
+        "text": "rojo"
+      },
+      "right": {
+        "text": "red"
+      }
+    },
+    {
+      "left": {
+        "text": "morado"
+      },
+      "right": {
+        "text": "purple"
+      }
+    },
+    {
+      "left": {
+        "text": "azul"
+      },
+      "right": {
+        "text": "blue"
+      }
+    },
+    {
+      "left": {
+        "text": "negro"
+      },
+      "right": {
+        "text": "black"
+      }
+    },
+    {
+      "left": {
+        "text": "blanco"
+      },
+      "right": {
+        "text": "white"
+      }
+    },
+    {
+      "left": {
+        "text": "marrón"
+      },
+      "right": {
+        "text": "brown"
+      }
+    },
+    {
+      "left": {
+        "text": "rosado"
+      },
+      "right": {
+        "text": "pink"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Dutch greetings",
+  "version": "0.1.0",
+  "pairs": [
+    {
+      "left": {
+        "text": "tien"
+      },
+      "right": {
+        "text": "10"
+      }
+    },
+    {
+      "left": {
+        "text": "twintig"
+      },
+      "right": {
+        "text": "20"
+      }
+    },
+    {
+      "left": {
+        "text": "dertig"
+      },
+      "right": {
+        "text": "30"
+      }
+    },
+    {
+      "left": {
+        "text": "veertig"
+      },
+      "right": {
+        "text": "40"
+      }
+    },
+    {
+      "left": {
+        "text": "vijftig"
+      },
+      "right": {
+        "text": "50"
+      }
+    },
+    {
+      "left": {
+        "text": "zestig"
+      },
+      "right": {
+        "text": "60"
+      }
+    },
+    {
+      "left": {
+        "text": "zeventig"
+      },
+      "right": {
+        "text": "70"
+      }
+    },
+    {
+      "left": {
+        "text": "tachtig"
+      },
+      "right": {
+        "text": "80"
+      }
+    },
+    {
+      "left": {
+        "text": "negentig"
+      },
+      "right": {
+        "text": "90"
+      }
+    },
+    {
+      "left": {
+        "text": "honderd"
+      },
+      "right": {
+        "text": "100"
+      }
+    }
+  ]
+}

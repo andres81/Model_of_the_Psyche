@@ -1,0 +1,86 @@
+{
+  "name": "Dutch greetings",
+  "version": "0.1.0",
+  "pairs": [
+    {
+      "left": {
+        "text": "elf"
+      },
+      "right": {
+        "text": "11"
+      }
+    },
+    {
+      "left": {
+        "text": "twaalf"
+      },
+      "right": {
+        "text": "12"
+      }
+    },
+    {
+      "left": {
+        "text": "dertien"
+      },
+      "right": {
+        "text": "13"
+      }
+    },
+    {
+      "left": {
+        "text": "veertien"
+      },
+      "right": {
+        "text": "14"
+      }
+    },
+    {
+      "left": {
+        "text": "vijftien"
+      },
+      "right": {
+        "text": "15"
+      }
+    },
+    {
+      "left": {
+        "text": "zestien"
+      },
+      "right": {
+        "text": "16"
+      }
+    },
+    {
+      "left": {
+        "text": "zeventien"
+      },
+      "right": {
+        "text": "17"
+      }
+    },
+    {
+      "left": {
+        "text": "achttien"
+      },
+      "right": {
+        "text": "18"
+      }
+    },
+    {
+      "left": {
+        "text": "negentien"
+      },
+      "right": {
+        "text": "19"
+      }
+    },
+    {
+      "left": {
+        "text": "twintig"
+      },
+      "right": {
+        "text": "20"
+      }
+    }
+  ]
+}

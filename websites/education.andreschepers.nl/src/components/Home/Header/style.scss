@@ -1,0 +1,67 @@
+/*!
+ * Copyright 2024 André Schepers
+ *
+ *    Licensed under the Apache License, Version 2.0 (the "License");
+ *    you may not use this file except in compliance with the License.
+ *    You may obtain a copy of the License at
+ *
+ *        http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *    Unless required by applicable law or agreed to in writing, software
+ *    distributed under the License is distributed on an "AS IS" BASIS,
+ *    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *    See the License for the specific language governing permissions and
+ *    limitations under the License.
+ */
+
+.header {
+    background-image: url('kalen-emsley-Bkci_8qcdvQ-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position:relative;
+}
+
+.footer {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -150%);
+    color: white;
+    min-width: 100%;
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: grey;
+        text-decoration: underline;
+    }
+}
+
+.pageTitle {
+    margin:0;
+    position: relative;
+    top:50%;
+    transform: translateY(-50%);
+    color: white;
+    text-shadow: 2px 1px black;
+    font-size: 60px;
+}
+
+.pro-sidebar.collapsed {
+    width: 0!important;
+    min-width: 0!important;
+}
+
+.pro-sidebar {
+    position: absolute!important;
+    top: 0;
+}
+
+.pro-sidebar-header {
+    min-height: 60px;
+}

@@ -1,0 +1,78 @@
+{
+  "name": "French colors",
+  "version": "0.1.0",
+  "pairs": [
+    {
+      "left": {
+        "text": "jaune",
+        "sound": "http://packs.shtooka.net/fra-balm-voc/ogg/fra-02a671d2.ogg"
+      },
+      "right": {
+        "text": "yellow"
+      }
+    },
+    {
+      "left": {
+        "text": "orange",
+        "sound": "http://packs.shtooka.net/fra-balm-voc/ogg/fra-1dc5b178.ogg"
+      },
+      "right": {
+        "text": "orange"
+      }
+    },
+    {
+      "left": {
+        "text": "vert",
+        "sound": "http://packs.shtooka.net/fra-balm-voc/ogg/fra-6b6d87c6.ogg"
+      },
+      "right": {
+        "text": "green"
+      }
+    },
+    {
+      "left": {
+        "text": "rouge",
+        "sound": "http://packs.shtooka.net/fra-balm-voc/ogg/fra-632b61eb.ogg"
+      },
+      "right": {
+        "text": "red"
+      }
+    },
+    {
+      "left": {
+        "text": "pourpre",
+        "sound": "http://packs.shtooka.net/fra-balm-voc/ogg/fra-0c825381.ogg"
+      },
+      "right": {
+        "text": "purple"
+      }
+    },
+    {
+      "left": {
+        "text": "bleu",
+        "sound": "http://packs.shtooka.net/fra-balm-voc/ogg/fra-c943c881.ogg"
+      },
+      "right": {
+        "text": "blue"
+      }
+    },
+    {
+      "left": {
+        "text": "noir",
+        "sound": "http://packs.shtooka.net/fra-balm-voc/ogg/fra-b30213cf.ogg"
+      },
+      "right": {
+        "text": "black"
+      }
+    },
+    {
+      "left": {
+        "text": "blanc",
+        "sound": "http://packs.shtooka.net/fra-balm-voc/ogg/fra-32f04c57.ogg"
+      },
+      "right": {
+        "text": "white"
+      }
+    }
+  ]
+}

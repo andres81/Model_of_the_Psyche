@@ -1,0 +1,96 @@
+{
+  "name": "Swedish colors",
+  "version": "0.1.0",
+  "pairs": [
+    {
+      "left": {
+        "text": "gul",
+        "sound": "http://packs.shtooka.net/swe-balm-voc/ogg/swe-a495a477.ogg"
+      },
+      "right": {
+        "text": "yellow"
+      }
+    },
+    {
+      "left": {
+        "text": "orange",
+        "sound": "http://packs.shtooka.net/swe-balm-voc/ogg/swe-1dc5b178.ogg"
+      },
+      "right": {
+        "text": "orange"
+      }
+    },
+    {
+      "left": {
+        "text": "grön",
+        "sound": "http://packs.shtooka.net/swe-balm-voc/ogg/swe-a77a592f.ogg"
+      },
+      "right": {
+        "text": "green"
+      }
+    },
+    {
+      "left": {
+        "text": "röd",
+        "sound": "http://packs.shtooka.net/swe-balm-voc/ogg/swe-8bdb336d.ogg"
+      },
+      "right": {
+        "text": "red"
+      }
+    },
+    {
+      "left": {
+        "text": "lila",
+        "sound": "http://packs.shtooka.net/swe-balm-voc/ogg/swe-e44f126d.ogg"
+      },
+      "right": {
+        "text": "purple"
+      }
+    },
+    {
+      "left": {
+        "text": "blå",
+        "sound": "http://packs.shtooka.net/swe-balm-voc/ogg/swe-b7cd013a.ogg"
+      },
+      "right": {
+        "text": "blue"
+      }
+    },
+    {
+      "left": {
+        "text": "svart",
+        "sound": "http://packs.shtooka.net/swe-balm-voc/ogg/swe-35709d04.ogg"
+      },
+      "right": {
+        "text": "black"
+      }
+    },
+    {
+      "left": {
+        "text": "rosa",
+        "sound": "http://packs.shtooka.net/swe-balm-voc/ogg/swe-9d5e40ed.ogg"
+      },
+      "right": {
+        "text": "pink"
+      }
+    },
+    {
+      "left": {
+        "text": "vit",
+        "sound": "http://packs.shtooka.net/swe-balm-voc/ogg/swe-4c6aa83b.ogg"
+      },
+      "right": {
+        "text": "white"
+      }
+    },
+    {
+      "left": {
+        "text": "brun",
+        "sound": "http://packs.shtooka.net/swe-balm-voc/ogg/swe-1f5c9d46.ogg"
+      },
+      "right": {
+        "text": "brown"
+      }
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+/*
+ * Copyright 2024 André Schepers
+ *
+ *    Licensed under the Apache License, Version 2.0 (the "License");
+ *    you may not use this file except in compliance with the License.
+ *    You may obtain a copy of the License at
+ *
+ *        http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *    Unless required by applicable law or agreed to in writing, software
+ *    distributed under the License is distributed on an "AS IS" BASIS,
+ *    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *    See the License for the specific language governing permissions and
+ *    limitations under the License.
+ */
+
+const nav = {
+  "menuItems": [
+    {
+      "label": "Home",
+      "icon": "FcHome",
+      "children": [],
+      "path": "/",
+      "windowOpen": ""
+    },{
+      "label": "Learning",
+      "icon": "GiBrain",
+      "children": [
+        {
+          "label": "Language",
+          "icon": "IoLanguageOutline",
+          "children": [
+            {
+              "label": "Dutch",
+              "icon": "",
+              "children": [
+                {
+                  "label": "Words",
+                  "icon": "",
+                  "children": [
+                    {
+                      "label": "Greetings",
+                      "icon": "",
+                      "children": [],
+                      "path": "/learning/language/dutch/words/greetings",
+                      "windowOpen": ""
+                    },
+                    {
+                      "label": "Colors",
+                      "icon": "",
+                      "children": [],
+                      "path": "/learning/language/dutch/words/colors",
+                      "windowOpen": ""
+                    },{
+                      "label": "Numbers 1 - 10",
+                      "icon": "",
+                      "children": [],
+                      "path": "/learning/language/dutch/words/numbers1ToTen",
+                      "windowOpen": ""
+                    },
+                    {
+                      "label": "Numbers 11 - 20",
+                      "icon": "",
+                      "children": [],
+                      "path": "/learning/language/dutch/words/numbers11To20",
+                      "windowOpen": ""
+                    },
+                    {
+                      "label": "Numbers 10 - 100",
+                      "icon": "",
+                      "children": [],
+                      "path": "/learning/language/dutch/words/numbers10To100",
+                      "windowOpen": ""
+                    }
+                  ]
+                },
+                {
+                  "label": "Dialogue",
+                  "icon": "",
+                  "children": [
+                    {
+                      "label": "Greeting a friend",
+                      "icon": "",
+                      "children": [],
+                      "path": "/learning/language/dutch/dialogue/greetingAFriend",
+                      "windowOpen": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "French",
+              "icon": "",
+              "children": [
+                {
+                  "label": "Words",
+                  "icon": "",
+                  "children": [
+                    {
+                      "label": "Colors",
+                      "icon": "",
+                      "children": [],
+                      "path": "/learning/language/french/words/colors",
+                      "windowOpen": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "German",
+              "icon": "",
+              "children": [
+                {
+                  "label": "Words",
+                  "icon": "",
+                  "children": [
+                    {
+                      "label": "Colors",
+                      "icon": "",
+                      "children": [],
+                      "path": "/learning/language/german/words/colors",
+                      "windowOpen": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Spanish",
+              "icon": "",
+              "children": [
+                {
+                  "label": "Words",
+                  "icon": "",
+                  "children": [
+                    {
+                      "label": "Colors",
+                      "icon": "",
+                      "children": [],
+                      "path": "/learning/language/spanish/words/colors",
+                      "windowOpen": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "Swedish",
+              "icon": "",
+              "children": [
+                {
+                  "label": "Words",
+                  "icon": "",
+                  "children": [
+                    {
+                      "label": "Colors",
+                      "icon": "",
+                      "children": [],
+                      "path": "/learning/language/swedish/words/colors",
+                      "windowOpen": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }]
+    },{
+        "label": "Sluipschutters",
+        "icon": "",
+        "children": [
+         {
+           "label": "Introduction",
+           "icon": "",
+           "children": [ ],
+           "path": "/information/sluipschutters/introduction_sluipschutters",
+           "windowOpen": ""
+         },{
+             "label": "Doet u deze maar",
+             "icon": "",
+             "children": [ ],
+             "path": "/learning/language/dutch/dialogue/Doet_u_deze_maar_Sluipschutters",
+             "windowOpen": ""
+         }
+        ]
+      },{
+       "label": "Paspoort voor Rusland",
+       "icon": "",
+       "children": [{
+           "label": "Introduction",
+           "icon": "",
+           "children": [],
+           "path": "/information/paspoort-voor-rusland/paspoort_voor_rusland_introduction",
+           "windowOpen": ""
+       },{
+           "label": "Hoofdstuk 6",
+           "icon": "",
+           "children": [
+               {
+                   "label": "Dialoog 1",
+                   "icon": "",
+                   "children": [],
+                   "path": "/learning/language/russian/dialogue/paspoort_voor_rusland_hfd6_dlg1",
+                   "windowOpen": ""
+               },{
+                   "label": "Dialoog 2",
+                   "icon": "",
+                   "children": [],
+                   "path": "/learning/language/russian/dialogue/paspoort_voor_rusland_hfd6_dlg2",
+                   "windowOpen": ""
+               }
+           ]
+       }]
+     },{
+       "label": "Vocabulary trainer",
+       "icon": "FaClipboardList",
+       "children": [],
+       "path": "/vocabularytrainer",
+       "windowOpen": ""
+     },{
+       "label": "Dialogue trainer",
+       "icon": "MdOutlineSpeakerNotes",
+       "children": [],
+       "path": "/dialoguetrainer",
+       "windowOpen": ""
+     },{
+       "label": "Dialogue editor",
+       "icon": "RiFileEditLine",
+       "children": [],
+       "path": "/dialogueeditor",
+       "windowOpen": ""
+     },{
+      "type": "hr"
+     },{
+      "label": "Github",
+      "icon": "FaGithub",
+      "children": [],
+      "path": "",
+      "windowOpen": "https://www.github.com/andres81"
+    },{
+      "label": "Contact",
+      "icon": "AiOutlineMail",
+      "children": [],
+      "path": "",
+      "windowOpen": "mailto:contact.andreschepers.eu@gmail.com"
+    },{
+        "label": "Images from Unsplash",
+        "icon": "AiFillFileImage",
+        "children": [],
+        "windowOpen": "https://unsplash.com/"
+    },{
+        "type": "hr"
+    },{
+        "label": "Privacy Policy",
+        "icon": "GoLaw",
+        "children": [],
+        "path": "",
+        "windowOpen": "/privacypolicy.html"
+    },{
+         "label": "Terms and Conditions",
+         "icon": "CgFileDocument",
+         "children": [],
+         "path": "",
+         "windowOpen": "/termsandconditions.html"
+     }
+  ]
+};
+
+export default nav;
