@@ -4,6 +4,7 @@
 
 * https://www.rtlnieuws.nl/nieuws/artikel/5442336/wel-een-schuldgevoel-toch-vliegen-waarom-doen-we-dat
 * https://www.roosvonk.nl/
+* https://www.rtlnieuws.nl/nieuws/nederland/artikel/5443866/op-juuls-landje-geeft-julius-booy-jeugdzorg-op-zijn-manier
 
 !!! WORK IN PROGRESS!!!
 
