@@ -16,6 +16,11 @@
 
 const CASE_FILES = [
     {
+        'href': '#dutch-government-rules-of-engagement'
+        ,'image': 'assets//img/case-file/dutch-government-logo.jpg'
+        ,'heading': 'Dutch Government: Rules of Engagement'
+        ,'subheading': 'Government'
+    },{
         'href': '#water-cannon-incident'
         ,'image': 'assets//img/case-file/watercanon.jpg'
         ,'heading': 'Water cannon incident'
