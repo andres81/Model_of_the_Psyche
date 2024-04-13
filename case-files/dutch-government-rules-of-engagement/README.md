@@ -48,9 +48,15 @@ professional conclusion.
 
 In the television program
 [Vandaag Inside](https://www.vandaaginside.nl/nieuws/vandaag-inside-uitzending/aflevering-vandaag-inside-met-albert-verlinde-dinsdag-9-april-2024)
-the analyst Johan Derksen, reacted to a
-[decision of the governement](https://www.rijksoverheid.nl/actueel/nieuws/2024/04/08/nieuwe-afspraken-voor-versterken-friese-taal-en-cultuur)
-that .
+the analyst Johan Derksen, reacted to an interview of SBS with mister de Hoop, regarding a
+[decision of the government](https://www.rijksoverheid.nl/actueel/nieuws/2024/04/08/nieuwe-afspraken-voor-versterken-friese-taal-en-cultuur),
+that de Hoop is not even really a "Fries". The dialogue was as follows:
+
+__*[Johan](https://nl.wikipedia.org/wiki/Johan_Derksen):*__
+
+
+__*[Wilfred](https://nl.wikipedia.org/wiki/Wilfred_Genee):*__
+
 
 
 
@@ -65,8 +71,12 @@ Johan Derksen has used the remark "[salon socialisten](https://en.wikipedia.org/
 The remark that de Hoop is not really "Fries", might be related to the thought that when it fits you, you identify as
 part of a subgroup in Dutch society, but only to be the politician for a moment. It then has nothing to do with racism,
 instead, mister Derksen, saying mister de Hoop is not really "Fries", treats mister de Hoop as a full member of The
-Netherlands and its culture, by treating him as Dutch people treat each other: "act normal", "don't pretent do be
-special", "you are as Dutch as all of us".
+Netherlands and its culture, by treating him as Dutch people treat each other: "act normal", "don't pretend to be
+special", "you are as Dutch as all of us". The thought behind this can be that despite you were adopted from a very
+young age, you might not identify yourself with your adoptive family, and therefore not identify necessarily with that
+subgroup, as people from Friesland can be so chauvinistic as can be. What about the behavior of people from Friesland,
+(personal experience of the author, over and over and over...), turning their back to you once they hear you are nót
+from Friesland... Talking about discrimination.
 
 
 
