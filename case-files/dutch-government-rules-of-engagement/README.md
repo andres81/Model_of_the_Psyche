@@ -72,11 +72,35 @@ __Translation:__ *"He speaks it really well. He speaks it really well."*
 
 __Translation:__ "I'm not a Surinamese either, am I?"
 
-That [what was said](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5444601/ophef-over-racistische-uitspraak-johan-derksen)
-was:
-
-
 ### Analysis
+
+Two possible ways of interpreting what mister Derksen did here:
+
+__*Stating that mister de Hoop isn't caucasian and therefore has no right to call himself Frysian*__
+
+Is it a clear undisputable fact that mister Derksen stated that mister de Hoop has no right to talk "about it that way"
+, merely because of the fact that mister de Hoop is not caucasian? Which would be a form of exclusion based on race,
+and therefore an act of racism.
+
+__*Stating that mister de Hoop isn't Frysian, because he wasn't born there*__
+
+Stating that merely due to the fact that mister de Hoop wasn't born there, maybe hinting at the fact that he in addition
+was adopted, might be rhetoric of the view, that Frysian people, are very chauvinistic, with their own official language
+, and that that feeling of identity, that experience of identity, doesn't come from living there a certain period of
+time. Hinting at ["salon socialisten"](https://en.wikipedia.org/wiki/Champagne_socialist) mentality of a politician,
+using the mere fact that he has lived there, to score points with society, and in particular the population in Friesland.
+
+Imagine this having been the vision behind the rhetoric of mister Derksen, what is then there in the above described
+dialogue, that could factually, technically be considered racist? The fact that
+[Merel Ek](https://nl.wikipedia.org/wiki/Merel_Ek)
+described, [that mister Derksen did not know that he was adopted](https://www.vandaaginside.nl/nieuws/vandaag-inside-uitzending/aflevering-vandaag-inside-met-helene-hendriks-vrijdag-12-april-2024)?
+But is that believable? Each subject is prepared before
+the program is aired. The dialogue seemed prepared, known. But even if not, and this was a spontaneous conversation
+regarding this subject, the "Jawel" in the answer to the remark of mister Genee, that mister de Hoop was adopted,
+indicates that mister Derksen already knew he was adopted, and that he already had taken that into account. At the very
+least this should be asked before stating the opposite. If the before stated is true, then first of all the rhetoric of
+miss Ek crumbles already. But also any rhetoric regarding the view that mister Derksen stated that mister de Hoop was
+excluded merely because of the color of his skin, because it is simply not known for sure.
 
 Johan Derksen has used the remark "[salon socialisten](https://en.wikipedia.org/wiki/Champagne_socialist)" before.
 The remark that de Hoop is not really "Fries", might be related to the thought that when it fits you, you identify as
@@ -87,9 +111,28 @@ special", "you are as Dutch as all of us". The thought behind this can be that d
 young age, you might not identify yourself with your adoptive family, and therefore not identify necessarily with that
 subgroup, as people from Friesland can be so chauvinistic as can be. What about the behavior of people from Friesland,
 (personal experience of the author, over and over and over...), turning their back to you once they hear you are nót
-from Friesland... Talking about discrimination.
+from Friesland... 
 
+One could imagine, that if the skin color of mister de Hoop would not have been non-white, but if mister de Hoop would
+have been caucasian, would it have been considered discriminatory. Or would everybody then have laughed, and agreed with
+it. Was this maybe the view the audience had, including the other members at the table? Not seeing skin color? Not being
+racist?
 
+The point that should be made here, is that people not related to the situation have judged already it is racist. While
+in a country like the Netherlands, where the rule of law applies, people hold off on judging, especially calling someone
+a racist, until a judge has done careful research into what has exactly transpired. It makes it
+event worse, when attorneys, are starting
+[to say things are immoral](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5444601/ophef-over-racistische-uitspraak-johan-derksen).
+
+What is moral and immoral is up to an individual. Once ruling for others what is immoral in general, is entering the
+domain of societal system building. That is a very complex and difficult domain. One in which a mistake, can leed to 
+complex, hard problems to solve. Civil war is always a threat.
+
+On top of all the above. So many people jumped on their high horse. Stating something is racist. Racism is a form of
+discrimination, but what about discrimination against women? Why is there so little noise about the Banga lists, the
+rape in female prisons, the oppression still going on of women in society? Why, if it is a subject that you can gain
+easy credit for when speaking out in that context in a certain way, you hear all of a sudden so many people becoming
+vocal, while when it happens to women, it is so silent. Oh society, where art thou?
 
 ### Nationaal Coördinator tegen Discriminatie en Racisme (NCDR)
 
