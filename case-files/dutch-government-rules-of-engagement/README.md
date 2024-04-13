@@ -135,6 +135,9 @@ discrimination, but what about discrimination against women? Why is there so lit
 rape in female prisons, the oppression still going on of women in society? Why, if it is a subject that you can gain
 easy credit for when speaking out in that context in a certain way, you hear all of a sudden so many people becoming
 vocal, while when it happens to women, it is so silent. Oh society, where art thou?
+What about the "Toeslagen Affaire"? A small minority, a handful of people, kept digging and pushing for disclosure,
+where were Mirka Antolovic of Discriminatie.nl, Strafrechtadvocaat Anis Boumanjal and so many others with there
+rhetoric then? What is going on with Holland?
 
 ### Nationaal Coördinator tegen Discriminatie en Racisme (NCDR)
 
@@ -153,3 +156,12 @@ group, or on behalf of the government?
 
 ### "Dwarsfluit meisje": Merel Ek
 
+Merel, Merel, Merel... Being an analyst, please analyse. I have done a little
+analysis here now, regarding the dialogue, but you, being there, could have
+given the proper example to Holland, regarding conversation techniques and
+analysis of what was actually said. A judge wouldn't do anything different.
+I don't have time nor energy to get to the bottom of this case. But you could
+have dug a little deeper instead of coming back on Friday to indicate you wish
+you would have done more. You have the intelligence, the talent, the character
+to do so much more. Show us what you got and don't be shy of spreading those
+wings of yours! Your so much more than just the "dwarsfluit meisje".
