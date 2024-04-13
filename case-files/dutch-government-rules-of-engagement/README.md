@@ -52,35 +52,25 @@ the analyst Johan Derksen, reacted to an interview of SBS with mister de Hoop, r
 [decision of the government](https://www.rijksoverheid.nl/actueel/nieuws/2024/04/08/nieuwe-afspraken-voor-versterken-friese-taal-en-cultuur),
 that de Hoop is not even really a "Fries". The dialogue was as follows:
 
-#### *[Johan](https://nl.wikipedia.org/wiki/Johan_Derksen):*
+#### *[Johan](https://nl.wikipedia.org/wiki/Johan_Derksen):* *"Die staat toch uit z'n nek te lullen? Iemand die in Friesland geboren is, heeft het recht om daar zo over te praten."*
 
-*"Die staat toch uit z'n nek te lullen? Iemand die in Friesland geboren is, heeft het recht om daar zo over te praten."*
+__Translation:__ *"He's talking out of his neck, isn't he? Someone who was born in Friesland has the right to talk about it that way."*
 
-__Translation:__
+#### *[Wilfred](https://nl.wikipedia.org/wiki/Wilfred_Genee):* *"Maar hij is geadopteerd hè, door Friese ouders."*
 
-#### *[Wilfred](https://nl.wikipedia.org/wiki/Wilfred_Genee):*
+__Translation:__ *"But he was adopted, wasn't he, by Frisian parents?"*
 
-*"Maar hij is geadopteerd hè, door Friese ouders."*
+#### *[Johan](https://nl.wikipedia.org/wiki/Johan_Derksen):* *"Jawel, maar hij is toch geen Fries? Kom op zeg."*
 
-__Translation:__
+__Translation:__ *"Yes, but he's not Frisian, is he? Come on."*
 
-#### *[Johan](https://nl.wikipedia.org/wiki/Johan_Derksen):*
+#### *[Wilfred](https://nl.wikipedia.org/wiki/Wilfred_Genee):* *"Hij spreekt het echt hartstikke goed. Hij spreekt het echt heel goed."*
 
-*"Jawel, maar hij is toch geen Fries? Kom op zeg."*
+__Translation:__ *"He speaks it really well. He speaks it really well."*
 
-#### *[Wilfred](https://nl.wikipedia.org/wiki/Wilfred_Genee):*
+#### *[Johan](https://nl.wikipedia.org/wiki/Johan_Derksen):* *"Ik ben toch ook geen Surinamer?"*
 
-*"Hij spreekt het echt hartstikke goed. Hij spreekt het echt heel goed."*
-
-__Translation:__
-
-#### *[Johan](https://nl.wikipedia.org/wiki/Johan_Derksen):*
-
-*"Ik ben toch ook geen Surinamer?"*
-
-__Translation:__
-
-__"I'm not a Surinamese either, am I?"
+__Translation:__ "I'm not a Surinamese either, am I?"
 
 That [what was said](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5444601/ophef-over-racistische-uitspraak-johan-derksen)
 was:
@@ -115,3 +105,6 @@ This needs to be analysed and questioned.
 
 Did mister Rutte speak on his own behalf, or on behalf of himself, a social
 group, or on behalf of the government?
+
+### "Dwarsfluit meisje": Merel Ek
+
