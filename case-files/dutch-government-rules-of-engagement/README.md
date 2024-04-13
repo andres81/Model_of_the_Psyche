@@ -11,7 +11,16 @@
 
 ## Introduction
 
-## Johan Derksen incident - 9-April-2024
+First, it is important to describe the situation as accurate as possible, before
+choosing the context, and subsequently within that context draw conclusions.
+Any mistake in the analysis of the situation that leads to a faulty set of
+assumptions regarding what happened, that what actually happened, including what
+lead up to that what was perceived, will fault any choice of context and
+subsequent conclusions drawn in that context.
+
+Second, choose your conversation partners carefully: What is their starting
+point, point of view (pov) and what do they choose? A Sartrian situation or the
+subjective reality they choose to consume.
 
 What is important in a country like the Netherlands, is the freedom of speech.
 If people no longer check the validity of claims, start acting on impuls and
@@ -32,6 +41,34 @@ subsequently.
 Let's listen, analyse, and only in the end draw conclusions. Use the legal
 system, to ask professionals, judges, to judge the situation, and come to a
 professional conclusion.
+
+## Johan Derksen incident - 9-April-2024
+
+### The situation
+
+In the television program
+[Vandaag Inside](https://www.vandaaginside.nl/nieuws/vandaag-inside-uitzending/aflevering-vandaag-inside-met-albert-verlinde-dinsdag-9-april-2024)
+the analyst Johan Derksen, reacted to a
+[decision of the governement](https://www.rijksoverheid.nl/actueel/nieuws/2024/04/08/nieuwe-afspraken-voor-versterken-friese-taal-en-cultuur)
+that .
+
+
+
+
+That [what was said](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5444601/ophef-over-racistische-uitspraak-johan-derksen)
+was:
+
+
+### Analysis
+
+Johan Derksen has used the remark "[salon socialisten](https://en.wikipedia.org/wiki/Champagne_socialist)" before.
+The remark that de Hoop is not really "Fries", might be related to the thought that when it fits you, you identify as
+part of a subgroup in Dutch society, but only to be the politician for a moment. It then has nothing to do with racism,
+instead, mister Derksen, saying mister de Hoop is not really "Fries", treats mister de Hoop as a full member of The
+Netherlands and its culture, by treating him as Dutch people treat each other: "act normal", "don't pretent do be
+special", "you are as Dutch as all of us".
+
+
 
 ### Nationaal Coördinator tegen Discriminatie en Racisme (NCDR)
 
