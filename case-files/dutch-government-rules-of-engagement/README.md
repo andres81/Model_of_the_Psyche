@@ -97,7 +97,7 @@ described, [that mister Derksen did not know that he was adopted](https://www.va
 But is that believable? Each subject is prepared before
 the program is aired. The dialogue seemed prepared, known. But even if not, and this was a spontaneous conversation
 regarding this subject, the "Jawel" in the answer to the remark of mister Genee, that mister de Hoop was adopted,
-indicates that mister Derksen already knew he was adopted, and that he already had taken that into account. At the very
+indicates that mister Derksen maybe already knew he was adopted, and that he already had taken that into account. At the very
 least this should be asked before stating the opposite. If the before stated is true, then first of all the rhetoric of
 miss Ek crumbles already. But also any rhetoric regarding the view that mister Derksen stated that mister de Hoop was
 excluded merely because of the color of his skin, because it is simply not known for sure.
@@ -125,8 +125,10 @@ event worse, when attorneys, are starting
 [to say things are immoral](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5444601/ophef-over-racistische-uitspraak-johan-derksen).
 
 What is moral and immoral is up to an individual. Once ruling for others what is immoral in general, is entering the
-domain of societal system building. That is a very complex and difficult domain. One in which a mistake, can leed to 
-complex, hard problems to solve. Civil war is always a threat.
+domain of societal system building. That is a very complex and difficult domain. One in which one mistake, can lead to 
+complex, hard problems to solve. Civil war is always a threat. And currently society has been warned as far as the
+author can remember, by experts, that the divide in The Netherlands, Dutch society, is growing, between subgroups. Look\
+for example at the farmers protests.
 
 On top of all the above. So many people jumped on their high horse. Stating something is racist. Racism is a form of
 discrimination, but what about discrimination against women? Why is there so little noise about the Banga lists, the
