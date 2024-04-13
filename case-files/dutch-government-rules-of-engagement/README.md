@@ -147,7 +147,11 @@ What is the role of the Nationaal Coördinator tegen Discriminatie en Racisme
 government? Did he properly represent the Dutch Goverment, or did he speak on
 his on behalf? Did he speak on behalf of a social group in the Netherlands?
 This needs to be analysed and questioned.
-...
+
+The only question that should be asked by society first:
+
+How did you interpret the dialogue that caused this situation, and what is the
+racist aspect of it?
 
 ### Mark Rutte: Prime Minister of the Netherlands
 
