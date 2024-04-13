@@ -52,14 +52,35 @@ the analyst Johan Derksen, reacted to an interview of SBS with mister de Hoop, r
 [decision of the government](https://www.rijksoverheid.nl/actueel/nieuws/2024/04/08/nieuwe-afspraken-voor-versterken-friese-taal-en-cultuur),
 that de Hoop is not even really a "Fries". The dialogue was as follows:
 
-__*[Johan](https://nl.wikipedia.org/wiki/Johan_Derksen):*__
+#### *[Johan](https://nl.wikipedia.org/wiki/Johan_Derksen):*
 
+*"Die staat toch uit z'n nek te lullen? Iemand die in Friesland geboren is, heeft het recht om daar zo over te praten."*
 
-__*[Wilfred](https://nl.wikipedia.org/wiki/Wilfred_Genee):*__
+__Translation:__
 
+#### *[Wilfred](https://nl.wikipedia.org/wiki/Wilfred_Genee):*
 
+*"Maar hij is geadopteerd hè, door Friese ouders."*
 
+__Translation:__
 
+#### *[Johan](https://nl.wikipedia.org/wiki/Johan_Derksen):*
+
+*"Jawel, maar hij is toch geen Fries? Kom op zeg."*
+
+#### *[Wilfred](https://nl.wikipedia.org/wiki/Wilfred_Genee):*
+
+*"Hij spreekt het echt hartstikke goed. Hij spreekt het echt heel goed."*
+
+__Translation:__
+
+#### *[Johan](https://nl.wikipedia.org/wiki/Johan_Derksen):*
+
+*"Ik ben toch ook geen Surinamer?"*
+
+__Translation:__
+
+__"I'm not a Surinamese either, am I?"
 
 That [what was said](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5444601/ophef-over-racistische-uitspraak-johan-derksen)
 was:
