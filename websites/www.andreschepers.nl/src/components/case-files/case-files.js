@@ -68,6 +68,12 @@ const CASE_FILES = [
         ,'imageSource': 'https://commons.wikimedia.org/wiki/File:G%C3%A4nget_vid_B%C3%B6ckaregatan_i_Ystad_2019.jpg'
         ,'heading': 'Youth: Role of Society to do the right thing morally'
         ,'subheading': 'Societal problems'
+    },{
+        'href': '#glossary-an-ubiquitous-language'
+        ,'image': 'assets//img/case-file/selena-gomez.jpg'
+        ,'imageSource': 'https://www.selenagomez.com/#/'
+        ,'heading': 'Glossary'
+        ,'subheading': 'a(n) ubiquitous language'
     }
 
 ]
