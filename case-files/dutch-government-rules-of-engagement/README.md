@@ -7,7 +7,6 @@
 3. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5444601/ophef-over-racistische-uitspraak-johan-derksen
 4. https://www.rtlnieuws.nl/entertainment/artikel/5444642/racismecoordinator-beneden-waardigheid-te-reageren-op-derksen
 5. https://www.rtlnieuws.nl/entertainment/artikel/5444651/rutte-steunt-de-hoop-het-fries-na-bekritiseerde-opmerking-vi
-6. 
 
 ## Introduction
 
@@ -144,14 +143,60 @@ rhetoric then? What is going on with Holland?
 What is the role of the Nationaal Coördinator tegen Discriminatie en Racisme
 ([NCDR](https://www.rtlnieuws.nl/entertainment/artikel/5444642/racismecoordinator-beneden-waardigheid-te-reageren-op-derksen)
 )? What organisation does he work for? Does he eventually work for the
-government? Did he properly represent the Dutch Goverment, or did he speak on
+government? Did he properly represent the Dutch Government, or did he speak on
 his on behalf? Did he speak on behalf of a social group in the Netherlands?
-This needs to be analysed and questioned.
+What is his duty of care?
+These are the general questions one should always ask when interpreting words
+of someone else.
 
 The only question that should be asked by society first:
 
 How did you interpret the dialogue that caused this situation, and what is the
 racist aspect of it?
+
+Combating racism is something done by professionals. These professionals are
+social psychologists. They know how to analyse the root causes of racism and/or
+discrimination (for example discrimination against autism), and what intervention
+is best in that given situation.
+Attacking one person, directly or by proxy, passive or active, can be regarded
+by members of a group identifying by that person, as an attack on that group.
+In a country like The Netherlands, where there is a growing division between
+groups in the population, it becomes harder and harder to govern by the
+government and even form a government in the first place, it is absolutely
+necessary that the people working for the government, try to keep it all together.
+A role defined by the government, related to combating racism and discrimination
+should never ever let any member of society fall. Did the NCDR not do this with
+what RTLNieuws mentioned: "Rabin noemt Johan zo onbenullig dat hij hem niet de moeite waard
+vindt om te reageren." translated by Google Translate: "Rabin calls Johan so
+stupid that he doesn't think he's worth responding."? 
+I propose a "Nationaal Coordinator Preventie Samenlevings Ontwrichting",
+translated: "National Coordinator for the Prevention of Societal Disruption".
+Let it be very clear, that the author is against any form of discrimination.
+Used to being discriminated due to autism, you get to know how evil people can
+become. Consuming the situation by controlling and abusing another human being.
+But realising, it requires love, patience, and acceptance, and leaving no man
+behind, to come together, to neutralise the aggression, not the aggressor, ever!
+How can that nót be the job of the NCDR? Do I see it wrong? 
+
+What about the lawyer, [mr. drs. A. Boumanjal](https://benvadvocaten.nl/het-team/boumanjal/)
+[indicating](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5444601/ophef-over-racistische-uitspraak-johan-derksen)
+it was an "insult", while psychologists are
+still trying to learn what that really is, but also speaking on behalf of
+another person that it must have been an insult. Saying it was immoral, while
+what is immoral and moral is subject to convictions of an individual. Did he
+speak on behalf of himself while he was asked for a professional opinion regarding
+what is legal and what is not? Is it ethical to do this, according to the 
+[lawyers association](https://www.advocatenorde.nl/)
+in the Netherlands?
+
+All the author is trying to do, is to motivate everybody, to talk and ask questions.
+Come together, please. If professionals are warning for an increasing chance of
+civil war, it is time to start asking the professionals, social psychologists
+regarding racism and discrimination, to get the job done. Personal rhetoric,
+that can become empty rhetoric in different contexts by people that might merely
+wish to consume the situation, or for policital purposes, is most often not the
+way to go, in the context of a large group, due to the fact of so many different
+opinions.
 
 ### Mark Rutte: Prime Minister of the Netherlands
 

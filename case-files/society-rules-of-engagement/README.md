@@ -8,16 +8,6 @@
 
 !!! WORK IN PROGRESS!!!
 
-
-// KLAD
-
-Consuming the situation that you created merely for the purpose to consume it in
-the first place. At the cost of anyone or anything as long as you think you get
-away with it.
-
-// 
-
-
 This is an evolving view of society, what it should be, society as a non-social
 construct, that serves to help people live together on this planet ethically.
 The ethics should be described by the construct called society itself.
@@ -489,11 +479,11 @@ Other examples consist of [human rights organisations](https://en.wikipedia.org/
 
 # Work in progress: Brain farts / Snippets of Genius (yeah, sure...) / building blocks
 
+## A "moral man" or a man of morals
+
 ## Reasons not to use social systems
 
-### Empty Rhetoric
-
-### Oppression of minorities: At the expense of others, increasing group 
+### Oppression of minorities: At the expense of others, increasing group cohesion
 
 ### Hacking the human psyche
 
