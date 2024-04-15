@@ -13,3 +13,6 @@ they might be seen as incompetent. While, if one would ask for the background of
 the rhetoric, and the underlying vision, one would instantaneously see, it is a
 big pile of horse dun.
 [The Emperor's New Clothes](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes).
+
+### "Moral man" or a person of morals
+
