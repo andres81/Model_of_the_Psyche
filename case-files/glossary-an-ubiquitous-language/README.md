@@ -1,0 +1,4 @@
+# Glossary
+
+## a ubiquitous language
+

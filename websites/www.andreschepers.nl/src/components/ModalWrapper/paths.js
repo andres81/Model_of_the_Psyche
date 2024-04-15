@@ -26,6 +26,7 @@ const PATHS = {
     ,"#police-undervalued": "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/main/case-files/police-undervalued/README.md"
     ,"#bullying-at-work-and-in-education": "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/main/case-files/bullying-at-work-and-in-education/README.md"
     ,"#societies-responsibility-towards-the-youth": "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/main/case-files/societies-responsibility-towards-the-youth/README.md"
+    ,"#glossary-an-ubiquitous-language": "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/main/case-files/glossary-an-ubiquitous-language/README.md"
 }
 
 export default PATHS;
