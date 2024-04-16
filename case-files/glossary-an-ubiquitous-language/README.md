@@ -66,4 +66,23 @@ Don't ever negotiate with children.
 
 Do people steer the situation by playing the infant?
 
-### 
+### The choice of a goat
+
+In the old [Noorder Dierenpark](https://en.wikipedia.org/wiki/Dierenpark_Emmen)
+in [Emmen](https://en.wikipedia.org/wiki/Emmen,_Netherlands), there was a little
+childrens animal farm. Goats and pigs roamed freely amongst the visitors.
+
+![Noorder Dierenpark animal farm](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/images/goats-free-to-take-a-break.jpg?raw=true)
+
+The animals didn't have a choice whether people could touch them and give
+attention. But at a certain moment in time, a change was made: The area where
+the animals roamed free together with people, was cut in half: One half where
+people were allowed, the other half where people were not allowed, and where the
+animals could take a break from receiving attention. The result was, that goats
+would switch grounds, switching effectively from receiving attention to not
+receiving attention.
+
+How about humans, that most often don't have this choice? Switching from social
+attention and consumption by others, to a non-social situation. At work for
+example or anywhere outside in the real world, the realm of society, where
+others perceive it as a social situation, or a projected on to others one.
