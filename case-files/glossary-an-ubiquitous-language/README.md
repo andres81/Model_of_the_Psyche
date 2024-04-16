@@ -29,7 +29,7 @@ as a tool of the bourgeoisie to control the masses.](https://en.wikipedia.org/wi
 
 [Bad faith](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))
 
-### Social or functional construct you abide by with your moral man ethics.
+### Social or functional construct you abide by with your moral person ethics.
 
 Playing bourgeoisie games.
 TBC...
@@ -62,7 +62,11 @@ TBC...
 
 In a situation with infants, how to be the adult and control the situation.
 
-Don't ever negotiate with children.
+Don't ever negotiate with children, instead, go with them in their drama, so
+they can safely express their truly perceived reality, in order for them to
+vent. Instead of changing set boundaries by a parent. Children need structure.
+Knowing that no matter what they do, those set boundaries for them are not
+changed, creates a safe environment for them.
 
 Do people steer the situation by playing the infant?
 
@@ -86,3 +90,5 @@ How about humans, that most often don't have this choice? Switching from social
 attention and consumption by others, to a non-social situation. At work for
 example or anywhere outside in the real world, the realm of society, where
 others perceive it as a social situation, or a projected on to others one.
+
+### 
