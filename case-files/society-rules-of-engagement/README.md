@@ -479,8 +479,6 @@ Other examples consist of [human rights organisations](https://en.wikipedia.org/
 
 # Work in progress: Brain farts / Snippets of Genius (yeah, sure...) / building blocks
 
-## A "moral man" or a man of morals
-
 ## Reasons not to use social systems
 
 ### Oppression of minorities: At the expense of others, increasing group cohesion
