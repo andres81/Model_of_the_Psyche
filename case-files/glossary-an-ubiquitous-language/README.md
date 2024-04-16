@@ -34,7 +34,7 @@ as a tool of the bourgeoisie to control the masses.](https://en.wikipedia.org/wi
 Playing bourgeoisie games.
 TBC...
 
-### From one-self for one-self
+### From one-self for one-self and/or someone
 
 From one-self for another: From a point of having morals and abiding by them,
 and from that acting for someone else.
@@ -49,3 +49,21 @@ nature subsequently then be activated by the behavior of these others?
 
 ### Societal or social exclusion
 
+Are people confusing social exclusion with societal exclusion and subsequently
+claiming the rights regarding inclusion in society when the context is social?
+
+I am excluded from many social groups: Parties of families, barbeques,
+reunions... But that exclusion does not exclude me from society. I still have to
+be taxes like everybody else.
+
+TBC...
+
+### Being the adult in the situation
+
+In a situation with infants, how to be the adult and control the situation.
+
+Don't ever negotiate with children.
+
+Do people steer the situation by playing the infant?
+
+### 
