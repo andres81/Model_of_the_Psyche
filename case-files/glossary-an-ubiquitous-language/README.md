@@ -1,8 +1,8 @@
 # Glossary
 
-## a ubiquitous language
+#### a ubiquitous language
 
-### Empty Rhetoric
+## Empty Rhetoric
 
 Empty rhetoric: Rhetoric reused in a different situation, in which the vision
 holds no grounds, but was applicable in a situation, in which people saw those
@@ -14,7 +14,7 @@ the rhetoric, and the underlying vision, one would instantaneously see, it is a
 big pile of horse dun.
 [The Emperor's New Clothes](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes).
 
-### "Moral person" or a person with morals
+## "Moral person" or a person with morals
 
 *[One of the most important implications of bad faith is the abolition of
 traditional ethics. Being a "moral person" requires one to deny authentic
@@ -29,17 +29,17 @@ as a tool of the bourgeoisie to control the masses.](https://en.wikipedia.org/wi
 
 [Bad faith](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))
 
-### Social or functional construct you abide by with your moral man ethics.
+## Social or functional construct you abide by with your moral person ethics.
 
 Playing bourgeoisie games.
 TBC...
 
-### From one-self for one-self and/or someone
+## From one-self for one-self and/or someone
 
 From one-self for another: From a point of having morals and abiding by them,
 and from that acting for someone else.
 
-### Consumption of a (perceived) social situation
+## Consumption of a (perceived) social situation
 
 If mother nature punishes and rewards us, has power over us when in a
 (perceived) social situation, how much power can an external entity then
@@ -47,7 +47,7 @@ subsequently have over us? What powers do we give others, when we allow them to
 be considered by us to be part of our social situation and our internal mother
 nature subsequently then be activated by the behavior of these others?
 
-### Societal or social exclusion
+## Societal or social exclusion
 
 Are people confusing social exclusion with societal exclusion and subsequently
 claiming the rights regarding inclusion in society when the context is social?
@@ -58,15 +58,19 @@ be taxes like everybody else.
 
 TBC...
 
-### Being the adult in the situation
+## Being the adult in the situation
 
 In a situation with infants, how to be the adult and control the situation.
 
-Don't ever negotiate with children.
+Don't ever negotiate with children, instead, go with them in their drama, so
+they can safely express their truly perceived reality, in order for them to
+vent. Instead of changing set boundaries by a parent. Children need structure.
+Knowing that no matter what they do, those set boundaries for them are not
+changed, creates a safe environment for them.
 
 Do people steer the situation by playing the infant?
 
-### The choice of a goat
+## The choice of a goat
 
 In the old [Noorder Dierenpark](https://en.wikipedia.org/wiki/Dierenpark_Emmen)
 in [Emmen](https://en.wikipedia.org/wiki/Emmen,_Netherlands), there was a little
@@ -86,3 +90,5 @@ How about humans, that most often don't have this choice? Switching from social
 attention and consumption by others, to a non-social situation. At work for
 example or anywhere outside in the real world, the realm of society, where
 others perceive it as a social situation, or a projected on to others one.
+
+##
