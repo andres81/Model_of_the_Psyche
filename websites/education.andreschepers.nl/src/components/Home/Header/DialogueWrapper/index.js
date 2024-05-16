@@ -15,6 +15,7 @@
  */
 
 import React from 'react'
+import {useLocation, withRouter} from 'react-router-dom'
 
 import Dialogue from '../../../DialogueTools/Dialogue'
 
@@ -41,8 +42,7 @@ class DialogueWrapper extends React.Component {
     }
 
     retrieveJson = () => {
-        let params = this.props.match.params;
-        fetch('/learning/language/' + params.language.toLowerCase() + '/dialogue/' + params.dialogueName + '.json')
+        fetch(this.props.location.pathname + '.json')
             .then(response => {
                 if (response.ok) {
                     return response.json().then(json => {
@@ -62,4 +62,4 @@ class DialogueWrapper extends React.Component {
     }
 }
 
-export default DialogueWrapper;
+export default withRouter(DialogueWrapper);
