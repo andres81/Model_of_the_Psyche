@@ -1,0 +1,575 @@
+{
+  "title": "Урок 11, Поедем на стадион? 11.1 4",
+  "markdown": "A paragraph with *emphasis* and **strong importance**.\n\n> A block quote with ~strikethrough~ and a URL: https://reactjs.org.\n\n* Lists\n* [ ] todo\n* [x] done\n\nA table:\n\n| a | b |\n| - | - |\n|table|tttt|",
+  "lines": [
+    {
+      "type": "dialogue-line",
+      "personName": "Люся",
+      "text": "Сил больше нет. На улице 35 градусов, а я целый час бегаю за мячом.",
+      "translation": "There is no more strength. It's 35 degrees outside and I've been chasing the ball for an hour.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Сил"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "больше"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "нет"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "На"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "улице"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "35"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "градусов"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "а"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "целый"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "час"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "бегаю"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "за"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "мячом"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "personName": "Люся",
+      "text": "Можна подумать, я чемпионом собираюсь быть. К чёрту этот дурацкий теннис!",
+      "translation": "You might think I'm going to be a champion. To hell with this stupid tennis!",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Можна"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "подумать"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "чемпионом"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "собираюсь"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "быть"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "К"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "чёрту"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "этот"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "дурацкий"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "теннис"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    },
+    {
+      "personName": "Тамара",
+      "text": "Люся, ну, ты неправа. Если будешь каждый день тренироваться, то я гарантирую тебе успех.",
+      "translation": "Lucy, well, you're wrong. If you train every day, then I guarantee you success.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Люся"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "ну"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "ты"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "неправа"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Если"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "будешь"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "каждый"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "день"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "тренироваться"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "то"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "гарантирую"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "тебе"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "успех"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    },
+    {
+      "personName": "Люся",
+      "text": "Да, это так. Слушай, а давай попробуем экстремальный спорт. Я помню, Ирина рассказывала чтото о дайвинге.",
+      "translation": "Yes it is. Listen, let's try extreme sports. I remember Irina was telling something about diving.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Да"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "это"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "так"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Слушай"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "а"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "давай"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "попробуем"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "экстремальный"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "спорт"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "помню"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Ирина"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "рассказывала"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "чтото"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "о"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "дайвинге"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    },
+    {
+      "personName": "Тамара",
+      "text": "Хорошо. Я с тобой согласна. Никогда не поздно попробовать что-нибудь новое.",
+      "translation": "Good. I agree with you. It's never too late to try something new.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Хорошо"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "с"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "тобой"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "согласна"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Никогда"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "не"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "поздно"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "попробовать"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "что-нибудь"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "новое"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    }
+  ],
+  "questions": []
+}

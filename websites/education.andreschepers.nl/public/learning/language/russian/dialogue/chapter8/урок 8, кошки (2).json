@@ -1,0 +1,683 @@
+{
+  "title": "урок 8, кошки",
+  "markdown": "A paragraph with *emphasis* and **strong importance**.\n\n> A block quote with ~strikethrough~ and a URL: https://reactjs.org.\n\n* Lists\n* [ ] todo\n* [x] done\n\nA table:\n\n| a | b |\n| - | - |\n|table|tttt|",
+  "lines": [
+    {
+      "type": "dialogue-textblock",
+      "personName": "",
+      "text": "Однажды по дорожке",
+      "translation": "One day on a path",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Однажды"
+          },
+          "right": {
+            "text": "One day"
+          }
+        },
+        {
+          "left": {
+            "text": "по"
+          },
+          "right": {
+            "text": "on"
+          }
+        },
+        {
+          "left": {
+            "text": "дорожке"
+          },
+          "right": {
+            "text": "path, track"
+          }
+        }
+      ]
+    },
+    {
+      "type": "dialogue-textblock",
+      "personName": "",
+      "text": "Я шёл к себе домой.",
+      "translation": "I was walking to my house.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Я"
+          },
+          "right": {
+            "text": "I"
+          }
+        },
+        {
+          "left": {
+            "text": "шёл"
+          },
+          "right": {
+            "text": "walked"
+          }
+        },
+        {
+          "left": {
+            "text": "к"
+          },
+          "right": {
+            "text": "to"
+          }
+        },
+        {
+          "left": {
+            "text": "себе"
+          },
+          "right": {
+            "text": "myself"
+          }
+        },
+        {
+          "left": {
+            "text": "домой"
+          },
+          "right": {
+            "text": "home"
+          }
+        }
+      ]
+    },
+    {
+      "type": "dialogue-textblock",
+      "personName": "",
+      "text": "Смторю и вижу: кошки!",
+      "translation": "I look and see: cats!",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Смторю"
+          },
+          "right": {
+            "text": "(I) look"
+          }
+        },
+        {
+          "left": {
+            "text": "и"
+          },
+          "right": {
+            "text": "and"
+          }
+        },
+        {
+          "left": {
+            "text": "вижу:"
+          },
+          "right": {
+            "text": "see"
+          }
+        },
+        {
+          "left": {
+            "text": "кошки"
+          },
+          "right": {
+            "text": "cats"
+          }
+        }
+      ]
+    },
+    {
+      "personName": "",
+      "text": "Сидят ко мне спиной.",
+      "translation": "Sitting on my back.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Сидят"
+          },
+          "right": {
+            "text": "Sitting"
+          }
+        },
+        {
+          "left": {
+            "text": "ко"
+          },
+          "right": {
+            "text": "on"
+          }
+        },
+        {
+          "left": {
+            "text": "мне"
+          },
+          "right": {
+            "text": "my"
+          }
+        },
+        {
+          "left": {
+            "text": "спиной"
+          },
+          "right": {
+            "text": "back"
+          }
+        }
+      ],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "",
+      "translation": "",
+      "wordTranslations": [],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "Я крикнул: -- Эй вы, кошки!",
+      "translation": "I called out: \"Hey you cats!",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Я"
+          },
+          "right": {
+            "text": "I"
+          }
+        },
+        {
+          "left": {
+            "text": "крикнул:"
+          },
+          "right": {
+            "text": "shouted"
+          }
+        },
+        {
+          "left": {
+            "text": "--"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Эй"
+          },
+          "right": {
+            "text": "Hey"
+          }
+        },
+        {
+          "left": {
+            "text": "вы"
+          },
+          "right": {
+            "text": "you"
+          }
+        },
+        {
+          "left": {
+            "text": "кошки"
+          },
+          "right": {
+            "text": "cats"
+          }
+        }
+      ],
+      "type": "dialogue-textblock"
+    },
+    {
+      "type": "dialogue-textblock",
+      "personName": "",
+      "text": "Пойдёмте-ка со мной,",
+      "translation": "Come with me",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Пойдёмте-ка"
+          },
+          "right": {
+            "text": "Let's go"
+          }
+        },
+        {
+          "left": {
+            "text": "со"
+          },
+          "right": {
+            "text": "with"
+          }
+        },
+        {
+          "left": {
+            "text": "мной"
+          },
+          "right": {
+            "text": "me"
+          }
+        }
+      ]
+    },
+    {
+      "personName": "",
+      "text": "Пойдёмте по дорожке,",
+      "translation": "Come on down the path",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Пойдёмте"
+          },
+          "right": {
+            "text": "Go "
+          }
+        },
+        {
+          "left": {
+            "text": "по"
+          },
+          "right": {
+            "text": "on"
+          }
+        },
+        {
+          "left": {
+            "text": "дорожке"
+          },
+          "right": {
+            "text": "path"
+          }
+        }
+      ],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "пойдёмте-ка домой. ",
+      "translation": "Let's go home.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "пойдёмте-ка"
+          },
+          "right": {
+            "text": "Let's go"
+          }
+        },
+        {
+          "left": {
+            "text": "домой"
+          },
+          "right": {
+            "text": "home"
+          }
+        }
+      ],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "",
+      "translation": "",
+      "wordTranslations": [],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "Скорей пойдёмте, кошки,",
+      "translation": "Come on, cats!",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Скорей"
+          },
+          "right": {
+            "text": "Fast, quick"
+          }
+        },
+        {
+          "left": {
+            "text": "пойдёмте"
+          },
+          "right": {
+            "text": "go"
+          }
+        },
+        {
+          "left": {
+            "text": "кошки"
+          },
+          "right": {
+            "text": "cats"
+          }
+        }
+      ],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "А я вам на обед",
+      "translation": "And I will make lunch",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "А"
+          },
+          "right": {
+            "text": "And "
+          }
+        },
+        {
+          "left": {
+            "text": "я"
+          },
+          "right": {
+            "text": "I"
+          }
+        },
+        {
+          "left": {
+            "text": "вам"
+          },
+          "right": {
+            "text": "you"
+          }
+        },
+        {
+          "left": {
+            "text": "на"
+          },
+          "right": {
+            "text": "on, in"
+          }
+        },
+        {
+          "left": {
+            "text": "обед"
+          },
+          "right": {
+            "text": "lunch"
+          }
+        }
+      ],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "Из лука и картошки",
+      "translation": "From onion and potatoes",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Из"
+          },
+          "right": {
+            "text": "From"
+          }
+        },
+        {
+          "left": {
+            "text": "лука"
+          },
+          "right": {
+            "text": "onion"
+          }
+        },
+        {
+          "left": {
+            "text": "и"
+          },
+          "right": {
+            "text": "and"
+          }
+        },
+        {
+          "left": {
+            "text": "картошки"
+          },
+          "right": {
+            "text": "potatoes"
+          }
+        }
+      ],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "Устрою винегрет.",
+      "translation": "I'll make a vinaigrette.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Устрою"
+          },
+          "right": {
+            "text": "Prepare"
+          }
+        },
+        {
+          "left": {
+            "text": "винегрет"
+          },
+          "right": {
+            "text": "vinaigrette"
+          }
+        }
+      ],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "",
+      "translation": "",
+      "wordTranslations": [],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "-- Ах, нет! -- сказали кошки. --",
+      "translation": "- Oh, no! said the cats. --",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "--"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Ах"
+          },
+          "right": {
+            "text": "Oh"
+          }
+        },
+        {
+          "left": {
+            "text": "нет"
+          },
+          "right": {
+            "text": "no"
+          }
+        },
+        {
+          "left": {
+            "text": "--"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "сказали"
+          },
+          "right": {
+            "text": "said"
+          }
+        },
+        {
+          "left": {
+            "text": "кошки"
+          },
+          "right": {
+            "text": "cats"
+          }
+        },
+        {
+          "left": {
+            "text": "--"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "Останемся мы тут! --",
+      "translation": "We will stay here! --",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Останемся"
+          },
+          "right": {
+            "text": "Let's stay"
+          }
+        },
+        {
+          "left": {
+            "text": "мы"
+          },
+          "right": {
+            "text": "we"
+          }
+        },
+        {
+          "left": {
+            "text": "тут"
+          },
+          "right": {
+            "text": "here"
+          }
+        },
+        {
+          "left": {
+            "text": "--"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "Уселись на дорожке",
+      "translation": "",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Уселись"
+          },
+          "right": {
+            "text": "sat down"
+          }
+        },
+        {
+          "left": {
+            "text": "на"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "дорожке"
+          },
+          "right": {
+            "text": "track, little road"
+          }
+        }
+      ],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "И дальше не идут.",
+      "translation": "",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "И"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "дальше"
+          },
+          "right": {
+            "text": "farther"
+          }
+        },
+        {
+          "left": {
+            "text": "не"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "идут"
+          },
+          "right": {
+            "text": "go"
+          }
+        }
+      ],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "",
+      "translation": "",
+      "wordTranslations": [],
+      "type": "dialogue-textblock"
+    },
+    {
+      "personName": "",
+      "text": "Даниил Хармс",
+      "translation": "",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Даниил"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Хармс"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-textblock"
+    }
+  ],
+  "questions": []
+}

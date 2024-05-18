@@ -91,4 +91,5 @@ attention and consumption by others, to a non-social situation. At work for
 example or anywhere outside in the real world, the realm of society, where
 others perceive it as a social situation, or a projected on to others one.
 
-##
+##d
+cd 

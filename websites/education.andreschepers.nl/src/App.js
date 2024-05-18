@@ -14,7 +14,7 @@
  *    limitations under the License.
  */
 
-import {Route, Switch, BrowserRouter} from "react-router-dom";
+import {HashRouter, Route, Switch} from "react-router-dom";
 
 import './App.css';
 
@@ -23,12 +23,12 @@ import Home from './components/Home'
 function App() {
   return (
     <div className="App">
-        <BrowserRouter>
+        <HashRouter>
           <Switch>
             <Route path='/' component={Home} />
           </Switch>
 
-        </BrowserRouter>
+        </HashRouter>
     </div>
   );
 }
