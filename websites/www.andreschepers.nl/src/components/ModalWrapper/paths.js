@@ -16,6 +16,7 @@
 
 const PATHS = {
     "#about" : "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/main/ABOUT.md"
+    ,"#democracy": "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/main/case-files/democracy/README.md"
     ,"#dutch-government-rules-of-engagement": "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/main/case-files/dutch-government-rules-of-engagement/README.md"
     ,"#water-cannon-incident": "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/main/case-files/water-cannon-incident/README.md"
     ,"#abuse-and-rape-in-female-prisons": "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/main/case-files/abuse-rape-female-dutch-prisons/README.md"

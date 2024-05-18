@@ -2,6 +2,8 @@
 
 ## Sources:
 
+* https://en.wikipedia.org/wiki/Rechtsstaat
+* https://en.wikipedia.org/wiki/Rule_of_law
 * https://www.vandaaginside.nl/nieuws/vandaag-inside-uitzending/aflevering-vandaag-inside-met-dilan-yesilgoez-vrijdag-17-mei-2024
 * https://www.rtl.nl/entertainment/artikel/5450325/tim-hofman-minister-yesilgoz-zet-mij-op-schavot-om-stellen-vraag?redirect=rtlnieuws
 * https://www.rtl.nl/nieuws/nederland/artikel/5449176/docenten-uva-actie-op-roeterseiland-als-steun-aan-studenten?redirect=rtlnieuws
