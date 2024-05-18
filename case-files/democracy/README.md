@@ -9,6 +9,7 @@
 * https://www.rtl.nl/nieuws/nederland/artikel/5449176/docenten-uva-actie-op-roeterseiland-als-steun-aan-studenten?redirect=rtlnieuws
 * https://www.rtl.nl/nieuws/nederland/artikel/5451010/zeven-demonstranten-uva-volgende-week-voor-de-rechter?redirect=rtlnieuws
 * https://www.rtl.nl/nieuws/artikel/5450910/rechter-veroordeelt-uva-demonstrant-tot-maand-cel-spreekt-andere-vrij
+* https://npo.nl/start/serie/wnl-op-zondag/seizoen-8_3/wnl-op-zondag_394/afspelen
 
 # Introduction
 
@@ -25,8 +26,6 @@ who were ordered to use force to end the protects that were factually no longer
 lawful, peaceful, and legitimate? How is it possible that members of the staff
 of the UvA still referred to the protests as "peaceful"? How legitimate is that
 in itself?
-
-
 
 # The necessity for the right to protest
 
