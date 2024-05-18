@@ -307,6 +307,101 @@ const nav = {
                             "windowOpen": ""
                         }
                     ]
+                },
+                {
+                    "label": "Hoofdstuk 9",
+                    "icon": "",
+                    "children": [
+                        {
+                            "label": "Dialoog 1.1",
+                            "icon": "",
+                            "children": [],
+                            "path": "/learning/language/russian/dialogue/chapter9/paspoort_voor_rusland_hfd9_dlg1_1",
+                            "windowOpen": ""
+                        },
+                        {
+                            "label": "Dialoog 1.2",
+                            "icon": "",
+                            "children": [],
+                            "path": "/learning/language/russian/dialogue/chapter9/paspoort_voor_rusland_hfd9_dlg1_2",
+                            "windowOpen": ""
+                        },
+                        {
+                            "label": "Dialoog 2.1",
+                            "icon": "",
+                            "children": [],
+                            "path": "/learning/language/russian/dialogue/chapter9/paspoort_voor_rusland_hfd9_dlg2_1",
+                            "windowOpen": ""
+                        },
+                        {
+                            "label": "Dialoog 2.2",
+                            "icon": "",
+                            "children": [],
+                            "path": "/learning/language/russian/dialogue/chapter9/paspoort_voor_rusland_hfd9_dlg2_2",
+                            "windowOpen": ""
+                        }
+                    ]
+                },
+                {
+                    "label": "Hoofdstuk 10",
+                    "icon": "",
+                    "children": [
+                        {
+                            "label": "Dialoog 1",
+                            "icon": "",
+                            "children": [],
+                            "path": "/learning/language/russian/dialogue/chapter10/paspoort_voor_rusland_hfd10_dlg1",
+                            "windowOpen": ""
+                        },
+                        {
+                            "label": "Dialoog 2",
+                            "icon": "",
+                            "children": [],
+                            "path": "/learning/language/russian/dialogue/chapter10/paspoort_voor_rusland_hfd10_dlg2",
+                            "windowOpen": ""
+                        },
+                        {
+                            "label": "Dialoog 3",
+                            "icon": "",
+                            "children": [],
+                            "path": "/learning/language/russian/dialogue/chapter10/paspoort_voor_rusland_hfd10_dlg3",
+                            "windowOpen": ""
+                        }
+                    ]
+                },
+                {
+                    "label": "Hoofdstuk 11",
+                    "icon": "",
+                    "children": [
+                        {
+                            "label": "Dialoog 1",
+                            "icon": "",
+                            "children": [],
+                            "path": "/learning/language/russian/dialogue/chapter11/paspoort_voor_rusland_hfd11_dlg1",
+                            "windowOpen": ""
+                        },
+                        {
+                            "label": "Dialoog 2",
+                            "icon": "",
+                            "children": [],
+                            "path": "/learning/language/russian/dialogue/chapter11/paspoort_voor_rusland_hfd11_dlg2",
+                            "windowOpen": ""
+                        },
+                        {
+                            "label": "Dialoog 3",
+                            "icon": "",
+                            "children": [],
+                            "path": "/learning/language/russian/dialogue/chapter11/paspoort_voor_rusland_hfd11_dlg3",
+                            "windowOpen": ""
+                        },
+                        {
+                            "label": "Dialoog 4",
+                            "icon": "",
+                            "children": [],
+                            "path": "/learning/language/russian/dialogue/chapter11/paspoort_voor_rusland_hfd11_dlg4",
+                            "windowOpen": ""
+                        }
+                    ]
                 }]
         }, {
             "label": "Vocabulary trainer",

@@ -1,0 +1,1510 @@
+{
+  "title": "Урок 9, В классе и дома, 9.1 На перемене, 1",
+  "markdown": "A paragraph with *emphasis* and **strong importance**.\n\n> A block quote with ~strikethrough~ and a URL: https://reactjs.org.\n\n* Lists\n* [ ] todo\n* [x] done\n\nA table:\n\n| a | b |\n| - | - |\n|table|tttt|",
+  "lines": [
+    {
+      "type": "dialogue-textblock",
+      "personName": "",
+      "text": "В университете, на перемене. Понедельник.",
+      "translation": "At the university, at recess. Monday.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "В"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "университете"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "на"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "перемене"
+          },
+          "right": {
+            "text": "change"
+          }
+        },
+        {
+          "left": {
+            "text": "Понедельник"
+          },
+          "right": {
+            "text": "Monday"
+          }
+        }
+      ]
+    },
+    {
+      "type": "dialogue-line",
+      "personName": "Тася",
+      "text": "Наташа, где ты была в субботу и в воскресенье?",
+      "translation": "Natasha, where were you on Saturday and Sunday?",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Наташа"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "где"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "ты"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "была"
+          },
+          "right": {
+            "text": "was"
+          }
+        },
+        {
+          "left": {
+            "text": "в"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "субботу"
+          },
+          "right": {
+            "text": "Saturday"
+          }
+        },
+        {
+          "left": {
+            "text": "и"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "в"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "воскресенье"
+          },
+          "right": {
+            "text": "Sunday"
+          }
+        }
+      ]
+    },
+    {
+      "personName": "Тася",
+      "text": "Я звонила тебе два дня, но тебя всё время не было дома. Что случилось?",
+      "translation": "I called you for two days, but you were not at home all the time. What happened?",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "звонила"
+          },
+          "right": {
+            "text": "called"
+          }
+        },
+        {
+          "left": {
+            "text": "тебе"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "два"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "дня"
+          },
+          "right": {
+            "text": "days"
+          }
+        },
+        {
+          "left": {
+            "text": "но"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "тебя"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "всё"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "время"
+          },
+          "right": {
+            "text": "time"
+          }
+        },
+        {
+          "left": {
+            "text": "не"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "было"
+          },
+          "right": {
+            "text": "It was"
+          }
+        },
+        {
+          "left": {
+            "text": "дома"
+          },
+          "right": {
+            "text": "home"
+          }
+        },
+        {
+          "left": {
+            "text": "Что"
+          },
+          "right": {
+            "text": "what"
+          }
+        },
+        {
+          "left": {
+            "text": "случилось"
+          },
+          "right": {
+            "text": "It happened"
+          }
+        }
+      ]
+    },
+    {
+      "type": "dialogue-line",
+      "personName": "Наташа",
+      "text": "Я два дня занималась в библиотеке.",
+      "translation": "I spent two days in the library.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "два"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "дня"
+          },
+          "right": {
+            "text": "days"
+          }
+        },
+        {
+          "left": {
+            "text": "занималась"
+          },
+          "right": {
+            "text": "was engaged"
+          }
+        },
+        {
+          "left": {
+            "text": "в"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "библиотеке"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "dialogue-line",
+      "personName": "Тася",
+      "text": "Не понимаю, что ты там делала?",
+      "translation": "I don't understand what you were doing there?",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Не"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "понимаю"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "что"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "ты"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "там"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "делала"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "personName": "Наташа",
+      "text": "Тася, ты же знаешь, пятого января у нас экзамен по менеджменту.",
+      "translation": "Tasya, you know we have a management exam on January 5th.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Тася"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "ты"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "же"
+          },
+          "right": {
+            "text": "already"
+          }
+        },
+        {
+          "left": {
+            "text": "знаешь"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "пятого"
+          },
+          "right": {
+            "text": "fifth"
+          }
+        },
+        {
+          "left": {
+            "text": "января"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "у"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "нас"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "экзамен"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "по"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "менеджменту"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    },
+    {
+      "personName": "Тася",
+      "text": "Конечно, знаю. но я не понимаю, почему надо идти в библиотеку, когда Андрей Борисович на последнем занятии всё ещё раз объяснил и написал всё на доске.",
+      "translation": "Of course I know. but I don't understand why it is necessary to go to the library, when Andrei Borisovich, at the last lesson, explained everything once more and wrote everything on the blackboard.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Конечно"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "знаю"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "но"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "не"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "понимаю"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "почему"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "надо"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "идти"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "в"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "библиотеку"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "когда"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Андрей"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Борисович"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "на"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "последнем"
+          },
+          "right": {
+            "text": "last"
+          }
+        },
+        {
+          "left": {
+            "text": "занятии"
+          },
+          "right": {
+            "text": "lesson"
+          }
+        },
+        {
+          "left": {
+            "text": "всё"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "ещё"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "раз"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "объяснил"
+          },
+          "right": {
+            "text": "explained"
+          }
+        },
+        {
+          "left": {
+            "text": "и"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "написал"
+          },
+          "right": {
+            "text": "wrote"
+          }
+        },
+        {
+          "left": {
+            "text": "всё"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "на"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "доске"
+          },
+          "right": {
+            "text": "blackboard"
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    },
+    {
+      "personName": "Наташа",
+      "text": "Да, но я не люблю этот предмет. Когда в пятницу Андрей борисович объяснял и давал вопросы к экзамену, я не слушала.",
+      "translation": "Yes, but I don't like this subject. When on Friday Andrei Borisovich explained and gave questions for the exam, I did not listen.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Да"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "но"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "не"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "люблю"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "этот"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "предмет"
+          },
+          "right": {
+            "text": "subject"
+          }
+        },
+        {
+          "left": {
+            "text": "Когда"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "в"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "пятницу"
+          },
+          "right": {
+            "text": "Friday"
+          }
+        },
+        {
+          "left": {
+            "text": "Андрей"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "борисович"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "объяснял"
+          },
+          "right": {
+            "text": "explained"
+          }
+        },
+        {
+          "left": {
+            "text": "и"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "давал"
+          },
+          "right": {
+            "text": "gave"
+          }
+        },
+        {
+          "left": {
+            "text": "вопросы"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "к"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "экзамену"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "не"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "слушала"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    },
+    {
+      "personName": "Тася",
+      "text": "А что ты делала?",
+      "translation": "And what did you do?",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "А"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "что"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "ты"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "делала"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    },
+    {
+      "personName": "Наташа",
+      "text": "Я разговаривала с Мариной и не переписала. А теперь просто не знаю, что делать.",
+      "translation": "I talked to Marina and did not write anything down. And now I just don't know what to do.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "разговаривала"
+          },
+          "right": {
+            "text": "talking"
+          }
+        },
+        {
+          "left": {
+            "text": "с"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Мариной"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "и"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "не"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "переписала"
+          },
+          "right": {
+            "text": "rewrote"
+          }
+        },
+        {
+          "left": {
+            "text": "А"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "теперь"
+          },
+          "right": {
+            "text": "now"
+          }
+        },
+        {
+          "left": {
+            "text": "просто"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "не"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "знаю"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "что"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "делать"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    },
+    {
+      "personName": "Наташа",
+      "text": "Сегодня уже двадцатое декабря. Сессия начинается, а я не могу найти это объяснение.",
+      "translation": "Today is the twentieth of December. The session starts and I can't find this explanation.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Сегодня"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "уже"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "двадцатое"
+          },
+          "right": {
+            "text": "twentieth"
+          }
+        },
+        {
+          "left": {
+            "text": "декабря"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Сессия"
+          },
+          "right": {
+            "text": "Session"
+          }
+        },
+        {
+          "left": {
+            "text": "начинается"
+          },
+          "right": {
+            "text": "starts"
+          }
+        },
+        {
+          "left": {
+            "text": "а"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "не"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "могу"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "найти"
+          },
+          "right": {
+            "text": "to find"
+          }
+        },
+        {
+          "left": {
+            "text": "это"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "объяснение"
+          },
+          "right": {
+            "text": "explanation"
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    },
+    {
+      "personName": "Наташа",
+      "text": "Я не сдам экзамен по менеджменту! Слушай, ты можешь мне помочь готовиться?",
+      "translation": "I won't pass my management exam! Look, can you help me get ready?",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "не"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "сдам"
+          },
+          "right": {
+            "text": "get by, pass"
+          }
+        },
+        {
+          "left": {
+            "text": "экзамен"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "по"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "менеджменту"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "Слушай"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "ты"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "можешь"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "мне"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "помочь"
+          },
+          "right": {
+            "text": "help"
+          }
+        },
+        {
+          "left": {
+            "text": "готовиться"
+          },
+          "right": {
+            "text": "get ready"
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    },
+    {
+      "personName": "Наташа",
+      "text": "Объясни мне, пожалуйста, этот материал.",
+      "translation": "Please explain this material to me.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Объясни"
+          },
+          "right": {
+            "text": "Explain"
+          }
+        },
+        {
+          "left": {
+            "text": "мне"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "пожалуйста"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "этот"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "материал"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    },
+    {
+      "personName": "Тася",
+      "text": "Конечно, я помогу тебе.",
+      "translation": "Of course I will help you.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Конечно"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "я"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "помогу"
+          },
+          "right": {
+            "text": "help"
+          }
+        },
+        {
+          "left": {
+            "text": "тебе"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    },
+    {
+      "personName": "Тася",
+      "text": "Приходи завтра ко мне, будем готовиться к экзаменам вместе, но сначала посмотри учебник, страницы 70-95, в четвёртом параграфе есть хорошее объяснение.",
+      "translation": "Come see me tomorrow, we'll study for the exams together, but first look at the textbook, pages 70-95, in the fourth paragraph there is a good explanation.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Приходи"
+          },
+          "right": {
+            "text": "Come"
+          }
+        },
+        {
+          "left": {
+            "text": "завтра"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "ко"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "мне"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "будем"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "готовиться"
+          },
+          "right": {
+            "text": "get ready"
+          }
+        },
+        {
+          "left": {
+            "text": "к"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "экзаменам"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "вместе"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "но"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "сначала"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "посмотри"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "учебник"
+          },
+          "right": {
+            "text": "textbook"
+          }
+        },
+        {
+          "left": {
+            "text": "страницы"
+          },
+          "right": {
+            "text": "pages"
+          }
+        },
+        {
+          "left": {
+            "text": "70-95"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "в"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "четвёртом"
+          },
+          "right": {
+            "text": "fourth"
+          }
+        },
+        {
+          "left": {
+            "text": "параграфе"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "есть"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "хорошее"
+          },
+          "right": {
+            "text": ""
+          }
+        },
+        {
+          "left": {
+            "text": "объяснение"
+          },
+          "right": {
+            "text": "explanation"
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    },
+    {
+      "personName": "Наташа",
+      "text": "Договорились.",
+      "translation": "Deal.",
+      "wordTranslations": [
+        {
+          "left": {
+            "text": "Договорились"
+          },
+          "right": {
+            "text": ""
+          }
+        }
+      ],
+      "type": "dialogue-line"
+    }
+  ],
+  "questions": []
+}
