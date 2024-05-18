@@ -23,7 +23,8 @@ also members of society, natural persons?
 What role did journalists play? Do they have a right to target police officers
 who were ordered to use force to end the protects that were factually no longer
 lawful, peaceful, and legitimate? How is it possible that members of the staff
-of the UvA still referred to the protests as "peaceful"? How legitimate is that?
+of the UvA still referred to the protests as "peaceful"? How legitimate is that
+in itself?
 
 
 
