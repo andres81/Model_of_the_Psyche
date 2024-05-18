@@ -16,6 +16,12 @@
 
 const CASE_FILES = [
     {
+        'href': '#democracy'
+        ,'image': 'assets//img/case-file/The_Parthenon_in_Athens.jpg'
+        ,'imageSource': 'https://en.wikipedia.org/wiki/Parthenon'
+        ,'heading': 'Democracy'
+        ,'subheading': 'Societal (social) system building'
+    },{
         'href': '#dutch-government-rules-of-engagement'
         ,'image': 'assets//img/case-file/dutch-government-logo.jpg'
         ,'heading': 'Dutch Government: Rules of Engagement'
