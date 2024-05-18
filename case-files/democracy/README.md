@@ -12,7 +12,7 @@
 
 # Introduction
 
-# Protests in Dutch universities to stop cooperation with Israeli universities
+# Protests at Dutch universities to stop cooperation with Israeli universities
 
 Protesting is a right, but there are limits. What are they? And to what extent
 is "violence" by the police tolerated or plain necessary to keep the peace and
