@@ -26,6 +26,8 @@ import * as IO_Icons from 'react-icons/io5'
 import * as CG_Icons from 'react-icons/cg'
 import * as MD_Icons from 'react-icons/md'
 import * as RI_Icons from 'react-icons/ri'
+import * as FA6_Icons from 'react-icons/fa6'
+import * as TB_Icons from 'react-icons/tb'
 
 import SideNav from "../../../SideNav"
 import MenuItem from "../../../SideNav/MenuItem"
@@ -66,7 +68,7 @@ class Nav extends React.Component {
 
     getIcon = (name) => {
         if (name && name.length > 0) {
-            const IconComponent = RI_Icons[name] || MD_Icons[name] || FC_Icons[name] || FA_Icons[name] || AI_Icons[name] || GI_Icons[name] || IO_Icons[name] || GO_Icons[name] || CG_Icons[name];
+            const IconComponent = TB_Icons[name] || FA6_Icons[name] || RI_Icons[name] || MD_Icons[name] || FC_Icons[name] || FA_Icons[name] || AI_Icons[name] || GI_Icons[name] || IO_Icons[name] || GO_Icons[name] || CG_Icons[name];
             return <IconComponent />;
         }
     }

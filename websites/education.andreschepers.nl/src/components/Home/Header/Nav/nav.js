@@ -167,7 +167,56 @@ const nav = {
                             ]
                         }
                     ]
-                }]
+                },
+                {
+                    "label": "IT",
+                    "icon": "FaComputer",
+                    "children": [
+                        {
+                            "label": "HTTP",
+                            "icon": "TbWorldWww",
+                            "windowOpen": "https://github.com/andres81/software-engineering-training-and-examples/blob/main/http-tutorial/README.md"
+                        },
+                        {
+                            "label": "Database",
+                            "icon": "FaDatabase",
+                            "windowOpen": "https://github.com/andres81/software-engineering-training-and-examples/blob/main/database-relational-tutorial/README.md"
+                        },
+                        {
+                            "label": "Java",
+                            "icon": "FaJava",
+                            "children": [
+                                {
+                                    "label": "SE / EE",
+                                    "icon": "FaJava",
+                                    "windowOpen": "https://github.com/andres81/software-engineering-training-and-examples/blob/main/java-tutorials/java-se-ee-tutorial/README.md"
+                                },
+                                {
+                                    "label": "HTTP",
+                                    "icon": "FaJava",
+                                    "windowOpen": "https://github.com/andres81/software-engineering-training-and-examples/blob/main/java-tutorials/java-http-tutorial/README.md"
+                                },
+                                {
+                                    "label": "Database",
+                                    "icon": "FaJava",
+                                    "children": [
+                                        {
+                                            "label": "JDBC",
+                                            "icon": "FaJava",
+                                            "windowOpen": "https://github.com/andres81/software-engineering-training-and-examples/blob/main/java-tutorials/java-database-tutorials/java-jdbc-tutorial/README.md"
+                                        },
+                                        {
+                                            "label": "JPA",
+                                            "icon": "FaJava",
+                                            "windowOpen": "https://github.com/andres81/software-engineering-training-and-examples/blob/main/java-tutorials/java-database-tutorials/java-jpa-tutorial/README.md"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         },
         {
             "label": "Sluipschutters",
