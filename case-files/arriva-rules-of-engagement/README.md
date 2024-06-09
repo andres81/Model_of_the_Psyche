@@ -1,14 +1,12 @@
 # Arriva: Rules of Engagement
 
-Reputation for the Arriva is important...:
-https://www.oogtv.nl/2022/10/arriva-wil-met-treinen-in-noorden-oosten-en-zuiden-rijden-mijn-handen-jeuken-als-ik-met-de-ns-reis/
-
 ### Sources:
 
 * https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat
 * https://www.rijksoverheid.nl/onderwerpen/openbaar-vervoer
 * https://www.rijksoverheid.nl/onderwerpen/openbaar-vervoer/veiligheid-openbaar-vervoer
 * https://www.rijksoverheid.nl/onderwerpen/openbaar-vervoer/afspraken-over-het-openbaar-vervoer
+* https://www.oogtv.nl/2022/10/arriva-wil-met-treinen-in-noorden-oosten-en-zuiden-rijden-mijn-handen-jeuken-als-ik-met-de-ns-reis/
 
 ## Introduction
 
@@ -45,9 +43,35 @@ which she replied: "I'm sorry!". Sorry? She has to be sorry? After this, the bus
 driver couldn't be happier. Whistling, singing, cheerful... Because you felt
 power? Because you hurt someone? Being sadistic?
 
+### Conclusion
+
 If the Arriva thinks this is normal, and on top of that doesn't find it
 necessary to respond to my complaint, then it is time for escalation. The
 escalation I am going to start, will not be easy for anyone: Clear rules of
 engagement, rules that are legally binding for both parties engaging with each
 other. In the above case the employees of Arriva, effectively Arriva as they
 represent and act on behalf of Arriva, and the customers/travelers.
+
+### Actions
+
+The Arriva needs to define a clear set of rules of engagement, for the different
+parties involved in the interaction between civilians that will be present, in
+the role of traveler/customer, in the situations with the Arriva, the employees
+of the Arriva, and the hired personnel, like the bus driver of above described
+situation, who was hired by Arriva.
+
+These rules of engagement, clearly indicate how one can communicate, what is
+accepted and what not, how to behave and how not. If someone indicates, for
+example, she wishes to leave the bus, then OPEN THE DOORS!. If not, criminal law
+intervention. Nothing less.
+
+What we also have to do, is proactively communicate these rules of engagement,
+to civilians, so they can stand up for their rights. This will help prevent the
+violation of human rights. Robbing a persons freedom, is a clear violation of
+human rights. This can not be accepted.
+
+The above situation will be escalated to the (local) government. The Arriva will
+receive a written letter that will also be added to this writing. They will get
+a chance to answer in public, justify their actions, and proof that they do
+everything possible to prevent this from happening again. If not, harder
+escalation in the form of asking journalism for help and the Dutch government.
