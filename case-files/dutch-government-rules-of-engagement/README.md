@@ -7,6 +7,7 @@
 3. https://www.rtlnieuws.nl/nieuws/nederland/artikel/5444601/ophef-over-racistische-uitspraak-johan-derksen
 4. https://www.rtlnieuws.nl/entertainment/artikel/5444642/racismecoordinator-beneden-waardigheid-te-reageren-op-derksen
 5. https://www.rtlnieuws.nl/entertainment/artikel/5444651/rutte-steunt-de-hoop-het-fries-na-bekritiseerde-opmerking-vi
+6. https://www.rtl.nl/nieuws/artikel/5454706/nederlandse-rechtsstaat-verkeert-staat-van-verwaarlozing
 
 ## Introduction
 
