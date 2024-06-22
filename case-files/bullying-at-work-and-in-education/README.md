@@ -31,6 +31,7 @@
 27. https://en.wikipedia.org/wiki/Being_and_Nothingness
 28. https://profielen.hr.nl/2024/om-onderzoekt-utrechtse-bangalijst-ouders-nemen-advocaat-in-de-arm/
 29. https://www.destentor.nl/binnenland/meerdere-slachtoffers-bangalijst-doen-aangifte-vrouwen-zijn-zwaar-geraakt-ze-zijn-echt-heel-jong~a3baaa17/
+30. https://www.rtl.nl/nieuws/nederland/artikel/5456047/bangalijsten-foute-ontgroeningen-studentenverenigingen
 
 ## Introduction
 

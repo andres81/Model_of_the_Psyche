@@ -5,6 +5,8 @@
 * https://www.rtlnieuws.nl/nieuws/artikel/5442336/wel-een-schuldgevoel-toch-vliegen-waarom-doen-we-dat
 * https://www.roosvonk.nl/
 * https://www.rtlnieuws.nl/nieuws/nederland/artikel/5443866/op-juuls-landje-geeft-julius-booy-jeugdzorg-op-zijn-manier
+* https://www.rtl.nl/nieuws/nederland/artikel/5456047/bangalijsten-foute-ontgroeningen-studentenverenigingen
+* https://www.rtl.nl/nieuws/artikel/5456118/gaat-zon-gedragscode-helpen-tegen-wangedrag-studenten-niet-concreet-genoeg
 
 !!! WORK IN PROGRESS!!!
 
@@ -27,6 +29,7 @@ The social construct, amongst other purposes, will serve also the goal of
 * Societal exclusion of minorities based on geography, culture or ethnicity by way of social engineering
 * Love
 * Dutch mentality
+* Protection of young people
 * Work in progress: Brain farts / Snippets of Genius (yeah, sure...) / building blocks
 
 # The (im)morality of things
@@ -476,6 +479,21 @@ Acting on behalf of or supporting a natural person is already done, by for
 example [labor unions](https://en.wikipedia.org/wiki/Trade_union). The problem
 here is, they only act in certain contexts, not in all possible situations.
 Other examples consist of [human rights organisations](https://en.wikipedia.org/wiki/List_of_human_rights_organisations).
+
+# Protection of young people
+
+## Students
+
+### Code of Conduct against misconduct by students
+
+Student organisations have now signed a
+[Code of Conduct agreement](https://www.rtl.nl/nieuws/binnenland/artikel/5456047/bangalijsten-foute-ontgroeningen-studentenverenigingen)
+to combat and prevent misconduct by students, or at least that seems to be the
+intent and the promise.
+
+[Attorney Ina Brouwer](https://laraisonadvocatuur.nl/)
+however,
+[doubts the effectiveness](https://www.rtl.nl/nieuws/artikel/5456118/gaat-zon-gedragscode-helpen-tegen-wangedrag-studenten-niet-concreet-genoeg).
 
 # Work in progress: Brain farts / Snippets of Genius (yeah, sure...) / building blocks
 
