@@ -16,7 +16,7 @@
 
 const CASE_FILES = [
     {
-        'href': '#love-or-lack-thereof'
+        'href': '#love-or-the-lack-thereof'
         ,'image': 'assets//img/case-file/Romeo_and_Juliet_(watercolour)_by_Ford_Maddox_Brown.jpg'
         ,'imageSource': 'https://en.wikipedia.org/wiki/Love#/media/File:Romeo_and_Juliet_(watercolour)_by_Ford_Maddox_Brown.jpg'
         ,'heading': 'Love... or the lack thereof'
