@@ -40,9 +40,8 @@ them happy for a lifetime, not just for one hour of fake subjective joy.
 The guide to find real love, starts with sharing the insight, where to find it
 in the first place: In the context of the group of people, that you belong to.
 But what group of people do you belong to? What characterizes this particular
-group and how does it differentiates itself from other groups, one apparently
-then doen't belong to necessarily? Nationality (nationalism)? Skin color
-(racism, more in general discrimination)? Ideology?
+group and how does it differentiate itself from other groups? Nationality
+(nationalism)? Skin color (racism, more in general discrimination)? Ideology?
 
 The answer is as the author now believes:
 
@@ -52,5 +51,71 @@ The answer is as the author now believes:
 
 ## Culture
 
+But what is
+[culture](https://en.wikipedia.org/wiki/Culture)
+? And even if we get a hold on a definition that works to convey what the
+majority perceives as being culture, what does it give us in terms of a tool
+to describe what happens between just two people?
+A culture can exist between two or more people. In the context of love, does the
+concept of previously mentioned culture, equal what people call culture between
+two people that say they experience a love relationship between the two?
+If not, the definition of culture will differ between that between two people,
+and that between a group of people, for example a country or local community,
+how should we then define that thing called "culture" in the context of a love
+relationship? Moreover, once defined, we need to get to work with this
+definition: To what extent does it determine the success of a relationship?
+In other words: How important is this culture, and to what extent can this
+shared culture between two people differ from the personal convictions of the
+individuals partaking in this relationship?
+
+
+
 ## Self-actualisation
 
+## How to find the right person
+
+Looking at the two prerequisites to find the right person for life, one has to
+first identify who one is.
+[Know thyself](https://en.wikipedia.org/wiki/Know_thyself).
+After that, one can start looking at what cultures match the persons own deepest
+convictions. This can ony be done if one knows themselves. Once its clear what
+groups and cultures match, one can start socialising and/or interacting with
+groups of people within these cultures. A persons has to find their own people.
+Only within these groups, will it be possible to find people, that one can truly
+align with at the deepest levels of convictions regarding the external world.
+
+### Know thyself
+
+The concrete things to know about one self, are at least:
+
+* Inner, deepest convictions regarding certain aspects of life:
+
+  * Politics
+  * Society
+  * Relationships (roles, having children, how to love, what to receive)
+  * Religion
+  * Ideology
+
+* What talents one has
+* Career to pursue
+
+### Finding like-minded people, cultures and groups
+
+What are the true convictions, internally*, of individuals of a certain group?
+That can be deduced by looking at the goals of the group, the requirements for
+membership of the group, group identity, group activities, and much more. And
+example is a sports club. The members of the club, that perform the sport, most
+likely are a fan of the sport and like doing it (it is possible of course to
+just do it, because it is "cool").
+
+---
+
+_*: Internal convictions, are the true convictions, not the externally accepted
+convictions of the context of a person. One can say they agree that the
+government should paint the Whitehouse green to blend in more with the green
+gras environment, but internally be of the opinion, that it is complete nonsense
+and that it should remain the way it is now, for one because of historical
+reasons. But if the context has a very attractive person, and the only way to
+remain close to that person, is to be part of the group, and to do that, means
+conveying being aligned on the groups values and convictions, then external
+conformation is a choice of action to reach a goal._
