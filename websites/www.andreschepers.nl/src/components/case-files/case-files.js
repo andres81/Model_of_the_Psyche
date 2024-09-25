@@ -16,6 +16,12 @@
 
 const CASE_FILES = [
     {
+        'href': '#love-or-lack-thereof'
+        ,'image': 'assets//img/case-file/Romeo_and_Juliet_(watercolour)_by_Ford_Maddox_Brown.jpg'
+        ,'imageSource': 'https://en.wikipedia.org/wiki/Love#/media/File:Romeo_and_Juliet_(watercolour)_by_Ford_Maddox_Brown.jpg'
+        ,'heading': 'Love... or the lack thereof'
+        ,'subheading': 'Do the right people get together, or is it all merely a business deal with mother nature'
+    },{
         'href': '#democracy'
         ,'image': 'assets//img/case-file/The_Parthenon_in_Athens.jpg'
         ,'imageSource': 'https://en.wikipedia.org/wiki/Parthenon'
