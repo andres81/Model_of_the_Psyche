@@ -161,7 +161,33 @@ The conversations are recorded, transcripts can be made, and these transcripts
 can be reviewed and be judged on effectiveness regarding listening, conveying,
 understanding etc.
 
-One such skill, is for men, to be a true "gentlemen". Being a "gentle man".
+One such skill, is for men, to be true "gentlemen". Being a "gentle man". Gentle
+here revers to not judging, because what is there to judge when you don't know a
+person. What you can only judge at the beginning of a conversation, or
+engagement, are the engagement strategies of the other person. Depending on the
+perception of the other person, whether they perceive a social situation they
+are in with you or not, they are equally susceptible to social punishment, that
+comes from you judging there engagement with you. Do you control their pain if
+they perceive it as social judgement, as
+[Huis Clos](https://en.wikipedia.org/wiki/No_Exit)
+describes: "Your continuous gaze... judging me!"
+Instead, a gentleman, will read the situation, the person, and decide to what
+extend the other person is in a social situation. The gentle man will always
+merely be in a Sartrian situation, that can be upgraded to a minimal situation.
+Compare that to how James Bond engages with any person in any Bond movie... He
+is truly the gentleman. Gentle, effective, not dependent on social defenses, but
+instead letting all come in, not dependent either on internal coping mechanisms:
+There is no social situation, so no social status change, hence, no attack on
+the ego. Merely pure engagement strategies, not polluted by those necessary to
+compensate for the lack of internal coping mechanisms, and that because of
+ineffective social defenses. The strength displayed by the gentleman, is the
+lack of reactivity in response to social attacks: Insults, innuendo etc. Women
+like to test men, to see if they are safe in his presence. Is this what makes
+mister Bond so irresistible?
+
+To refer to Marcus Aurelius: "What is not good for the bee, is not good for the
+hive." The gentleman will then conclude: "If I am now not good to another bee, I
+am not good for the hive...".
 
 ---
 
