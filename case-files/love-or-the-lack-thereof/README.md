@@ -83,6 +83,18 @@ groups and cultures match, one can start socialising and/or interacting with
 groups of people within these cultures. A persons has to find their own people.
 Only within these groups, will it be possible to find people, that one can truly
 align with at the deepest levels of convictions regarding the external world.
+But that is not enough. After matching with persons that one aligns with, the
+next level of alignment starts: Alignment regarding convictions related to
+having a relationship and everything related to a relationship. One of these
+things is having children or not.
+
+Although it seems simple enough, finding people that share the same culture, to
+find people with which it is easy to align ones deepest convictions with, it is
+merely a method to reach the goal of finding like-minded people. This, however,
+limits the range of options one has: It depends fully on the availability of
+groups, the options within the groups to align on convictions, the right
+convictions, and members being available still for love. It cries for an easier
+way to find people one can align with at the deepest convictions.
 
 ### Know thyself
 
@@ -107,6 +119,49 @@ membership of the group, group identity, group activities, and much more. And
 example is a sports club. The members of the club, that perform the sport, most
 likely are a fan of the sport and like doing it (it is possible of course to
 just do it, because it is "cool").
+You can identify a group also as a collection of people with the same goal, and
+by these people coming together, without forming an _explicit group*_, they help
+each other reach a common goal. An example is (student) actors coming together,
+to play, rehearse, train to become better as a professional or discuss
+convictions regarding the art, that acting is.
+
+## A solution to find like-minded people, without needing groups
+
+We need to talk to convey our thoughts, ideas, who we are in essence. Talking
+is more than communicating with words. We communicate also non-verbally
+(without words), vocally and non-vocally (with the voice and without
+respectively). This also shows in part our convictions: We express engagement
+strategies with our external world. In the concrete case of talking with someone
+else, we display the external engagement strategies to engage with other people.
+
+What also will happen when talking with another person, is we practice to
+listen. Often, people demand a social contract before engaging with another
+person, under the pretense that without a social contract, it would be merely a
+waste of energy to engage with one another, due to the fact that cultural values
+are mismatching. While, what really is the case often, is that without a social
+contract in place, one cannot demand a set of bounds to the reflections given
+back by the person someone talks to, in the eyes of the other. If you talk to a
+complete stranger, what you see, in the eyes of the other, is what you get: The
+true view of that other person of you. If you "protect" yourself from the true
+view of others of you, you prevent yourself growing. But also, partaking in a
+conversation that tells you about the other. Do you truly know the other if you
+don't know how the other truly views you? Only to find out, after 15 years of
+marriage, three children, as a woman no longer being young, he only used you for
+your genes, social status, and now, him being in his 40's, he gave up on
+you? Instead, if you know what he truly thinks of you, as a heterosexual female
+human being, you will make the right decision for a partner.
+
+The more you talk, also increases your talking (conversation) skills. The
+proposed solution therefore is, to have a setting, in which people can sit
+opposite each other, talk for 30 minutes, and choose between a set of subjects
+to have as input for conversations during these 30 minutes. This exercise can
+be practiced with trained professionals like training actors, (social)
+psychologists knowledgeable about conversation techniques and skills.
+The conversations are recorded, transcripts can be made, and these transcripts
+can be reviewed and be judged on effectiveness regarding listening, conveying,
+understanding etc.
+
+One such skill, is for men, to be a true "gentlemen". Being a "gentle man".
 
 ---
 
@@ -119,3 +174,6 @@ reasons. But if the context has a very attractive person, and the only way to
 remain close to that person, is to be part of the group, and to do that, means
 conveying being aligned on the groups values and convictions, then external
 conformation is a choice of action to reach a goal._
+
+_*: Explicit groups, are groups of people, that consider themselves part of this
+group, are aware of the group members, and work on keeping group cohesion._
