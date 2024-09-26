@@ -249,8 +249,10 @@ instead of with the other, through the group. To quote George Carlin:
      they begin to change, they sacrifice the beauty of the individual for the
      sake of the group.”
 
-This should go as a proposal to the municipalities of The Netherlands, the
-national organisation of psychologists and society as a whole.
+This should go as
+[a proposal](https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/refs/heads/main/case-files/love-or-the-lack-thereof/proposal-conversation-facility-in-towns.md)
+to the municipalities of The Netherlands, the national organisation of
+psychologists and society as a whole.
 
 The solution offered here, will not only bring people together, but can have
 love as a side effect, fighting population collapse and loneliness. It can help

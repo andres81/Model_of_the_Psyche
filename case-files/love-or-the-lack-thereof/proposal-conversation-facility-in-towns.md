@@ -3,6 +3,8 @@
 Hereby I wish to offer an idea that can solve multiple problems with just one
 stone, I believe: The opportunity to converse, without any strings attached.
 
+## Introduction
+
 The idea is, that each town, will have a facility, where two participants, can
 semi randomly meet. A meeting takes about 30 minutes, and the conversation is
 recorded. This offers participants the opportunity to:
@@ -43,4 +45,16 @@ run this system, are:
   changing the internal state of a person, in the form of believing something
   that might not be true: It is a social situation, meaning the other person
   also perceived this situation we are both in, as social.
-* 
+
+## Motivation
+
+More and more problems arise from the digitalisation of society, with the side
+effect that young people in particular, talk one on one, face to face, less and
+less. While that, talking face to face, might be the only way to develop proper
+internal coping mechanisms, a proper view of reality, our world view, and learn
+proper, functioning engagement strategies to function in society. By running
+into walls, we learn about the world around us. Having conversations, allows us
+to run into more walls than when we would merely communicate digitally. Compare
+it to a spoiled kid: Always getting what it wants. It doesn't get the experience
+dealing with disappointment: Not getting the candy, but also not the chance to
+learn to negotiate with mama: Engagement strategies to develop.
