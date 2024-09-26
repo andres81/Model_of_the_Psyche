@@ -266,7 +266,7 @@ end.
 
 _*: Internal convictions, are the true convictions, not the externally accepted
 convictions of the context of a person. One can say they agree that the
-government should paint the Whitehouse green to blend in more with the green
+government should paint the White House green to blend in more with the green
 gras environment, but internally be of the opinion, that it is complete nonsense
 and that it should remain the way it is now, for one because of historical
 reasons. But if the context has a very attractive person, and the only way to
