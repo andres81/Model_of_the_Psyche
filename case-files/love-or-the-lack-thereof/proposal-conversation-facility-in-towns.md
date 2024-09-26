@@ -28,3 +28,19 @@ The system envisioned, should have at least the following characteristics:
   don't fall back to socialising rituals, which would defeat the purpose of the
   setup of this system: Learn to interact without socialising, social engagement
   strategies.
+
+The benefits, that should be identifiable to make it feasible to implement and
+run this system, are:
+
+* A person can become more aware of internal coping mechanisms
+* A person learns different engagement strategies
+* A person learns that other people might have superficial convictions regarding
+  other people in their perceived world.
+* A person learns that not all interactions are necessarily social, but merely
+  become social when the person chooses to let the situation become social.
+  Others might pull them into believing the situation is social, for example
+  using gas lighting techniques, but it remains a choice. A choice consisting of
+  changing the internal state of a person, in the form of believing something
+  that might not be true: It is a social situation, meaning the other person
+  also perceived this situation we are both in, as social.
+* 
