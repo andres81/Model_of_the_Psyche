@@ -16,17 +16,17 @@
 
 const CASE_FILES = [
     {
-        'href': '#banga-lists'
-        ,'image': 'assets//img/case-file/ANP-494023906-USC.jpg'
-        ,'imageSource': 'https://www.rtl.nl/nieuws/binnenland/artikel/5441427/voorlopig-geen-subsidie-voor-studentencorps-utrecht-om-bangalijst'
-        ,'heading': 'Banga lists'
-        ,'subheading': 'Where did it go wrong...'
-    },{
         'href': '#love-or-the-lack-thereof'
         ,'image': 'assets//img/case-file/Romeo_and_Juliet_(watercolour)_by_Ford_Maddox_Brown.jpg'
         ,'imageSource': 'https://en.wikipedia.org/wiki/Love#/media/File:Romeo_and_Juliet_(watercolour)_by_Ford_Maddox_Brown.jpg'
         ,'heading': 'Love... or the lack thereof'
         ,'subheading': 'Do the right people get together, or is it all merely a business deal with mother nature'
+    },{
+        'href': '#banga-lists'
+        ,'image': 'assets//img/case-file/ANP-494023906-USC.jpg'
+        ,'imageSource': 'https://www.rtl.nl/nieuws/binnenland/artikel/5441427/voorlopig-geen-subsidie-voor-studentencorps-utrecht-om-bangalijst'
+        ,'heading': 'Banga lists'
+        ,'subheading': 'Where did it go wrong... And where was/is society!'
     },{
         'href': '#democracy'
         ,'image': 'assets//img/case-file/The_Parthenon_in_Athens.jpg'
