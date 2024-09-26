@@ -185,9 +185,80 @@ lack of reactivity in response to social attacks: Insults, innuendo etc. Women
 like to test men, to see if they are safe in his presence. Is this what makes
 mister Bond so irresistible?
 
+If men start acting as true gentle men, implicitly to their choice of
+engagement strategies communicating that for the man, it is no social situation,
+subsequently conveying to the woman, she will not be socially judged, nor is he
+susceptible to perceived social attacks from her, she can relax, feel safe under
+his wing in this encounter, this engagement, this conversation. As the
+conversation progresses, he can help her verbalise her points, showing to her
+she potentially has a good point, what that is instead of experiencing it
+herself subjectively only, and therefore moving towards a more positive
+self-image, a confidence boost. Due to the situation, her trusting her
+conversation partner, talking with someone rational, like men tend to be, 
+moving towards sharing deeper convictions, those convictions being verbalised
+and made concrete, she becomes more self-aware, more confident in her own
+thinking, partaking in engagements with each other, and aware of what she really
+needs and wants. The prediction here is, that once this happens, she will pick
+her partner, not just randomly falls into a relationship, because the "right"
+guy walked by and looked nice, only finding out he is no match for her after
+that.
+
+Of course, this might lead to a man talking to women, and only experience women
+walking out straight to another man she identifies after this wonderful
+treatment as a match. But, if enough men do this, eventually a woman will come
+to him. If no man does this, you end up with a population of women not used to
+talking to a man, not able to read him, only through life experience reaching
+these levels, while women simply don't have that time, not like men do.
+
 To refer to Marcus Aurelius: "What is not good for the bee, is not good for the
 hive." The gentleman will then conclude: "If I am now not good to another bee, I
 am not good for the hive...".
+
+### Conclusion
+
+We need the opportunity to engage in conversation in controlled circumstances,
+with the option to receive feedback, engage with professionals in conversation
+scenarios to be served with coaching and training. BUt most importantly, to talk
+with other human beings. Talking with strangers, with whom one has no social
+contract, will give you raw reflections of yourself in their eyes. Then it
+becomes time to learn that these raw reflections are always mere impressions of
+someone else of you. "Don't take it personally" becomes "Don't take that
+reflection for a fact".
+
+In every city therefore, a place, where you can go, for a fee/subscription,
+where you can be matched with an equally leveled/skilled conversation partner,
+for 30 minutes. It becomes awkward? Good! You will learn. Conversations recorded
+and you get the recording. This will serve than as the old marketplaces at the
+center of town: Meeting others, conversing without a social situation, but a
+potential minimal situation: Let's trade! But now not for trading, but for the
+mere experience of human interaction, in the form of having conversations.
+
+Matching can occur based on a rating. Compare having a one on one conversation
+to playing chess. You don't play chess against a group (although this happens
+far too often when people start "watching" and can't resist helping...), but
+against one opponent. If a beginner plays against a chess grand master, its no
+game. But equally matched players, will learn from each other, and mostly from
+their own game played.
+Also, a person will start to see the value of engaging with the individual,
+instead of with the other, through the group. To quote George Carlin:
+
+    “I love people as I meet them one by one. People are just wonderful as
+     individuals. You see the whole universe in their eyes if you look
+     carefully. But as soon as they begin to group, as soon as they begin to
+     clot, when there are five of them or ten or even groups of smallest two,
+     they begin to change, they sacrifice the beauty of the individual for the
+     sake of the group.”
+
+This should go as a proposal to the municipalities of The Netherlands, the
+national organisation of psychologists and society as a whole.
+
+The solution offered here, will not only bring people together, but can have
+love as a side effect, fighting population collapse and loneliness. It can help
+teenagers get out of there darkness, start preventing the worst. Stop bullying
+by stop having victims being victims: Strength from within with proper skills
+to defend and maintain mental health through better conversation skills, which
+give powerful internal coping mechanisms. It's all about the cognitions in the
+end.
 
 ---
 
