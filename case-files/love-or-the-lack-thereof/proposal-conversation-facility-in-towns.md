@@ -58,3 +58,13 @@ to run into more walls than when we would merely communicate digitally. Compare
 it to a spoiled kid: Always getting what it wants. It doesn't get the experience
 dealing with disappointment: Not getting the candy, but also not the chance to
 learn to negotiate with mama: Engagement strategies to develop.
+
+Another major benefit is the one we see when we look at the difference in
+cultures. Dutch culture is very much about making all interactions social in
+nature. While, if you would try that in the US, you would be surprised how un-
+effective that would be. The common response at least to me is, that Dutch
+people then react with the response: "That is just arrogant, they think they are
+better than us...". Arrogant why? Because they opt out of socialising with you?
+What is the reason they do that? Have you checked? However, if one would have
+the experience of having a choice between the minimal and the social situation
+engagement, one would start better understanding what actually is going on.
