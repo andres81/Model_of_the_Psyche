@@ -3,6 +3,16 @@
 Hereby I wish to offer an idea that can solve multiple problems with just one
 stone, I believe: The opportunity to converse, without any strings attached.
 
+## Target audience
+
+This proposal is intended for:
+
+* De Vereniging van Nederlandse Gemeenten (VNG), https://vng.nl/
+* Nederlands Instituut van Psychologen (NIP), https://psynip.nl/
+* Theaterschool Utrecht, https://theaterschoolutrecht.nl/
+* Dutch Faculties of Psychology
+* Dutch Faculties of Philosophy
+
 ## Introduction
 
 The idea is, that each town, will have a facility, where two participants, can
@@ -134,10 +144,11 @@ minimal situation in which we see the true other person. Then and only then will
 real love be possible between the persons that should be together.
 
 Understand that once you have read this, you too are responsible for finding out
-whether this is true or not. Merely the argument of this call to evolving ideas
-is too vague, is not a reason to not be concerned with finding the truth: You
-are free and therefore responsible for the choice to evolve the ideas regarding
-love and how we live together on this planet. You have been informed.
+whether this is true or not (something with freedom to choose... Sartre etc).
+Merely the argument of this call to evolving ideas is too vague, is not a reason
+to not be concerned with finding the truth: You are free and therefore
+responsible for the choice to evolve the ideas regarding love and how we live
+together on this planet. You have been informed.
 
 
 
