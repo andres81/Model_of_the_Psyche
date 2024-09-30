@@ -124,6 +124,20 @@ disappointment and manipulation by others, or narcissism.
 One is a prisoner of their own illusion, which is the perception of a social
 situation, that others might not perceive, nor wish to be part of.
 
+This game of manipulation, social engineering games, in the work place, at
+schools, in the domain of love, needs to stop. It is time for peace, and
+enlightenment. Becoming aware of what and who we are. It is time to give
+everybody a fair chance at real love. How to achieve it, find it, how to get to
+know other people who they really are, by allowing one self to be part of a one
+on one conversation with others. No longer socialising by default, but a
+minimal situation in which we see the true other person. Then and only then will
+real love be possible between the persons that should be together.
+
+Understand that once you have read this, you too are responsible for finding out
+whether this is true or not. Merely the argument of this call to evolving ideas
+is too vague, is not a reason to not be concerned with finding the truth: You
+are free and therefore responsible for the choice to evolve the ideas regarding
+love and how we live together on this planet. You have been informed.
 
 
 
