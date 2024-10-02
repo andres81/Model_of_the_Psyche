@@ -1,4 +1,4 @@
-# Proposal Conversation Facility in society
+# Proposal Conversation Facility in society, v1.0.0
 
 Hereby I wish to offer an idea that can solve multiple problems with just one
 stone, I believe: The opportunity to converse, without any strings attached.
@@ -8,10 +8,87 @@ stone, I believe: The opportunity to converse, without any strings attached.
 This proposal is intended for:
 
 * De Vereniging van Nederlandse Gemeenten (VNG), https://vng.nl/
+  * Postbus 30435
+    2500 GK Den Haag
 * Nederlands Instituut van Psychologen (NIP), https://psynip.nl/
+  * HNK Centraal Station
+    Arthur van Schendelstraat 650
+    3511 MJ Utrecht
 * Theaterschool Utrecht, https://theaterschoolutrecht.nl/
+  * Theaterschool Utrecht
+    Domplein 4
+    3512 JC Utrecht
 * Dutch Faculties of Psychology
+  * Erasmus University Rotterdam
+    Erasmus School of Social and Behavioural Sciences
+    Mandeville Building, Room T15-10
+    P.O. Box 1738
+    3000 DR Rotterdam
+    The Netherlands
+  * Faculty of Social and Behavioural Sciences
+    Pieter de la Court Building
+    P.O. Box 9555
+    2300 RB Leiden
+    The Netherlands
+  * Faculty of Behavioural and Social Sciences
+    Grote Kruisstraat 2/1
+    9712 TS Groningen
+    The Netherlands
+  * Faculty of Social Sciences
+    Postbus 9104
+    6500 HE NIJMEGEN
+  * Faculty of Psychology and Neuroscience
+    PO Box 616
+    6200 MD Maastricht
+  * University of Twente, Faculty for Psychology
+    Drienerlolaan 5
+    7522 NB Enschede (NL)
+  * Universiteit Utrecht, Faculty for Psychology
+    Postbus 80125
+    3508 TC Utrecht
+  * University of Amsterdamm, Faculty for Psychology
+    P.O. Box 19268
+    1000 GG Amsterdam
+    The Netherlands
+  * Tilburg University
+    Department of Social Psychology
+    P.O. Box 90153
+    5000 LE Tilburg
+    The Netherlands
+  * Vrije Universiteit Amsterdam
+    Faculteit der Gedrags- en Bewegingswetenschappen
+    De Boelelaan 1105
+    1081 HV Amsterdam
 * Dutch Faculties of Philosophy
+  * Institute for Philosophy, Leiden
+    * Institute for Philosophy
+      P.O. Box 9515
+      2300 RA Leiden
+  * Erasmus School of Philosophy, Rotterdam
+    * Gebouw Bayle Building
+      Burgemeester Oudlaan 50, kamer J5-69
+      3062 PA Rotterdam
+  * Faculty of Philosophy, Groningen
+    * Rijksuniversiteit Groningen
+      Postbus 72
+      9700 AB Groningen
+  * Faculty of Philosophy, Theology and Religious Studies, Nijmegen
+    * Postbus 9103
+      6500HD NIJMEGEN
+  * Department of Philosophy and Religious Studies, Utrecht
+    * Janskerkhof 13 (room 0.04)
+      3512 BL Utrecht
+  * Faculty of Humanities, Amsterdam
+    * Postbus 1605
+      1000 BP Amsterdam, The Netherlands
+  * Department of Philosophy, Tilburg
+    * Tilburg University
+      PO Box 90153
+      5000 LE Tilburg
+      The Netherlands
+  * Faculty of Humanities, Vrije Universiteit Amsterdam
+    * De Boelelaan 1105, room 12A-68
+      Amsterdam
 
 ## Introduction
 
@@ -150,5 +227,6 @@ to not be concerned with finding the truth: You are free and therefore
 responsible for the choice to evolve the ideas regarding love and how we live
 together on this planet. You have been informed.
 
-
-
+André Schepers
+The Netherlands
+https://www.andreschepers.nl
