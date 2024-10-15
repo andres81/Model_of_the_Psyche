@@ -2,6 +2,34 @@
 
 #### a ubiquitous language
 
+## Sartrian Torture Chamber
+
+A
+[Huis Clos](https://en.wikipedia.org/wiki/No_Exit)
+situation, created by one or more people for a subject or a group of people. The
+perceived social situation of the victim(s), is manipulated, to become negative
+and painful. Furthermore, the manipulation does not only serve the goal of
+making the situation negative, but also consists of keeping the victim(s)
+hostage in this situation: There is no escape.
+
+Part of the manipulation that serves to hurt, can be
+[gaslighting](https://en.wikipedia.org/wiki/Gaslighting)
+with the goal of making the victim believe they are (in part) responsible for
+their own situation, the said situation being crafted meticulously potentially
+by an individual or group, adding to the perceived power or sadistic pleasure
+arising from the subsequently created situation. Potentially merely for the mere
+purpose of consuming said created situation. Indulging in arising emotions that
+are to be consumed.
+
+A feast of created pain and agony, created by as it might seem demons.
+
+## Being human
+
+What makes you human, is not merely the flesh and bones you consist of, but the
+choices you make: Are you more than an animal acting on impulse, behavior based
+on the emotions perceived, but instead choosing ones direction through reality,
+choices based on rational deep convictions, ideologies, 
+
 ## Empty Rhetoric
 
 Empty rhetoric: Rhetoric reused in a different situation, in which the vision
