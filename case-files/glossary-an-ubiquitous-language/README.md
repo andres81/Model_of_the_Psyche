@@ -23,6 +23,10 @@ are to be consumed.
 
 A feast of created pain and agony, created by as it might seem demons.
 
+### The antidote / remedy / defense system
+
+
+
 ## Being human
 
 What makes you human, is not merely the flesh and bones you consist of, but the

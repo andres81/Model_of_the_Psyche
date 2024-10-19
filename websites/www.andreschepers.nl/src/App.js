@@ -22,6 +22,7 @@ import Contact from "./components/contact";
 import ProjectsSection from "./components/ProjectsSection";
 import ModalWrapper from "./components/ModalWrapper";
 import Modal from "react-modal";
+import Precursor from "./components/precursor";
 
 Modal.setAppElement('#root');
 
@@ -30,6 +31,7 @@ function App() {
   return (
     <div className="App">
       <Header />
+      <Precursor />
       <CaseFiles />
       <ProjectsSection />
       <Contact />
