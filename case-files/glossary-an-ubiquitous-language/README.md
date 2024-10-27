@@ -25,7 +25,9 @@ A feast of created pain and agony, created by as it might seem demons.
 
 ### The antidote / remedy / defense system
 
+## Being "social" or "societal effective" towards our fellow human being in society
 
+"Sartre noted when Wehrmacht soldiers asked Parisians politely in their German-accented French for directions, people usually felt embarrassed and ashamed as they tried their best to help out the Wehrmacht which led Sartre to remark "We could not be natural".[37] French was a language widely taught in German schools and most Germans could speak at least some French. Sartre himself always found it difficult when a Wehrmacht soldier asked him for directions, usually saying he did not know where it was that the soldier wanted to go, but still felt uncomfortable as the very act of speaking to the Wehrmacht meant he had been complicit in the Occupation.[38] Ousby wrote: "But, in however humble a fashion, everyone still had to decide how they were going to cope with life in a fragmenting society ... So Sartre's worries ... about how to react when a German soldier stopped him in the street and asked politely for directions were not as fussily inconsequential as they might sound at first. They were emblematic of how the dilemmas of the Occupation presented themselves in daily life".[38] Sartre wrote the very "correctness" of the Germans caused moral corruption in many people who used the "correct" behavior of the Germans as an excuse for passivity, and the very act of simply trying to live one's day-to-day existence without challenging the occupation aided the "New Order in Europe", which depended upon the passivity of ordinary people to accomplish its goals.[36"
 
 ## Being human
 

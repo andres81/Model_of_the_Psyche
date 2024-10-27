@@ -15,4 +15,10 @@ ones rights in the context of employment, this ignorance can be exploited.
 This letter is meant as a way to inform you of a proposal to better protect
 employees at work.
 
+* Proactively communicate the rules of engagement that come in the form of laws.
+* Proactively communicate, that situations within an organisation, are
+  non-social in nature. They are never required to be social or perceived as
+  such. For example, "inclusion" cannot refer to inclusion to a social group,
+  because that doesn't exist in the organisation as something explicitly part
+  of that organisation.
 * 
