@@ -125,5 +125,86 @@ attention and consumption by others, to a non-social situation. At work for
 example or anywhere outside in the real world, the realm of society, where
 others perceive it as a social situation, or a projected on to others one.
 
-##d
-cd 
+## Dump of brainfarts that might one day become something on their own
+
+---
+
+    From oneself for oneself only money for job. But function proxying to from
+    oneself for oneself instead of from oneself for another, what the role is
+    meant for, is enriching oneself. Not for money but for thermodynamic reasons
+
+---
+
+The former
+[CIA operative](https://www.everydayspy.com/about-andrew)
+his advice:
+
+[R.I.C.E.](https://www.youtube.com/watch?v=7XmgkWCtnhE)
+
+[Perspective vs Perception](https://www.youtube.com/watch?v=jz2JdCZAXxk)
+
+---
+
+not that what emerges from simply living together and the set of choices
+relating to how we wish to work together, but an explicit structure, system.
+We need to mature, and choose to step into this universe as adults, choosing to
+carry society. Not depend on what society will tell us what is acceptable and
+what not.
+
+Relating to function emerging from the system as a whole. In case of what people
+perceive as society, that "society" is implicit, it is what emerges from the
+system, but that is subject to the system of course. But if that system is
+dynamic in nature, if it comes to form, and therefore the possible functionality,
+then you are not in control what that "society" will be: Look at the WWII...
+Make society, that concept, explicit, what it explicityl should be, and then
+design an explicit functional architecture to cater for that desire of said
+explicit design of society, and thén, and only then comes the form, the formal
+architecture. Then you are acting mature: not shying away from responsibility,
+not going to short term rewards, acting on impuls, but acting on ideals, a goal,
+set together:
+
+[Charlie Chaplin - Final Speech from The Great Dictator](https://www.youtube.com/watch?v=J7GY1Xg6X20)
+
+---
+
+Policitcs is a necessity merely when societal system builders are in short
+supply
+
+---
+
+Instead of the term "evil": Thermodynamically unfavorable phenomena.
+
+    Evil in the sense of evil within this universe. "Evil" as meant by the
+    Catholic Church... different beast!
+
+Is evil a concept in itself, which it is, but is it one in reality or merely
+a construct of the mind, to cope with the realisation of a lack of control over
+what happens around us? Every process is thermodynamic in nature:
+[Entropy is increasing over time in any system.](https://en.wikipedia.org/wiki/Entropy_as_an_arrow_of_time)
+
+Is bullying evil, or the result of thermodynamic processes, that cause a faster
+increase in entropy then necessary for the benefit of the systems (humans) that
+are causing the undesired behavior (bullying). Gaining energy by a system goes
+at the cost of the entropy of other systems.
+
+In other words: At the end, can we maybe conclude that the set of emotions
+organisms are subject to are a descriptive tool to describe the thermodynamics
+surrounding us, inside us, and an indication of possible outcomes of engagements
+with the outside world and the potential thermodynamic outcomes of said
+engagements? Including the thermodynamic situation of the system the subject is
+a part of, say a social group, after engagements with other systems and the
+environment?
+
+---
+
+Function that emerges should not be fought, it doesn't exist as form, which is
+what can be defeated, it is the system from which it originates in the form of
+emergence, that should be dismantled, gently, for it can have side effects that
+can harm other systems.
+
+Don't attack the root problem, if instead when taking away the peripheral
+problems dissolves said root problem
+
+---
+
+...
