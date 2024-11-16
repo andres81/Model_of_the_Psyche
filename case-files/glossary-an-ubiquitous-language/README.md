@@ -127,13 +127,13 @@ others perceive it as a social situation, or a projected on to others one.
 
 ## Dump of brainfarts that might one day become something on their own
 
---------------------------------------------------------------------------------
+---
 
     From oneself for oneself only money for job. But function proxying to from
     oneself for oneself instead of from oneself for another, what the role is
     meant for, is enriching oneself. Not for money but for thermodynamic reasons
 
---------------------------------------------------------------------------------
+---
 
 The former
 [CIA operative](https://www.everydayspy.com/about-andrew)
@@ -143,7 +143,7 @@ his advice:
 
 [Perspective vs Perception](https://www.youtube.com/watch?v=jz2JdCZAXxk)
 
---------------------------------------------------------------------------------
+---
 
 not that what emerges from simply living together and the set of choices
 relating to how we wish to work together, but an explicit structure, system.
@@ -165,12 +165,12 @@ set together:
 
 [Charlie Chaplin - Final Speech from The Great Dictator](https://www.youtube.com/watch?v=J7GY1Xg6X20)
 
---------------------------------------------------------------------------------
+---
 
 Policitcs is a necessity merely when societal system builders are in short
 supply
 
---------------------------------------------------------------------------------
+---
 
 Instead of the term "evil": Thermodynamically unfavorable phenomena.
 
@@ -195,7 +195,7 @@ engagements? Including the thermodynamic situation of the system the subject is
 a part of, say a social group, after engagements with other systems and the
 environment?
 
---------------------------------------------------------------------------------
+---
 
 Function that emerges should not be fought, it doesn't exist as form, which is
 what can be defeated, it is the system from which it originates in the form of
@@ -205,6 +205,6 @@ can harm other systems.
 Don't attack the root problem, if instead when taking away the peripheral
 problems dissolves said root problem
 
---------------------------------------------------------------------------------
+---
 
 ...
