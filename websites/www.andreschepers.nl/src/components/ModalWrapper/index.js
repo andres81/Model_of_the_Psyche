@@ -21,6 +21,8 @@ import remarkGfm from "remark-gfm";
 import Markdown from "react-markdown";
 import PATHS from "./paths.js";
 
+import "./modal-style.css"
+
 export default function ModalWrapper() {
 
     const [markdown, setMarkdown] = React.useState("");
@@ -65,6 +67,7 @@ export default function ModalWrapper() {
     return (
         <>
             <Modal
+                // className={"test-modal-content"}
                 isOpen={!!path}
                 onRequestClose={onRequestDoClose}
                 style={customStyles}
@@ -72,7 +75,10 @@ export default function ModalWrapper() {
                 <span style={closeButtonStyle} onClick={onRequestDoClose}>
                     <i className="fas fa-times"></i>
                 </span>
-                <Markdown remarkPlugins={[remarkGfm]}>{markdown}</Markdown>
+                <Markdown remarkPlugins={[remarkGfm]}
+                    className={"markdown-custom-style"}>
+                    {markdown}
+                </Markdown>
             </Modal>
         </>
     )
