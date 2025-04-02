@@ -10,8 +10,24 @@
 * https://www.rtl.nl/nieuws/nederland/artikel/5451010/zeven-demonstranten-uva-volgende-week-voor-de-rechter?redirect=rtlnieuws
 * https://www.rtl.nl/nieuws/artikel/5450910/rechter-veroordeelt-uva-demonstrant-tot-maand-cel-spreekt-andere-vrij
 * https://npo.nl/start/serie/wnl-op-zondag/seizoen-8_3/wnl-op-zondag_394/afspelen
+* https://www.rtl.nl/nieuws/buitenland/artikel/5502288/slachtoffer-verkrachting-belgie-teleurgesteld-over-uitblijven
+* https://www.rtl.nl/nieuws/buitenland/artikel/5502206/ziekenhuis-leuven-zet-gynaecologiestudent-op-non-actief-na
 
 # Introduction
+
+# The legal system
+
+* https://www.uscourts.gov/educational-resources/educational-activities/overview-rule-law
+* https://online.lincoln.ac.uk/the-value-of-law-understanding-the-purpose-of-laws-and-legal-systems/
+
+Is [Lady Justice](https://en.wikipedia.org/wiki/Lady_Justice) always blind? How
+does the [Legal System](https://en.wikipedia.org/wiki/Legal_system) work and
+what are its [purposes](https://www.youtube.com/watch?v=Zt4d0ZHcMws)?
+
+If rape is punished based on the situation of the rapist, what message does it
+send to society? Rape is justified if you promise to give back enough to society
+based on the promise of your talents? Is that how justice works? The system to
+prevent seeking private justice? Revenge?
 
 # Protests at Dutch universities to stop cooperation with Israeli universities
 
