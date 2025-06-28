@@ -144,7 +144,23 @@ attention and consumption by others, to a non-social situation. At work for
 example or anywhere outside in the real world, the realm of society, where
 others perceive it as a social situation, or a projected on to others one.
 
-## Dump of brainfarts that might one day become something on their own
+## Dump of brain farts that might one day become something on their own
+
+---
+
+I keep fantasizing about Joe Rogan announcing, one day, that beautiful
+unforgettable
+moment, that dr. Peterson is going to have his own Netflix standup special...
+
+"You know that feeling, when your next client walks in, and you immediately get
+that feeling... it's gonna be a long hour this one! Clients... right? Deal with
+your own emotions for the love of therapy. Make it at least interesting for me.
+Where is your empathy for me... I studied years for this and then this is it?
+NEEEEXT! Give me some complex problems, let me have those patients that will
+make me famous!"
+
+"Maybe I can create some psychological problems... let me engineer the perfect
+situation to be solved. Let me be the creator of my success, brilliant!"
 
 ---
 
