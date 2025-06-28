@@ -27,14 +27,32 @@ A feast of created pain and agony, created by as it might seem demons.
 
 ## Being "social" or "societal effective" towards our fellow human being in society
 
-"Sartre noted when Wehrmacht soldiers asked Parisians politely in their German-accented French for directions, people usually felt embarrassed and ashamed as they tried their best to help out the Wehrmacht which led Sartre to remark "We could not be natural".[37] French was a language widely taught in German schools and most Germans could speak at least some French. Sartre himself always found it difficult when a Wehrmacht soldier asked him for directions, usually saying he did not know where it was that the soldier wanted to go, but still felt uncomfortable as the very act of speaking to the Wehrmacht meant he had been complicit in the Occupation.[38] Ousby wrote: "But, in however humble a fashion, everyone still had to decide how they were going to cope with life in a fragmenting society ... So Sartre's worries ... about how to react when a German soldier stopped him in the street and asked politely for directions were not as fussily inconsequential as they might sound at first. They were emblematic of how the dilemmas of the Occupation presented themselves in daily life".[38] Sartre wrote the very "correctness" of the Germans caused moral corruption in many people who used the "correct" behavior of the Germans as an excuse for passivity, and the very act of simply trying to live one's day-to-day existence without challenging the occupation aided the "New Order in Europe", which depended upon the passivity of ordinary people to accomplish its goals.[36"
+"Sartre noted when Wehrmacht soldiers asked Parisians politely in their
+German-accented French for directions, people usually felt embarrassed and
+ashamed as they tried their best to help out the Wehrmacht which led Sartre to
+remark "We could not be natural".[37] French was a language widely taught in
+German schools and most Germans could speak at least some French. Sartre himself
+always found it difficult when a Wehrmacht soldier asked him for directions,
+usually saying he did not know where it was that the soldier wanted to go, but
+still felt uncomfortable as the very act of speaking to the Wehrmacht meant he
+had been complicit in the Occupation.[38] Ousby wrote: "But, in however humble a
+fashion, everyone still had to decide how they were going to cope with life in a
+fragmenting society ... So Sartre's worries ... about how to react when a German
+soldier stopped him in the street and asked politely for directions were not as
+fussily inconsequential as they might sound at first. They were emblematic of
+how the dilemmas of the Occupation presented themselves in daily life".[38]
+Sartre wrote the very "correctness" of the Germans caused moral corruption in
+many people who used the "correct" behavior of the Germans as an excuse for
+passivity, and the very act of simply trying to live one's day-to-day existence
+without challenging the occupation aided the "New Order in Europe", which
+depended upon the passivity of ordinary people to accomplish its goals.[36"
 
 ## Being human
 
 What makes you human, is not merely the flesh and bones you consist of, but the
 choices you make: Are you more than an animal acting on impulse, behavior based
 on the emotions perceived, but instead choosing ones direction through reality,
-choices based on rational deep convictions, ideologies, 
+choices based on rational deep convictions, ideologies,
 
 ## Empty Rhetoric
 
@@ -42,7 +60,8 @@ Empty rhetoric: Rhetoric reused in a different situation, in which the vision
 holds no grounds, but was applicable in a situation, in which people saw those
 that truly understood this vision, being persuaded by said used rhetoric. Due to
 not understanding the vision behind the rhetoric, people might be ashamed if not
-persuaded by that rhetoric, although reused in a completely new situation, because
+persuaded by that rhetoric, although reused in a completely new situation,
+because
 they might be seen as incompetent. While, if one would ask for the background of
 the rhetoric, and the underlying vision, one would instantaneously see, it is a
 big pile of horse dun.
@@ -129,6 +148,11 @@ others perceive it as a social situation, or a projected on to others one.
 
 ---
 
+Who's closer to the king: The queen or the fool; The queen might fuck the king,
+but the fool knows who is screwing him...
+
+---
+
     From oneself for oneself only money for job. But function proxying to from
     oneself for oneself instead of from oneself for another, what the role is
     meant for, is enriching oneself. Not for money but for thermodynamic reasons
@@ -154,7 +178,8 @@ what not.
 Relating to function emerging from the system as a whole. In case of what people
 perceive as society, that "society" is implicit, it is what emerges from the
 system, but that is subject to the system of course. But if that system is
-dynamic in nature, if it comes to form, and therefore the possible functionality,
+dynamic in nature, if it comes to form, and therefore the possible
+functionality,
 then you are not in control what that "society" will be: Look at the WWII...
 Make society, that concept, explicit, what it explicityl should be, and then
 design an explicit functional architecture to cater for that desire of said

@@ -47,7 +47,8 @@ export default function ModalWrapper() {
         right: "30px",
         color: "black",
         fontSize: "4em",
-        cursor: "pointer"
+        cursor: "pointer",
+        zIndex: 1000
     };
 
     let pathName = useLocation().hash;
