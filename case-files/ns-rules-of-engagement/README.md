@@ -22,9 +22,10 @@ like the NS.
 
 ## Responsibility
 
-An organization might be able to employ BOAs, but [the oversight](@TODO) is
-still done by
-the Dutch department of Justice. However, this does not mean that a civilian
+An organization might be able to employ BOAs, but
+[the oversight](https://wetten.overheid.nl/BWBR0039766/2024-01-01)
+is still done by the Dutch department of Justice. However, this does not mean
+that a civilian
 will
 find it easy to escalate a situation that has gone wrong, for example, when a NS
 BOA
@@ -36,11 +37,36 @@ the BOA is a walking anti-social personality disorder.
 As with all tools and in the end everything society uses, where society in the
 end are the civilians subject to said society,
 civilians, the users, are
-responsible: [Doomed to freedom](@TODO link to Sartre).
+responsible: [Doomed to freedom](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)).
 If police officers step out of bounds, one can file a complaint, but what if a
 BOA of, lets say for the sake of context, the NS, steps out of bounds? For
 example starts social abuse against NS customers?
-What is the appropriate way to act? What is the escalation line?
+What is the appropriate way to act? What is the escalation line? What is even
+social abuse to begin with? Didn't the Dutch government think of this when
+constructing this [law](https://wetten.overheid.nl/BWBR0039766/2024-01-01)?
+
+Don't get the author wrong, I am merely trying to solve some problems. I believe
+that most BOAs choose this craft, merely because they truly care about other
+human beings and wish to serve and protect. But aren't they also victim of the
+situation right now? They get the blame for a faulty system, and might attribute
+it to their professionality. System theory / engineering is not trivial! Ask
+the professors at [MIT](https://xpro.mit.edu/programs/program-v1:xPRO+SysEngx/)
+that teach this, to people that will become engineers that will eventually work
+at Boeing building airplanes with this system engineering knowledge!
+
+On the other hand, one should not be naïve: Walking anti-social personality
+disorders are a fact. Only proper filters to prevent these individuals from
+entering the work force as a BOA can prevent these individuals from
+materializing their potential sadistic fantasies. It is even naïve to think the
+intention is there to begin with to filter these types out from the training
+pipeline to prevent them from entering the NS BOA workforce. To make matters
+worse, it is on top of all this, naïve to think the Dutch department of Justice
+has the potential, maybe even the intention, to make sure these individuals
+don't become BOAs and potentially harm innocent individuals, looking at the
+rapes in female prisons! While at the same time, looking at the
+[law](https://wetten.overheid.nl/BWBR0039766/2024-01-01), the department of
+Justice is considered the moral system that a civilian should be able to trust
+that oversees the proper execution of the law.
 
 ### Scenario 1: Social intimidation Eindhoven central station
 
@@ -53,6 +79,22 @@ __*Type: Negative*__
 ### Scenario 3: Intimidatingly staring in the eyes as a group at Sittard station
 
 __*Type: Negative*__
+
+## The "Lorenzo" incident and the immature, unprofessional, unacceptable response of the NS!
+
+* [Part 1](https://www.youtube.com/watch?v=GEH__OtnnDU)
+* [Part 2](https://www.youtube.com/watch?v=h7ZdHOFo4WU)
+
+The response of the NS came in the form of the behavior of a spokesperson of the
+NS.
+
+### Immature
+
+### Unprofressional
+
+### Unacceptable
+
+###    
 
 ## Trying to file a complaint at the NS and the department of Justice
 
@@ -111,9 +153,9 @@ and protecting each other: Duty of care. The legal system gives justice, the
 health care system organizes the utilization and financing of health resources,
 the military... we get it. If not, blame
 the [Creator](https://en.wikipedia.org/wiki/God), who realizes when looking at
-the author: Even in failure, pure perfection! 
+the author: Even in failure, pure perfection!
 
-# Misbehaving Conductors/Machinists**
+# Misbehaving Conductors/Machinists
 
     A drop of tea in a glass of water, changes it from clear water to colored.
     It takes a lot of drops of water, to make it crystal clear again.
