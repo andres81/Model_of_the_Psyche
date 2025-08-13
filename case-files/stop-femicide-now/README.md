@@ -168,21 +168,59 @@ The conclusion is, that any civilian right now, can be asked a few questions:
 * Do you understand your civil duties as a participant in a democracy to the
   point that you believe that if anyone scrutinizes your actions, they believe
   you acted not in bad faith? In other words: Can you legitimize your actions
-  are can you be considered a mere consumer of society? (Reminding the author of
+  or can you be considered a mere consumer of society? (Reminding the author of
   the ending
   of [Ergens in de verte](https://nl.wikipedia.org/wiki/Youp_van_%27t_Hek): "Het
   plafond is zwak...", "Let us dance!", the man that predicted
   the [financial crisis](https://en.wikipedia.org/wiki/2008_financial_crisis)
   with "Man vermist")
 
-Furthermore, a dashboard of society, showing the relevant cases describing what
+Furthermore, a dashboard of society, showing the relevant cases. Describing what
 is going on in society at this moment in time, like problems that need to be
-saved, and threats posing society, plus the ideas that need evolving regarding
-insight into the cases that might also act eventually as solutions to problems,
-in itself might be regarded as a moral system that citizens migth regard as
-necessary to be able to take responsibility regarding the upkeep of society.
+solved, and threats posing society. In addition, the ideas that need evolving
+regarding insight into the cases. Ideas that might also act eventually as
+solutions to problems. That dashboard in itself might be regarded as a moral
+system that citizens might regard as necessary to be able to take responsibility
+regarding the upkeep of society.
+
+The dashboard of society then fulfills the following functions:
+
+* Overview of the current problems that need urgent attention
+* Ideas that need to evolve, that might be a solution for the mentioned problems
+  in society
+* Overview of involvement of science, politics and all other pillars of society
+* Educating people regarding the problems themselves, but moreover about the
+  solutions that are not used and why not: Understanding for the time it takes
+  before problems are resolved. In order for people to know that it is not
+  indifference, but due to a slow process that evolving an idea is, that just
+  needs time, like a wine that takes time to become good.
+
+The dashboard, as informative and educational it then is, better at these jobs
+than journalism, acts as a social psychologist acts when tasked to fight racism
+and/or discrimination in organizations:
+
+* Change
+  [psychological schemas](https://en.wikipedia.org/wiki/Schema_(psychology)).
+* Change
+  [psychological attitudes](https://en.wikipedia.org/wiki/Attitude_(psychology)),
+  of which schemas form the foundation.
+
+This dashboard then can also help prevent civilians loosing trust in democrazy,
+prevent civilians from taking justice into their own hands (doxing of judges,
+[judges need to be able to do their job](https://www.nvvr.org/dossiers/rechtsstaat/)
+and therefore be protected), and stop participating in democratic processes.
+
+This dashboard also forces everyone to come together and actively partake in
+problem solving, instead of getting away with the bystander effect: "If
+everybody is responsible, nobody is responsible...". Not really: If everybody is
+responsible and it goes wrong, everybody is questioned and held accountable, all
+go to jail!
 
 ## Preventing women getting in the situation of potential femicide
+
+In the letter to all faculties of philosophy, psychology, organization of
+psychologists, organization of municipalities of the Netherlands and Theater
+School Utrecht, I already indicated training for women: Data buffers.
 
 ## Helping women in situations of potential femicide
 
