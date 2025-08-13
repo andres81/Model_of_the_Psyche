@@ -1,4 +1,4 @@
-# Stop Femicide Now!
+# Stop femicide Now!
 
 Enough is enough! Dutch society, you are receiving a deadline now. The last
 chance I offer you now is the opportunity to help build an organization for the
@@ -32,7 +32,7 @@ He states, "I am responsible for my very desire of fleeing responsibilities."
 
 Seeing
 the [Dutch police fail](https://www.rtl.nl/nieuws/binnenland/artikel/5492182/weiteveen-dubbele-moord-politieoptreden-richard-k-ineke-mussche)
-when it comes to protecting civilians, until it is too late, and on top that,
+when it comes to protecting civilians, until it is too late, and on top of that,
 the example of:
 
 [Of vrouwen die paniekerig hun verhaal deelden bij de politie, maar waarbij hun angst werd gezien als ‘paranoia’.](https://www.linda.nl/persoonlijk/relaties/femicide-rode-vlaggen/)
@@ -62,10 +62,6 @@ often while experts claim there are explicit signs before femicide that should
 make it far more easier to prevent femicide than the statistics currently show
 us.
 
-## Preventing women getting in the situation of potential femicide
-
-## Helping women in situations of potential femicide
-
 ## Accountability of Dutch Citizens regarding Femicide
 
 How long has it not been known that Femicide is a real problem? Women in danger
@@ -89,4 +85,25 @@ knowledgeable about the subject:
 I haven't seen any society disrupting protests at the
 [Malieveld](https://en.wikipedia.org/wiki/Malieveld). Why so silent?
 As a natural person, with your nose being pushed hard on the facts, don't you
-face the problem of starting to feel the need to 
+face the problem of starting to feel the need to ask for moral systems you can
+delegate your responsibility to, regarding acting against femicide? When does it
+become to much before you start acting? Does acting against femicide not first
+of all come in the form of helping to evolve ideas? For example, the justice
+system has several roles:
+
+* Act as a system that fires warning
+  [shots across the bow](https://en.wiktionary.org/wiki/shot_across_the_bow).
+* Taking people out of society to prevent further damage:
+  * [prison](https://en.wikipedia.org/wiki/Prison)
+  * [TBS](https://nl.wikipedia.org/wiki/Terbeschikkingstelling_(Nederlands_strafrecht))
+* Prevent civilians from taking justice into their own hands (potential threat of
+  [Civil War](https://en.wikipedia.org/wiki/Civil_war))
+
+### Civilians believing they are victims of their situation
+
+
+
+## Preventing women getting in the situation of potential femicide
+
+## Helping women in situations of potential femicide
+
