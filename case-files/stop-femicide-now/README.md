@@ -175,6 +175,8 @@ The conclusion is, that any civilian right now, can be asked a few questions:
   the [financial crisis](https://en.wikipedia.org/wiki/2008_financial_crisis)
   with "Man vermist")
 
+#### Dashboard of Society
+
 Furthermore, a dashboard of society, showing the relevant cases. Describing what
 is going on in society at this moment in time, like problems that need to be
 solved, and threats posing society. In addition, the ideas that need evolving
@@ -215,6 +217,33 @@ problem solving, instead of getting away with the bystander effect: "If
 everybody is responsible, nobody is responsible...". Not really: If everybody is
 responsible and it goes wrong, everybody is questioned and held accountable, all
 go to jail!
+
+#### Definition of freedom in a democrazy
+
+Looking at what a legal system does: Laws that govern what one may and may not
+do, one can argue, that the legal system might be upgraded to the point that
+women are protected more. Within the current context of this writing, to what
+extend did civilians take responsibility regarding the options a legal system
+offers to limit the freedom of women killers and abusers? Abuse in the form of:
+
+* Demanding sex
+* Making a partner sleep on the floor as punishment
+* Beating women
+* Stalking and doxing
+* More?
+
+This discussion is not regarding what exactly can be done legally, or
+what can be made punishable by law, but moreover, how much did the civilians
+that are experts regarding the legal system and legal systems in general do? And
+what about non-experts? What did normal civilians do to find out what the legal
+system can offer, and what politicians are doing? How important is the subject
+femicide for the coming elections in The Netherlands? Did it even cross the
+minds of Dutch people? Or is the subject merely a convenient tool during coffee
+discussions to profile oneself as a good citizen, a
+["moral person"](https://en.wikipedia.org/wiki/Being_and_Nothingness); that
+should be regarded as high in social status?
+
+__*You figure it out for yourself!*__
 
 ## Preventing women getting in the situation of potential femicide
 
