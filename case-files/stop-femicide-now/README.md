@@ -104,7 +104,8 @@ system has several roles:
 
 Civilians finding themselves in the situation of being a civilian in a society
 in which femicide happens, might choose to regard themselves as a victim. Or as
-Sartre describes it:
+Sartre
+[describes it](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)#Freedom_and_choice):
 
 ```text
 Although external circumstances may limit individuals, called facticity, they
@@ -129,9 +130,9 @@ someone sends a text message to someone else. Or posts on social media, which,
 as the UK showed, is policeable.
 
 But exploring the choice of victimhood for citizens, where victim means you are
-with your back against the wall, and cannot do anything, we can first of all
-take a look at the actual options every citizen has to take moral responsibility
-for the freedom one has.
+with your back against the wall, and cannot do anything we can, first, take a
+look at the actual options every citizen has to take moral responsibility for
+the freedom one has.
 
 In general, if a citizen sees problems in society, that the current moral
 systems don't take care of to the extent that the responsibility does not come
@@ -149,6 +150,28 @@ In addition, what tool to be used by any civilian, to keep track of all cases
 that research and track societal problems currently relevant? The ideas proposed
 and researched? A dashboard of society, that is now maybe in the insufficient
 form of news platforms and newspapers?
+
+The wining and complaining of Dutch citizens that can be witnessed now seems to
+display the conviction of said people, that they do not perceive the civil
+duties of participating in
+a [democracy](https://en.wikipedia.org/wiki/Democracy): Helping evolve the ideas
+that are the precursor to changes in the legal system or the extension of
+existing laws to evolve with the ever-changing environment in which the
+democracy exists.
+
+The conclusion is, that any civilian right now, can be asked a few questions:
+
+* What did you do up until now against femicide?
+* What are you planning to do next?
+* Do you understand your civil duties as a participant in a democracy to the
+  point that you believe that if anyone scrutinizes your actions, they believe
+  you acted not in bad faith? In other words: Can you legitimize your actions
+  are can you be considered a mere consumer of society? (Reminding the author of
+  the ending
+  of [Ergens in de verte](https://nl.wikipedia.org/wiki/Youp_van_%27t_Hek): "Het
+  plafond is zwak...", "Let us dance!", the man that predicted
+  the [financial crisis](https://en.wikipedia.org/wiki/2008_financial_crisis)
+  with "Man vermist")
 
 ## Preventing women getting in the situation of potential femicide
 
