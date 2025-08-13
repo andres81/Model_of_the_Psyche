@@ -41,3 +41,52 @@ Translation:
 
 [Or women who panicked and shared their stories with the police, but their fear was seen as 'paranoia'](https://translate.google.com/?sl=nl&tl=en&text=Of%20vrouwen%20die%20paniekerig%20hun%20verhaal%20deelden%20bij%20de%20politie%2C%20maar%20waarbij%20hun%20angst%20werd%20gezien%20als%20%E2%80%98paranoia%E2%80%99&op=translate)
 
+combining that with the legal system loosing trust, after a
+[Dutch childcare benefits scandal](https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal)
+and the
+[Eindhoven water canon incident](https://andreschepers.nl/#water-cannon-incident)
+it is time to take measures.
+
+Taking measures consists of two parts:
+
+* The attempts at preventing women getting in the situation that femicide might
+  occur.
+* Dealing with the situations in which femicide potentially occur.
+
+This piece of writing will be concerned with offering potential solutions and
+actions the author deems necessary to start ending femicide in at least The
+Netherlands.
+Furthermore it will explain to what extend the author holds Dutch citizens
+accountable for the situation we have ended up in: Femicide happens far too
+often while experts claim there are explicit signs before femicide that should
+make it far more easier to prevent femicide than the statistics currently show
+us.
+
+## Preventing women getting in the situation of potential femicide
+
+## Helping women in situations of potential femicide
+
+## Accountability of Dutch Citizens regarding Femicide
+
+How long has it not been known that Femicide is a real problem? Women in danger
+and being murdered, abused, warning society they are in danger and in major
+pain. What were the steps taken? What did Dutch citizens do? What should they
+have done?
+
+It seems Dutch citizens have been hiding behind ignorance, in essence, according
+to the author of this piece: Being indifferent towards their own potentially
+known ignorance. Acting in
+[bad faith](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))?
+It becomes worse if you work in a field in which you are forced to become
+knowledgeable about the subject:
+
+* Being a judge
+* Police officer
+* Politician
+* Scientist
+* Health care professional (social work etc...)
+
+I haven't seen any society disrupting protests at the
+[Malieveld](https://en.wikipedia.org/wiki/Malieveld). Why so silent?
+As a natural person, with your nose being pushed hard on the facts, don't you
+face the problem of starting to feel the need to 
