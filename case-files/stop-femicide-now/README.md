@@ -159,6 +159,8 @@ that are the precursor to changes in the legal system or the extension of
 existing laws to evolve with the ever-changing environment in which the
 democracy exists.
 
+### Conclusion
+
 The conclusion is, that any civilian right now, can be asked a few questions:
 
 * What did you do up until now against femicide?
@@ -172,6 +174,13 @@ The conclusion is, that any civilian right now, can be asked a few questions:
   plafond is zwak...", "Let us dance!", the man that predicted
   the [financial crisis](https://en.wikipedia.org/wiki/2008_financial_crisis)
   with "Man vermist")
+
+Furthermore, a dashboard of society, showing the relevant cases describing what
+is going on in society at this moment in time, like problems that need to be
+saved, and threats posing society, plus the ideas that need evolving regarding
+insight into the cases that might also act eventually as solutions to problems,
+in itself might be regarded as a moral system that citizens migth regard as
+necessary to be able to take responsibility regarding the upkeep of society.
 
 ## Preventing women getting in the situation of potential femicide
 
