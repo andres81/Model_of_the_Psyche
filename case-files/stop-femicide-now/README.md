@@ -159,6 +159,33 @@ that are the precursor to changes in the legal system or the extension of
 existing laws to evolve with the ever-changing environment in which the
 democracy exists.
 
+### Definition of freedom in a democracy
+
+Looking at what a legal system does: Laws that govern what one may and may not
+do, one can argue, that the legal system might be upgraded to the point that
+women are protected more. Within the current context of this writing, to what
+extend did civilians take responsibility regarding the options a legal system
+offers to limit the freedom of women killers and abusers? Abuse in the form of:
+
+* Demanding sex
+* Making a partner sleep on the floor as punishment
+* Beating women
+* Stalking and doxing
+* More?
+
+This discussion is not regarding what exactly can be done legally, or
+what can be made punishable by law, but moreover, how much did the civilians
+that are experts regarding the legal system and legal systems in general do? And
+what about non-experts? What did normal civilians do to find out what the legal
+system can offer, and what politicians are doing? How important is the subject
+femicide for the coming elections in The Netherlands? Did it even cross the
+minds of Dutch people? Or is the subject merely a convenient tool during coffee
+discussions to profile oneself as a good citizen, a
+["moral person"](https://en.wikipedia.org/wiki/Being_and_Nothingness); that
+should be regarded as high in social status?
+
+__*You figure it out for yourself!*__
+
 ### Conclusion
 
 The conclusion is, that any civilian right now, can be asked a few questions:
@@ -167,7 +194,7 @@ The conclusion is, that any civilian right now, can be asked a few questions:
 * What are you planning to do next?
 * Do you understand your civil duties as a participant in a democracy to the
   point that you believe that if anyone scrutinizes your actions, they believe
-  you acted not in bad faith? In other words: Can you legitimize your actions
+  you acted not in bad faith? In other words: Can you legitimize your actions, 
   or can you be considered a mere consumer of society? (Reminding the author of
   the ending
   of [Ergens in de verte](https://nl.wikipedia.org/wiki/Youp_van_%27t_Hek): "Het
@@ -218,38 +245,19 @@ everybody is responsible, nobody is responsible...". Not really: If everybody is
 responsible and it goes wrong, everybody is questioned and held accountable, all
 go to jail!
 
-#### Definition of freedom in a democrazy
-
-Looking at what a legal system does: Laws that govern what one may and may not
-do, one can argue, that the legal system might be upgraded to the point that
-women are protected more. Within the current context of this writing, to what
-extend did civilians take responsibility regarding the options a legal system
-offers to limit the freedom of women killers and abusers? Abuse in the form of:
-
-* Demanding sex
-* Making a partner sleep on the floor as punishment
-* Beating women
-* Stalking and doxing
-* More?
-
-This discussion is not regarding what exactly can be done legally, or
-what can be made punishable by law, but moreover, how much did the civilians
-that are experts regarding the legal system and legal systems in general do? And
-what about non-experts? What did normal civilians do to find out what the legal
-system can offer, and what politicians are doing? How important is the subject
-femicide for the coming elections in The Netherlands? Did it even cross the
-minds of Dutch people? Or is the subject merely a convenient tool during coffee
-discussions to profile oneself as a good citizen, a
-["moral person"](https://en.wikipedia.org/wiki/Being_and_Nothingness); that
-should be regarded as high in social status?
-
-__*You figure it out for yourself!*__
-
 ## Preventing women getting in the situation of potential femicide
 
 In the letter to all faculties of philosophy, psychology, organization of
 psychologists, organization of municipalities of the Netherlands and Theater
-School Utrecht, I already indicated training for women: Data buffers.
+School Utrecht,
+[I already indicated training for women](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/love-or-the-lack-thereof/proposal-conversation-facility-in-towns.md):
+Data buffers. So conversation can be one way of preventing women stepping in the 
+wrong situations with the wrong kind of men:
+
+* Walking anti-social personality disorders
+* Dominant personality types
+* Women haters
+* Infants in adult male bodies
 
 ## Helping women in situations of potential femicide
 
