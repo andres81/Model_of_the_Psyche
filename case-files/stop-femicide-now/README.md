@@ -24,7 +24,7 @@ to a certain degree, as Sartre clearly explains:
 Fundamentally, Sartre believed humankind cannot escape responsibility by
 adopting an external moral system, as the adoption of such is in itself a choice
 that we endorse – implicitly or explicitly – for which we must take full
-responsibility.[13] He argues that one cannot escape this responsibility, as
+responsibility. He argues that one cannot escape this responsibility, as
 each attempt to part one's self from the freedom of choice is in itself a
 demonstration of choice and choice is dependent on a person's wills and desires.
 He states, "I am responsible for my very desire of fleeing responsibilities."
@@ -94,14 +94,61 @@ system has several roles:
 * Act as a system that fires warning
   [shots across the bow](https://en.wiktionary.org/wiki/shot_across_the_bow).
 * Taking people out of society to prevent further damage:
-  * [prison](https://en.wikipedia.org/wiki/Prison)
-  * [TBS](https://nl.wikipedia.org/wiki/Terbeschikkingstelling_(Nederlands_strafrecht))
-* Prevent civilians from taking justice into their own hands (potential threat of
+    * [prison](https://en.wikipedia.org/wiki/Prison)
+    * [TBS](https://nl.wikipedia.org/wiki/Terbeschikkingstelling_(Nederlands_strafrecht))
+* Prevent civilians from taking justice into their own hands (potential threat
+  of
   [Civil War](https://en.wikipedia.org/wiki/Civil_war))
 
 ### Civilians believing they are victims of their situation
 
+Civilians finding themselves in the situation of being a civilian in a society
+in which femicide happens, might choose to regard themselves as a victim. Or as
+Sartre describes it:
 
+```text
+Although external circumstances may limit individuals, called facticity, they
+cannot force a person to follow one of the remaining courses over another. In
+this sense, the individual still has some freedom of choice. For this reason, an
+individual may choose in anguish, fully aware that this will have consequences.
+For Jean-Paul Sartre, to claim that one amongst many conscious possibilities
+takes undeniable precedence (for instance, "I cannot risk my life, because I
+must support my family") is to assume the role of an object in the world, not a
+free agent, but merely at the mercy of circumstance (a being-in-itself that is
+only its own facticity, i.e., it "is" inside itself, and acts there as a
+limitation). For Sartre, this attitude is manifestly self-deceiving.
+```
+
+But the situation is, that as a civilian of a democratic society as The
+Netherlands, you have a choice and are in control: Together with all civilians
+you decide what laws govern the country and behavior of persons in the country.
+Laws can take people of the streets. People enter the situation that is public
+space the moment they step out of their homes, or start engaging with society.
+And example of engaging with society and thus stepping in public space, is when
+someone sends a text message to someone else. Or posts on social media, which,
+as the UK showed, is policeable.
+
+But exploring the choice of victimhood for citizens, where victim means you are
+with your back against the wall, and cannot do anything, we can first of all
+take a look at the actual options every citizen has to take moral responsibility
+for the freedom one has.
+
+In general, if a citizen sees problems in society, that the current moral
+systems don't take care of to the extent that the responsibility does not come
+back to the individual, what should a citizen do, or can do? Let's explore some
+options:
+
+* Talk to politicians?
+* Ask science: Universities, research groups, experts in the field?
+* Ask journalists and/or read their contributions, watch documentaries, if not
+  present, go to journalists and ask them for action to be taken?
+* Think tanks to help evolve ideas that can become solutions to the problem
+  under investigation?
+
+In addition, what tool to be used by any civilian, to keep track of all cases
+that research and track societal problems currently relevant? The ideas proposed
+and researched? A dashboard of society, that is now maybe in the insufficient
+form of news platforms and newspapers?
 
 ## Preventing women getting in the situation of potential femicide
 
