@@ -16,6 +16,24 @@
 
 const CASE_FILES = [
     {
+        'href': '#organization-for-the-protection-of-natural-persons'
+        ,'image': 'assets//img/case-file/Mstr_dArtagnan.jpg'
+        ,'imageSource': 'https://nl.wikipedia.org/wiki/Charles_de_Batz_de_Castelmore#/media/Bestand:Mstr_dArtagnan.jpg'
+        ,'heading': 'Organization for the Protection of Natural Persons'
+        ,'subheading': 'The necessity for an explicit organization: One for All and All for One'
+    },{
+        'href': '#stop-femicide-now'
+        ,'image': 'assets//img/case-file/human-rights-logo.jpg'
+        ,'imageSource': 'https://www.humanrightslogo.net/en/download'
+        ,'heading': 'Stop Femicide Now!'
+        ,'subheading': 'The potential inability (unwillingness) of society to stop Femicide'
+    },{
+        'href': '#failing-dutch-information-technology'
+        ,'image': 'assets//img/case-file/information-technology.jpg'
+        ,'imageSource': 'https://en.wikipedia.org/wiki/Information_technology#/media/File:CSIRO_ScienceImage_8130_The_computer_lab_on_RV_Southern_Surveyor.jpg'
+        ,'heading': 'Dutch use of Information Technology'
+        ,'subheading': 'Dutch society\'s apparent inability to protect its citizens'
+    },{
         'href': '#love-or-the-lack-thereof'
         ,'image': 'assets//img/case-file/Romeo_and_Juliet_(watercolour)_by_Ford_Maddox_Brown.jpg'
         ,'imageSource': 'https://en.wikipedia.org/wiki/Love#/media/File:Romeo_and_Juliet_(watercolour)_by_Ford_Maddox_Brown.jpg'

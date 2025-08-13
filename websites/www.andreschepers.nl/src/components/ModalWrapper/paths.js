@@ -16,6 +16,9 @@
 
 const PATHS = {
     "#about" : "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/main/ABOUT.md"
+    ,"#organization-for-the-protection-of-natural-persons" : "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/refs/heads/main/case-files/organization-for-the-protection-of-natural-persons/README.md"
+    ,"#stop-femicide-now" : "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/refs/heads/main/case-files/stop-femicide-now/README.md"
+    ,"#failing-dutch-information-technology" : "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/refs/heads/main/case-files/failing-dutch-information-technology/README.md"
     ,"#love-or-the-lack-thereof": "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/refs/heads/main/case-files/love-or-the-lack-thereof/README.md"
     ,"#democracy": "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/main/case-files/democracy/README.md"
     ,"#dutch-government-rules-of-engagement": "https://raw.githubusercontent.com/andres81/Model_of_the_Psyche/main/case-files/dutch-government-rules-of-engagement/README.md"
