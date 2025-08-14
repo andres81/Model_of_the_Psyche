@@ -250,6 +250,14 @@ all go to jail!
 
 ## Preventing women getting in the situation of potential femicide
 
+### Sources
+
+* https://www.youtube.com/watch?v=U_3iUzkd4No
+* https://www.youtube.com/watch?v=H4FBH_uec-M
+* https://www.youtube.com/watch?v=raefhoaKxR8
+
+### Intervention
+
 In the letter to all faculties of philosophy, psychology, organization of
 psychologists, organization of municipalities of the Netherlands and Theater
 School Utrecht,
