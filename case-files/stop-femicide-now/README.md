@@ -1,4 +1,4 @@
-# Stop femicide Now!
+# Stop Femicide Now!
 
 Enough is enough! Dutch society, you are receiving a deadline now. The last
 chance I offer you now is the opportunity to help build an organization for the
@@ -51,15 +51,15 @@ Taking measures consists of two parts:
 
 * The attempts at preventing women getting in the situation that femicide might
   occur.
-* Dealing with the situations in which femicide potentially occur.
+* Dealing with the situations in which femicide potentially occurs.
 
 This piece of writing will be concerned with offering potential solutions and
 actions the author deems necessary to start ending femicide in at least The
 Netherlands.
-Furthermore it will explain to what extend the author holds Dutch citizens
+Furthermore, it will explain to what extent the author holds Dutch citizens
 accountable for the situation we have ended up in: Femicide happens far too
 often while experts claim there are explicit signs before femicide that should
-make it far more easier to prevent femicide than the statistics currently show
+make it far easier to prevent femicide than the statistics currently show
 us.
 
 ## Accountability of Dutch Citizens regarding Femicide
@@ -87,7 +87,7 @@ I haven't seen any society disrupting protests at the
 As a natural person, with your nose being pushed hard on the facts, don't you
 face the problem of starting to feel the need to ask for moral systems you can
 delegate your responsibility to, regarding acting against femicide? When does it
-become to much before you start acting? Does acting against femicide not first
+become too much before you start acting? Does acting against femicide not first
 of all come in the form of helping to evolve ideas? For example, the justice
 system has several roles:
 
@@ -120,17 +120,20 @@ only its own facticity, i.e., it "is" inside itself, and acts there as a
 limitation). For Sartre, this attitude is manifestly self-deceiving.
 ```
 
-But the situation is, that as a civilian of a democratic society as The
-Netherlands, you have a choice and are in control: Together with all civilians
+But the situation is that as a civilian of a democratic society as The
+Netherlands, you have a choice and are in control: Together with all civilians,
 you decide what laws govern the country and behavior of persons in the country.
-Laws can take people of the streets. People enter the situation that is public
+Laws can take people off of the streets. People enter the situation that is
+public
 space the moment they step out of their homes, or start engaging with society.
-And example of engaging with society and thus stepping in public space, is when
+And an example of engaging with society and thus stepping in public space, is
+when
 someone sends a text message to someone else. Or posts on social media, which,
 as the UK showed, is policeable.
 
-But exploring the choice of victimhood for citizens, where victim means you are
-with your back against the wall, and cannot do anything we can, first, take a
+But exploring the choice of victimhood for citizens, where being a victim means
+you are
+with your back against the wall, and cannot do anything. We can, first, take a
 look at the actual options every citizen has to take moral responsibility for
 the freedom one has.
 
@@ -164,7 +167,7 @@ democracy exists.
 Looking at what a legal system does: Laws that govern what one may and may not
 do, one can argue, that the legal system might be upgraded to the point that
 women are protected more. Within the current context of this writing, to what
-extend did civilians take responsibility regarding the options a legal system
+extent did civilians take responsibility regarding the options, a legal system
 offers to limit the freedom of women killers and abusers? Abuse in the form of:
 
 * Demanding sex
@@ -194,7 +197,7 @@ The conclusion is, that any civilian right now, can be asked a few questions:
 * What are you planning to do next?
 * Do you understand your civil duties as a participant in a democracy to the
   point that you believe that if anyone scrutinizes your actions, they believe
-  you acted not in bad faith? In other words: Can you legitimize your actions, 
+  you acted not in bad faith? In other words: Can you legitimize your actions,
   or can you be considered a mere consumer of society? (Reminding the author of
   the ending
   of [Ergens in de verte](https://nl.wikipedia.org/wiki/Youp_van_%27t_Hek): "Het
@@ -240,10 +243,10 @@ prevent civilians from taking justice into their own hands (doxing of judges,
 and therefore be protected), and stop participating in democratic processes.
 
 This dashboard also forces everyone to come together and actively partake in
-problem solving, instead of getting away with the bystander effect: "If
+problem-solving, instead of getting away with the bystander effect: "If
 everybody is responsible, nobody is responsible...". Not really: If everybody is
-responsible and it goes wrong, everybody is questioned and held accountable, all
-go to jail!
+responsible, and it goes wrong, everybody is questioned and held accountable,
+all go to jail!
 
 ## Preventing women getting in the situation of potential femicide
 
@@ -251,7 +254,7 @@ In the letter to all faculties of philosophy, psychology, organization of
 psychologists, organization of municipalities of the Netherlands and Theater
 School Utrecht,
 [I already indicated training for women](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/love-or-the-lack-thereof/proposal-conversation-facility-in-towns.md):
-Data buffers. So conversation can be one way of preventing women stepping in the 
+Data buffers. So conversation can be one way of preventing women stepping in the
 wrong situations with the wrong kind of men:
 
 * Walking anti-social personality disorders
