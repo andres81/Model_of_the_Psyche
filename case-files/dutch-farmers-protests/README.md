@@ -55,7 +55,7 @@ You now have to be careful that civil war practices don't come against you.
 When you get angry, upset, don't like how the Netherlands is operating, you
 start protesting the way you did. Your rhetoric being that you stand up for
 farmers. But where are you when it comes to the problems farmers are facing
-in Noord Brabant? Drugs criminals highjacking farms? Afraid then? I don't see
+in Noord Brabant? Drugs criminals hijacking farms? Afraid then? I don't see
 anyone on the
 [Malieveld](https://nl.wikipedia.org/wiki/Malieveld) then.
 What about femicide? Where are you protesting because things are going wrong in
