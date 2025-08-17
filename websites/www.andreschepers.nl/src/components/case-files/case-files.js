@@ -34,6 +34,12 @@ const CASE_FILES = [
         ,'heading': 'Dutch use of Information Technology'
         ,'subheading': 'Dutch society\'s apparent inability to protect its citizens'
     },{
+        'href': '#dutch-farmers-protests'
+        ,'image': 'assets//img/case-file/dutch-farmers-protests.jpg'
+        ,'imageSource': 'https://en.wikipedia.org/wiki/Dutch_farmers%27_protests#/media/File:Boerenprotest_2.jpg'
+        ,'heading': 'Dutch Farmers Protests'
+        ,'subheading': 'Raging Infants acting Undemocratic and Anti-societal'
+    },{
         'href': '#love-or-the-lack-thereof'
         ,'image': 'assets//img/case-file/Romeo_and_Juliet_(watercolour)_by_Ford_Maddox_Brown.jpg'
         ,'imageSource': 'https://en.wikipedia.org/wiki/Love#/media/File:Romeo_and_Juliet_(watercolour)_by_Ford_Maddox_Brown.jpg'
