@@ -27,10 +27,10 @@ think so!
 
 Going to the house of natural persons because they fulfill certain roles to make
 your point is, in my honest opinion, anti-democratic and dangerous. It
-communicates the wrong thing how to act towards a democrazy. You acted as if you
+communicates the wrong thing how to act towards a democracy. You acted as if you
 are merely subject to said system, being a victim. However, as a participant,
-you are also responsible for taking care of the democrazy and safeguarding it.
-Protecting it and fighting for democrazy in the Netherlands. Consuming, not
+you are also responsible for taking care of the democracy and safeguarding it.
+Protecting it and fighting for democracy in the Netherlands. Consuming, not
 providing, like... infants. This behavior I regard as spitting in the face of
 civilians that fought hard and work hard till this day protecting our freedoms
 and values we cherish so much. A big fat middle finger from farmers to us
@@ -65,9 +65,9 @@ your homes,
 [like you did](https://nl.wikipedia.org/wiki/Boerenprotesten_tegen_stikstofbeleid#Demonstraties_stikstofplannen_van_minister_Van_der_Wal_(2022))?
 You try that shit one more time, I promise you there will be no protection for
 what will happen then: You use civil war type actions against the people that
-work hard for our democrazy, just because you are having a bad day, I promise
+work hard for our democracy, just because you are having a bad day, I promise
 you it will be regarded as an act against The Netherlands by me. I have a civil
-duty to protect my country, our democrazy, and the civilians in The Netherlands.
+duty to protect my country, our democracy, and the civilians in The Netherlands.
 We can talk, if you choose not to, don't start crying when actions start being
 used against you, and you don't like it!
 Steps that will be taken then:

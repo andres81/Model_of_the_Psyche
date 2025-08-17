@@ -237,7 +237,7 @@ and/or discrimination in organizations:
   [psychological attitudes](https://en.wikipedia.org/wiki/Attitude_(psychology)),
   of which schemas form the foundation.
 
-This dashboard then can also help prevent civilians loosing trust in democrazy,
+This dashboard then can also help prevent civilians loosing trust in democracy,
 prevent civilians from taking justice into their own hands (doxing of judges,
 [judges need to be able to do their job](https://www.nvvr.org/dossiers/rechtsstaat/)
 and therefore be protected), and stop participating in democratic processes.
