@@ -95,6 +95,15 @@ to blame for this harmful behavior in the first place! Attack them with guilt
 blaming and other psychological warfare techniques! Then I at least feel good
 again, and that is important now..."*__
 
+people forget that society might be in need of a more effective approach, namely
+developing a new moral system in addition to the justice system: A system that
+prevents non-complying human beings to partake in society to begin with. Like
+earning a driver's license, you are taken from the equation until you proof
+proactively, not reactively, that you will behave according to the agreements
+made and we have in society. But does that not already exist? Don't I need a
+visa if I wish to visit the USA for example? Or other civilians to visit The
+Netherlands?
+
 # The necessity for the right to protest
 
 # The necessity for free press
