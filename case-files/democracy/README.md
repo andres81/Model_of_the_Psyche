@@ -104,6 +104,21 @@ made and we have in society. But does that not already exist? Don't I need a
 visa if I wish to visit the USA for example? Or other civilians to visit The
 Netherlands?
 
+__*Women are not alone responsible for the safety of women!*__
+
+Exactly! Very good! We, as citizens of The Netherlands or any other democracy,
+are áll responsible for the safety and wellbeing of everybody in our society.
+That means all women together with áll other civilians together are responsible.
+And by using moral systems we delegate in part the responsibility of protection
+to, we are effective at protecting. We do this without:
+
+* (social) exclusion
+* _"[In colloquial usage, the term demonization is used metaphorically to refer to
+  propaganda or moral panic directed against any individual or group, for the
+  purpose of defamation, character assassination and/or dehumanization.](https://en.wikipedia.org/wiki/Demonization#Modern_usage)"_
+* Earning social credit in the context of (a) perceived social group(s) with the
+  possible goala of earning social credit and/or financial profit.
+
 # The necessity for the right to protest
 
 # The necessity for free press
