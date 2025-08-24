@@ -25,11 +25,36 @@ them happy for a lifetime, not just for one hour of fake subjective joy.
 
 # What is love?
 
-
-
 ## Biological
 
 ## Practical
+
+What if society somehow programs women, to favor certain
+[personality types](https://en.wikipedia.org/wiki/Personality_type)
+([Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator))
+over others? And women experience this in the form of the emotions that
+interacting with certain personality types gives them? "Listen to your heart!"
+is then a terrible choice of advice to give a woman! If instead, the right
+advice would be, to at least go on three dates, and if after that you still not
+feel something for that man, only then move on. And in addition, try different
+conversation styles? What set of instructions do we need to give women to help
+them make a good and more importantly safe (danger of
+[femicide](https://en.wikipedia.org/wiki/Femicide),
+[domestic abuse](https://en.wikipedia.org/wiki/Domestic_violence)
+, etc...) choice?
+We could call this: Personality type compatibility. If women by programming only
+favor four out of 16 personality types for example, then it is bound to happen
+that women with a certain personality type, end up with experiences with men
+having only those four personality types and never having experienced man with
+compatible personality types.
+
+What if on top of that, men with one of the 12 other types, start acting like
+the ones women favor? And women do the same in regard to what they perceive
+as what men favor? But maybe men only show preference for certain personality
+types in women because that is part of pretending to be another type than they
+really are... keeping up reader? It becomes a mess with people fooling
+themselves and never being truly happy in love, in relationships (also
+friendships).
 
 ## Psychological
 
@@ -68,8 +93,6 @@ In other words: How important is this culture, and to what extent can this
 shared culture between two people differ from the personal convictions of the
 individuals partaking in this relationship?
 
-
-
 ## Self-actualisation
 
 ## How to find the right person
@@ -102,11 +125,11 @@ The concrete things to know about one self, are at least:
 
 * Inner, deepest convictions regarding certain aspects of life:
 
-  * Politics
-  * Society
-  * Relationships (roles, having children, how to love, what to receive)
-  * Religion
-  * Ideology
+    * Politics
+    * Society
+    * Relationships (roles, having children, how to love, what to receive)
+    * Religion
+    * Ideology
 
 * What talents one has
 * Career to pursue
@@ -194,7 +217,7 @@ conversation progresses, he can help her verbalise her points, showing to her
 she potentially has a good point, what that is instead of experiencing it
 herself subjectively only, and therefore moving towards a more positive
 self-image, a confidence boost. Due to the situation, her trusting her
-conversation partner, talking with someone rational, like men tend to be, 
+conversation partner, talking with someone rational, like men tend to be,
 moving towards sharing deeper convictions, those convictions being verbalised
 and made concrete, she becomes more self-aware, more confident in her own
 thinking, partaking in engagements with each other, and aware of what she really
