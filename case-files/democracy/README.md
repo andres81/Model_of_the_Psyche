@@ -109,6 +109,8 @@ __*Women are not alone responsible for the safety of women!*__
 Exactly! Very good! We, as citizens of The Netherlands or any other democracy,
 are áll responsible for the safety and wellbeing of everybody in our society.
 That means all women together with áll other civilians together are responsible.
+[Not only women are a target, also men, homosexuals, random human beings on the
+streets at night.](https://www.youtube.com/watch?v=aZybcsyiKGw)
 And by using moral systems we delegate in part the responsibility of protection
 to, we are effective at protecting. We do this without:
 
