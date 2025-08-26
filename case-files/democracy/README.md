@@ -15,6 +15,12 @@
 
 # Introduction
 
+# The Government
+
+## Sources
+
+* https://www.rtl.nl/nieuws/politiek/video/e82394de-bf14-48c8-8bcf-7ccea7666b1b/getergde-schoof-onverantwoord-dat-nsc
+
 # The legal system
 
 * https://www.uscourts.gov/educational-resources/educational-activities/overview-rule-law
@@ -51,6 +57,7 @@ in itself?
 ## Sources
 
 * https://www.rtl.nl/nieuws/binnenland/artikel/5524773/moord-op-lisa-maakt-tongen-los-op-social-media-voed-jullie-zonen
+* https://www.vandaaginside.nl/uitzendingen/vandaag-inside/lEdqEuHU7Yb
 
 __*"Discrimination against certain (social) groups in society (men,
 religious/ethnic/cultural groups, women), is allowed when it is done in order to
