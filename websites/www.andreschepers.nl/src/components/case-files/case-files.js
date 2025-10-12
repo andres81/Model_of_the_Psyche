@@ -16,6 +16,12 @@
 
 const CASE_FILES = [
     {
+        'href': '#the-end-of-anti-human-ideologies'
+        ,'image': 'assets//img/case-file/human-rights-logo.jpg'
+        ,'imageSource': 'https://www.humanrightslogo.net/en/download'
+        ,'heading': 'The End of Anti-Human Ideologies'
+        ,'subheading': 'Unifying the attempts of separate agents fighting undesired thermodynamic processes'
+    },{
         'href': '#organization-for-the-protection-of-natural-persons'
         ,'image': 'assets//img/case-file/Mstr_dArtagnan.jpg'
         ,'imageSource': 'https://nl.wikipedia.org/wiki/Charles_de_Batz_de_Castelmore#/media/Bestand:Mstr_dArtagnan.jpg'
