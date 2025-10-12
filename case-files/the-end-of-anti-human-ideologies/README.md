@@ -1,5 +1,7 @@
 # The End of Anti-Human Ideologies
 
+## An Introduction
+
 An ideology,
 a ["coherent system of ideas"](https://en.wikipedia.org/wiki/Ideology#Definitions_and_analysis),
 depending on the context the term is used, can be interpreted in different ways.
@@ -107,3 +109,17 @@ the artificially created absence of the fauna that was removed.
     rules dictating the boundaries of behavior, of which one wishes they are
     laws that apply to everyone (Kant something...).
 
+A very difficult example to digest is the situation one can find themselves in,
+in which the choice can be made to destroy humankind, because humankind
+threatens to destroy all life on earth. "You mean climate change? Earth can
+handle that..., AI? Earth can handle that too...". No, none of the above, im
+talking about
+[mirror life](https://en.wikipedia.org/wiki/Mirror_life).
+Pure nightmare fuel.
+In that case one kills humankind, to safe life on Earth. But would you want to
+be that person?
+Ending humankind then is perfectly in line with the will of the universe:
+Creating life and having it evolve. But who is going to understand you ending
+humanity if they have no clue at all something called mirror life is the reason?
+
+## Let us begin...
