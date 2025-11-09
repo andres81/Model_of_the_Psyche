@@ -9,6 +9,9 @@
 * https://www.omroepbrabant.nl/nieuws/4133733/politiebond-geirriteerd-over-vervolging-waterkanonagent-verkeerd-signaal
 * https://www.rtlnieuws.nl/nieuws/nederland/artikel/5327193/agent-vervolgt-voor-spuiten-vrouw-met-waterkanon-rellen-eindhoven
 * https://www.amnesty.nl/vijf-vragen-over-de-inzet-van-het-waterkanon-bij-vreedzame-demonstraties
+* https://www.rtl.nl/nieuws/artikel/5465102/eindhoven-avondklokrollen-politie-politieagent
+* https://www.rtl.nl/nieuws/nederland/artikel/5327193/agent-vervolgt-voor-spuiten-vrouw-met-waterkanon-rellen-eindhoven
+* https://www.rtl.nl/rtl-nieuws/artikel/5327086/politiebond-geirriteerd-over-vervolging-agente-van-waterkanon
 
 ## Introduction
 
