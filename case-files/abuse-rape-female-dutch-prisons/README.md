@@ -21,6 +21,7 @@
 * https://www.inspectie-jenv.nl/Publicaties/reacties-op-wederhoor/2023/05/31/reactie-wederhoortabel-onderzoek-pi-nieuwersluis
 * https://www.inspectie-jenv.nl/actueel/nieuws/2023/05/31/seksueel-grensoverschrijdend-gedrag-in-vrouweninrichting-nieuwersluis
 * https://www.inspectie-jenv.nl/Publicaties/rapporten/2013/10/02/pi-utrecht-nieuwersluis
+* https://www.universiteitleiden.nl/nieuws/2025/02/vrouwengevangenissen-moeten-veiliger
 
 ## Introduction
 
