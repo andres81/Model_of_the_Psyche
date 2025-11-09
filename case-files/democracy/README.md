@@ -21,6 +21,14 @@
 
 * https://www.rtl.nl/nieuws/politiek/video/e82394de-bf14-48c8-8bcf-7ccea7666b1b/getergde-schoof-onverantwoord-dat-nsc
 
+# Trias Politica
+
+## Public Prosecution Service
+
+### Jan Roos' arrest 29 November 2024
+
+See [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/democracy/OM-Public-Prosecution-Service/Jan-Roos-29-11-2024.md).
+
 # The legal system
 
 * https://www.uscourts.gov/educational-resources/educational-activities/overview-rule-law
