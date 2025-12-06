@@ -148,6 +148,47 @@ others perceive it as a social situation, or a projected on to others one.
 
 ---
 
+Sources:
+
+* [Social relation](https://en.wikipedia.org/wiki/Social_relation)
+* [Socializing: the activity of spending time when you are not working with friends or with other people in order to enjoy yourself](https://dictionary.cambridge.org/dictionary/english/socializing)
+* [Socialization](https://en.wikipedia.org/wiki/Socialization)
+
+Don't reward bad convictions. In general true. But isn't it a bad conviction to
+think socializing is a necessity to be accepted in society? Socializing with
+complete strangers, in which those strangers in part if not completely, dictate
+the rules of engagement if it comes to how to socialize with each other? With
+the authority of society that will convict you of socially excluding the other
+person if you don't abide by their rules. If a large group, up to the level of a
+whole country regards the situation as one big social group, in which you need
+to socialize with each other, don't you get a forced social dynamic that people
+become subjected to? And is that not toxic in itself? Isn't one of the most
+important social defenses the act of leaving the situation? But if you can't
+escape... [Huis Close](https://en.wikipedia.org/wiki/No_Exit) time! People might
+revert to [Game Theory](https://en.wikipedia.org/wiki/Game_theory), explained
+very well by [the youtube](https://www.youtube.com/watch?v=mScpHTIi-kM), but
+that might cause people to give up individuality, forced at times! That is the
+opposite of what you want in a democrazy, because now you have an opportunity to
+weaponize the perception of the members of a group of people, lets say a
+country, that the situation is a social one in nature, to take control. One way
+is to manipulate voters to vote a certain way.
+Another goal, is to exterminate an entire group (in- and outgroup dynamics: "The
+Jews are bad, and toxic to society and therefore we remove them!").
+The only way out, is to choose not to socialize implicitly, but be invited or
+invite someone else to an explicitly defined and chosen social situation created
+by the members that were explicitly invited and chose explicitly willingly and
+intentionally to partake in said social situation. All else fails to allow one
+to be fully responsible for the consequences of non-controlled social
+situations.
+
+if in the work place, otherwise "you are not a team player, therefore, as a
+judge, I allow the employer to fire you", people can be effectively abused, for
+sometimes the mere purpose of sadistic pleasure.
+
+[Socialization is closely linked to developmental psychology and behaviorism.[4] Humans need social experiences to learn their culture and to survive.[5]](https://en.wikipedia.org/wiki/Socialization)
+
+---
+
 I keep fantasizing about Joe Rogan announcing, one day, that beautiful
 unforgettable
 moment, that dr. Peterson is going to have his own Netflix standup special...
