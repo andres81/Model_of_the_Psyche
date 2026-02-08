@@ -23,6 +23,12 @@
 
 # Trias Politica
 
+## Police
+
+### Police incident onder Bollendak: Police officer vs two women
+
+See [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/democracy/police_incident_onder_Bollendak/police_incident_onder_Bollendak.md)
+
 ## Public Prosecution Service
 
 ### Jan Roos' arrest 29 November 2024
