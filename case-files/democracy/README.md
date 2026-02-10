@@ -25,6 +25,10 @@
 
 ## Police
 
+### Police ME using excessive force against supporters of the match between Feyenoord and FC Utrecht
+
+See [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/democracy/police_me_soccer_supporters_utrecht/police_me_soccer_supporters_utrecht.md)
+
 ### Police incident onder Bollendak: Police officer vs two women
 
 See [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/democracy/police_incident_onder_Bollendak/police_incident_onder_Bollendak.md)
