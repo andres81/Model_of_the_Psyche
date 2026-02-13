@@ -242,3 +242,4 @@ dynamics of a democracy.
 * https://www.youtube.com/shorts/NP4XmkmdMuo
 * https://nos.nl/artikel/2601652-buitensporig-of-juist-gepast-opnieuw-discussie-over-politiegeweld
 * https://www.politie.nl/informatie/hoe-wordt-geweldgebruik-van-de-politie-beoordeeld.html
+* 7 Feb 2026, https://www.youtube.com/shorts/X3Lhk0LY79g
