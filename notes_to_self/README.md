@@ -7,6 +7,31 @@
 
 <p>Until the mechanisms that were exploited have been fully described and dealt with in the form of obtaining wisdom how to prevent exploitation in the future again, and that wisdom is anchored in culture, we are not done. Only when one can be certain that if that wisdom would have been available and used in the 30s of the 20st century and would have prevented the WWII, then and only then, can one move on from learning from the past. Any other thing would be an insult to the victims of the WWII.</p>
 <p>Like a virus, an ideology takes over a host moral system, and starts using it for its own purposes. People can be infected as can moral systems, by way of changing the inner moral and convictions. Outside control mechanisms should be in place to prevent spreading and contamination. Clearly defined output and behavior should be expected and proactively defined, as to have a metrology available to check deviations and early signs of deviation from normal operation. Ethics should be checked to what extend persons are controlled: When acting according to role descriptions, the persons behavior should be checked, not the inner convictions: One does not have to like their job, nor agree fully with why things are done the way they are. Through a democratic process at the level of the nation things are decided and checked, ideas evolved.</p>
+
+<p>
+
+What moral systems can be distinguished outside a person: A family? A
+household? And organization? The workfloor? Who is responsible for the safety
+and protecting the human rights of civilians within the context?
+What is the context? If society is the context, for the simple reason of the
+benefits of organizing yourselfs as a group of individuals, then through a
+democratic process of deciding how things are done, the concept of a set
+of ideologies, the moral obligation of protecting others can be delegated to
+outside the person and to the group that is more powerful than merely one
+individual.
+
+What is the morality of deciding how much freedom a subcontext within society
+gets if it comes to how individuals are treated?
+
+If an individual can be seen as a moral system, and a moral system can become
+corrupted, moral obligations can not be delegated to individuals without
+prejudice nor with full trust to carry out the duties belonging to those moral
+duties: Adolf Hitler asking for full trust and taking over Germany.
+
+</p>
+
+
+
 </td></tr>
 
 <tr><td >

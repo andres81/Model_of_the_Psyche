@@ -23,6 +23,8 @@
 
 # Trias Politica
 
+## Proposal Architecture Moral System BOA
+
 ## NS Boa's Maastricht train station situation
 
 See [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/democracy/maastricht-train-station-ns-boa-incident/maastricht-train-station-ns-boa-incident.md)
