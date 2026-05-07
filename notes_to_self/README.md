@@ -1,8 +1,12 @@
 # Notes to self
 
-<table border="0" cellspacing="0" cellpadding="0" class="table-ta1"><td>
-<p>18/02/26</p>
-</td><td style="text-align:left;width:20.158cm; " class="cell-ce9">
+<table>
+
+
+<td>
+    <p>18/02/26</p>
+</td>
+<td style="text-align:left;width:20.158cm; " class="cell-ce9">
 <p>The WWII isn’t over until the evil ideologies responsible for it are defeated. Unlike a virus, that after mutation can make someone ill again, a moral system can become immune from an evil ideology and its mutations. Where the virus depends on the same mechanism to infect, and the cell its architecture doesn’t change, the mechanism exploited to infect a moral system, that remains the same between mutations of an ideology, cán be changed and updated by the ones responsible for it.</p>
 
 <p>Until the mechanisms that were exploited have been fully described and dealt with in the form of obtaining wisdom how to prevent exploitation in the future again, and that wisdom is anchored in culture, we are not done. Only when one can be certain that if that wisdom would have been available and used in the 30s of the 20st century and would have prevented the WWII, then and only then, can one move on from learning from the past. Any other thing would be an insult to the victims of the WWII.</p>
