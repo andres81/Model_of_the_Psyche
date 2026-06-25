@@ -10,7 +10,7 @@ unacceptable. At work being fat shamed, targeted with passive-aggressive
 behavior and innuendo, being burglarized and what not. Witnesses of me being
 bullied and abused, because of being a witness, were subject to psychological
 and emotional damage subsequently. Where was my protection? It shows again that
-the moral systems like police and the legalsystem, and even society itself, or
+the moral systems like police and the legal system, and even society itself, or
 not protecting to the point I as a citizen feel I have done morally everything
 possible to prevent violations of human rights in western society. The police
 force, the legal system, the government are all
@@ -47,11 +47,29 @@ and the
 [Eindhoven water canon incident](https://andreschepers.nl/#water-cannon-incident)
 it is time to take measures.
 
-Taking measures consists of two parts:
+Taking measures consists of several parts:
 
 * The attempts at preventing women getting in the situation that femicide might
   occur.
+    * Help self-actualize. Working on this
+      [here](https://www.the-self-actualization-project.com).
+    * Do an intervention that in part will be a counter-insurgency operation
+      (due to the religious ideologies present in The Netherlands): A new
+      training pipeline for women between 18–24 years of age.
+      * Training in conversation types
+      * Training in red flags in men
+      * Training in self-defense
+      * Offer help from dedicated organizations against aggressive 
+        individuals and organizations that act upon religious ideologies or 
+        psychopathology. Zero tolerance!
 * Dealing with the situations in which femicide potentially occurs.
+    * Help line so direct intervention can take place
+    * Society immediately intervenes after, for example, a woman goes to medical
+      care.
+      See [here](https://www.youtube.com/shorts/LrdtTKeVaRo).
+    * Exit points for women that fear for their life: Safe houses and 
+      interventions teams against men that are delirious, psychotic, violent.
+      Not only police but societal help groups. Men helping women.
 
 This piece of writing will be concerned with offering potential solutions and
 actions the author deems necessary to start ending femicide in at least The
