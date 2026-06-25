@@ -56,18 +56,19 @@ Taking measures consists of several parts:
     * Do an intervention that in part will be a counter-insurgency operation
       (due to the religious ideologies present in The Netherlands): A new
       training pipeline for women between 18–24 years of age.
-      * Training in conversation types
-      * Training in red flags in men
-      * Training in self-defense
-      * Offer help from dedicated organizations against aggressive 
-        individuals and organizations that act upon religious ideologies or 
-        psychopathology. Zero tolerance!
+        * Training in conversation types
+        * Training in red flags in men
+        * Training in self-defense
+
 * Dealing with the situations in which femicide potentially occurs.
     * Help line so direct intervention can take place
     * Society immediately intervenes after, for example, a woman goes to medical
       care.
       See [here](https://www.youtube.com/shorts/LrdtTKeVaRo).
-    * Exit points for women that fear for their life: Safe houses and 
+    * Offer help from dedicated organizations against aggressive
+      individuals and organizations that act upon religious ideologies or
+      psychopathology. Zero tolerance!
+    * Exit points for women that fear for their life: Safe houses and
       interventions teams against men that are delirious, psychotic, violent.
       Not only police but societal help groups. Men helping women.
 
