@@ -32,6 +32,7 @@ Think of this conceptual organization protect victims of:
 * (Sexual) abuse of minors
 * Human trafficking
 * Sexploitation
+* Police violence
 
 ## [(Sexual) abuse of minors](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/README.md)
 
@@ -40,3 +41,9 @@ Think of this conceptual organization protect victims of:
 #### [Dutch Kickboxer Anne](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/dutch_kickboxer_Anne.md)
 #### [Pleegmeisje Vlaardingen](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/pleegmeisje_vlaardingen.md)
 #### [Tara (12) Sailing accident](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/Tara_12_Sailing_accident.md)
+
+## Police violence
+
+### Real world examples
+
+#### [AZC Zeist pregnant woman](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/police_violence/azc_Zeist_pregnant_woman.md)
