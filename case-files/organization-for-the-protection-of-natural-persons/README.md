@@ -10,9 +10,6 @@
 
 ## Sources
 
-* https://www.youtube.com/watch?v=U_3iUzkd4No
-* https://www.youtube.com/watch?v=H4FBH_uec-M
-* https://www.youtube.com/watch?v=raefhoaKxR8
 
 ## Introduction
 
@@ -32,4 +29,10 @@ Think of this conceptual organization protect victims of:
 * Dutch childcare benefits scandal
 * Femicide
 * Eindhoven water canon incident
-* 
+* (Sexual) abuse of minors
+* Human trafficking
+* Sexploitation
+
+## (Sexual) abuse of minors
+
+### [Dutch Kickboxer Anne](https://www.github.com/andres81)

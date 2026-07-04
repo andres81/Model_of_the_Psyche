@@ -1,6 +1,15 @@
 # Notes to self
 
+### 4 July 2026
+
+
+
+
+
+### Table format
+
 <table>
+
 
 
 <td>
@@ -15,10 +24,10 @@
 <p>
 
 What moral systems can be distinguished outside a person: A family? A
-household? And organization? The workfloor? Who is responsible for the safety
+household? And organization? The workplace? Who is responsible for the safety
 and protecting the human rights of civilians within the context?
 What is the context? If society is the context, for the simple reason of the
-benefits of organizing yourselfs as a group of individuals, then through a
+benefits of organizing yourselves as a group of individuals, then through a
 democratic process of deciding how things are done, the concept of a set
 of ideologies, the moral obligation of protecting others can be delegated to
 outside the person and to the group that is more powerful than merely one
@@ -61,7 +70,7 @@ duties: Adolf Hitler asking for full trust and taking over Germany.
 </td></tr><tr class="row-ro6"><td >
 <p>01/02/26</p>
 </td><td style="text-align:left;width:20.158cm; " class="cell-ce5">
-<p>Societal respo sibility to oversee what goes wrong at the workfloor. Arbeidsinspectie moet gebruikt worden anders een ander of nieuw moreel systeem zodat er adequaat ingegrepen kan worden.Mensen zijj onderdeel van het handhabings systeem </p>
+<p>Societal respo sibility to oversee what goes wrong at the workplace. Arbeidsinspectie moet gebruikt worden anders een ander of nieuw moreel systeem zodat er adequaat ingegrepen kan worden.Mensen zijj onderdeel van het handhabings systeem </p>
 </td></tr><tr class="row-ro7"><td >
 <p>01/02/26</p>
 </td><td style="text-align:left;width:20.158cm; " class="cell-ce5">
