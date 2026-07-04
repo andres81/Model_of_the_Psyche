@@ -42,7 +42,7 @@ Think of this conceptual organization protect victims of:
 #### [Pleegmeisje Vlaardingen](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/pleegmeisje_vlaardingen.md)
 #### [Tara (12) Sailing accident](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/Tara_12_Sailing_accident.md)
 
-<br /><br />
+<br /><br /><hr />
 
 ## Police violence
 
