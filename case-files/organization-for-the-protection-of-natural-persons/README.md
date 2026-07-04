@@ -35,4 +35,6 @@ Think of this conceptual organization protect victims of:
 
 ## [(Sexual) abuse of minors](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/README.md)
 
-### [Dutch Kickboxer Anne](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/dutch_kickboxer_Anne.md)
+### Real world examples
+
+#### [Dutch Kickboxer Anne](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/dutch_kickboxer_Anne.md)
