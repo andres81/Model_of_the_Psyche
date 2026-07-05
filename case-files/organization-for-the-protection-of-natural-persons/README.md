@@ -56,7 +56,8 @@ The certification trains a worker what dangerous ways of working, situations
 and circumstances are to be able to recognize them and how to act on them.
 
 But if this is the functionality that is required and
-given by this method, why not reuse this method in the protection of minors?
+given by this method, why not reuse this method in the protection of natural 
+persons?
 That we subsequently call: Veiligheid en Gezondheid Checklist Burgers
 (VCB) (Safety and Health Checklist Civilians)?
 
