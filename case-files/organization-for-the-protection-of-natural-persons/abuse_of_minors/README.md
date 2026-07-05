@@ -12,10 +12,14 @@
 ## Introduction
 
 Looking at the state of society and the necessity of huge groups of people
-to choose to abuse minors, whether physically or sexually or both, it is
+to choose to abuse minors, whether physically or sexually or both, and the 
+lack of responsibility being taken when it comes to protection, the failing 
+youth care, finger pointing, "sorry-culture", and hiding behind victimhood 
+of the object that we find ourselves to be, it is
 necessary to take back control and get to the point of near 100% effective
 protection of minors, the most vulnerable in society. No more discussions,
-but actions with measurable effects and results.
+but actions with measurable effects and results. Reminding people they are 
+doomed to freedom, therefore, 100% responsible for their actions and choices.
 
 ## Real world examples
 
