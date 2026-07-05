@@ -105,6 +105,8 @@ of room for interpretation of the regulations, the agencies are not
 well-equipped for their task, and the skippers and owners are not sufficiently
 aware of their responsibility."
 
+### Role of the highschool Dalton in The Hague
+
 #### [School organiseert al dertig jaar werkweken op charterschepen](https://www.nu.nl/binnenland/6221290/haagse-school-in-rouw-om-twaalfjarige-leerling-die-overleed-toen-giek-afbrak.html)
 
 ```
