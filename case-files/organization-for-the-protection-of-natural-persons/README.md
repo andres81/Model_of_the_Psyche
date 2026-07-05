@@ -61,7 +61,7 @@ persons?
 That we subsequently call: Veiligheid en Gezondheid Checklist Burgers
 (VCB) (Safety and Health Checklist Civilians)?
 
-## [(Sexual) abuse of minors](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/README.md)
+## [(Sexual) abuse of, and lack of protection for minors](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/README.md)
 
 ### Real world examples
 
