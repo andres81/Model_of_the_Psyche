@@ -1,4 +1,4 @@
-# (Sexual) abuse of minors - Dutch kickboxer Anne
+# (Sexual) abuse of, and lack of protection for minors - Dutch kickboxer Anne
 
 ## Table of Contents
 

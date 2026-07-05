@@ -1,4 +1,4 @@
-# (Sexual) abuse of minors - Tara (12) Sailing accident
+# (Sexual) abuse of, and lack of protection for minors - Tara (12) Sailing accident
 
 ## Table of Contents
 
@@ -29,6 +29,8 @@
 * [Taakstraf voor schipper om giekbreuk waardoor Tara (12) overleed](https://www.rtl.nl/nieuws/artikel/5424359/celstraf-eis-tara-schipper-giekbreuk-12-overleden)
 * [Doden door vallen giek: betere controle historische zeilschepen nodig](https://www.rtl.nl/nieuws/artikel/5409933/onderzoeksraad-dodelijk-zeilongeluk-terschelling-tara)
 * [Tara (12) verongelukte op zeilboot: rechtszaak tegen schipper van start](https://www.rtl.nl/nieuws/artikel/5420218/tara-12-verongelukte-op-zeilboot-rechtszaak-tegen-schipper-van-start)
+* ['Passagiers zijn niet veilig op historische zeilschepen'](https://www.rtl.nl/nieuws/nederland/artikel/1861/passagiers-zijn-niet-veilig-op-historische-zeilschepen)
+* [Onderzoek giekbreuk waardoor 12-jarige omkwam: wéér is houtrot oorzaak](https://www.rtl.nl/nieuws/nederland/artikel/5332178/onderzoeksraad-fatale-giekbreuk-kwam-door-houtrot)
 * [Haar helderblauwe ogen, starend in het niets, vergeet ik nooit meer](https://www.knrm.nl/blog/achteraf/haar-helderblauwe-ogen-starend-in-het-niets-vergeet-ik-nooit-meer)
 
 ## Introduction
@@ -39,18 +41,18 @@ with the use of proper systems and procedures to protect our children. There are
 tons of safety and health regulations in the Netherlands. Anchored in the
 Netherlands, in the form of laws and regulations. Take the
 [Stichting Koninklijk Nederlands Normalisatie Instituut](https://www.nen.nl/en/over-nen)
-for example. If you enter a home, a building, or any place for that matter 
-where electricity is available, you can be sure that the place is safe due 
-to countless inspections having taken place. It is even punishable by law 
+for example. If you enter a home, a building, or any place for that matter
+where electricity is available, you can be sure that the place is safe due
+to countless inspections having taken place. It is even punishable by law
 if this has not been done.
 
 But what about any situation we allow parties we delegate the responsibility to
-of safeguarding our children to put our children in? Like a sailing camp? 
-Did the school do their due diligence of checking for safety concerns? 
-Looking at all the news, enough was known about the safety hazards, the 
-risks of going on one of the boats of the "Brown Fleet". Was the research 
-even done? Do high schools trust environments blindly? Do we want to accept 
-this as a society? Or should we enforce procedures onto high schools to 
+of safeguarding our children to put our children in? Like a sailing camp?
+Did the school do their due diligence of checking for safety concerns?
+Looking at all the news, enough was known about the safety hazards, the
+risks of going on one of the boats of the "Brown Fleet". Was the research
+even done? Do high schools trust environments blindly? Do we want to accept
+this as a society? Or should we enforce procedures onto high schools to
 prevent situations like the sailing accident?
 
 ## Research
@@ -100,5 +102,35 @@ concludes after examination. The Human Environment and Transport
 Inspectorate (ILT) is responsible for the supervision of historic sailing
 ships, but in reality this is outsourced to inspection agencies. "There is a lot
 of room for interpretation of the regulations, the agencies are not
-well-equipped for their task, and the skippers and owners are not sufficiently 
+well-equipped for their task, and the skippers and owners are not sufficiently
 aware of their responsibility."
+
+#### [School organiseert al dertig jaar werkweken op charterschepen](https://www.nu.nl/binnenland/6221290/haagse-school-in-rouw-om-twaalfjarige-leerling-die-overleed-toen-giek-afbrak.html)
+
+```
+Dalton Den Haag organiseert al dertig
+jaar werkweken aan boord van charterschepen
+van de bruine vloot, vertelde de rector.
+"Zo'n week is bedoeld voor teambuilding,
+kennismaking. Gisteren was het voor het
+eerst dat er iets misging." Dit jaar voeren
+er zeven schepen met scholieren.
+```
+
+##### Translation:
+
+Dalton The Hague has been organizing working weeks on board charter ships of the
+brown fleet for thirty years, the rector said. "Such a week is intended for team
+building, getting to know each other. Yesterday was the first time that
+something went wrong." This year, seven ships with students sailed.
+
+##### Discussion
+
+My question then is: What did you try to say with this? Did you try to say 
+we are not to blame? We did all we could to safeguard the children? It never 
+happened before, so what could we have expected?
+
+The point to make here is: It might have never happened during a workweek 
+before, but it díd happen before with the "Brown Fleet"! Accident after 
+accident, report after report that something was terribly wrong with these 
+sailboats with deadly consequences.

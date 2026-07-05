@@ -1,4 +1,4 @@
-# (Sexual) abuse of minors - Pleegmeisje Vlaardingen
+# (Sexual) abuse of, and lack of protection for minors - Pleegmeisje Vlaardingen
 
 ## Table of Contents
 

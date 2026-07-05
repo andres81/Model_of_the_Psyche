@@ -95,7 +95,16 @@ work!*__
 ## Society: Implicit concept or explicit functional construct
 
 Now what about society? Everybody knows, we have something called and vaguely
-described as society. 
+described as society.
+
+Society uses moral systems to delegate responsibility to like the legal 
+system, health care system and so on.
+
+In general, checking, maintaining and designing new moral systems should be
+the subject of an activity in the domain of societal system engineering.
+System engineering, as it is taught at MIT, focused on societal systems,
+using social philosophy and the newest insights in (social / general)
+psychology.
 
 ## The Morality of the Social situation and the lack of choice not to partake in it
 
