@@ -7,6 +7,7 @@
 
 ## Sources
 
+* [Ongeluk met schip waarbij scholiere omkwam 'geen incident meer' voor burgemeester](https://www.omroepwest.nl/nieuws/4619406/ongeluk-met-schip-waarbij-scholiere-omkwam-geen-incident-meer-voor-burgemeester)
 * [Bij zeilongeluk omgekomen Tara (12) was 'levenslustig, sociaal en zelfstandig'](https://www.omroepwest.nl/nieuws/4619485/bij-zeilongeluk-omgekomen-tara-12-was-levenslustig-sociaal-en-zelfstandig)
 * [12-jarige Tara omgekomen bij zeilongeluk op Waddenzee - OMROEP WEST](https://www.youtube.com/watch?v=uW_v3HYvDXA)
 * [Schipper zeilboot strafrechtelijk vervolgd voor dood 12-jarige scholiere](https://www.omroepwest.nl/nieuws/4762901/schipper-zeilboot-strafrechtelijk-vervolgd-voor-dood-12-jarige-scholiere)
@@ -31,3 +32,71 @@
 * [Haar helderblauwe ogen, starend in het niets, vergeet ik nooit meer](https://www.knrm.nl/blog/achteraf/haar-helderblauwe-ogen-starend-in-het-niets-vergeet-ik-nooit-meer)
 
 ## Introduction
+
+Our children, of us, society, are our responsibility. We have a
+responsibility to keep them safe and healthy. This starts with us and ends
+with the use of proper systems and procedures to protect our children. There are
+tons of safety and health regulations in the Netherlands. Anchored in the
+Netherlands, in the form of laws and regulations. Take the
+[Stichting Koninklijk Nederlands Normalisatie Instituut](https://www.nen.nl/en/over-nen)
+for example. If you enter a home, a building, or any place for that matter 
+where electricity is available, you can be sure that the place is safe due 
+to countless inspections having taken place. It is even punishable by law 
+if this has not been done.
+
+But what about any situation we allow parties we delegate the responsibility to
+of safeguarding our children to put our children in? Like a sailing camp? 
+Did the school do their due diligence of checking for safety concerns? 
+Looking at all the news, enough was known about the safety hazards, the 
+risks of going on one of the boats of the "Brown Fleet". Was the research 
+even done? Do high schools trust environments blindly? Do we want to accept 
+this as a society? Or should we enforce procedures onto high schools to 
+prevent situations like the sailing accident?
+
+## Research
+
+### Role of Inspectie Leefomgeving en Transport (ILT)
+
+#### [ILT not capable of doing oversight](https://www.omroepwest.nl/nieuws/4619406/ongeluk-met-schip-waarbij-scholiere-omkwam-geen-incident-meer-voor-burgemeester)
+
+```
+Als gevolg van het ongeluk met de Amicitia stelde de Onderzoeksraad voor
+Veiligheid (OvV) een onderzoek in. In 2017 bracht de raad een vernietigend
+rapport uit. Daarin werd niet alleen de sector zelf ernstig werd bekritiseerd,
+maar ook de Inspectie voor Leefomgeving en Transport (ILT), het toezichthoudend
+orgaan boven de sector. 'De Raad stelt vast dat kennis van deze sector niet
+aanwezig is binnen de inspectie, waardoor deze dienst ook niet in staat is
+toezicht te houden op de bruine vloot.'
+```
+
+##### Translation:
+
+As a result of the accident with the Amicitia, the Safety Board proposed
+Safety (OvV) started an investigation. In 2017, the council released a
+devastating report. It not only severely criticized the sector itself, but also
+the Human Environment and Transport Inspectorate (ILT), the supervisory body
+above the sector. 'The Board notes that knowledge of this sector is not
+present within the inspectorate, which means that this service is also unable to
+supervise the brown fleet.'
+
+#### [Supervision is outsourced](https://www.rtl.nl/nieuws/artikel/5409933/onderzoeksraad-dodelijk-zeilongeluk-terschelling-tara)
+
+```
+Ondanks eerdere aanbevelingen om de veiligheid van de bruine vloot te
+verbeteren, functioneert het toezicht nog steeds onvoldoende, concludeert de OVV
+na onderzoek. De Inspectie Leefomgeving en Transport (ILT) is verantwoordelijk
+voor het toezicht op historische zeilschepen, maar in de werkelijkheid wordt dat
+uitbesteed aan keuringsbureaus. "Er is veel ruimte voor interpretatie van de
+wet- en regelgeving, de bureaus zijn niet goed uitgerust voor hun taak en
+schippers en eigenaren worden te weinig op hun verantwoordelijkheid
+aangesproken."
+```
+
+Despite previous recommendations to ensure the safety of the brown fleet, the
+supervision is still not functioning sufficiently, the Dutch Safety Board
+concludes after examination. The Human Environment and Transport
+Inspectorate (ILT) is responsible for the supervision of historic sailing
+ships, but in reality this is outsourced to inspection agencies. "There is a lot
+of room for interpretation of the regulations, the agencies are not
+well-equipped for their task, and the skippers and owners are not sufficiently 
+aware of their responsibility."
