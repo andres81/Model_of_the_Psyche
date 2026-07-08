@@ -197,15 +197,23 @@ other moral systems like the ILT, the "Brown Fleet", or any other authority
 safeguarding safety and wellbeing after so many accidents?
 
 On the other hand, parents of children that delegate the responsibility to
-other moral systems, namely high schools and within the context of this 
-discussion the municipality of Harlingen, are also still responsible, which 
- they, at the very least, will feel when something goes terribly wrong. The 
-trust in moral systems needs to be earned. And if that trust is betrayed, 
-thorough reflection processes need to take place to what extent these moral 
-systems can be trusted. One might choose not to trust highschools and/or 
-municipalities any longer being capable and/or willing to do enough to 
-safeguard the safety and wellbeing of people they are entrusted with. It 
-cannot become a form of Russian Roulette letting your children go on high 
+other moral systems, namely high schools and within the context of this
+discussion the municipality of Harlingen, are also still responsible, which
+they, at the very least, will feel when something goes terribly wrong. Not
+to blame any parent, but to point out the pain parents must be suffering
+when something happens to your child, after you entrusted the responsibility
+of keeping them safe and sound with another party. At the very least, as a
+ society, we must help parents in part at least with tools to determine if 
+that trust is earned and deserved before it goes wrong. Think of the
+[Veiligheid, gezondheid en milieu Checklist Aannemers (VCA)](https://nl.wikipedia.org/wiki/Veiligheid%2C_gezondheid_en_milieu_Checklist_Aannemers)
+tool used in the industry and in construction.
+The
+trust in moral systems needs to be earned. And if that trust is betrayed,
+thorough reflection processes need to take place to what extent these moral
+systems can be trusted. One might choose not to trust highschools and/or
+municipalities any longer being capable and/or willing to do enough to
+safeguard the safety and wellbeing of people they are entrusted with. It
+cannot become a form of Russian Roulette letting your children go on high
 school trips or other events.
 
 #### ******* __*WORK IN PROGRESS*__ *******
