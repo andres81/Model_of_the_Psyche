@@ -128,11 +128,84 @@ something went wrong." This year, seven ships with students sailed.
 
 ##### Discussion
 
-My question then is: What did you try to say with this? Did you try to say 
-we are not to blame? We did all we could to safeguard the children? It never 
+My question then is: What did you try to say with this? Did you try to say
+we are not to blame? We did all we could to safeguard the children? It never
 happened before, so what could we have expected?
 
-The point to make here is: It might have never happened during a workweek 
-before, but it díd happen before with the "Brown Fleet"! Accident after 
-accident, report after report that something was terribly wrong with these 
+The point to make here is: It might have never happened during a workweek
+before, but it díd happen before with the "Brown Fleet"! Accident after
+accident, report after report that something was terribly wrong with these
 sailboats with deadly consequences.
+
+### Role of the municipality and mayor Ina Sjerps of Harlingen
+
+#### ******* __*WORK IN PROGRESS*__ *******
+
+What is the
+[duty of care](https://en.wikipedia.org/wiki/Duty_of_care)
+of a mayor in general in the Netherlands and in
+particular in the case of the sailing accident?
+
+##### *Wiki:*
+
+__*Duty of care may be considered a formalization of the
+[social contract](https://en.wikipedia.org/wiki/Social_contract)
+, the
+established and implicit responsibilities held by individuals/entities towards
+others within society. It is not a requirement that a duty of care be defined by
+law, though it will often develop through the jurisprudence of common law.*__
+
+When you are a mayor, should you not be aware of what goes on within your
+municipality in regard
+to safety and security? Looking at what a reasonable person could have done
+knowing how many times it had gone wrong with the "Brown Fleet", could the
+mayor have shut down the commercial operation that is the "Brown Fleet"?
+Was this at least attempted? One is
+[doomed to freedom](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))
+, so how was this
+freedom used by the mayor and the municipality itself?
+
+* Having the knowledge of what is going on in the municipality.
+* Acting upon the knowledge of what is going on in the municipality.
+* Acting upon the expectations of the citizens of the nation if it comes to
+  safety and wellbeing of persons within the municipality.
+* If something goes wrong, do a reflection and communicate that back so
+  lessons can be learned.
+
+What about the question, whether citizens of this country have implicit
+attitudes in the form of trust in mayors that they safeguard safety and
+security? The municipality and the role of the mayor itself as an external
+moral system? If not citizens in general, parents of children that are
+entrusted to authorities that are external moral systems the parents
+delegate the responsibility to, to keep their children safe and sound?
+
+#### Wiki: "Freedom and morality"
+
+__*Fundamentally, Sartre believed humankind cannot escape responsibility by
+adopting an external moral system, as the adoption of such is in itself a choice
+that we endorse – implicitly or explicitly – for which we must take full
+responsibility.*__
+
+This means that on the one hand, the mayor cannot see herself as a victim of
+the situation, because she was dependent on other moral systems than the
+role of mayor, which is a moral system in itself. She as a person is first of
+all responsible for the moral system that is the role of mayor, but also as
+a natural person, she is still responsible. But the excuse that as a mayor,
+you are dependent on other moral systems also does not hold if it comes to
+determining responsibility in this situation: To what extent could you trust
+other moral systems like the ILT, the "Brown Fleet", or any other authority
+safeguarding safety and wellbeing after so many accidents?
+
+On the other hand, parents of children that delegate the responsibility to
+other moral systems, namely high schools and within the context of this 
+discussion the municipality of Harlingen, are also still responsible, which 
+ they, at the very least, will feel when something goes terribly wrong. The 
+trust in moral systems needs to be earned. And if that trust is betrayed, 
+thorough reflection processes need to take place to what extent these moral 
+systems can be trusted. One might choose not to trust highschools and/or 
+municipalities any longer being capable and/or willing to do enough to 
+safeguard the safety and wellbeing of people they are entrusted with. It 
+cannot become a form of Russian Roulette letting your children go on high 
+school trips or other events.
+
+#### ******* __*WORK IN PROGRESS*__ *******
