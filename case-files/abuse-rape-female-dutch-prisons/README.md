@@ -22,6 +22,7 @@
 * https://www.inspectie-jenv.nl/actueel/nieuws/2023/05/31/seksueel-grensoverschrijdend-gedrag-in-vrouweninrichting-nieuwersluis
 * https://www.inspectie-jenv.nl/Publicaties/rapporten/2013/10/02/pi-utrecht-nieuwersluis
 * https://www.universiteitleiden.nl/nieuws/2025/02/vrouwengevangenissen-moeten-veiliger
+* https://www.hartvannederland.nl/112/rechtszaak/artikelen/utrecht-nieuwersluis-3-jaar-cel-verkrachting-vrouwelijke-gedetineerde-pi
 
 ## Introduction
 
