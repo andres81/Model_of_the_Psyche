@@ -216,4 +216,18 @@ safeguard the safety and wellbeing of people they are entrusted with. It
 cannot become a form of Russian Roulette letting your children go on high
 school trips or other events.
 
+The mayor and the municipality need to both be checked for the 
+responsibility they perceive and which they took or not. Also, the question 
+needs to be answered: What is done to prevent this from happening in the 
+future? To what extent are municipalities responsible for the safety and 
+wellbeing of civilians in their municipality? 
+
+Also, what do we want as citizens of this country? And what should be 
+communicated to parents of children what they can and cannot expect if it 
+comes to the responsibility that municipalities and mayors of this country 
+carry? Take away trust based on implicit attitudes people have that is 
+misplaced trust: Mayors and municipalities need to earn trust based on 
+explicit contracts agreed upon with society.
+
+
 #### ******* __*WORK IN PROGRESS*__ *******
