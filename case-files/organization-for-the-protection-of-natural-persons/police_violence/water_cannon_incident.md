@@ -4,6 +4,9 @@
 
 * Sources
 * Introduction
+* Actions
+* Politicians reactions
+* Courtcase ruling
 
 ## Sources
 
@@ -18,6 +21,11 @@
 * https://www.amnesty.nl/vijf-vragen-over-de-inzet-van-het-waterkanon-bij-vreedzame-demonstraties
 * https://www.omroepbrabant.nl/nieuws/4530082/agente-die-vrouw-verwondde-met-waterkanon-wordt-niet-vervolgd
 * https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2589&showbutton=true&keyword=eindhoven,waterkanon&idx=1
+* https://www.mirror.co.uk/news/world-news/woman-left-fractured-skull-after-23405564
+* https://www.ad.nl/binnenland/agent-die-met-waterstraal-in-gezicht-van-denisa-spoot-tijdens-rellen-in-eindhoven-wordt-vervolgd~a4ee86b4/
+* https://panorama.nl/artikel/484494/agent-die-met-waterkanon-in-gezicht-van-denisa-spoot-tijdens-avondklokrellen-wordt-vervolgd
+* https://www.binnenlandsbestuur.nl/juridisch/verordening/optreden-agente-bij-rellen-eindhoven-niet-proportioneel
+* https://www.ad.nl/binnenland/agent-die-met-waterstraal-in-gezicht-van-denisa-spoot-tijdens-rellen-in-eindhoven-wordt-vervolgd~a4ee86b4/
 
 ## Introduction
 
@@ -46,19 +54,78 @@ against the woman that got hurt subsequently.
 
 ## Actions
 
-An article with some rhetoric, by an author that doesn't even have a bachelors
-degree, does not do much for anyone, but burn energy resources by some
-internet servers hosting the website on which the article can be read.
-Instead, what is more effective, is an open letter asking for justification for
-the actions described in this article.
+Action needs to be taken to protect our democracy:
 
-1. Police actions, consisting of using a water canon.
-2. Union actions, consisting of the responses that were given to the media.
+* From religious ideologies trying to take over
+* Preventing at all costs civil war: A fight between ideologies by subgroups
+  in the democracy that is The Netherlands
+
+A police force can't have its own (religious) ideological opinion: It is
+part of, and in itself, a moral system executing an ideology, determined at
+the political and societal level of a democracy. At the
+same time, any police officer sharing their (religious) ideology is acting
+on behalf of the entire police force. Therefore, the actions of a single police
+officer/employee should be taken in the name of the entire police force.
+There is no escape, even if that opinion is shared from/by/through an
+external organisation like a union (
+[ACP](https://acp.nl/)
+and
+[ANPV](https://politiebond.nl/) (ANPV dissolved into the NPB)
+). Like for example stated
+[here](https://panorama.nl/artikel/484494/agent-die-met-waterkanon-in-gezicht-van-denisa-spoot-tijdens-avondklokrellen-wordt-vervolgd).
+
+1. Ask the Dutch police force for a justification for the action of the police 
+   officer and how they see this as legitimate use of violence.
+2. Ask Dutch politics to respond to this case, by communicating with the 
+   political parties currently in power, asking the government itself, and 
+   the citizens of The Netherlands what they actually want themselves 
+   regarding the violence we permit the police to use.
+3. Inform the judge that
+   [ruled](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2589&showbutton=true&keyword=eindhoven,waterkanon&idx=1)
+   that the police officer used appropriate violence, that I as a citizen of 
+   The Netherlands, André Schepers, see that ruling as a failure of the 
+   moral system that is the legal system of the Netherlands, to get to 
+   justice. Therefore, that I have to take responsibility back to attain 
+   societal justice for the citizens of this country and in particular the 
+   victim 
+   that was almost killed by the use of the water cannon.
+   Also, that I will try to find all institutions in The Netherlands that 
+   check the integrity of judges in The Netherlands, to ask to check for 
+   corruption. I as a citizen of this country, fear that the judges in that 
+   case might have acted on behalf of (religous) ideologies not in line with 
+   the main ideology we up hold in our country, our democracy. In the form 
+   of wanting to protect the police force at any cost potentially. This 
+   would be 
+   unacceptable.
+
+## Politicians reactions
+
+### FVD
+
+Source:
+[here](https://www.ninefornews.nl/politieagent-die-vrouw-verwondde-met-waterkanon-niet-vervolgd-schandalig-dit/).
+
+__*FVD-fractiemedewerker Annelies Strikkers resumeert: “Je mag iemand gericht
+beschieten met een harde straal van een waterkanon, met een schedelbasisfractuur
+tot gevolg, als je dat maar doet in naam van de overheid.”*__
+
+Isn't that torture, "foltering", and didn't we agree on the European level
+after the WWII to never, ever accept that again?
+
+In the name of the government? What does that exactly mean to you? What
+(religious) ideology do you support, try to propogate here exactly? Isn't it  
+allowed only when the law states it is allowed? Something called the
+[Rule of Law](https://en.wikipedia.org/wiki/Rule_of_law)? And not when the
+"government", however you define that concept, allows for it?
+[Trias Politica](https://nl.wikipedia.org/wiki/Trias_politica) or something
+something...
 
 ## Courtcase ruling
 
 What can clearly be seen in a video
-[here](https://www.omroepbrabant.nl/nieuws/4530082/agente-die-vrouw-verwondde-met-waterkanon-wordt-niet-vervolgd),
+[here](https://www.omroepbrabant.nl/nieuws/4530082/agente-die-vrouw-verwondde-met-waterkanon-wordt-niet-vervolgd)
+and
+[here](https://www.ad.nl/binnenland/agent-die-met-waterstraal-in-gezicht-van-denisa-spoot-tijdens-rellen-in-eindhoven-wordt-vervolgd~a4ee86b4/)
 is that the police officer aims, and fires. With a clear view on the two
 people, a man and a woman, of which the woman gets shot and blown against
 the wall. The wall that was clearly visible for the police officer.
@@ -95,13 +162,13 @@ described circumstances of the case were appropriate for the application of
 violence.*__
 
 Clearly, there is a discrepancy between what can be seen in the video and
-what was described during the court case: There was no water shot before the 
-shot of water was fired that pushed the woman against the wall that made her 
-skull fracture. How come the court concluded something else than what can be 
-seen in the video? Why did the court not mention the presence of the wall? 
-How come this was not seen as completely inappropriate violence due to there 
-being a wall? This should be addressed in a letter to the judge and the 
-court to indicate they failed and betrayed the trust of at least one 
+what was described during the court case: There was no water shot before the
+shot of water was fired that pushed the woman against the wall that made her
+skull fracture. How come the court concluded something else than what can be
+seen in the video? Why did the court not mention the presence of the wall?
+How come this was not seen as completely inappropriate violence due to there
+being a wall? This should be addressed in a letter to the judge and the
+court to indicate they failed and betrayed the trust of at least one
 citizen: Me, André Schepers.
 
 The legal system in the Netherlands is a moral system we, citizens of the
