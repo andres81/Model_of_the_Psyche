@@ -59,6 +59,10 @@ Action needs to be taken to protect our democracy:
 * From religious ideologies trying to take over
 * Preventing at all costs civil war: A fight between ideologies by subgroups
   in the democracy that is The Netherlands
+* Take responsibility as citizens, do our civil duty, to demand justice for 
+  the victim in this case, and for all citizens: Police brutality and abuse 
+  of the monopoly on violence shall not go unpunished nor without due 
+  process to scrutinize actions of the police force.
 
 A police force can't have its own (religious) ideological opinion: It is
 part of, and in itself, a moral system executing an ideology, determined at
