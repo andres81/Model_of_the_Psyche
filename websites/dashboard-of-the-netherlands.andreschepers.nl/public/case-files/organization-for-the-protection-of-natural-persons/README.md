@@ -61,6 +61,46 @@ persons?
 That we subsequently call: Veiligheid en Gezondheid Checklist Burgers
 (VCB) (Safety and Health Checklist Civilians)?
 
+## Justice
+
+What is justice?
+
+### Google AI
+
+*Justice is the ethical, philosophical, and legal principle of upholding
+fairness, equity, and moral rightness. Derived from the Latin word jus (meaning
+law or right), it dictates how individuals are treated and how social systems
+allocate benefits and burdens.*
+
+#### Four primary types of justice
+
+*The concept of justice is generally split into four distinct framework 
+types:*
+
+* *Distributive justice: Focuses on the fair allocation of resources, wealth,
+  and opportunities within a society.*
+
+* *Procedural justice: Focuses on the fairness of the
+  decision-making processes and ensuring legal transparency.*
+
+* *Retributive justice: Focuses on proportional punishment for wrongdoings 
+  and violations of the law.*
+
+* *Restorative justice: Focuses on repairing relationships, healing victims,
+  and rehabilitating the offenders.*
+
+### Wikipedia
+
+Wikipedia entry regarding justice:
+[here](https://en.wikipedia.org/wiki/Justice).
+
+### Youtube video by Soul Stories by Fearless Soul
+
+Youtube video
+[here](https://www.youtube.com/watch?v=GyEMbIRYVGA).
+
+
+
 ## [(Sexual) abuse of, and lack of protection for minors](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/README.md)
 
 ### Real world examples
