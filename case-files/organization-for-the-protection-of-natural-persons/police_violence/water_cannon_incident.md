@@ -105,9 +105,9 @@ and
 Source:
 [here](https://www.ninefornews.nl/politieagent-die-vrouw-verwondde-met-waterkanon-niet-vervolgd-schandalig-dit/).
 
-__*FVD-fractiemedewerker Annelies Strikkers resumeert: “Je mag iemand gericht
+[__*FVD-fractiemedewerker Annelies Strikkers resumeert: “Je mag iemand gericht
 beschieten met een harde straal van een waterkanon, met een schedelbasisfractuur
-tot gevolg, als je dat maar doet in naam van de overheid.”*__
+tot gevolg, als je dat maar doet in naam van de overheid.”*__](https://translate.google.com/?sl=nl&tl=en&text=FVD-fractiemedewerker%20Annelies%20Strikkers%20resumeert%3A%20%E2%80%9CJe%20mag%20iemand%20gericht%0Abeschieten%20met%20een%20harde%20straal%20van%20een%20waterkanon%2C%20met%20een%20schedelbasisfractuur%0Atot%20gevolg%2C%20als%20je%20dat%20maar%20doet%20in%20naam%20van%20de%20overheid.%E2%80%9D&op=translate)
 
 Isn't that torture, "foltering", and didn't we agree on the European level
 after the WWII to never, ever accept that again?
@@ -133,7 +133,7 @@ The ruling
 [here](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2589&showbutton=true&keyword=eindhoven,waterkanon&idx=1)
 states in Dutch:
 
-__*Beklaagde heeft in raadkamer toegelicht dat het richtpunt van het waterkanon
+[__*Beklaagde heeft in raadkamer toegelicht dat het richtpunt van het waterkanon
 niet ook het trefpunt is en dat er bovendien enige vertraging is tussen het
 schieten en het moment van de waterstraal. De waterwerper stond op korte afstand
 van de plaats waar de groep mensen, waar klaagster deel van uitmaakte, liep.
@@ -143,23 +143,7 @@ beelden die in raadkamer zijn bekeken, blijkt naar het oordeel van het hof dat
 beklaagde eerst water heeft gespoten op de grond vlak bij de groep mensen,
 waarna
 het waterkanon gericht werd op de groep. Naar het oordeel van het hof is in de
-beschreven omstandigheden van het geval sprake van gepast geweld.*__
-
-#### Translation
-
-__*The defendant explained in chambers that the aiming point of the water cannon
-is not also the meeting point and that there is also some delay between the
-shooting and the moment of the water jet. The water thrower was a short
-distance
-away of the place where the group of people to which the complainant belonged
-walked. The defendant made a movement with the beam towards the people, and in
-doing so the bodies were targeted. She did not focus on one person. From the
-images
-viewed in chambers, it appears, in the opinion of the court, that
-the defendant first sprayed water on the ground near the group of people, after
-which the water cannon was aimed at the group. In the opinion of the court, the
-described circumstances of the case were appropriate for the application of
-violence.*__
+beschreven omstandigheden van het geval sprake van gepast geweld.*__](https://translate.google.com/?sl=nl&tl=en&text=Beklaagde%20heeft%20in%20raadkamer%20toegelicht%20dat%20het%20richtpunt%20van%20het%20waterkanon%0Aniet%20ook%20het%20trefpunt%20is%20en%20dat%20er%20bovendien%20enige%20vertraging%20is%20tussen%20het%0Aschieten%20en%20het%20moment%20van%20de%20waterstraal.%20De%20waterwerper%20stond%20op%20korte%20afstand%0Avan%20de%20plaats%20waar%20de%20groep%20mensen%2C%20waar%20klaagster%20deel%20van%20uitmaakte%2C%20liep.%0ABeklaagde%20heeft%20een%20beweging%20met%20de%20straal%20naar%20de%20mensen%20gemaakt%20en%20daarbij%20op%0Ade%20lichamen%20gericht.%20Ze%20heeft%20daarbij%20niet%20op%20een%20persoon%20gericht.%20Uit%20de%0Abeelden%20die%20in%20raadkamer%20zijn%20bekeken%2C%20blijkt%20naar%20het%20oordeel%20van%20het%20hof%20dat%0Abeklaagde%20eerst%20water%20heeft%20gespoten%20op%20de%20grond%20vlak%20bij%20de%20groep%20mensen%2C%0Awaarna%0Ahet%20waterkanon%20gericht%20werd%20op%20de%20groep.%20Naar%20het%20oordeel%20van%20het%20hof%20is%20in%20de%0Abeschreven%20omstandigheden%20van%20het%20geval%20sprake%20van%20gepast%20geweld.&op=translate)
 
 Clearly, there is a discrepancy between what can be seen in the video and
 what was described during the court case: There was no water shot before the
