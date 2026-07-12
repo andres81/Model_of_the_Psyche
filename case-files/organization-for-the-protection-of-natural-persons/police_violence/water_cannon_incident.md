@@ -32,7 +32,7 @@
 24th of January 2021, police was tasked with stopping riots in Eindhoven and
 Amsterdam. The use of a water canon was authorized and used in Eindhoven. At a
 certain point during the riots, as can be seen in the video in
-[this article](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5327086/politiebond-geirriteerd-over-vervolging-agente-van-waterkanon),
+[this article](https://www.rtl.nl/rtl-nieuws/artikel/5327086/politiebond-geirriteerd-over-vervolging-agente-van-waterkanon),
 a woman is targeted, from a short distance, while she is trying to move by,
 posing absolutely no thread at all. The consequences of being hit, as reported
 by her, are disastrous:
@@ -59,9 +59,9 @@ Action needs to be taken to protect our democracy:
 * From religious ideologies trying to take over
 * Preventing at all costs civil war: A fight between ideologies by subgroups
   in the democracy that is The Netherlands
-* Take responsibility as citizens, do our civil duty, to demand justice for 
-  the victim in this case, and for all citizens: Police brutality and abuse 
-  of the monopoly on violence shall not go unpunished nor without due 
+* Take responsibility as citizens, do our civil duty, to demand justice for
+  the victim in this case, and for all citizens: Police brutality and abuse
+  of the monopoly on violence shall not go unpunished nor without due
   process to scrutinize actions of the police force.
 
 A police force can't have its own (religious) ideological opinion: It is
@@ -78,28 +78,30 @@ and
 ). Like for example stated
 [here](https://panorama.nl/artikel/484494/agent-die-met-waterkanon-in-gezicht-van-denisa-spoot-tijdens-avondklokrellen-wordt-vervolgd).
 
-1. Ask the Dutch police force for a justification for the action of the police 
+1. Ask the Dutch police force for a justification for the action of the police
    officer and how they see this as legitimate use of violence.
-2. Ask Dutch politics to respond to this case, by communicating with the 
-   political parties currently in power, asking the government itself, and 
-   the citizens of The Netherlands what they actually want themselves 
+2. Ask Dutch politics to respond to this case, by communicating with the
+   political parties currently in power, asking the government itself, and
+   the citizens of The Netherlands what they actually want themselves
    regarding the violence we permit the police to use.
 3. Inform the judge that
    [ruled](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2589&showbutton=true&keyword=eindhoven,waterkanon&idx=1)
-   that the police officer used appropriate violence, that I as a citizen of 
-   The Netherlands, André Schepers, see that ruling as a failure of the 
-   moral system that is the legal system of the Netherlands, to get to 
-   justice. Therefore, that I have to take responsibility back to attain 
-   societal justice for the citizens of this country and in particular the 
-   victim 
+   that the police officer used appropriate violence, that I as a citizen of
+   The Netherlands, André Schepers, see that ruling as a failure of the
+   moral system that is the legal system of the Netherlands, to get to
+   justice. Therefore,
+   [that I have to take responsibility back](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)#Freedom_and_morality)
+   to attain
+   societal justice for the citizens of this country and in particular the
+   victim
    that was almost killed by the use of the water cannon.
-   Also, that I will try to find all institutions in The Netherlands that 
-   check the integrity of judges in The Netherlands, to ask to check for 
-   corruption. I as a citizen of this country, fear that the judges in that 
-   case might have acted on behalf of (religous) ideologies not in line with 
-   the main ideology we up hold in our country, our democracy. In the form 
-   of wanting to protect the police force at any cost potentially. This 
-   would be 
+   Also, that I will try to find all institutions in The Netherlands that
+   check the integrity of judges in The Netherlands, to ask to check for
+   corruption. I as a citizen of this country, fear that the judges in that
+   case might have acted on behalf of (religous) ideologies not in line with
+   the main ideology we up hold in our country, our democracy. In the form
+   of wanting to protect the police force at any cost potentially. This
+   would be
    unacceptable.
 
 ## Politicians reactions
@@ -123,6 +125,46 @@ allowed only when the law states it is allowed? Something called the
 "government", however you define that concept, allows for it?
 [Trias Politica](https://nl.wikipedia.org/wiki/Trias_politica) or something
 something...
+
+## Opinions of police unions
+
+### Wim Groeneweg, ACP
+
+Source:
+[here](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5327086/politiebond-geirriteerd-over-vervolging-agente-van-waterkanon).
+
+[__*Politiebond ACP is 'geïrriteerd' over de beslissing van het Openbaar
+Ministerie om de agente te vervolgen die tijdens de avondklokrellen in Eindhoven
+begin vorig jaar een vrouw omverblies met een waterkanon. Volgens voorzitter Wim
+Groeneweg wordt zo het beeld versterkt dat de politie geweld gebruikt zonder
+aanleiding. "Er gaat geen agent van huis met het idee iemand te verwonden."*__](https://translate.google.com/?sl=nl&tl=en&text=Politiebond%20ACP%20is%20%27ge%C3%AFrriteerd%27%20over%20de%20beslissing%20van%20het%20Openbaar%0AMinisterie%20om%20de%20agente%20te%20vervolgen%20die%20tijdens%20de%20avondklokrellen%20in%20Eindhoven%0Abegin%20vorig%20jaar%20een%20vrouw%20omverblies%20met%20een%20waterkanon.%20Volgens%20voorzitter%20Wim%0AGroeneweg%20wordt%20zo%20het%20beeld%20versterkt%20dat%20de%20politie%20geweld%20gebruikt%20zonder%0Aaanleiding.%20%22Er%20gaat%20geen%20agent%20van%20huis%20met%20het%20idee%20iemand%20te%20verwonden.%22&op=translate)
+
+### Sander Ximonis, ANPV (ANPV dissolved into the NPB)
+
+Source:
+[here](https://panorama.nl/artikel/484494/agent-die-met-waterkanon-in-gezicht-van-denisa-spoot-tijdens-avondklokrellen-wordt-vervolgd).
+
+[__*Het verweer van de politiebonden is bovendien dat het slachtoffer doelbewust
+een risico nam. Zij zijn van mening dat Denisa niet 'toevallig daar was' en ook
+niet is weggegaan toen haar dat werd opgedragen. "Dat er geweld is gebruikt,
+heeft ze echt volledig aan zichzelf te danken", aldus Xander Simonis van
+politiebond ANPV.*__](https://translate.google.com/?sl=nl&tl=en&text=Het%20verweer%20van%20de%20politiebonden%20is%20bovendien%20dat%20het%20slachtoffer%20doelbewust%0Aeen%20risico%20nam.%20Zij%20zijn%20van%20mening%20dat%20Denisa%20niet%20%27toevallig%20daar%20was%27%20en%20ook%0Aniet%20is%20weggegaan%20toen%20haar%20dat%20werd%20opgedragen.%20%22Dat%20er%20geweld%20is%20gebruikt%2C%0Aheeft%20ze%20echt%20volledig%20aan%20zichzelf%20te%20danken%22%2C%20aldus%20Xander%20Simonis%20van%0Apolitiebond%20ANPV.&op=translate)
+
+Sander Ximonis clearly indicates here, that she is at fault herself that 
+violence was used against her with severe bodily damage. As if it is no 
+longer needed to scrutinize the use of violence by police officers. Opening 
+the door to excessive use of violence in my opinion which is dangerous. Also 
+saying, without having had due process, that it is not possible that the 
+police officer that used the water cannon, could have abused her power just 
+to bully a civilian. What training is then necessary other then how to 
+operate the water cannon according mister Ximons? He also is then apparently 
+of the opinion that the police not only has a monopoly on violence, but also 
+the monopoly on scrutinizing that same use and on top of that what the 
+allowed violence is in any circumstance? Mister Ximonis lives in a police 
+state according to himself? He forgot about trias politica and the Dutch 
+democracy and how it works in The Netherlands? His remarks are in my opinion 
+undermining the Dutch democracy and his behavior should be addressed 
+appropriately.
 
 ## Courtcase ruling
 
