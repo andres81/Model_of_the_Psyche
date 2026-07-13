@@ -14,7 +14,7 @@
 ## Introduction
 
 __*One for all*__: One organization for any natural person that requires help or
-protection. Whether that is from the government, an employer or any threat
+protection. Whether that is from the government, an employer, or any threat
 perceived.
 
 __*All for one*__: Every natural person supports this idea of a central concept
@@ -52,7 +52,7 @@ It is only an instrument to better meet the requirements of the client.
 The functionality of this method is by making the individual responsible to a
 certain extent: "Don't put yourselves in danger or harms way. Spot dangerous
 situations and report them as soon as possible."
-The certification trains a worker what dangerous ways of working, situations
+The certification trains a worker what dangerous ways of working, situations,
 and circumstances are to be able to recognize them and how to act on them.
 
 But if this is the functionality that is required and
