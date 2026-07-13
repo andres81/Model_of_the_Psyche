@@ -229,5 +229,25 @@ carry? Take away trust based on implicit attitudes people have that is
 misplaced trust: Mayors and municipalities need to earn trust based on 
 explicit contracts agreed upon with society.
 
+### Role of the media: Research done regarding follow up actions?
+
+What did the media do during and after? Did they ask critical questions? Did 
+they do research if the procedures were followed? And what procedures could 
+have saved Tara?
+
+### [Inspectie Leefomgeving en Transport](https://www.ilent.nl/)
+
+What was the responsibility of the ILT to keep the situation safe and to 
+prevent accidents? Did they truly do everything they should and could?
+
+### Society
+
+What is the role of citizens of The Netherlands? Did citizens take 
+responsibility for what happened here? Ask for justice? Check who was 
+responsible or at least was expected to take responsibility for shutting 
+down the "Brown Fleet" with the knowledge they were expected to have? Did we,
+the people, check other situations that should be checked for safety 
+concerns if the moral systems we delegate our responsibility to seem to fail?
+Or do we not care that much about safety at all?
 
 #### ******* __*WORK IN PROGRESS*__ *******
