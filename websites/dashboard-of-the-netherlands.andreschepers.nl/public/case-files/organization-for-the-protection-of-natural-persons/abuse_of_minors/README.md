@@ -23,6 +23,6 @@ doomed to freedom, therefore, 100% responsible for their actions and choices.
 
 ## Real world examples
 
-### [Dutch Kickboxer Anne](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/dutch_kickboxer_Anne.md)
-### [Pleegmeisje Vlaardingen](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/pleegmeisje_vlaardingen.md)
-### [Tara (12) Sailing accident](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/Tara_12_Sailing_accident.md)
+### [Dutch Kickboxer Anne](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/dutch_kickboxer_Anne.md)
+### [Pleegmeisje Vlaardingen](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/pleegmeisje_vlaardingen.md)
+### [Tara (12) Sailing accident](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/Tara_12_Sailing_accident.md)

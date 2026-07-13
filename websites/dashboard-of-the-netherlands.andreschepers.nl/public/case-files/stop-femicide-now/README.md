@@ -280,7 +280,7 @@ all go to jail!
 In the letter to all faculties of philosophy, psychology, organization of
 psychologists, organization of municipalities of the Netherlands and Theater
 School Utrecht,
-[I already indicated training for women](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/love-or-the-lack-thereof/proposal-conversation-facility-in-towns.md):
+[I already indicated training for women](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/love-or-the-lack-thereof/proposal-conversation-facility-in-towns.md):
 Data buffers. So conversation can be one way of preventing women stepping in the
 wrong situations with the wrong kind of men:
 

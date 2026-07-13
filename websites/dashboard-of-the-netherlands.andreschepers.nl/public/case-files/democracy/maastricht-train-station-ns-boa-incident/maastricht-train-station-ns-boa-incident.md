@@ -67,7 +67,7 @@ P.S.
 
 This letter is public and can be found here:
 
-https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/democracy/maastricht-train-station-ns-boa-incident/maastricht-train-station-ns-boa-incident.md
+https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/democracy/maastricht-train-station-ns-boa-incident/maastricht-train-station-ns-boa-incident.md
 
 
 

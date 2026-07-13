@@ -273,7 +273,7 @@ instead of with the other, through the group. To quote George Carlin:
      sake of the group.”
 
 This should go as
-[a proposal](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/love-or-the-lack-thereof/proposal-conversation-facility-in-towns.md)
+[a proposal](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/love-or-the-lack-thereof/proposal-conversation-facility-in-towns.md)
 to the municipalities of The Netherlands, the national organisation of
 psychologists and society as a whole.
 

@@ -105,7 +105,7 @@ allows for the damage to take place.
 
 ### Actions:
 
-* [Letter to USC](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/bullying-at-work-and-in-education/letters/letter-to-usc.pdf)
+* [Letter to USC](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/bullying-at-work-and-in-education/letters/letter-to-usc.pdf)
 
 #### !!! WORK IN PROGRESS !!!
 

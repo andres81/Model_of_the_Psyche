@@ -27,23 +27,23 @@
 
 ## NS Boa's Maastricht train station situation
 
-See [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/democracy/maastricht-train-station-ns-boa-incident/maastricht-train-station-ns-boa-incident.md)
+See [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/democracy/maastricht-train-station-ns-boa-incident/maastricht-train-station-ns-boa-incident.md)
 
 ## Police
 
 ### Police ME using excessive force against supporters of the match between Feyenoord and FC Utrecht
 
-See [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/democracy/police_me_soccer_supporters_utrecht/police_me_soccer_supporters_utrecht.md)
+See [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/democracy/police_me_soccer_supporters_utrecht/police_me_soccer_supporters_utrecht.md)
 
 ### Police incident onder Bollendak: Police officer vs two women
 
-See [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/democracy/police_incident_onder_Bollendak/police_incident_onder_Bollendak.md)
+See [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/democracy/police_incident_onder_Bollendak/police_incident_onder_Bollendak.md)
 
 ## Public Prosecution Service
 
 ### Jan Roos' arrest 29 November 2024
 
-See [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/democracy/OM-Public-Prosecution-Service/Jan-Roos-29-11-2024.md).
+See [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/democracy/OM-Public-Prosecution-Service/Jan-Roos-29-11-2024.md).
 
 # The legal system
 

@@ -129,7 +129,7 @@ In the old [Noorder Dierenpark](https://en.wikipedia.org/wiki/Dierenpark_Emmen)
 in [Emmen](https://en.wikipedia.org/wiki/Emmen,_Netherlands), there was a little
 childrens animal farm. Goats and pigs roamed freely amongst the visitors.
 
-![Noorder Dierenpark animal farm](https://github.com/andres81/Model_of_the_Psyche/blob/main/case-files/images/goats-free-to-take-a-break.jpg?raw=true)
+![Noorder Dierenpark animal farm](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/images/goats-free-to-take-a-break.jpg?raw=true)
 
 The animals didn't have a choice whether people could touch them and give
 attention. But at a certain moment in time, a change was made: The area where
