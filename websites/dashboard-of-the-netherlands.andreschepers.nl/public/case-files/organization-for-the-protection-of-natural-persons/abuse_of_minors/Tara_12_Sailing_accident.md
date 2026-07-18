@@ -7,6 +7,7 @@
 
 ## Sources
 
+* [https://www.rtl.nl/nieuws/nederland/artikel/5330267/ongeluk-zeilboot-mast-waddenzee-risico-meisje-overleden](https://www.rtl.nl/nieuws/nederland/artikel/5330267/ongeluk-zeilboot-mast-waddenzee-risico-meisje-overleden)
 * [Ongeluk met schip waarbij scholiere omkwam 'geen incident meer' voor burgemeester](https://www.omroepwest.nl/nieuws/4619406/ongeluk-met-schip-waarbij-scholiere-omkwam-geen-incident-meer-voor-burgemeester)
 * [Bij zeilongeluk omgekomen Tara (12) was 'levenslustig, sociaal en zelfstandig'](https://www.omroepwest.nl/nieuws/4619485/bij-zeilongeluk-omgekomen-tara-12-was-levenslustig-sociaal-en-zelfstandig)
 * [12-jarige Tara omgekomen bij zeilongeluk op Waddenzee - OMROEP WEST](https://www.youtube.com/watch?v=uW_v3HYvDXA)
@@ -32,6 +33,32 @@
 * ['Passagiers zijn niet veilig op historische zeilschepen'](https://www.rtl.nl/nieuws/nederland/artikel/1861/passagiers-zijn-niet-veilig-op-historische-zeilschepen)
 * [Onderzoek giekbreuk waardoor 12-jarige omkwam: wéér is houtrot oorzaak](https://www.rtl.nl/nieuws/nederland/artikel/5332178/onderzoeksraad-fatale-giekbreuk-kwam-door-houtrot)
 * [Haar helderblauwe ogen, starend in het niets, vergeet ik nooit meer](https://www.knrm.nl/blog/achteraf/haar-helderblauwe-ogen-starend-in-het-niets-vergeet-ik-nooit-meer)
+* [Doden door vallen giek: betere controle historische zeilschepen nodig](https://www.rtl.nl/nieuws/artikel/5409933/onderzoeksraad-dodelijk-zeilongeluk-terschelling-tara)
+* [Risico op houtrot in masten bruine vloot nog steeds groot](https://onderzoeksraad.nl/update/risico-op-houtrot-in-masten-bruine-vloot-nog-steeds-groot/)
+* [Mastbreuk zeilschip Harlingen](https://onderzoeksraad.nl/onderzoek/mastbreuk-zeilschip-harlingen/)
+* [Nieuw onderzoek naar dodelijke ongelukken bruine vloot: hoe zit het ook alweer?](https://www.omropfryslan.nl/nl/nieuws/1225126/nieuw-onderzoek-naar-dodelijke-ongelukken-bruine-vloot-hoe-zit-het-ook-alweer)
+* [Verwarring bij schippers bruine vloot: nog steeds onduidelijkheid over certificaten](https://www.omropfryslan.nl/nl/nieuws/1200821/verwarring-bij-schippers-bruine-vloot-nog-steeds-onduidelijkheid-over-certificaten)
+* [Vrijspraak voor eigenaar van schip Amicitia](https://www.omropfryslan.nl/nl/nieuws/850688/vrijspraak-voor-eigenaar-van-schip-amicitia)
+* [Ouders Tara stellen rederij aansprakelijk voor dodelijk ongeluk met charterschip](https://www.omropfryslan.nl/nl/nieuws/1168206/ouders-tara-stellen-rederij-aansprakelijk-voor-dodelijk-ongeluk-met-charterschip)
+* [Bruine vloot doet aan 'preventieve ruiming' van oude masten](https://www.omropfryslan.nl/nl/nieuws/1168115/bruine-vloot-doet-aan-preventieve-ruiming-van-oude-masten)
+* [Branchevereniging bruine vloot over ongeluk: 'Oud schip is niet automatisch onveilig'](https://www.omropfryslan.nl/nl/nieuws/1167475/branchevereniging-bruine-vloot-over-ongeluk-oud-schip-is-niet-automatisch-onveilig)
+* [Risico op houtrot in scheepsmasten van de bruine vloot nog te groot](https://www.omropfryslan.nl/nl/nieuws/881132/risico-op-houtrot-in-scheepsmasten-van-de-bruine-vloot-nog-te-groot)
+* [UPDATE: Drie doden bij ongeluk met zeilboot in Harlingen](https://www.omropfryslan.nl/nl/nieuws/657133/update-drie-doden-bij-ongeluk-met-zeilboot-in-harlingen)
+* [Burgemeester van Harlingen wil in gesprek met bruine vloot: ongeluk met charterschip geen incident meer](https://www.omropfryslan.nl/nl/nieuws/1167455/burgemeester-van-harlingen-wil-in-gesprek-met-bruine-vloot-ongeluk-met-charterschip-geen-incident-meer)
+* [OM vervolgt schipper voor dodelijk ongeluk met mast](https://nos.nl/artikel/2252015-om-vervolgt-schipper-voor-dodelijk-ongeluk-met-mast)
+* [Drie Duitse toeristen overleden na afbreken scheepsmast in Harlingen](https://nos.nl/artikel/2127408-drie-duitse-toeristen-overleden-na-afbreken-scheepsmast-in-harlingen)
+* [Na ongeluk en inspectie heerst nu opluchting bij schippers in Harlingen: ‘We kunnen de zee weer op’](https://www.trouw.nl/binnenland/na-ongeluk-en-inspectie-heerst-nu-opluchting-bij-schippers-in-harlingen-we-kunnen-de-zee-weer-op~b885926e/?referrer=https%3A%2F%2Fduckduckgo.com%2F)
+* [Onderzoeksraad: toezicht op veiligheid historische vloot onvoldoende](https://www.trouw.nl/binnenland/onderzoeksraad-toezicht-op-veiligheid-historische-vloot-onvoldoende~b6d72529/)
+* [Inspectie legt historische zeilschepen zonder papieren aan ketting](https://www.trouw.nl/binnenland/inspectie-legt-historische-zeilschepen-zonder-papieren-aan-ketting~bc0780e6/)
+* [Extra inspectie bruine vloot na dodelijk mastongeluk](https://www.omropfryslan.nl/nl/nieuws/670421/extra-inspectie-bruine-vloot-na-dodelijk-mastongeluk)
+* [Opluchting bij Harlinger schippers: ‘We kunnen de zee weer op’](https://zeepost.info/opluchting-bij-harlinger-schippers-we-kunnen-de-zee-weer-op/)
+* [Toezicht op de bruine vloot schiet tekort: Onderzoeksraad wil actie van minister](https://omroepzilt.nl/nieuws/algemeen/toezicht-op-de-bruine-vloot-schiet-tekort-onderzoeksraad-wil-actie-van-minister/)
+* [Scheepsmast breekt af in Harlingen, drie doden](https://www.nrc.nl/nieuws/2016/08/21/scheepsmast-breekt-af-in-harlingen-drie-doden-a1517270)
+
+### Examples of acting on even the slightest risk of casualties
+
+* [Merwedebrug 'niet veilig': weg vanaf nu dicht voor vrachtverkeer](https://www.rtl.nl/nieuws/binnenland/artikel/5629308/merwedebrug-a27-niet-veilig-en-vanaf-vanavond-dicht-vrachtverkeer)
+* ['Sluiting Merwedebrug voor vrachtwagens toont slechte staat infrastructuur'](https://www.rtl.nl/nieuws/binnenland/artikel/5629359/sluiting-merwedebrug-voor-vrachtwagens-toon-slechte-staat)
 
 ## Introduction
 
@@ -56,6 +83,12 @@ this as a society? Or should we enforce procedures onto high schools to
 prevent situations like the sailing accident?
 
 ## Research
+
+### Timeline of events
+
+* 31 August: Tara gets on the sailing ship and dies due to the fact that
+  part of the mast broke off and landed on her and dies on the spot 
+  from her injuries.
 
 ### Role of Inspectie Leefomgeving en Transport (ILT)
 
@@ -249,5 +282,23 @@ down the "Brown Fleet" with the knowledge they were expected to have? Did we,
 the people, check other situations that should be checked for safety 
 concerns if the moral systems we delegate our responsibility to seem to fail?
 Or do we not care that much about safety at all?
+
+### The standard protection society expects (implicit attitudes) in The Netherlands
+
+We, Dutch citizens, expect protection from the government. Looking at 
+[Rijkswaterstaat](https://www.rijkswaterstaat.nl/)
+and closing the
+[Merwedebrug](https://www.rijkswaterstaat.nl/nieuws/archief/2026/07/vrachtverkeer-vanaf-18-juli-2026-18-00-uur-niet-meer-over-de-merwedebrug-gorinchem-a27)
+, because there is a risk of 
+failure, shows how well we are protected normally. However, when people die 
+on ships over and over, and research shows over and over again that people 
+are not safe on ships, nothing is done! No closure, no warning, no nothing! 
+Dalton College keeps using the "Bruine vloot", the mayor of Harlingen lets 
+it all just continue, and the owners of the ships just keep making money... 
+Why take responsibility at all? ILT? For what? Political accountability? "How 
+are you going to enforce that?" Enough!
+
+Where is justice for Tara's parents? Who is going to get them that? And for 
+Tara?
 
 #### ******* __*WORK IN PROGRESS*__ *******
