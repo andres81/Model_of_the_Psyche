@@ -40,7 +40,9 @@ Take, for example, the water cannon incident in Eindhoven in January 2022. The
 judge ruled that the police officer should not be prosecuted because the
 violence used by the police officer using the water cannon was according to
 the
-"[ambtsinstructie](https://translate.google.com/?sl=nl&tl=en&text=ambtsinstructie&op=translate)".
+"[ambtsinstructie](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01)"
+that refers to
+[Artikel 26: Mobiele eenheid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=5&artikel=26&z=2025-04-01&g=2025-04-01).
 
 Whether that is correct or not (the judge might be corrupt in an imaginable
 nightmare fuel situation), assuming the judge did his job and that his ruling is
