@@ -301,4 +301,8 @@ are you going to enforce that?" Enough!
 Where is justice for Tara's parents? Who is going to get them that? And for 
 Tara?
 
+### Analysis of Functional Architecture of, and trust in Moral Systems of The Netherlands
+
+![Potentially assumed trust in existing moral systems](Tara-Sailingincident.drawio.png)
+
 #### ******* __*WORK IN PROGRESS*__ *******

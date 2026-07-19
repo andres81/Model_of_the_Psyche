@@ -94,12 +94,12 @@ types:*
 Wikipedia entry regarding justice:
 [here](https://en.wikipedia.org/wiki/Justice).
 
-### Youtube video by Soul Stories by Fearless Soul
+### YouTube video by Soul Stories by Fearless Soul
 
 Youtube video
 [here](https://www.youtube.com/watch?v=GyEMbIRYVGA).
 
-
+## [Call for a new Moral System](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/call_for_a_new_moral_system/README.md)
 
 ## [(Sexual) abuse of, and lack of protection for minors](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/README.md)
 
