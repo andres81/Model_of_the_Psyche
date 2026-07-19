@@ -102,7 +102,7 @@ Youtube video
 ## [Call for a new Moral System](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/call_for_a_new_moral_system/README.md)
 
 Is the legal system still enough? Do we get moral justice through the use of 
-the moral system that is the legal system? Where does it fail if it fails,  
+the moral system that is the legal system? Where does it fail when it fails,  
 and how are these failures compensated if at all?
 
 ## [(Sexual) abuse of, and lack of protection for minors](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/README.md)
