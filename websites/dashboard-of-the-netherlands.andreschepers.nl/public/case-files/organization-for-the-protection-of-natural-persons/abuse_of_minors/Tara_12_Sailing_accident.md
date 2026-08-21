@@ -59,6 +59,8 @@
 
 * [Merwedebrug 'niet veilig': weg vanaf nu dicht voor vrachtverkeer](https://www.rtl.nl/nieuws/binnenland/artikel/5629308/merwedebrug-a27-niet-veilig-en-vanaf-vanavond-dicht-vrachtverkeer)
 * ['Sluiting Merwedebrug voor vrachtwagens toont slechte staat infrastructuur'](https://www.rtl.nl/nieuws/binnenland/artikel/5629359/sluiting-merwedebrug-voor-vrachtwagens-toon-slechte-staat)
+* [Martijns broer verdronk in rivier, Rijkswaterstaat waarschuwt voor gevaren](https://www.rtl.nl/nieuws/binnenland/video/4bcb4b4c-6742-4f08-8f61-6171f1894b6d/martijn-verloor-zijn-broer-tijdens-het)
+* [Mayor acts to protect](https://www.rtl.nl/nieuws/binnenland/artikel/5639977/tractoren-mogen-wegen-niet-meer-op-bij-boerenprotesten-twente)
 
 ## Introduction
 
