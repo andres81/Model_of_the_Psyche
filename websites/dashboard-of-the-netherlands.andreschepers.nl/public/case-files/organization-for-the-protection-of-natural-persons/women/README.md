@@ -31,6 +31,9 @@ The elements of the pipeline are at the very least:
 * Spirituality
 * Mindfulness
 * Participating in society and building a career
+* Biological timelines: Men and women are on different timelines. Women have
+  their twenties, and then in their thirties autumn starts, if not winter
+  already.
 * Love
     * Philosophical types of love
     * How do people love each other?
@@ -68,19 +71,23 @@ The elements of the pipeline are at the very least:
           Another problem being that Dutch women are reared with the idea:
           "Romanticism is exploring eroticism and love will come later..."
           Wrong!
-          What comes later after the oxytosin driven love hormones dry up, is
+          What comes later after the oxytocin-driven love hormones dry up, is
           attachment, what social psychologists warn about: "Attachment is nót
           love! Move on to someone else." When a woman has sex with a man, her
-          body will secrete oxytocine, the love drug, which will make you feel
+          body will secrete oxytocin, the love drug, which will make you feel
           you love that other person, the man in this case. For a man, however,
-          this is not the case. But if a woman projects her experience onto the
-          man, she has a wrong view of what he feels for her. "We had sex, we
-          love eachother now..." Wrong! Something else is necessary to make a
-          man really love you. My experience is, that within 5 to 15 minutes, if
-          you just maturely talk, non-socializing, no Eric Burnes games, she
-          will say: "Oh...", or "Oh, that's interesting..." and the whole
-          demeanor changes from hiding to full engagement and full connection.
-          She "sees"
+          this is not the case. See:
+          ["this powerful chemical is released in high doses during sex — especially when a woman reaches orgasm"](https://www.pulse.com.gh/story/why-do-women-get-attached-after-sex-2025070116182447748),
+          ["After orgasm, testosterone rises and actively suppresses oxytocin, allowing many men to detach emotionally and return quickly to a rational, emotionally neutral state."](https://thelightbetweenshadows.substack.com/p/why-women-often-feel-more-in-love),
+          and of course
+          Eddie: ["If you make a Woman Cum really hard"](https://www.imdb.com/title/tt0092948/)
+          But if a woman projects her experience onto the man, she has a wrong
+          view of what he feels for her. "We had sex, we love each other now..."
+          Wrong! Something else is necessary to make a man really love you. My
+          experience is, that within 5 to 15 minutes, if you just maturely talk,
+          non-socializing, no Eric Burnes games, she will say: "Oh...", or "Oh,
+          that's interesting..." and the whole demeanor changes from hiding to
+          full engagement and full connection. She "sees"
           me. That's when you can tell if she really likes you or not. But this
           has to happen before you had sex, otherwise she is already under the
           influence of the love drug and blind from seeing me who I am.
