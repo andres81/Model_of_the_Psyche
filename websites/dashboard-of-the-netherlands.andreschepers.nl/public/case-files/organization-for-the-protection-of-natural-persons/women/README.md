@@ -101,8 +101,8 @@ The elements of the pipeline are at the very least:
 
 ### Bibliography
 
-The idea is to translate the list of books below into elements of the training
-pipeline envisioned above.
+The idea is to translate the list of books and websites below into elements of
+the training pipeline envisioned above.
 
 * [Games people play - Eric Bernes]()
 * The Social Skills Guidebook - Chris Macleod, MSW
@@ -111,3 +111,4 @@ pipeline envisioned above.
       <br/>
     * This book takes care of the problem of anxiety, insecurity, and shyness
       with cognitive reprogramming.
+* [Source for several subjects: Social psychology and logical fallacies](https://effectiviology.com/).
