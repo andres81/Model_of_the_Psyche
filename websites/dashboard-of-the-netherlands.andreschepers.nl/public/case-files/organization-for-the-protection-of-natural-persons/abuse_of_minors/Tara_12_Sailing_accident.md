@@ -54,6 +54,7 @@
 * [Opluchting bij Harlinger schippers: ‘We kunnen de zee weer op’](https://zeepost.info/opluchting-bij-harlinger-schippers-we-kunnen-de-zee-weer-op/)
 * [Toezicht op de bruine vloot schiet tekort: Onderzoeksraad wil actie van minister](https://omroepzilt.nl/nieuws/algemeen/toezicht-op-de-bruine-vloot-schiet-tekort-onderzoeksraad-wil-actie-van-minister/)
 * [Scheepsmast breekt af in Harlingen, drie doden](https://www.nrc.nl/nieuws/2016/08/21/scheepsmast-breekt-af-in-harlingen-drie-doden-a1517270)
+* [Karremans kondigt actieweek met politie aan op Merwedebrug: 'Er vol bovenop zitten'](https://www.rtl.nl/nieuws/binnenland/artikel/5638744/karremans-volgende-week-grote-actie-met-politie-op-merwedebrug)
 
 ### Examples of acting on even the slightest risk of casualties
 
@@ -61,36 +62,36 @@
 * ['Sluiting Merwedebrug voor vrachtwagens toont slechte staat infrastructuur'](https://www.rtl.nl/nieuws/binnenland/artikel/5629359/sluiting-merwedebrug-voor-vrachtwagens-toon-slechte-staat)
 * [Martijns broer verdronk in rivier, Rijkswaterstaat waarschuwt voor gevaren](https://www.rtl.nl/nieuws/binnenland/video/4bcb4b4c-6742-4f08-8f61-6171f1894b6d/martijn-verloor-zijn-broer-tijdens-het)
 * [Mayor acts to protect](https://www.rtl.nl/nieuws/binnenland/artikel/5639977/tractoren-mogen-wegen-niet-meer-op-bij-boerenprotesten-twente)
+* ["Veiligheid heeft onze prioriteit", verklaren de burgemeesters hun besluit](https://www.rtl.nl/nieuws/binnenland/artikel/5639977/tractoren-mogen-wegen-niet-meer-op-bij-boerenprotesten-twente)
 
 ## Introduction
 
-Our children, of us, society, are our responsibility. We have a
-responsibility to keep them safe and healthy. This starts with us and ends
-with the use of proper systems and procedures to protect our children. There are
-tons of safety and health regulations in the Netherlands. Anchored in the
-Netherlands, in the form of laws and regulations. Take the
+Our children, of us, society, are our responsibility. We have a responsibility
+to keep them safe and healthy. This starts with us and ends with the use of
+proper systems and procedures to protect our children. There are tons of safety
+and health regulations in the Netherlands. Anchored in the Netherlands, in the
+form of laws and regulations. Take the
 [Stichting Koninklijk Nederlands Normalisatie Instituut](https://www.nen.nl/en/over-nen)
-for example. If you enter a home, a building, or any place for that matter
-where electricity is available, you can be sure that the place is safe due
-to countless inspections having taken place. It is even punishable by law
-if this has not been done.
+for example. If you enter a home, a building, or any place for that matter where
+electricity is available, you can be sure that the place is safe due to
+countless inspections having taken place. It is even punishable by law if this
+has not been done.
 
 But what about any situation we allow parties we delegate the responsibility to
-of safeguarding our children to put our children in? Like a sailing camp?
-Did the school do their due diligence of checking for safety concerns?
-Looking at all the news, enough was known about the safety hazards, the
-risks of going on one of the boats of the "Brown Fleet". Was the research
-even done? Do high schools trust environments blindly? Do we want to accept
-this as a society? Or should we enforce procedures onto high schools to
-prevent situations like the sailing accident?
+of safeguarding our children to put our children in? Like a sailing camp? Did
+the school do their due diligence of checking for safety concerns? Looking at
+all the news, enough was known about the safety hazards, the risks of going on
+one of the boats of the "Brown Fleet". Was the research even done? Do high
+schools trust environments blindly? Do we want to accept this as a society? Or
+should we enforce procedures onto high schools to prevent situations like the
+sailing accident?
 
 ## Research
 
 ### Timeline of events
 
-* 31 August: Tara gets on the sailing ship and dies due to the fact that
-  part of the mast broke off and landed on her and dies on the spot 
-  from her injuries.
+* 31 August: Tara gets on the sailing ship and dies due to the fact that part of
+  the mast broke off and landed on her and dies on the spot from her injuries.
 
 ### Role of Inspectie Leefomgeving en Transport (ILT)
 
@@ -108,13 +109,13 @@ toezicht te houden op de bruine vloot.'
 
 ##### Translation:
 
-As a result of the accident with the Amicitia, the Safety Board proposed
-Safety (OvV) started an investigation. In 2017, the council released a
-devastating report. It not only severely criticized the sector itself, but also
-the Human Environment and Transport Inspectorate (ILT), the supervisory body
-above the sector. 'The Board notes that knowledge of this sector is not
-present within the inspectorate, which means that this service is also unable to
-supervise the brown fleet.'
+As a result of the accident with the Amicitia, the Safety Board proposed Safety
+(OvV) started an investigation. In 2017, the council released a devastating
+report. It not only severely criticized the sector itself, but also the Human
+Environment and Transport Inspectorate (ILT), the supervisory body above the
+sector. 'The Board notes that knowledge of this sector is not present within the
+inspectorate, which means that this service is also unable to supervise the
+brown fleet.'
 
 #### [Supervision is outsourced](https://www.rtl.nl/nieuws/artikel/5409933/onderzoeksraad-dodelijk-zeilongeluk-terschelling-tara)
 
@@ -133,12 +134,12 @@ aangesproken."
 
 Despite previous recommendations to ensure the safety of the brown fleet, the
 supervision is still not functioning sufficiently, the Dutch Safety Board
-concludes after examination. The Human Environment and Transport
-Inspectorate (ILT) is responsible for the supervision of historic sailing
-ships, but in reality this is outsourced to inspection agencies. "There is a lot
-of room for interpretation of the regulations, the agencies are not
-well-equipped for their task, and the skippers and owners are not sufficiently
-aware of their responsibility."
+concludes after examination. The Human Environment and Transport Inspectorate
+(ILT) is responsible for the supervision of historic sailing ships, but in
+reality this is outsourced to inspection agencies. "There is a lot of room for
+interpretation of the regulations, the agencies are not well-equipped for their
+task, and the skippers and owners are not sufficiently aware of their
+responsibility."
 
 ### Role of the highschool Dalton in The Hague
 
@@ -163,8 +164,8 @@ something went wrong." This year, seven ships with students sailed.
 
 ##### Discussion
 
-My question then is: What did you try to say with this? Did you try to say
-we are not to blame? We did all we could to safeguard the children? It never
+My question then is: What did you try to say with this? Did you try to say we
+are not to blame? We did all we could to safeguard the children? It never
 happened before, so what could we have expected?
 
 The point to make here is: It might have never happened during a workweek
@@ -178,41 +179,39 @@ sailboats with deadly consequences.
 
 What is the
 [duty of care](https://en.wikipedia.org/wiki/Duty_of_care)
-of a mayor in general in the Netherlands and in
-particular in the case of the sailing accident?
+of a mayor in general in the Netherlands and in particular in the case of the
+sailing accident?
 
 ##### *Wiki:*
 
 __*Duty of care may be considered a formalization of the
 [social contract](https://en.wikipedia.org/wiki/Social_contract)
-, the
-established and implicit responsibilities held by individuals/entities towards
-others within society. It is not a requirement that a duty of care be defined by
-law, though it will often develop through the jurisprudence of common law.*__
+, the established and implicit responsibilities held by individuals/entities
+towards others within society. It is not a requirement that a duty of care be
+defined by law, though it will often develop through the jurisprudence of common
+law.*__
 
 When you are a mayor, should you not be aware of what goes on within your
-municipality in regard
-to safety and security? Looking at what a reasonable person could have done
-knowing how many times it had gone wrong with the "Brown Fleet", could the
-mayor have shut down the commercial operation that is the "Brown Fleet"?
-Was this at least attempted? One is
+municipality in regard to safety and security? Looking at what a reasonable
+person could have done knowing how many times it had gone wrong with the "Brown
+Fleet", could the mayor have shut down the commercial operation that is the
+"Brown Fleet"? Was this at least attempted? One is
 [doomed to freedom](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))
-, so how was this
-freedom used by the mayor and the municipality itself?
+, so how was this freedom used by the mayor and the municipality itself?
 
 * Having the knowledge of what is going on in the municipality.
 * Acting upon the knowledge of what is going on in the municipality.
 * Acting upon the expectations of the citizens of the nation if it comes to
   safety and wellbeing of persons within the municipality.
-* If something goes wrong, do a reflection and communicate that back so
-  lessons can be learned.
+* If something goes wrong, do a reflection and communicate that back so lessons
+  can be learned.
 
 What about the question, whether citizens of this country have implicit
 attitudes in the form of trust in mayors that they safeguard safety and
-security? The municipality and the role of the mayor itself as an external
-moral system? If not citizens in general, parents of children that are
-entrusted to authorities that are external moral systems the parents
-delegate the responsibility to, to keep their children safe and sound?
+security? The municipality and the role of the mayor itself as an external moral
+system? If not citizens in general, parents of children that are entrusted to
+authorities that are external moral systems the parents delegate the
+responsibility to, to keep their children safe and sound?
 
 #### Wiki: "Freedom and morality"
 
@@ -221,86 +220,84 @@ adopting an external moral system, as the adoption of such is in itself a choice
 that we endorse – implicitly or explicitly – for which we must take full
 responsibility.*__
 
-This means that on the one hand, the mayor cannot see herself as a victim of
-the situation, because she was dependent on other moral systems than the
-role of mayor, which is a moral system in itself. She as a person is first of
-all responsible for the moral system that is the role of mayor, but also as
-a natural person, she is still responsible. But the excuse that as a mayor,
-you are dependent on other moral systems also does not hold if it comes to
+This means that on the one hand, the mayor cannot see herself as a victim of the
+situation, because she was dependent on other moral systems than the role of
+mayor, which is a moral system in itself. She as a person is first of all
+responsible for the moral system that is the role of mayor, but also as a
+natural person, she is still responsible. But the excuse that as a mayor, you
+are dependent on other moral systems also does not hold if it comes to
 determining responsibility in this situation: To what extent could you trust
 other moral systems like the ILT, the "Brown Fleet", or any other authority
 safeguarding safety and wellbeing after so many accidents?
 
-On the other hand, parents of children that delegate the responsibility to
-other moral systems, namely high schools and within the context of this
-discussion the municipality of Harlingen, are also still responsible, which
-they, at the very least, will feel when something goes terribly wrong. Not
-to blame any parent, but to point out the pain parents must be suffering
-when something happens to your child, after you entrusted the responsibility
-of keeping them safe and sound with another party. At the very least, as a
- society, we must help parents in part at least with tools to determine if 
-that trust is earned and deserved before it goes wrong. Think of the
+On the other hand, parents of children that delegate the responsibility to other
+moral systems, namely high schools and within the context of this discussion the
+municipality of Harlingen, are also still responsible, which they, at the very
+least, will feel when something goes terribly wrong. Not to blame any parent,
+but to point out the pain parents must be suffering when something happens to
+your child, after you entrusted the responsibility of keeping them safe and
+sound with another party. At the very least, as a society, we must help parents
+in part at least with tools to determine if that trust is earned and deserved
+before it goes wrong. Think of the
 [Veiligheid, gezondheid en milieu Checklist Aannemers (VCA)](https://nl.wikipedia.org/wiki/Veiligheid%2C_gezondheid_en_milieu_Checklist_Aannemers)
-tool used in the industry and in construction.
-The
-trust in moral systems needs to be earned. And if that trust is betrayed,
-thorough reflection processes need to take place to what extent these moral
-systems can be trusted. One might choose not to trust highschools and/or
-municipalities any longer being capable and/or willing to do enough to
-safeguard the safety and wellbeing of people they are entrusted with. It
-cannot become a form of Russian Roulette letting your children go on high
-school trips or other events.
+tool used in the industry and in construction. The trust in moral systems needs
+to be earned. And if that trust is betrayed, thorough reflection processes need
+to take place to what extent these moral systems can be trusted. One might
+choose not to trust highschools and/or municipalities any longer being capable
+and/or willing to do enough to safeguard the safety and wellbeing of people they
+are entrusted with. It cannot become a form of Russian Roulette letting your
+children go on high school trips or other events.
 
-The mayor and the municipality need to both be checked for the 
-responsibility they perceive and which they took or not. Also, the question 
-needs to be answered: What is done to prevent this from happening in the 
-future? To what extent are municipalities responsible for the safety and 
-wellbeing of civilians in their municipality? 
+The mayor and the municipality need to both be checked for the responsibility
+they perceive and which they took or not. Also, the question needs to be
+answered: What is done to prevent this from happening in the future? To what
+extent are municipalities responsible for the safety and wellbeing of civilians
+in their municipality?
 
-Also, what do we want as citizens of this country? And what should be 
-communicated to parents of children what they can and cannot expect if it 
-comes to the responsibility that municipalities and mayors of this country 
-carry? Take away trust based on implicit attitudes people have that is 
-misplaced trust: Mayors and municipalities need to earn trust based on 
-explicit contracts agreed upon with society.
+Also, what do we want as citizens of this country? And what should be
+communicated to parents of children what they can and cannot expect if it comes
+to the responsibility that municipalities and mayors of this country carry? Take
+away trust based on implicit attitudes people have that is misplaced trust:
+Mayors and municipalities need to earn trust based on explicit contracts agreed
+upon with society.
 
 ### Role of the media: Research done regarding follow up actions?
 
-What did the media do during and after? Did they ask critical questions? Did 
-they do research if the procedures were followed? And what procedures could 
-have saved Tara?
+What did the media do during and after? Did they ask critical questions? Did
+they do research if the procedures were followed? And what procedures could have
+saved Tara?
 
 ### [Inspectie Leefomgeving en Transport](https://www.ilent.nl/)
 
-What was the responsibility of the ILT to keep the situation safe and to 
-prevent accidents? Did they truly do everything they should and could?
+What was the responsibility of the ILT to keep the situation safe and to prevent
+accidents? Did they truly do everything they should and could?
 
 ### Society
 
-What is the role of citizens of The Netherlands? Did citizens take 
-responsibility for what happened here? Ask for justice? Check who was 
-responsible or at least was expected to take responsibility for shutting 
-down the "Brown Fleet" with the knowledge they were expected to have? Did we,
-the people, check other situations that should be checked for safety 
-concerns if the moral systems we delegate our responsibility to seem to fail?
-Or do we not care that much about safety at all?
+What is the role of citizens of The Netherlands? Did citizens take
+responsibility for what happened here? Ask for justice? Check who was
+responsible or at least was expected to take responsibility for shutting down
+the "Brown Fleet" with the knowledge they were expected to have? Did we, the
+people, check other situations that should be checked for safety concerns if the
+moral systems we delegate our responsibility to seem to fail? Or do we not care
+that much about safety at all?
 
 ### The standard protection society expects (implicit attitudes) in The Netherlands
 
-We, Dutch citizens, expect protection from the government. Looking at 
+We, Dutch citizens, expect protection from the government. Looking at
 [Rijkswaterstaat](https://www.rijkswaterstaat.nl/)
 and closing the
 [Merwedebrug](https://www.rijkswaterstaat.nl/nieuws/archief/2026/07/vrachtverkeer-vanaf-18-juli-2026-18-00-uur-niet-meer-over-de-merwedebrug-gorinchem-a27)
-, because there is a risk of 
-failure, shows how well we are protected normally. However, when people die 
-on ships over and over, and research shows over and over again that people 
-are not safe on ships, nothing is done! No closure, no warning, no nothing! 
-Dalton College keeps using the "Bruine vloot", the mayor of Harlingen lets 
-it all just continue, and the owners of the ships just keep making money... 
-Why take responsibility at all? ILT? For what? Political accountability? "How 
-are you going to enforce that?" Enough!
+, because there is a risk of failure, shows how well we are protected normally.
+However, when people die on ships over and over, and research shows over and
+over again that people are not safe on ships, nothing is done! No closure, no
+warning, no nothing!
+Dalton College keeps using the "Bruine vloot", the mayor of Harlingen lets it
+all just continue, and the owners of the ships just keep making money... Why
+take responsibility at all? ILT? For what? Political accountability? "How are
+you going to enforce that?" Enough!
 
-Where is justice for Tara's parents? Who is going to get them that? And for 
+Where is justice for Tara's parents? Who is going to get them that? And for
 Tara?
 
 ### Analysis of Functional Architecture of, and trust in Moral Systems of The Netherlands
@@ -308,3 +305,25 @@ Tara?
 ![Potentially assumed trust in existing moral systems](Tara-Sailingincident.drawio.png)
 
 #### ******* __*WORK IN PROGRESS*__ *******
+
+# TODO list
+
+* Finish the timeline section:
+    * All the accidents
+    * Aftermath
+    * Media responsibility: What díd they do...
+    * Politicians: What has changed?
+* Investigate the role of the mayor: Should she resign? (In my opinion
+  yesterday!)
+* Investigate the role of the school (Dalton) and the principle: Should she
+  resign? (again, in my opinion yesterday: "In 30 years this hasnt happened...")
+* Politicians: Did they take their due diligence
+* The two men from Fryslan boppe that were interviewed that replaced the wood of
+  all the ships: "Accident, merely an accident..." What an insult to the loved
+  ones and family of Tara. If it was up to me I would have dragged them in front
+  of the European Court of Human rights: Only thinking about themselves and
+  their community. Implying your thinking: "We didnt do anything wrong, we are
+  also vicitms!" What you actually did was not taking responsibility for your
+  freedom. This 'accident' coudl have been prevented by many more parties than
+  just the shipper! I want justice, all kinds, for Tara, her parents and her
+  loved ones. But also for society.

@@ -112,3 +112,6 @@ the training pipeline envisioned above.
     * This book takes care of the problem of anxiety, insecurity, and shyness
       with cognitive reprogramming.
 * [Source for several subjects: Social psychology and logical fallacies](https://effectiviology.com/).
+* [Gespreksvoering in groepen](https://www.boom.nl/hoger-onderwijs/100-19128_Gespreksvoering-in-groepen)
+* [Gespreksvoering](https://www.noordhoff.nl/webshop/product/gespreksvoering-6e-editie-9789001196301)
+* 
