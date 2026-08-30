@@ -36,7 +36,21 @@ The elements of the pipeline are at the very least:
   already.
 * Love
     * Philosophical types of love
-    * How do people love each other?
+    * How do people love each other? Do you as a young woman, get together with
+      a man by allowing him to use you for sex, children (your genes
+      effectively), the social construct that is the relationship with him for
+      him, or do you actually do your job, fulfil your role in the relationship,
+      and make him truly genuinely love you, for a love relationship in return
+      to you? But also, do you check a man if he can fulfil his role as a man in
+      a heterosexual relationship? Looking at psychological, emotional, social,
+      and physical duties and protection, how are they divided between the two
+      sexes in this relationship? The woman protects and takes care of the
+      emotional and psychological tasks and protection, and the man takes care
+      of the physical, psychological, and social aspects. But to agree or
+      disagree, one needs to be aware of these aspects. My experience in the
+      Netherlands, in contrast to outside the country, is that women do not see
+      the emotional duties as their responsibility. Does that work according to
+      science?
     * If heterosexual: What do men need? How to approach love with men and keep
       love until after the age of 35–40?
     * Dangers
@@ -104,7 +118,18 @@ The elements of the pipeline are at the very least:
 The idea is to translate the list of books and websites below into elements of
 the training pipeline envisioned above.
 
-* [Games people play - Eric Bernes]()
+* Games people play - Eric Bernes
+    * 'While conscientious parents devote a great deal of attention to teaching
+      their children procedures, rituals, and pastimes appropriate to their
+      stations in life, and with equal care select schools, colleges, and
+      churches where their teachings will be reinforced, they tend to overlook
+      the question of games, which form the basic structure for the emotional
+      dynamics of each family, and which the children learn through significant
+      experiences in everyday living from their earliest months.'
+    * 'Fortunately, the rewards of game-free intimacy, which is or should be the
+      most perfect form of human living, are so great that even precariously
+      balanced personalities can safely and joyfully relinquish their games if
+      an appropriate partner can be found for the better relationship.'
 * The Social Skills Guidebook - Chris Macleod, MSW
     * Website that covers the same ideas and concepts:
       [Succeed Socially](https://www.succeedsocially.com/thesocialskillsguidebook)
@@ -114,4 +139,13 @@ the training pipeline envisioned above.
 * [Source for several subjects: Social psychology and logical fallacies](https://effectiviology.com/).
 * [Gespreksvoering in groepen](https://www.boom.nl/hoger-onderwijs/100-19128_Gespreksvoering-in-groepen)
 * [Gespreksvoering](https://www.noordhoff.nl/webshop/product/gespreksvoering-6e-editie-9789001196301)
-* 
+
+### Observations
+
+#### Socializing as the only type of social interaction
+
+Socializing as the only type of social interaction at the cost of proper
+formation of one-on-one relations (love/romantic, friendship, family), due to
+the fact that socializing means wearing a social mask to fit in to the situation
+created.
+
