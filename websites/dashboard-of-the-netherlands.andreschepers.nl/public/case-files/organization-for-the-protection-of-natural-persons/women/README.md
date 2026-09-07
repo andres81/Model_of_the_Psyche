@@ -34,6 +34,12 @@ The elements of the pipeline are at the very least:
 * Biological timelines: Men and women are on different timelines. Women have
   their twenties, and then in their thirties autumn starts, if not winter
   already.
+* The necessity to superposition together two ends of a spectrum:
+    * The need to enjoy youth and gain experiences and happy memories: Have
+      casual love / intimate relationships, explore your body and feelings.
+    * Take romantic partners and relationships seriously while still young:
+      Start already learning what your roll is and prepare for motherhood if you
+      wish to have children.
 * Love
     * Philosophical types of love
     * How do people love each other? Do you as a young woman, get together with
@@ -139,6 +145,19 @@ the training pipeline envisioned above.
 * [Source for several subjects: Social psychology and logical fallacies](https://effectiviology.com/).
 * [Gespreksvoering in groepen](https://www.boom.nl/hoger-onderwijs/100-19128_Gespreksvoering-in-groepen)
 * [Gespreksvoering](https://www.noordhoff.nl/webshop/product/gespreksvoering-6e-editie-9789001196301)
+* Psychologische functieleer - Dr. J. van Leyden Sr. (psychological functional
+  learning)
+    * Not that important but just a nice concept to know about: It teaches about
+      tacit knowledge like driving a car: A person with IQ 80 can be taught to
+      drive a car, it takes an IQ 130 (professors in science) to understand how
+      someone knows how to drive a car.
+* Video about anti-social personality disorders:
+  [Gaslighting Expert: Catch Psychopaths Hiding In Plain Sight By Asking This! | Dr Leanne Ten Brinke](https://www.youtube.com/watch?v=AcK_zgJjnoo)
+* [The psychology of attitudes and attitude change](https://www.sagepub.com/shop/buy-a-book/the-psychology-of-attitudes-and-attitude-change-4-287156)
+    * Explains the Attitude concept including implicit ones.
+* Books to help build the pipeline and setting up the requirements:
+    * [Handbook of Requirements and Business Analysis](https://link.springer.com/book/10.1007/978-3-031-06739-6)
+    * [Applying Requirements and Business Analysis](https://link.springer.com/book/10.1007/978-3-031-92160-5)
 
 ### Observations
 
@@ -151,18 +170,18 @@ created.
 
 #### Cultural Paradigm shift in the Netherlands
 
-What I seem to see is that there is a paradigm shift going on at the 
-cultural level in the Netherlands. It seems that there is a cutoff at ages 
-24 to 26. Older, and you have the good ol' VOC era trade mentality "what 
-good are emotions, social intelligence is all one needs! Everything goes as 
-long as it benefits trade / profit". "I smell profit here...". Younger, and 
-I have beautiful experiences with proper mature conversations, in which the 
-other participants carry their own weight in the conversation and the 
-weight of the conversation. No pecking order rituals nor actions, focussed 
-on the content and recognizing me as a conversation partner. A completely 
-different, mature, emotionally intelligent generation: The VOC generations, 
-the last of the Mohicans, are leaving the building, it seems.
-If it comes to women younger than 25/26: I receive protection. They are 
-emotionally intelligent, they care about other people, have a well-developed 
-moral compass, and stand up for others. Light at the end of the tunnel. For 
-them, I would give my life protecting them and the state for that matter.
+What I seem to see is that there is a paradigm shift going on at the cultural
+level in the Netherlands. It seems that there is a cutoff at ages 24 to 26.
+Older, and you have the good ol' VOC era trade mentality "what good are
+emotions, social intelligence is all one needs! Everything goes as long as it
+benefits trade / profit". "I smell profit here...". Younger, and I have
+beautiful experiences with proper mature conversations, in which the other
+participants carry their own weight in the conversation and the weight of the
+conversation. No pecking order rituals nor actions, focussed on the content and
+recognizing me as a conversation partner. A completely different, mature,
+emotionally intelligent generation: The VOC generations, the last of the
+Mohicans, are leaving the building, it seems. If it comes to women younger than
+25/26: I receive protection. They are emotionally intelligent, they care about
+other people, have a well-developed moral compass, and stand up for others.
+Light at the end of the tunnel. For them, I would give my life protecting them
+and the state for that matter.
