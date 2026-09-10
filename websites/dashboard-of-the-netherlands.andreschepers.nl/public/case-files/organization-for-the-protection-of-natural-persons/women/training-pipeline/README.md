@@ -1,6 +1,4 @@
-# Women
-
-## Training pipeline for women 18-24 years old
+# Women - Training pipeline for women 18-24 years old
 
 Would it not be a beautiful gift of society if young women received a training
 pipeline that would teach them what they wouldn't learn by living life, even

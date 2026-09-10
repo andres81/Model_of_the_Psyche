@@ -63,6 +63,8 @@
 * [Martijns broer verdronk in rivier, Rijkswaterstaat waarschuwt voor gevaren](https://www.rtl.nl/nieuws/binnenland/video/4bcb4b4c-6742-4f08-8f61-6171f1894b6d/martijn-verloor-zijn-broer-tijdens-het)
 * [Mayor acts to protect](https://www.rtl.nl/nieuws/binnenland/artikel/5639977/tractoren-mogen-wegen-niet-meer-op-bij-boerenprotesten-twente)
 * ["Veiligheid heeft onze prioriteit", verklaren de burgemeesters hun besluit](https://www.rtl.nl/nieuws/binnenland/artikel/5639977/tractoren-mogen-wegen-niet-meer-op-bij-boerenprotesten-twente)
+* [Veiligheid Hardenbergerbrug niet te garanderen, deel A28 blijft dicht](https://www.rtl.nl/nieuws/binnenland/artikel/5649080/hardenbergerbrug-niet-te-garanderen-a28-blijft-dicht-tot)
+* [Hardenbergerbrug bij Nijkerk zeker 48 uur dicht, A28 in beide richtingen afgesloten](https://www.rtl.nl/nieuws/binnenland/artikel/5648944/brug-a28-bij-nijkerk-beide-richtingen-dicht-uit-voorzorg)
 
 ## Introduction
 
