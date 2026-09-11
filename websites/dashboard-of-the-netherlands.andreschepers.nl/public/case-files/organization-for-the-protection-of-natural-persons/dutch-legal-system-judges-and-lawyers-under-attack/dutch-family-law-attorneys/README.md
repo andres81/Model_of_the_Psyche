@@ -35,3 +35,8 @@ was it department of Justice? Well? Time for action!
   of women suicide when it appears that the death wasn't voluntary, according to
   researchers. The gloves need to come off.
 * And, of course, a letter to the sitting minister of Justice and Security
+
+### Letters
+
+* [Letter to the Attorney organizations](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/dutch-legal-system-judges-and-lawyers-under-attack/dutch-family-law-attorneys/letter-to-lawyer-organisations.pdf)
+* [Letter to the House of Representatives of The Netherlands](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/dutch-legal-system-judges-and-lawyers-under-attack/dutch-family-law-attorneys/letter-to-political-parties-House-of-Representatives.pdf)
