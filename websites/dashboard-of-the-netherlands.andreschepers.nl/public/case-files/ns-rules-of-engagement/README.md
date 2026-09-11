@@ -127,7 +127,7 @@ of this some
 situation that the BOAs can consume. Presenting themselves as heroes, powerful,
 saviors, and what not. While in fact, they abused the situation, the customer,
 and the bystanders that learned from this: "I have no power, and I feel
-oppressed by the mere thread of suffering the same fate. A scapegoat was used to
+oppressed by the mere threat of suffering the same fate. A scapegoat was used to
 communicate: Don't even try."*__
 
 ### Scenario 1: Social intimidation Eindhoven central station

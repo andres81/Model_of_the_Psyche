@@ -20,7 +20,7 @@ There are four development domains that a BOA needs to develop:
 * The skills belonging to the profession should be mastered. This is also
   acquiring knowledge: Tacit knowledge.
 * Developing situational awareness. Recognizing patterns in situations that
-  might indicate a thread or illegal behavior.
+  might indicate a threat or illegal behavior.
 * Mastering the skill to choose the appropriate technique in the right
   situation: Using physical force or talking someone to calm down for example.
 

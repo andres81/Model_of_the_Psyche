@@ -409,7 +409,7 @@ conform to the will of the group.
 
 ## Organisational consequence
 
-The thread looming on the horizon with choosing to act in such a manner and
+The threat looming on the horizon with choosing to act in such a manner and
 choosing these convictions to be part of your culture, is a pyramid structure,
 in which the top layer understands there is only trade and profit. The next
 layer, right underneath, the aristocratic layer, in which the members believe

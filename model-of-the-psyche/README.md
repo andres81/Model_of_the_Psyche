@@ -374,7 +374,7 @@ have to do, in order for the system to achieve individual goals.
 
 But how to get the what? The way the psyche as a system gets the what done, is
 through emotions. Shame, insult, feelings of exclusion, low self esteem, etc...
-But also strong fear if the thread exists of being thrown out of the group:
+But also strong fear if the threat exists of being thrown out of the group:
 Group survival
 is physical survival. Here in lies also a hint for social defenses: If someone
 tries to insult you, but you don't consider them part of your clan, tribe or

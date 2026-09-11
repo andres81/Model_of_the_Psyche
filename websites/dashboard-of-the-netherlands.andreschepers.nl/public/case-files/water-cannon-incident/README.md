@@ -21,7 +21,7 @@ Amsterdam. The use of a water canon was authorised and used in Eindhoven. At a
 certain point during the riots, as can be seen in the video in
 [this article](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5327086/politiebond-geirriteerd-over-vervolging-agente-van-waterkanon),
 a woman is targeted, from a short distance, while she is trying to move by,
-posing absolutely no thread at all. The consequences of being hit, as reported
+posing absolutely no threat at all. The consequences of being hit, as reported
 by her, are disastrous:
 
 * Skull fracture

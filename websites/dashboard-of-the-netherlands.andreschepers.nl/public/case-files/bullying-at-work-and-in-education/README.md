@@ -208,7 +208,7 @@ how does one check group is of true intent
 4. Insight of the context, that when non-members of the group, enter the situation,
    behind closed doors, without knowing what is going on, and then being exposed
    to the moral believes of the group. Keeping that what is immoral to the context,
-   a secret, by way of contract signing and threads of damage and destruction.
+   a secret, by way of contract signing and threats of damage and destruction.
 
 In general, a group that defends their actions, with the argument that they
 would never have an intention to act bad, immorally, unethical, while evading
