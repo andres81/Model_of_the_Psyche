@@ -27,7 +27,7 @@ Postbus 1992<br />
 
 NS, Regionale Eenheid Limburg, Gemeente Maastricht and Inspectie Leefomgeving en Transport,
 
-I write you to report an incident and further measures I am taking. My name is André Schepers and I represent the highest authority in the democracy of the Netherlands: The Institute Citizenship. You represent moral systems that I delegate my moral obligations to until I can no longer do that.
+I write you to report an incident and further measures I am taking. My name is André Schepers and I represent the highest authority in the democracy of The Netherlands: The Institute Citizenship. You represent moral systems that I delegate my moral obligations to until I can no longer do that.
 
 I wish to report to you the incident that happened the evening of the 13th of February 2026 at around 19:30 at the train station of Maastricht.
 

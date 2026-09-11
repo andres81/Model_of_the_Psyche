@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Dutch legal system and with that the democracy of the Netherlands is under
+The Dutch legal system and with that the democracy of The Netherlands is under
 attack in the form of our judges and lawyers being threatened and attacked.
 Looking at the passivity of the Dutchies: Action is required from the moral
 system that is the Dutch government in the form in my honest opinion of new laws

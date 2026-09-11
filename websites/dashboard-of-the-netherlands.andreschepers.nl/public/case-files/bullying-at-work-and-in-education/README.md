@@ -142,7 +142,7 @@ firmly](https://nos.nl/artikel/2512864-utrechtse-studentes-mikpunt-van-seksisme-
 Shouldn't you, as a mayor, but also as a municipality, act proactively, by
 agreeing to a rules of engagement agreement between the representatives of
 society, the local government in this case, and the society? Stating that you
-do protect the citizens of the Netherlands, and not abuse them. But also the
+do protect the citizens of The Netherlands, and not abuse them. But also the
 consequences of not honoring the agreement. Stating clear control mechanisms,
 like an audit trail how every natural person that comes to become a member is 
 treated, how they are protected from rape, sexual abuse, mental abuse, threats,

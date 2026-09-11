@@ -199,7 +199,7 @@ wish to consume the situation, or for policital purposes, is most often not the
 way to go, in the context of a large group, due to the fact of so many different
 opinions.
 
-### Mark Rutte: Prime Minister of the Netherlands
+### Mark Rutte: Prime Minister of The Netherlands
 
 Did mister Rutte speak on his own behalf, or on behalf of himself, a social
 group, or on behalf of the government?

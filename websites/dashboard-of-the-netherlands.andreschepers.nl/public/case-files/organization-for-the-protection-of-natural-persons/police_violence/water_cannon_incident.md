@@ -10,7 +10,7 @@
 
 ## Sources
 
-* [Dashboard of the Netherlands contribution](https://dashboard-of-the-netherlands.andreschepers.nl/#water-cannon-incident)
+* [Dashboard of The Netherlands contribution](https://dashboard-of-the-netherlands.andreschepers.nl/#water-cannon-incident)
 * https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2589&showbutton=true&keyword=eindhoven,waterkanon&idx=1
 * https://www.omroepbrabant.nl/nieuws/4133733/politiebond-geirriteerd-over-vervolging-waterkanonagent-verkeerd-signaal
 * https://www.rtlnieuws.nl/nieuws/nederland/artikel/5327193/agent-vervolgt-voor-spuiten-vrouw-met-waterkanon-rellen-eindhoven
@@ -87,7 +87,7 @@ and
    [ruled](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2589&showbutton=true&keyword=eindhoven,waterkanon&idx=1)
    that the police officer used appropriate violence, that I as a citizen of The
    Netherlands, André Schepers, see that ruling as a failure of the moral system
-   that is the legal system of the Netherlands, to get to justice. Therefore,
+   that is the legal system of The Netherlands, to get to justice. Therefore,
    [that I have to take responsibility back](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)#Freedom_and_morality)
    to attain societal justice for the citizens of this country and in particular
    the victim that was almost killed by the use of the water cannon. Also, that
@@ -199,9 +199,9 @@ The legal system in the Netherlands is a moral system we, citizens of the
 Netherlands, delegate the responsibility of reaching justice to. If the legal
 system fails, due to incompetence or acting in bad faith by a court, the judges
 we should be able to trust, the responsibility comes back to the citizens of the
-democracy of the Netherlands. Societal justice is achieved by legal justice. So
+democracy of The Netherlands. Societal justice is achieved by legal justice. So
 in the case the legal system fails, societal justice should be reached by the
-efforts of the citizens of the democrazy of the Netherlands. The police officer
+efforts of the citizens of the democrazy of The Netherlands. The police officer
 acts on behalf of the police organization Oost-Brabant. This organization as
 well as the whole police organization should be asked for a justification for
 this situation. But also political parties currently having a seat in the House

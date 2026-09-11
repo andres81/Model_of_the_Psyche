@@ -34,7 +34,7 @@ punishment will be.
 
 If this is not properly communicated by the system responsible to do oversight
 of police actions, then civil unrest might occur as a consequence. Don't moral
-systems like the police force of the Netherlands have a moral and systemic,
+systems like the police force of The Netherlands have a moral and systemic,
 societal obligation to always, with every act, think about the degree of civil
 unrest this might cause? Moreover, a duty to act opposite of causing civil
 unrest and frustration? The police force is an element of the government and
@@ -146,7 +146,7 @@ substance to the execution of the tasks belonging to the role the individual is
 fulfilling at that moment. Because the police officer is only tasked at that
 moment with arresting the woman, not executing punishment, that is up to a
 judge. And how an arrest is done is agreed upon with society, and checked by the
-citizens of the Netherlands.
+citizens of The Netherlands.
 
 But was this situation as described above, addressed as it is? Did the police
 chief address the procedure to test if the violence used, was allowed? She

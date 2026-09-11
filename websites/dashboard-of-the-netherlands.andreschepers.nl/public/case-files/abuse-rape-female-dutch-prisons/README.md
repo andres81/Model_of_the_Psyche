@@ -37,7 +37,7 @@ again? Are Dutch citizens, women, protected now in prisons in the Netherlands
 from the government itself? The government, should understand, that public
 servants and employees of the government, act always on behalf of the
 government. The government is fully, 100%, responsible for the behaviour of these
-people. But the citizens of the Netherlands, are responsible for the actions of
+people. But the citizens of The Netherlands, are responsible for the actions of
 their government. What are citizens doing about this problem? Are they seeing it
 even as a problem? A lot of questions to be answered. And fast!
 

@@ -84,13 +84,13 @@ Steps that will be taken then:
 
 ## Mini Civil War
 
-Farmers of the Netherlands, what you actually did, under the guise of protesting
+Farmers of The Netherlands, what you actually did, under the guise of protesting
 for your rights and well being, was waging a civil war, that targeted civilians
 and politicians. This will not be accepted! I will fight for better protection
 of civilians, politicians, and anyone working in the context of the democracy we
 have fought so hard for in the Netherlands. What about the
 [professionals of the military](https://www.rtl.nl/rtl-nieuws/artikel/5320575/marco-kroon-omgekeerde-vlag-boeren-protest-militairen)
-that saw you abusing the symbol that is the flag of the Netherlands? You think
+that saw you abusing the symbol that is the flag of The Netherlands? You think
 every act used as rhetoric, any form, is legitimized by the goals for said
 rhetoric? You think that will work?
 

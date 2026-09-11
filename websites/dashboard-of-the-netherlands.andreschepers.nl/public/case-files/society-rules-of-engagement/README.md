@@ -429,7 +429,7 @@ execution of these tasks, don't actively check the quality of said execution.
 One clearly deviates from the task description once political substance has been
 added. Take the [Dutch childcare benefits scandal](https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal)
 for example. Didn't public servants proxy their functions? Racism as a starting
-point when judging if civilians of the Netherlands should be "punished"? I'm
+point when judging if civilians of The Netherlands should be "punished"? I'm
 just asking, because one can never proof the intention of other people.
 
 ## Dutch Judges

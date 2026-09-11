@@ -27,8 +27,8 @@ was it department of Justice? Well? Time for action!
 
 * Letter to the sitting political parties in
   the [House of Representatives](https://www.houseofrepresentatives.nl/)
-  of the Netherlands.
-* Letter to the order of attorneys of the Netherlands: Action is needed, and
+  of The Netherlands.
+* Letter to the order of attorneys of The Netherlands: Action is needed, and
   they need to back this up or come up with their own incentives.
 * Letter to the ministry of Justice that they need to go zero tolerance. Not the
   bullshit of calling women paranoïd when they fear femicide. Nor calling deaths
