@@ -7,7 +7,7 @@ Turfmarkt 147<br/>
 
 12 September 2026, The Netherlands
 
-Ministry of Justice and Security, minister of Justice and Security,
+Ministry of Justice and Security, minister of Justice and Security van Weel,
 
 I write you with regard to the research done by Investico and RTL Nieuws.
 
@@ -20,7 +20,7 @@ What the hell of a reaction was:
 advocaat meer kunnen vinden. Juist in het familierecht, waar conflicten diep
 kunnen ingrijpen in het leven van ouders en kinderen."*
 
-Laissez-faire and disrespectful to the victim: So also the attorneys, right?
+Laissez-faire and disrespectful to the victim: So also, the attorneys, right?
 RIGHT? I don't see anything regarding the deserved restorative and retributive
 justice in your response to RTL Nieuws... Why? I delegate my responsibility of
 keeping people safe to you, and then this is your response? "Go to the police,
