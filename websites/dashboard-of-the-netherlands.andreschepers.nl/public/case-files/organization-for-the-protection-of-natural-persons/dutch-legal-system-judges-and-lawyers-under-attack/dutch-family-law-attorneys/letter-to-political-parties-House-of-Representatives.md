@@ -87,4 +87,4 @@ https://www.andreschepers.nl
 <br/>
 This letter can be found online:
 <br/>
-https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/dutch-legal-system-judges-and-lawyers-under-attack/dutch-family-law-attorneys/letter-to-political-parties-House%20of%20Representatives.md
+https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/dutch-legal-system-judges-and-lawyers-under-attack/dutch-family-law-attorneys/letter-to-political-parties-House-of-Representatives.md

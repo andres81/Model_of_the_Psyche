@@ -1,13 +1,11 @@
-André Schepers
-<br/>
+André Schepers<br/>
 https://www.andreschepers.nl
 
-Nederlandse Vereniging Familie- en erfrecht Advocaten Scheidingsmediators (vFAS)
-<br/>
+Nederlandse Vereniging Familie- en erfrecht Advocaten Scheidingsmediators
+(vFAS)<br/>
 https://verenigingfas.nl/welkom-bij-de-vfas/
 
-Nederlandse orde van advocaten
-<br/>
+Nederlandse orde van advocaten<br/>
 https://www.advocatenorde.nl/
 
 11 September 2026, The Netherlands
@@ -33,5 +31,8 @@ nieuws is simply not enough. Not as a citizen, nor as a professional
 organization. Therefore the question what you have done, are doing and plan to
 do to help the professionals in need of protection.
 
-André Schepers
+André Schepers<br/>
 A concerned citizen of The Netherlands
+
+P.S.: This letter is publicly available online:<br/>
+https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/dutch-legal-system-judges-and-lawyers-under-attack/dutch-family-law-attorneys/letter-to-lawyer-organisations.md
