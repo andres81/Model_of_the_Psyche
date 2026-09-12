@@ -10,7 +10,6 @@
 
 ## Sources
 
-
 ## Introduction
 
 __*One for all*__: One organization for any natural person that requires help or
@@ -18,8 +17,7 @@ protection. Whether that is from the government, an employer, or any threat
 perceived.
 
 __*All for one*__: Every natural person supports this idea of a central concept
-out
-there, whether that being a concrete organization or not, but at least a
+out there, whether that being a concrete organization or not, but at least a
 concrete concept, that everyone can draw from. Support that can come in the form
 of financial support, moral support, intellectual support, you name it. Carried
 by many, protecting the few.
@@ -36,8 +34,8 @@ Think of this conceptual organization protect victims of:
 
 ## A new way of looking at things: What the industry does
 
-In certain Dutch industries ((petro) chemical, construction), for the sake
-of safety, something called the
+In certain Dutch industries ((petro) chemical, construction), for the sake of
+safety, something called the
 [Veiligheid, gezondheid en milieu Checklist Aannemers (VCA)](https://nl.wikipedia.org/wiki/Veiligheid%2C_gezondheid_en_milieu_Checklist_Aannemers)
 certification is required. The primary reason this is required is to ensure that
 the safety of the people in the industry is not compromised and to reduce the
@@ -55,11 +53,10 @@ situations and report them as soon as possible."
 The certification trains a worker what dangerous ways of working, situations,
 and circumstances are to be able to recognize them and how to act on them.
 
-But if this is the functionality that is required and
-given by this method, why not reuse this method in the protection of natural 
-persons?
-That we subsequently call: Veiligheid en Gezondheid Checklist Burgers
-(VCB) (Safety and Health Checklist Civilians)?
+But if this is the functionality that is required and given by this method, why
+not reuse this method in the protection of natural persons? That we subsequently
+call: Veiligheid en Gezondheid Checklist Burgers (VCB) (Safety and Health
+Checklist Civilians)?
 
 ## Justice
 
@@ -74,20 +71,19 @@ allocate benefits and burdens.*
 
 #### Four primary types of justice
 
-*The concept of justice is generally split into four distinct framework 
-types:*
+*The concept of justice is generally split into four distinct framework types:*
 
 * *Distributive justice: Focuses on the fair allocation of resources, wealth,
   and opportunities within a society.*
 
-* *Procedural justice: Focuses on the fairness of the
-  decision-making processes and ensuring legal transparency.*
+* *Procedural justice: Focuses on the fairness of the decision-making processes
+  and ensuring legal transparency.*
 
-* *Retributive justice: Focuses on proportional punishment for wrongdoings 
-  and violations of the law.*
+* *Retributive justice: Focuses on proportional punishment for wrongdoings and
+  violations of the law.*
 
-* *Restorative justice: Focuses on repairing relationships, healing victims,
-  and rehabilitating the offenders.*
+* *Restorative justice: Focuses on repairing relationships, healing victims, and
+  rehabilitating the offenders.*
 
 ### Wikipedia
 
@@ -101,8 +97,8 @@ Youtube video
 
 ## [Call for a new Moral System](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/call_for_a_new_moral_system/README.md)
 
-Is the legal system still enough? Do we get moral justice through the use of 
-the moral system that is the legal system? Where does it fail when it fails,  
+Is the legal system still enough? Do we get moral justice through the use of the
+moral system that is the legal system? Where does it fail when it fails,  
 and how are these failures compensated if at all?
 
 ## [(Sexual) abuse of, and lack of protection for minors](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/README.md)
@@ -110,19 +106,25 @@ and how are these failures compensated if at all?
 ### Real world examples
 
 #### [Dutch Kickboxer Anne](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/dutch_kickboxer_Anne.md)
+
 #### [Pleegmeisje Vlaardingen](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/pleegmeisje_vlaardingen.md)
-#### [Tara (12) Sailing accident](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/Tara_12_Sailing_accident.md)
+
+#### [Tara Sailing accident](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/Tara_12_Sailing_accident.md)
+
+* [Letter to the municipality of Harlingen](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/letter-to-Harlingen-municipality-and-mayor.md)
 
 ## Police violence
 
 ### Real world examples
 
 #### [AZC Zeist pregnant woman](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/police_violence/azc_Zeist_pregnant_woman.md)
+
 #### [Eindhoven Water Cannon Incident](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/police_violence/water_cannon_incident.md)
 
 ## Women
 
 ### [Training pipeline](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/women/training-pipeline/README.md)
+
 ### [Military Women](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/women/military-women/README.md)
 
 ## [Dutch Legal System under attack](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/dutch-legal-system-judges-and-lawyers-under-attack/README.md)
