@@ -95,6 +95,23 @@ Wikipedia entry regarding justice:
 Youtube video
 [here](https://www.youtube.com/watch?v=GyEMbIRYVGA).
 
+### For those that understand
+
+After the WWII, the mentality was to rebuild and don't complain. Keep going.
+Think about the children, the future of the next generations. "Polderen", at the
+end of the day we forget about all of it, and we do it as a collective. No need
+for explicit retributive and restorative justice: The group takes care of that.
+However, that principle and implicit belief, implicit attitudes programmed into
+people through culture and its cultural wisdom, is outdated and doesn't apply
+anymore: The country was rebuild. Don't become a tool for the greedy. Dare to
+ask for explicit retributive and restorative justice for yourself. Irrespective
+of what the legal system has to offer or stands for even implicitly. The legal
+system is merely a reflection of the moral convictions of the current status quo
+or from the past. It should not dictate what you perceive, what is right or
+wrong and what is justice for you. You deserve more. I try to stand by you for
+deserved justice of any kind as much as I can, and believe it is our civil duty
+and duty of care as citizens of a democracy.
+
 ## [Call for a new Moral System](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/call_for_a_new_moral_system/README.md)
 
 Is the legal system still enough? Do we get moral justice through the use of the
