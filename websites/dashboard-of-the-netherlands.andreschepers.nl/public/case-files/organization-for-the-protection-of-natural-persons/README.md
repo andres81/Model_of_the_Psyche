@@ -112,11 +112,46 @@ wrong and what is justice for you. You deserve more. I try to stand by you for
 deserved justice of any kind as much as I can, and believe it is our civil duty
 and duty of care as citizens of a democracy.
 
+## The failing attempts presently available: The European Court of Human Rights
+
+What protection does one have, if you only have
+a [court](https://www.echr.coe.int/) one can address when the state is not
+protecting the human rights, as defined by that same court? An example is being
+shot by a water cannon and having your skull fractured by police in Eindhoven,
+and a judge then ruling it was according to the "ambtsinstructie". Also, the
+incident with a mast breaking due to rotten wood, and killing a young teenage
+girl, Tara. Didn't parties involved fail to protect? As far as I can see,
+according to the European court, failing to protect is not a violation of human
+rights you can go to this European Court for. However, I dó consider it
+violations of human rights, and wíll act accordingly by escalating to the
+international community that includes the United States of America. On top of
+that, it requires you to have exhausted all domestic legal routes:
+
+*[Applicants must first exhaust all domestic remedies. This means you must have taken your case through your own country’s court system and received a final decision before the ECtHR will consider it.](https://www.eurosocialists.org/what-is-the-european-court-of-human-rights/)*
+
+What one wants, being an individual, is not doing it yourself when you are a
+victim, but an impartial entity, that fights for you, besides you. This is of
+course expected to be any citizen of your nation, as part of their civil duty.
+However, if the lack of fulfilling that duty, is part of the human rights
+violations... So, in short: It's time for new moral systems I and other citizens
+of any human rights respecting nation should work together on in order for these
+new moral systems to help us fight for human rights we all appreciate so much.
+
+Are retributive and restorative justice not also human rights? Justice is a
+human right if I'm not mistaken, and therefore if
+the [ECHR](https://www.echr.coe.int/) only focusses on retributive justice in
+the form of punishing states, if at all, individuals are stíll not effectively
+protected from human rights violations! Here I am: The A-Team. One can come to
+me to take care of business, especially when the police calls you paranoïd for
+example in The Netherlands, I will step in with full force and necessity to
+combat femicide. Make the police go to their knees when it becomes clear what
+they neglected to do...
+
 ## [Call for a new Moral System](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/call_for_a_new_moral_system/README.md)
 
 Is the legal system still enough? Do we get moral justice through the use of the
-moral system that is the legal system? Where does it fail when it fails,  
-and how are these failures compensated if at all?
+moral system that is the legal system? Where does it fail when it fails, and how
+are these failures compensated if at all?
 
 ## [(Sexual) abuse of, and lack of protection for minors](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/README.md)
 
