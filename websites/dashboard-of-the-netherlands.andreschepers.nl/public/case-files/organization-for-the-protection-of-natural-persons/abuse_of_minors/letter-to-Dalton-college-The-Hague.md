@@ -1,13 +1,11 @@
 André Schepers<br/>
 https://www.andreschepers.nl
-<br/><br/><br/>
 
 Dalton Den Haag<br/>
 Aronskelkweg 1<br/>
 2555 GA Den Haag
-<br/><br/><br/>
 
-14 September 2026, The Netherlands
+19 September 2026, The Netherlands
 
 Dalton college The Hague,
 

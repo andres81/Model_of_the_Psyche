@@ -164,6 +164,8 @@ are these failures compensated if at all?
 #### [Tara Sailing accident](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/Tara_12_Sailing_accident.md)
 
 * [Letter to the municipality of Harlingen](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/letter-to-Harlingen-municipality-and-mayor.md)
+* [Letter to Dalton College](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/letter-to-Dalton-college-The-Hague.md)
+* [Letter to Organization for municipalities](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/letter-to-Vereniging-van-Nederlandse-Gemeenten-VNG.md)
 
 ## Police violence
 
