@@ -94,7 +94,84 @@ not at all responsible? Please a full justification for your actions.
 Dalton college, being a high school, means you are a moral system. I, as a
 citizen of this country, delegate my responsibility to you to keep people safe.
 When that fails, the responsibility comes back to me. You failed. Therefore, I
-write you to ask for answers to the questions above.
+write you to ask for answers to the questions above. Moreover, in my opinion you
+are in part responsible and therefore accountable for the death of Tara: You
+could have done your homework regarding the situation you put the students in:
+The bruine vloot context of Harlingen of which it was known due to research by
+the Onderzoeksraad voor de Veiligheid, that the wood was rotten potentially and
+that checks were not done sufficiently.
+
+__Jean-Paul Sartre (and Simone de Beauvoir)__
+
+[L'Être et le Néant](https://fr.wikipedia.org/wiki/L'%C3%8Atre_et_le_N%C3%A9ant) -
+*A) Mijn plaats*
+
+*Het kan niet zo zijn dat ik geen plaats heb, anders zou ik me, ten opzichte van
+de wereld, in een zwevende toestand bevinden en zou de wereld zich op geen
+enkele manier meer manifesteren, zoals we eerder hebben gezien. Hoewel die
+werkelijke plaats me door mijn vrijheid kan zijn toegewezen (ik ben er
+'gekomen'), kan ik haar overigens alleen maar hebben ingenomen op grond van de
+plaats die ik eerder innam en door de wegen te volgen die door de objecten zelf
+waren gebaand. En die vroegere plaats verwijst me naar een andere en deze naar
+weer een andere enzovoort, tot __de loutere contingentie van mijn plaats__, dat
+wil zeggen tot die plaats van al mijn plaatsen die naar niets meer van __mij__
+verwijst: de plaats die de geboorte me toewijst. Het heeft geen enkele zin deze
+laatste plaats te verklaaren aan de hand van die welke mijn moeder innam toen ze
+mij ter wereld bracht: de keten is verbroken, de vrijelijk door mijn ouders
+ingenomen plaatsen kunnen geenszins dienen ter verklaring van mijn plaatsen; en
+als ik een van die plaatsen beschouw in relatie tot mijn plaats van oorsprong -
+zoals men bijvoorbeeld zegt: ik ben in Bordeaux geboren doordat mijn vader er
+als ambtenaar werd aangesteld, ik ben in Tours geboren doordat mijn grootouders
+er landerijen hadden en mijn moeder er een toevlucht had gezocht toen ze,
+tijdens haar zwangerschap, te horen kreeg dat mijn vader was gestorven - dan is
+dat om beter te doen uitkomen hoezeer __voor mij__ de geboorte en de plaats
+contingente zaken zijn.*
+
+The above describes part of
+*[the facticity that signifies all of the concrete details against the background of which human freedom exists and is limited](https://en.wikipedia.org/wiki/Facticity#Sartre_and_de_Beauvoir)*:
+birth, the only time you didn't decide with your freedom what place you end up
+in, and therefore become responsible for the situation you find yourself in.
+
+*Op welk ogenblik dan ook zal ik dus me vatten als geëngageerd in de wereld, als
+gebonden aan mijn contingente plaats, die mijn vrijheid is, haar betekenis.
+Zeker, bij mijn geboorte __neem ik plaats__, maar ik ben verantwoordelijk voor
+de plaats die ik neem. We zien hier duidelijker de onontwarbare band tussen
+vrijheid en facticiteit in de situatie, aangezien de vrijheid - als vermogen tot
+vernieting en tot keuze - zonder de facticiteit niet zou bestaan en aangezien
+zonder de vrijheid de facticiteit niet zou worden blootgelegd en zelfs geen
+enkele betekenis zou hebben.*
+
+You, as a school, are responsible for the safety of the students. Anytime they
+are given to you to oversee their wellbeing. A schooltrip is an example of them
+being at your mercy. Every employee of your school that knew about that trip is
+responsible: They should have kept up with the news, they should have done
+research into where the kids were going, and if that situation was safe or not.
+Not to the same degree maybe, but looking at our duty to do everything one can
+to prevent unnecessary accidents with lethal consequences, one should ask if
+people did their moral and civil duty. To what extent are you accountable for
+the death of Tara, who you put in a known dangerous situation, because of
+potential wood rot, which is exactly the reason she died? Did you check what the
+Onderzoeksraad voor de veiligheid had concluded regarding the safety of the
+boats? Looking at the response of your school, something along the lines of that
+it had not happened in thirty years of school trips, you only looked most likely
+at your own experiences. That is an example of gross negligence in my opinion,
+and can never be accepted, ever.
+
+Therefore, I conclude that, if you as a school did not take responsibility after
+the accident, at the very least to decide how this could have been prevented,
+which it could in my opinion, the teachers that were part of the trip and the
+current schoolboard, should resign. Did you communicate with other highschools,
+the Inspectie voor Onderwijs, municipalities of The Netherlands, that this
+should be prevented in the future? Or did you merely think you were a victim as
+well and had no obligation, morally, societally, at all, to do something?
+
+My message to any municipality and highschool: Only when a situation has been
+explicitly been designated as a safe environment, with acceptable risks
+regarding (lethal) accidents potentially happening, are you allowed to let
+people go into these situations. Situations that are described in part by their
+place where they occur. You fail to do so, after you have been warned by me by
+these letters, means the harshest repercussions for you: Retributive and
+restorative justice in any way possible. There will not be any excuse anymore.
 
 André Schepers
 
