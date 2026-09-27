@@ -91,35 +91,12 @@ core intention being to gain, or in line with the intention of the universe:
 Evolve ideas, increase the chances for life to exist... etc. What helps a
 person most if it comes to answering the question that is, how to choose the
 universe over my own benefit? What is the concrete right choice in a given
-situation? Choosing the universe from a moral point of view, does not imply
+situation? Choosing the universe from a moral point of view does not imply
 immediately a clear-cut answer to the question of how to act in any given
 situation. Nor is it easy to determine why someone apparently acted against the
 will of the universe, against life, if that someone even did to begin with. Was
 there intent to act in that manner, and was the behavior even factually against
 the will of the universe? A clear example is shooting wildlife, which is a clear
 example of explicitly ending life, with the intent to end life, but the bigger
-context is, that by doing so, other life gets a chance: The flora can grow with
+context is that by doing so, other life gets a chance: The flora can grow with
 the artificially created absence of the fauna that was removed.
-
-    Yes... "acting morally", "acting according to morals", I hear philosophers
-    already ramming their keyboards, you keyboard warriors you, but the premis
-    here is that people have decided to differentiate themselves from animals,
-    acting non-rational, instead becoming human, using there ability to act
-    according to rational, a set of personal convictions, that act as a set of
-    rules dictating the boundaries of behavior, of which one wishes they are
-    laws that apply to everyone (Kant something...).
-
-A very difficult example to digest is the situation one can find themselves in,
-in which the choice can be made to destroy humankind, because humankind
-threatens to destroy all life on earth. "You mean climate change? Earth can
-handle that..., AI? Earth can handle that too...". No, none of the above, im
-talking about
-[mirror life](https://en.wikipedia.org/wiki/Mirror_life).
-Pure nightmare fuel.
-In that case one kills humankind, to safe life on Earth. But would you want to
-be that person?
-Ending humankind then is perfectly in line with the will of the universe:
-Creating life and having it evolve. But who is going to understand you ending
-humanity if they have no clue at all something called mirror life is the reason?
-
-## Let us begin...

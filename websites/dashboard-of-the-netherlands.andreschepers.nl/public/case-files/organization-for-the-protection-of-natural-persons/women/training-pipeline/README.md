@@ -38,6 +38,15 @@ The elements of the pipeline are at the very least:
     * Take romantic partners and relationships seriously while still young:
       Start already learning what your roll is and prepare for motherhood if you
       wish to have children.
+* Social defenses
+    * Defense against social psychiatric Eric Berne's 'Games people play' games
+      played in the context of mathematical game theory games being played by
+      thermodynamic hungry processes.
+        * [Veritasium - YouTube](https://www.youtube.com/watch?v=mScpHTIi-kM)
+    * The American way of playing the game of life:
+        * Treat everyone as your best friend, but consider them a psychopathic
+          opportunistic killer that wants to victimize you: Treat careful but
+          give the benefit of the doubt, always.
 * Love
     * Philosophical types of love
     * How do people love each other? Do you as a young woman, get together with
