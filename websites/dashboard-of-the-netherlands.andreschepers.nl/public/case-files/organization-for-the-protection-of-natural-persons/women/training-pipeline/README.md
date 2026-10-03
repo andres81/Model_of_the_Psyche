@@ -24,6 +24,8 @@ The elements of the pipeline are at the very least:
     * Fitness
     * Health
     * Eastern martial arts
+        * [Morihei Ueshiba](https://en.wikipedia.org/wiki/Morihei_Ueshiba)
+        * [Kisshomaru Ueshiba](https://en.wikipedia.org/wiki/Kisshomaru_Ueshiba)
     * Meditation
     * Sex education
 * Spirituality
@@ -45,8 +47,27 @@ The elements of the pipeline are at the very least:
         * [Veritasium - YouTube](https://www.youtube.com/watch?v=mScpHTIi-kM)
     * The American way of playing the game of life:
         * Treat everyone as your best friend, but consider them a psychopathic
-          opportunistic killer that wants to victimize you: Treat careful but
+          opportunistic killer that wants to victimize you: Treat carefully but
           give the benefit of the doubt, always.
+    * Defense against social engineering strategies and tactics.
+    * Defense against Art of War attacks.
+        * I. Laying Plans
+        * II. On Waging War
+        * III. The Sheathed Sword
+        * IV. Tactics
+        * V. Energy
+        * VI. Weak Points & Strong
+        * VII. Maneuvering
+        * VIII. Variation of Tactics
+        * IX. The Army on the March
+        * X. Terrain
+        * XI. The Nine Situations
+        * XII. Attack by Fire
+        * XIII. The Use of Spies
+            * WhatsApp: Be aware of others having access to your WhatsApp
+              account / phone: In WhatsApp someone else can add an account to
+              yours, effectively enabling spying on your WhatsApp account:
+              Settings → Linked devices
 * Love
     * Philosophical types of love
     * How do people love each other? Do you as a young woman, get together with
