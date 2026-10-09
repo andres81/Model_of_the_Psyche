@@ -201,6 +201,10 @@ are these failures compensated if at all?
 
 ## [(Sexual) abuse of, and lack of protection for minors](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/README.md)
 
+### Primary school
+
+### [High school](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/highschool/README.md)
+
 ### Real world examples
 
 #### [Dutch Kickboxer Anne](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/abuse_of_minors/dutch_kickboxer_Anne.md)
