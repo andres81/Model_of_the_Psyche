@@ -58,6 +58,52 @@ not reuse this method in the protection of natural persons? That we subsequently
 call: Veiligheid en Gezondheid Checklist Burgers (VCB) (Safety and Health
 Checklist Civilians)?
 
+## Social Defenses
+
+Every day we find ourselves in social situations. However, the distinction is
+hardly ever made between social and social group situations, while for our
+instincts there is a clear and distinctive difference: The context of a social
+group situation is a social situation with different tribes/clans/social
+groups competing with each other for the same set of resources: Land, water,
+food. It is dangerous to be ostracized, as
+[dr Ramani](https://doctor-ramani.com/) explains
+[here](https://www.youtube.com/shorts/7jg6Bp9yhz0). And if you break free,
+the group will punish you to show the group members that are left behind:
+"See what we will do to you if you break free as well or speak up / sabotage
+our group!"
+
+At work/sport/gatherings of any kind or nature, it should be proactively
+communicated to participants it is a social, not social group situation.
+Thát is respecting the human rights of all participants. You communicate
+intent. Any participant, in turn, should ask if not proactively communicated,
+what the goal is of the group they are about to join, and if the intention
+does not become clear, or it becomes clear, the group has other plans,
+escalate to society: Together we stand tall and protect each other.
+
+Therefore, citizens should be educated in recognizing the patterns of
+behavior in group thing situations, sects, cults, and other social groups
+situations in which a minority as small as one (cult) leader wants total
+control. "Drink the Kool-Aid"... Be warned of the infamous technique of
+cognitive programming to get a group of
+"[Flying Monkeys](https://en.wikipedia.org/wiki/Winged_monkeys)" going.
+
+__*The now widely used but inaccurate term flying monkey has been adopted in
+psychology, referring to someone who performs enabling work on behalf of an
+abusive person. This does not really fit with the depiction in the book, where
+the avian simians are under the magic spell of the Golden Cap, and must obey its
+wearer.*__
+
+Or in case
+of [narcissistic abuse](https://www.simplypsychology.com/articles/flying-monkeys-narcissistic-abuse):
+
+__*The term "flying monkeys" — borrowed from the Wicked Witch's enforcers in The
+Wizard of Oz — refers to people who a narcissist recruits, whether consciously
+or unconsciously, to extend their reach, control, and influence beyond what they
+can achieve alone. Flying monkeys carry messages, gather information, deliver
+guilt or pressure, spread false narratives, and otherwise serve the narcissist's
+agenda, often while believing they are simply helping or mediating a
+conflict.*__
+
 ## Justice
 
 What is justice?

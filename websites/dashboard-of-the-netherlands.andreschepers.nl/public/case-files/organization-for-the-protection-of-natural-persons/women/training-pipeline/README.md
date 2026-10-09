@@ -50,6 +50,28 @@ The elements of the pipeline are at the very least:
           opportunistic killer that wants to victimize you: Treat carefully but
           give the benefit of the doubt, always.
     * Defense against social engineering strategies and tactics.
+    * Group dynamics
+        * Group think
+        * Projecting a social group situation over non-social group situations
+          like
+          work/sport activities/gatherings and subsequently gaslighting a
+          person in believing they are the reason for
+          being [ostracized](https://dictionary.cambridge.org/dictionary/english/ostracizing).
+          While there is no social group situation that you depend on. A
+          social situation is not necessarily a social group situation. However,
+          especially in The Netherlands, when you have been reared with the idea
+          that exclusion from a social group means from society and not
+          surviving, your instincts will be through the roof. "Laten we het
+          sociaal houden toch? Wel zo netjes! Samen en niet allemaal voor
+          zichzelf, héél egoïstisch zou dat zijn, toch?" "TOCH!!!!????" Holy
+          shit, Dutch nightmare fuel! VOC era mentality legacy engagement
+          strategies for control, power, and wealth (generational!). Don't
+          allow any human interaction situation, a group of people that
+          choose to come together to work together to reach a certain goal,
+          to
+          become [a cult like situation](https://www.youtube.com/shorts/7jg6Bp9yhz0).
+          Watch out for passive-aggressive behavior in the form of logical
+          fallacies: Example being the straw man fallacy.
     * Defense against Art of War attacks.
         * I. Laying Plans
         * II. On Waging War
