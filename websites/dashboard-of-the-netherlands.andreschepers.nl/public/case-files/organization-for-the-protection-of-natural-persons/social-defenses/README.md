@@ -128,7 +128,7 @@ membership, feeling elite at times.
 
 ## What or who is society?
 
-Society, that is us, the citizens of this country, a democracy. At any time
+Society, that is us, the citizens a democracy. At any time
 I fulfill a roll in society: Employee, guest in a shop, partaking in a sport
 event, im always first and foremost a citizen wiht civil and moral
 obligations. I represent the highest authority in this country: The
