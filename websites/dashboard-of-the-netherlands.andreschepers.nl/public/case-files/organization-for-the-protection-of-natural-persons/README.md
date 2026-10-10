@@ -58,7 +58,7 @@ not reuse this method in the protection of natural persons? That we subsequently
 call: Veiligheid en Gezondheid Checklist Burgers (VCB) (Safety and Health
 Checklist Civilians)?
 
-## Social Defenses
+## [Social Defenses](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/social-defenses/README.md)
 
 Every day we find ourselves in social situations. However, the distinction is
 hardly ever made between social and social group situations, while for our
