@@ -141,3 +141,40 @@ The same holds when I fulfill the roll of employee: I have higher authority
 than whatever rank within the company up to and inlcuding the CEO. I can
 shut the operation down, and I should if physical and or psychosocial abuse
 is going on.
+
+## What Social Defenses are needed
+
+Martial arts make inventories of attacks and the defense techniques that one
+martial art consists of. Then the techniques are linked to attacks and those
+combinations are trained. How about social defenses? Let us make inventories
+of attacks and effective defenses, then make combinations and possible
+training exercises to master these techniques and combinations. Let us use
+requirements engineering and the methodology introduced by Bertrand Meyer
+with his book Handbook of Requirements and Business Analysis. The
+requirements are written down but after that we keep reflecting and letting
+them evolve.
+
+### Social Attacks
+
+* [Having your naked pictures shared at work/online](https://www.rtl.nl/nieuws/binnenland/artikel/5655256/afperswebsite-dark-web-naaktbeelden-privegegevens-honderden)
+* Having your personal information shared online
+* Passive agressive behavior at work against you.
+* [Fat shaming](https://www.rtl.nl/nieuws/binnenland/artikel/5625953/movisie-onderzoek-gewichtsdiscriminatie-op-arbeidsmarkt-ernstig)
+* Discrimination and racism
+* Physical threats:
+    * "I know guys that ask five cents and will kill someone". Threatening to
+      employ the anti-social personality disorder human beings: Psychopaths
+      and sociopaths...
+    * Getting hit in the head at work and another colleague later: "Or do you
+      have to hit him in the head again... hehehehe?"
+    * At work: "You have a knive too? I got this knive. Safety, you know...
+      hehehehe"
+    * People from work having/knowing your house was burglarised and a
+      colleague sharing what you have at home in the kitchen cabinets:
+      Passive-aggressive behavior. Indicating they are in control... they think!
+* Psychosocial threats:
+    * Passive-aggressive behavior: Playing the victim. Example: "Alle
+      Drenten zijn racist!"
+    * [in-group and out-group](https://en.wikipedia.org/wiki/In-group_and_out-group)
+    * Taking acting lessons: "The autistische entertainer...". Yes, yes... I
+      have autism. Can I have hobbies? Dutch people...
