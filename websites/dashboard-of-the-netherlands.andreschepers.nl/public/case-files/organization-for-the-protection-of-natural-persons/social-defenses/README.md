@@ -7,9 +7,31 @@ hardly ever made between social and social group situations, while for our
 instincts there is a clear and distinctive difference: The context of a social
 group situation is a social situation with different tribes/clans/social
 groups competing with each other for the same set of resources: Land, water,
-food. It is dangerous to be ostracized, as
+food. A person is therefore dependent on the social group for food,
+safety and shelter. Our instincts have evolved to warn of the danger of
+losing this. It is dangerous therefore to be ostracized, as
 [dr Ramani](https://doctor-ramani.com/) explains
-[here](https://www.youtube.com/shorts/7jg6Bp9yhz0). And if you break free,
+[here](https://www.youtube.com/shorts/7jg6Bp9yhz0), the choice of the group
+to move you out of the group and consider you no longer a part of it.
+
+"__*And then they wait for the monkeys to do their bidding, whether that's to
+ice out the narcissistically abused person, whether that's to actually say
+bad things to them, harm them in other arenas. This is a very commonly used
+tool in cults. In several cults, the moment somebody tries
+to break ranks, the cult leader
+will immediately enlist all the flying monkeys to cut that person who's left
+this cult-like structure out, which is actually quite trying because anybody in
+any cult-like structure, that was the majority of their social world, and
+they've now done one of the most intolerable things that can happen to a human
+being, which is ostracism. The idea of being outed from a social group is one of
+the most unique pains a human being can go through, and in our species' history,
+it's
+actually quite dangerous. If you're ostracized from the tribe, there would be no
+food. There would be no safety. Anybody who is the narcissist in charge, if you
+will, uses the flying monkeys to achieve that ostracism and the ultimate
+destruction of the person who wronged them.*__"
+
+And if you break free,
 the group will punish you to show the group members that are left behind:
 "See what we will do to you if you break free as well or speak up / sabotage
 our group!"
