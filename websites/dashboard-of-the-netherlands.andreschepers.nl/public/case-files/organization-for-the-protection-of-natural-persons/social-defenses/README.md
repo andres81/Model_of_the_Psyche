@@ -178,3 +178,15 @@ them evolve.
     * [in-group and out-group](https://en.wikipedia.org/wiki/In-group_and_out-group)
     * Taking acting lessons: "The autistische entertainer...". Yes, yes... I
       have autism. Can I have hobbies? Dutch people...
+* Self-actualization attacks and sabotage
+    * Employers that prevent self-actualization by social engineering, in
+      order to keep the employee at a lower cost while getting them at a
+      higher operational skill level: Yes to profit, no to cost, at the
+      expanse of the employee's self-actualization and wellbeing: Their
+      future and self-esteem. "I smell profit here!", "Ik ga geen dief van
+      mn eigen portemonnee zijn!" (again showing employers use everything,
+      like social engineering at the expanse even of the employee, just for
+      profit and power and control)
+    * Jealous peers/colleagues/villagers/partners using techniques to prevent
+      self-actualization and allowing, for example, women to move away or move
+      on with their lives or upgrading it.
