@@ -176,6 +176,14 @@ with his book Handbook of Requirements and Business Analysis. The
 requirements are written down but after that we keep reflecting and letting
 them evolve.
 
+The strategy at the societal level that uses the tactic that is the
+above-described engagement strategy is that of creating a situation in which we
+teach people how to fish and not having to give them fish if it comes to
+providing people with safety in society. Effectively preventing human rights
+violations. Policing can
+become impossible due to the exponentially growing complexity of the
+situation that is society and the situations that take place within it.
+
 ### Social Attacks
 
 * [Having your naked pictures shared at work/online](https://www.rtl.nl/nieuws/binnenland/artikel/5655256/afperswebsite-dark-web-naaktbeelden-privegegevens-honderden)
