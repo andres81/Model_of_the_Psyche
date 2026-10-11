@@ -173,8 +173,11 @@ of attacks and effective defenses, then make combinations and possible
 training exercises to master these techniques and combinations. Let us use
 requirements engineering and the methodology introduced by Bertrand Meyer
 with his book Handbook of Requirements and Business Analysis. The
-requirements are written down but after that we keep reflecting and letting
-them evolve.
+requirements are written down, but after that we keep reflecting and letting
+them evolve. But also the knowledge of the system engineers in this world,
+[MIT for example](https://xpro.mit.edu/programs/program-v1:xPRO+SysEngx/),
+the professionals that know how to build airplanes and make
+sure they won't crash.
 
 The strategy at the societal level that uses the tactic that is the
 above-described engagement strategy is that of creating a situation in which we
