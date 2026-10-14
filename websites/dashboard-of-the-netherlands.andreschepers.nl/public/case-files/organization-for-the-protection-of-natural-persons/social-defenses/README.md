@@ -223,3 +223,14 @@ situation that is society and the situations that take place within it.
     * Jealous peers/colleagues/villagers/partners using techniques to prevent
       self-actualization and allowing, for example, women to move away or move
       on with their lives or upgrading it.
+* From the group against one person: Total control goal potentially. Under 
+  the guise of defending one self, from oneself for oneself, but actually 
+  acting as a representative of the group for the benefits of the group: New 
+  member addition, abusing the target to for the Human Resource they 
+  represent. Another guise/facade: Pretending this abuse is just a social 
+  psychiatric game: "We all play games, dont pretend to be a victim now... 
+  you're not a pussy right? Softy, zacht ei met stoppels... wat een mietje!".
+  The authorities that should step in, might now enjoy and appreciate the 
+  game being played: The victim is not a victim but is merely experiencing 
+  growing pains! No intervention is needed. Tell that to the 12 year old girl 
+  Vlaardingen... 
