@@ -266,4 +266,27 @@ situation that is society and the situations that take place within it.
   The authorities that should step in, might now enjoy and appreciate the
   game being played: The victim is not a victim but is merely experiencing
   growing pains! No intervention is needed. Tell that to the 12 year old girl
-  Vlaardingen... 
+  Vlaardingen...
+
+### Social defenses
+
+#### At the societal level
+
+When attacks are done against civilians, the democracy, the nation itself is
+undermined. If this is the intention itself, then we speak of terrorism, but
+criminal intent, is just as harmful alhtough this damage is then a side
+effect of criminal behavior. Either way, we as a society wish to prevent it
+not for the protection of civilians, and protect against human rights
+violations, but also to protect the democracy itself and the nation.
+
+##### Solutions:
+
+* Red/Blue team engagements: Know thy enemy and their attacks. Plus the
+  situation: How vulnerable are we at this very moment? For example, use
+  psychosocial attack enactments for teenagers to test their social defenses
+  and awareness of attacks and group dynamics that are used to program them.
+  The conversation is the key to higher levels of psychological resilience and
+  stabilitiy. Proposal regarding conversation
+  facilities [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/love-or-the-lack-thereof/proposal-conversation-facility-in-towns.md).
+    * [Wiki: Red team](https://en.wikipedia.org/wiki/Red_team)
+    * [Red Team vs Blue Team: A Practical Guide to Adversarial Cybersecurity](https://www.redfoxsec.com/blog/red-team-vs-blue-team-a-practical-guide-to-adversarial-cybersecurity)
