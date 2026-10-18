@@ -274,10 +274,11 @@ situation that is society and the situations that take place within it.
 
 When attacks are done against civilians, the democracy, the nation itself is
 undermined. If this is the intention itself, then we speak of terrorism, but
-criminal intent, is just as harmful alhtough this damage is then a side
+criminal intent is just as harmful alhtough this damage is then a side
 effect of criminal behavior. Either way, we as a society wish to prevent it
-not for the protection of civilians, and protect against human rights
-violations, but also to protect the democracy itself and the nation.
+from happening. If not for the protection of civilians and protect against
+human rights
+violations, then to protect the democracy itself and the nation.
 
 ##### Solutions:
 
