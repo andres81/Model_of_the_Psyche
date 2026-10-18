@@ -8,7 +8,7 @@ instincts there is a clear and distinctive difference: The context of a social
 group situation is a social situation with different tribes/clans/social
 groups competing with each other for the same set of resources: Land, water,
 food. A person is therefore dependent on the social group for food,
-safety and shelter. Our instincts have evolved to warn of the danger of
+safety, and shelter. Our instincts have evolved to warn of the danger of
 losing this. It is dangerous therefore to be ostracized, as
 [dr Ramani](https://doctor-ramani.com/) explains
 [here](https://www.youtube.com/shorts/7jg6Bp9yhz0), the choice of the group
@@ -291,3 +291,40 @@ violations, then to protect the democracy itself and the nation.
   facilities [here](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/love-or-the-lack-thereof/proposal-conversation-facility-in-towns.md).
     * [Wiki: Red team](https://en.wikipedia.org/wiki/Red_team)
     * [Red Team vs Blue Team: A Practical Guide to Adversarial Cybersecurity](https://www.redfoxsec.com/blog/red-team-vs-blue-team-a-practical-guide-to-adversarial-cybersecurity)
+
+  Red team engagements can also protect against hijacking of moral
+  systems/institutions in a society. Take for example group think in
+  organizations or government institutions: Any moral system in society. If a
+  group think situation
+  arises due
+  to [in-group and out-group dynamics](https://en.wikipedia.org/wiki/In-group_and_out-group)
+  because of an external thread. Without negative intent, the organization
+  becomes toxic and individuals lose
+  their moral compass potentially. Due to the nature of group think,
+  complaints of customers, oversight, critique from the outside start to
+  be ignored. Also, the grip on the situation internally might be lost. A
+  runaway thermodynamic process can occur, leading to a loss of control and
+  potentially catastrophic outcomes. What an outside group with
+  religious/political ideologies as an engine can then do is takeover the
+  dynamics by grooming members of this group situation. Take, for example, the
+  warning of the
+  AIVD: [Security services warn of silent rise of far-right ideas](https://www.rtl.nl/nieuws/binnenland/artikel/5654881/extreemrechts-denkbeelden-acceptabel-waarschuwing-aivd-nctv)
+* Protection against psychiatric social games by parents/carers ([abuse like
+  Vlaardingen](https://www.rtl.nl/nieuws/binnenland/artikel/5532436/pleegmeisje-vlaardingen-vervolging-openbaar-ministerie))
+  I have my fair share of social psychiatric games being played against me,
+  with disastrous consequences. When you are young, not knowing that these
+  games are being played, on top of which, this ignorance you are a victim
+  to, being gaslighted, you can suffer great psychosocial damage that can
+  lead to deviant behavior that can lead to even more misery. "It's all your
+  fault!".
+  Without knowing the antithesis once you do find out that these games are being
+  played, and then facing these monsters with
+  their smiles on their faces communicating: "We see you know what is
+  going on now, and yes, we know we are evil, but
+  we enjoy this so much! What are you going to do about it...?!" Right...
+  infants that will not have their candy being taken away from them.
+  As a society we need to make a list of antithesis interventions and then
+  start training young
+  people using them against these games after having been trained in
+  recognizing these games being played in what way.
+* 
