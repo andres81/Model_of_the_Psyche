@@ -90,7 +90,8 @@ The elements of the pipeline are at the very least:
               software might be installed on your phone without your knowledge.
             * WhatsApp: Be aware of others having access to your WhatsApp
               account / phone: In WhatsApp someone else can add an account to
-              yours, effectively enabling spying on your WhatsApp account:
+              yours, effectively enabling spying on your WhatsApp account
+              ([ghost pairing](https://www.rtl.nl/nieuws/binnenland/artikel/5659448/stemmen-jonge-ballerina-whatsapp-ghostpairing-truc)):
               Settings → Linked devices
             * Taking pictures, making videos, recording audio of/with you.
             * Through conversation: Making you trust the situation and

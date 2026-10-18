@@ -224,6 +224,38 @@ situation that is society and the situations that take place within it.
     * Jealous peers/colleagues/villagers/partners using techniques to prevent
       self-actualization and allowing, for example, women to move away or move
       on with their lives or upgrading it.
+* Defense against Art of War attacks.
+    * I. Laying Plans
+    * II. On Waging War
+    * III. The Sheathed Sword
+    * IV. Tactics
+    * V. Energy
+    * VI. Weak Points & Strong
+    * VII. Maneuvering
+    * VIII. Variation of Tactics
+    * IX. The Army on the March
+    * X. Terrain
+    * XI. The Nine Situations
+    * XII. Attack by Fire
+    * XIII. The Use of Spies
+        * Rooting the phone: Be aware of your phone being rooted. Spy
+          software might be installed on your phone without your knowledge.
+        * WhatsApp: Be aware of others having access to your WhatsApp
+          account / phone: In WhatsApp someone else can add an account to
+          yours, effectively enabling spying on your WhatsApp account
+          ([ghost pairing](https://www.rtl.nl/nieuws/binnenland/artikel/5659448/stemmen-jonge-ballerina-whatsapp-ghostpairing-truc)):
+          Settings → Linked devices
+        * Taking pictures, making videos, recording audio of/with you.
+        * Through conversation: Making you trust the situation and
+          participants in that situation, making you share: Never speak!
+          Don't trust anyone unless trust is deserved. Work, for example,
+          is not a socializing environment. It is work! Nobody is your
+          friend. Talk to network, not to fraternize. Don't be soft,
+          think about your career, think about your reputation and most
+          of all: Your psychosocial wellbeing. (Relating to work: An
+          escalation path and easy exit out of toxic situations is
+          coming. Also, a support system is coming to stop abuse once and
+          for all and otherwise escalation to the level of the democracy)
 * From the group against one person: Total control goal potentially. Under
   the guise of defending one self, from oneself for oneself, but actually
   acting as a representative of the group for the benefits of the group: New
