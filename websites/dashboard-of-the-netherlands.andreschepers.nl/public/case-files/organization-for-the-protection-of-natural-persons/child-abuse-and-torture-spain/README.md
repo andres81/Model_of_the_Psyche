@@ -184,7 +184,9 @@ be protected by these moral systems, and so effectively me.
   Dutch state at the European Court of Human Rights. In addition, she will
   be reported to other countries and international institutions, especially
   human rights institutions for, in my opinion, with this decision in part
-  responsible for human rights violations. Letters will go to international
+  having become
+  responsible as well for human rights violations. Letters will go to
+  international
   institutions and embassies in The Netherlands.
 * Letter to the European Court of Human Rights with all the names of the
   people that knew became part of the banality of evil at best, or like
