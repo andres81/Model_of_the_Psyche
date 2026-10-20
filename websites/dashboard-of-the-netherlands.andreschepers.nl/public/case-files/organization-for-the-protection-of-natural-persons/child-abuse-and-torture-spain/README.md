@@ -71,7 +71,10 @@ humanity. I am talking a direct escalation to the European Court of Human
 rights. We had passive "autopilot" judges that have to be reported to this
 court anyway, even if merely symbolically. These actions and events erode
 the Dutch democracy away from beneath our feet. No more passivity. Tom
-Cruise: "I'm talking scorched earth motherfucker!!!" A little bit of
+Cruise in [Tropic Thunder](https://www.imdb.com/title/tt0942385): "I'm talking
+scorched earth motherfucker!!!
+" A
+little bit of
 context: If it can be proven that Dutch judges were going on autopilot, they
 have a problem: Citizens have a societal obligation to protect the state. In
 case of war, you wíll be held to this duty: You will be drafted to fight for
@@ -122,6 +125,49 @@ German
 concentration camps, because not only do states do this, it happens as we see
 now at all levels of society, by "normal" people of whom it is not expected
 and act as victims of their situation.
+
+## The comparison everyone stays away from: Nazi Germany Dachau
+
+The comparison nobody wants to make, but can be made because it has been
+called child torture, is with the concentration camp in Dachau during the
+WWII. We are talking about torture here people. In a situation people were
+like prisoners. If you then try to gaslight society:
+
+* *Een woordvoerder van Driestroom zegt dat het een "uitdaging is binnen de
+  wettelijke kaders steeds een zorgvuldige balans te vinden tussen vrijheid,
+  bescherming, behandeling en veiligheid". Ook benadrukt hij dat het ging om
+  jongeren met complexe hulpvragen.*
+* *Maar ondanks die meldingen, een onderzoek van de Kinderombudsman Amsterdam en
+  meerdere onderzoeken door jeugdbeschermers en zorginstellingen bleven
+  verschillende organisaties er tóch jongeren plaatsen. De Inspectie zegt dat
+  het geen toezicht kan houden in het buitenland.*
+
+Denying that we are talking about torture but necessary therapeutic
+interventions because these kids were challenging, you need to be reminded we
+promised never to let the torture like the concentration camps happen
+again. But apparently, now that the generations that lived through the war
+have passed on, the evil is allowed to be back in society. Talk about
+spitting in the faces of the Allied powers in World War II that gave us back our
+democracy and the victims of the WWII. This went too far. Time to fight back
+and bring justice to the victims and society.
+
+## Failure of current moral systems in society
+
+Looking at the failing of society to protect against torture:
+
+* *Vanaf 2016 kreeg de Inspectie Gezondheidszorg en Jeugd (IGJ) meldingen over
+  de instelling. Cliënten zeggen dat ze hun ervaringen bij terugkomst hebben
+  gemeld bij zorgorganisaties. Eén jongen deed in 2019 bij de politie aangifte
+  van mishandeling.*
+* *Maar ondanks die meldingen, een onderzoek van de Kinderombudsman Amsterdam en
+  meerdere onderzoeken door jeugdbeschermers en zorginstellingen bleven
+  verschillende organisaties er tóch jongeren plaatsen. De Inspectie zegt dat
+  het geen toezicht kan houden in het buitenland.*
+
+it is time to take action and no longer trust and rely on the current moral
+systems in society that are in place to delegate my responsibility to if it
+comes to protection. I am responsible and can no longer rely on children to
+be protected by these moral systems, and so effectively me.
 
 ## Actions
 
