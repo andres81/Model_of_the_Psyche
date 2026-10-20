@@ -188,6 +188,11 @@ be protected by these moral systems, and so effectively me.
   responsible as well for human rights violations. Letters will go to
   international
   institutions and embassies in The Netherlands.
+  For me this means immediate removal of Mirjam Sterk from her position as a
+  minister, as I deem her unfit for her duties and potentially having an
+  undesirable agenda. At the very
+  least, I can no longer guarantee the psychosocial and physical safety in
+  The Netherlands with her in the position she is in.
 * Letter to the European Court of Human Rights with all the names of the
   people that knew became part of the banality of evil at best, or like
   [Eichmann](https://en.wikipedia.org/wiki/Adolf_Eichmann), carrying the
