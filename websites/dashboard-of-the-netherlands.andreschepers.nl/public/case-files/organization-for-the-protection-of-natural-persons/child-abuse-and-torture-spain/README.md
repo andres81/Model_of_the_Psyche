@@ -6,6 +6,7 @@
 * [Spaanse inspectie grijpt in: Nederlands gezinshuis moet per direct dicht](https://nos.nl/nieuwsuur/artikel/2633176-spaanse-inspectie-grijpt-in-nederlands-gezinshuis-moet-per-direct-dicht)
 * [Nederlandse jongeren ondanks zorgen over veiligheid toch geplaatst in Spaans tehuis](https://nos.nl/nieuwsuur/artikel/2630917-nederlandse-jongeren-ondanks-zorgen-over-veiligheid-toch-geplaatst-in-spaans-tehuis)
 * [Miljoenen naar 'gezinshuis', waar jongeren zouden zijn gemarteld en vernederd](https://www.rtl.nl/nieuws/buitenland/artikel/5660013/signalen-marteling-gezinshuis-huize-soria-zorggeld-spanje)
+* [Minister wil plaatsing jongeren Spaans huis met 'extreme methode' niet onderzoeken](https://nos.nl/nieuwsuur/artikel/2635972-minister-wil-plaatsing-jongeren-spaans-huis-met-extreme-methode-niet-onderzoeken)
 
 ## Introduction
 
@@ -172,6 +173,13 @@ be protected by these moral systems, and so effectively me.
 
 ## Actions
 
+* [Research into the decision of Mirjam Sterk why no research into this
+  situation](https://nos.nl/nieuwsuur/artikel/2635972-minister-wil-plaatsing-jongeren-spaans-huis-met-extreme-methode-niet-onderzoeken):
+  What is her agenda? Is this choice a violation of human rights
+  in itsef? Is this behavior that the ECoHR was set up for: Prevent or
+  punish states that torture people? Why does she not wish to know how gross
+  violations of human rights could happen under the supervision of the
+  government?
 * Letter to the European Court of Human Rights with all the names of the
   people that knew became part of the banality of evil at best, or like
   [Eichmann](https://en.wikipedia.org/wiki/Adolf_Eichmann), carrying the
