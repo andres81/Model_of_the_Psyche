@@ -179,7 +179,13 @@ be protected by these moral systems, and so effectively me.
   in itsef? Is this behavior that the ECoHR was set up for: Prevent or
   punish states that torture people? Why does she not wish to know how gross
   violations of human rights could happen under the supervision of the
-  government?
+  government? With this decision, in my view, the government is now in part
+  responsible for violations of human rights, and we have a case against the
+  Dutch state at the European Court of Human Rights. In addition, she will
+  be reported to other countries and international institutions, especially
+  human rights institutions for, in my opinion, with this decision in part
+  responsible for human rights violations. Letters will go to international
+  institutions and embassies in The Netherlands.
 * Letter to the European Court of Human Rights with all the names of the
   people that knew became part of the banality of evil at best, or like
   [Eichmann](https://en.wikipedia.org/wiki/Adolf_Eichmann), carrying the
