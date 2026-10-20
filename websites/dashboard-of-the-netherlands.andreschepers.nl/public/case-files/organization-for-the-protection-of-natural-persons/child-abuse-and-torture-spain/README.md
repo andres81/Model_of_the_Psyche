@@ -5,6 +5,7 @@
 * [Tientallen miljoenen jeugdzorggeld naar extreme behandelmethode in Spanje](https://nos.nl/nieuwsuur/artikel/2635898-tientallen-miljoenen-jeugdzorggeld-naar-extreme-behandelmethode-in-spanje)
 * [Spaanse inspectie grijpt in: Nederlands gezinshuis moet per direct dicht](https://nos.nl/nieuwsuur/artikel/2633176-spaanse-inspectie-grijpt-in-nederlands-gezinshuis-moet-per-direct-dicht)
 * [Nederlandse jongeren ondanks zorgen over veiligheid toch geplaatst in Spaans tehuis](https://nos.nl/nieuwsuur/artikel/2630917-nederlandse-jongeren-ondanks-zorgen-over-veiligheid-toch-geplaatst-in-spaans-tehuis)
+* [Miljoenen naar 'gezinshuis', waar jongeren zouden zijn gemarteld en vernederd](https://www.rtl.nl/nieuws/buitenland/artikel/5660013/signalen-marteling-gezinshuis-huize-soria-zorggeld-spanje)
 
 ## Introduction
 
