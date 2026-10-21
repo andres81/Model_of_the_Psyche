@@ -7,6 +7,7 @@
 * [Nederlandse jongeren ondanks zorgen over veiligheid toch geplaatst in Spaans tehuis](https://nos.nl/nieuwsuur/artikel/2630917-nederlandse-jongeren-ondanks-zorgen-over-veiligheid-toch-geplaatst-in-spaans-tehuis)
 * [Miljoenen naar 'gezinshuis', waar jongeren zouden zijn gemarteld en vernederd](https://www.rtl.nl/nieuws/buitenland/artikel/5660013/signalen-marteling-gezinshuis-huize-soria-zorggeld-spanje)
 * [Minister wil plaatsing jongeren Spaans huis met 'extreme methode' niet onderzoeken](https://nos.nl/nieuwsuur/artikel/2635972-minister-wil-plaatsing-jongeren-spaans-huis-met-extreme-methode-niet-onderzoeken)
+* [Deze vader ontvoerde zijn zoon uit berucht gezinshuis in Spanje](https://nos.nl/nieuwsuur/artikel/2636034-deze-vader-ontvoerde-zijn-zoon-uit-berucht-gezinshuis-in-spanje)
 
 ## Introduction
 
@@ -170,6 +171,63 @@ it is time to take action and no longer trust and rely on the current moral
 systems in society that are in place to delegate my responsibility to if it
 comes to protection. I am responsible and can no longer rely on children to
 be protected by these moral systems, and so effectively me.
+
+## A parent trying to protect their child: A new 'toeslagen affaire' with its judges?
+
+Looking at the news article:
+[This father tried to protect his child from a notorious children's home in Spain](https://nos.nl/nieuwsuur/artikel/2636034-deze-vader-ontvoerde-zijn-zoon-uit-berucht-gezinshuis-in-spanje)
+I wonder what the judge was aware of and thinking when convicting this
+father. The father tried to protect his child from human rights violations,
+and he gets punished for this. If the judge did not know, did he do his job?
+If he did, how could he then have convicted the father? Don't we look as a
+society at the moral of the laws that need to be applied? Not the exact
+literal entry in the lawbooks like Hitler ordered judges to do during the
+WWII where Hitler stated something like: "I am the moral of
+the law"
+What about the judge his citizen's responsibility that comes first and
+foremost to protect
+human rights and prevent and fight torture? What about the police officers that
+heard the fathers' story? Did they do a follow-up as citizens at the very
+least to check that human rights were not violated instead of merely
+throwing him in jail?
+
+In short: The judge could not convict the father due to the moral of the
+legal system, the moral system that it is, and the ideology, the one, and
+only we have in The Netherlands: We prevent torture at any moment first and
+foremost. Nothing else! The police officers that heard this story, if bound
+by their function preventing them from escalating and fighting these
+atrocities in Spain, should have simply resigned and started becoming active
+as citizens fighting human rights violations. You are doomed to freedom. Or
+did they not mind human rights being violated? How could they have thrown
+him in jail without knowing? Meaning they didn't know the situation properly
+enough, giving them no right to incarcerate him.
+
+All the names of the participants online to ask them individually how they
+fulfilled their roles and check for corruption and potential desire to
+torture sadistically:
+
+* Police that heard the fathers' story
+* The judges involved
+* The "professionals" of:
+    * Leger des Heils Jeugdbescherming
+    * Reclassering
+
+The problem here is also: We don't know if people have the swastikas on the
+walls at home. And that doesn't matter. Behavior, the fulfillment of the
+roles by public servants, police, judges, prosecutors, municipalities, needs
+to be scrutinized. In part to prevent proxying of the function of these
+citizens of The Netherlands. I, as a citizen, am responsible in the end for
+what they do and are allowed to do implicitly by the passivity of me and
+other citizens and explicitly by the rules of engagement stated by law and
+elsewhere.
+
+In conclusion, The Netherlands is again in this case grossly violating human
+rights like we have seen with the
+[Dutch childcare benefits scandal](https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal).
+Ignoring human rights, ignoring signs things are going wrong, a minister (Sterk)
+choosing not to investigate how the government could fail so miserably as well,
+reminiscent of what happened during the "toeslagen affaire". And you then
+wonder why people are angry and giving up on democracy as a system to use...
 
 ## Actions
 
