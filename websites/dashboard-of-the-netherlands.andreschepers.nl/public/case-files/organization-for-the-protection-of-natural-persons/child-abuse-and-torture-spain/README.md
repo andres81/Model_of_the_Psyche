@@ -282,6 +282,7 @@ to use...
   society. Every citizen of The Netherlands that is a civilian will be
   held accountable, for you are and were already responsible. To what extent
   one is accountable has to be decided.
+    * [Letter to the judges of The Netherlands](https://github.com/andres81/Model_of_the_Psyche/blob/main/websites/dashboard-of-the-netherlands.andreschepers.nl/public/case-files/organization-for-the-protection-of-natural-persons/child-abuse-and-torture-spain/letter-to-courthouses-nl/letter-to-courthouses-nl.md)
 * Demand
   a [parlementaire enquete](https://nl.wikipedia.org/wiki/Parlementaire_enqu%C3%AAte_in_Nederland)
 * Letter to all embassies in The Netherlands, to ask for an audit of the
