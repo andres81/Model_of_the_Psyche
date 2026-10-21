@@ -219,15 +219,18 @@ to be scrutinized. In part to prevent proxying of the function of these
 citizens of The Netherlands. I, as a citizen, am responsible in the end for
 what they do and are allowed to do implicitly by the passivity of me and
 other citizens and explicitly by the rules of engagement stated by law and
-elsewhere.
+elsewhere. Judges might be
+immune to legal prosecution, but let it be known very clearly: No one in
+this country is immune from societal and moral prosecution and scrutiny, ever!
 
 In conclusion, The Netherlands is again in this case grossly violating human
 rights like we have seen with the
 [Dutch childcare benefits scandal](https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal).
 Ignoring human rights, ignoring signs things are going wrong, a minister (Sterk)
 choosing not to investigate how the government could fail so miserably as well,
-reminiscent of what happened during the "toeslagen affaire". And you then
-wonder why people are angry and giving up on democracy as a system to use...
+reminiscent of what happened during the "toeslagen affaire". And you then wonder
+why people are angry and giving up on democracy as a system
+to use...
 
 ## Actions
 
