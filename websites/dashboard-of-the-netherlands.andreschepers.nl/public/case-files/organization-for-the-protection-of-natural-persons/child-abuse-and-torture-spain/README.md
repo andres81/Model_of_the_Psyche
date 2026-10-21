@@ -1,5 +1,7 @@
 # Child abuse and torture in Spain
 
+__*Once the (philosophical) blade has been drawn, it needs to taste blood*__
+
 ## Sources
 
 * [Tientallen miljoenen jeugdzorggeld naar extreme behandelmethode in Spanje](https://nos.nl/nieuwsuur/artikel/2635898-tientallen-miljoenen-jeugdzorggeld-naar-extreme-behandelmethode-in-spanje)
@@ -226,6 +228,12 @@ this country is immune from societal and moral prosecution and scrutiny, ever!
 In conclusion, The Netherlands is again in this case grossly violating human
 rights like we have seen with the
 [Dutch childcare benefits scandal](https://en.wikipedia.org/wiki/Dutch_childcare_benefits_scandal).
+The judges involved in ruling against the father are part of the banality
+of evil, the evil that is the situation in Spain. Not only did they became
+part of the reason the evil situation in Spain could continue, but also they
+prevented a Dutch citizen from doing his moral and civil duty: Stopping
+human rights violations. These judges need to be held accountable and need
+to serve retributive and restorative justice to all victims involved.
 Ignoring human rights, ignoring signs things are going wrong, a minister (Sterk)
 choosing not to investigate how the government could fail so miserably as well,
 reminiscent of what happened during the "toeslagen affaire". And you then wonder
