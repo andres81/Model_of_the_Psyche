@@ -284,3 +284,6 @@ to use...
   necessity in Dutch society for
   anyone seeking retributive and restorative justice to do this via the
   Dutch legal system, and then failing...)
+* Research into whom the people involved were, names, functions, and actions
+  even if paid for by me (private detectives): Citizens will be held
+  accountable if necessary at the societal level.
