@@ -256,7 +256,7 @@ to use...
 * Source:
   [Internationaal Strafhof krijgt mensenrechtenprijs van het Europees Parlement](https://www.rtl.nl/nieuws/binnenland/artikel/5660474/icc-krijgt-mensenrechtenprijs-van-het-europees-parlement)
 
-Right... So we defend the ICC from international criticism, but when
+Right... So we defend the ICC from international criticism. However, when
 internally human rights are violated reminiscent of what happened during the
 WWII in the concentration camps, of which we promised never, éver again,
 the minister Sterk says no research, Jetten is too busy becoming a father
@@ -349,8 +349,20 @@ garden of the neighbour. For crying out loud...
 
   I'll leave it to the professionality of a judge to corner you with your
   ego to check for incompetence in general, and after you defended your ego
-  that you are nót incompentent because it would imply you are not fit for
+  that you are nót incompetent because it would imply you are not fit for
   the job of "hoogleraar", apply that conclusion to your situation in which
   you were an advisor: If you are not incompetent, how could you really not
   have known? What went wrong there then? Got you now you S.O.B.! Your games
   can be played by others as well.
+* No longer see the European Union as a target organization to help with
+  human rights violation in and by The Netherlands: They are too occupied
+  as a
+  [misses Bouquet](https://en.wikipedia.org/wiki/Hyacinth_Bucket)
+  with
+  [celebrating themselves and their social clubs like the ICC...](https://www.rtl.nl/nieuws/binnenland/artikel/5660474/icc-krijgt-mensenrechtenprijs-van-het-europees-parlement)
+  How
+  stupid do they think we civilians are.
+  Instead, ask the international community outside of Europe to put the
+  powers within Europe on its knees, to help us citizens to take back power
+  and control, so that human rights are protected. Children are safe. That
+  the evil that has way too much power is stopped.
