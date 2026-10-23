@@ -2,6 +2,15 @@
 
 __*Once the (philosophical) blade has been drawn, it needs to taste blood*__
 
+## Preface
+
+This situation has now become an engagement that will take ten plus years or
+maybe the rest of my life. It shows how much is wrong in The Netherlands and
+the world. Corruption, human rights violations, evil at the helm. I am
+sinking my teeth in flesh that is being tortured and abused by powers that
+should instead protect and prevent. I am a citizen of The Netherlands, I
+represent the highest authority in this democracy, the institute of citizenship.
+
 ## Sources
 
 * [Tientallen miljoenen jeugdzorggeld naar extreme behandelmethode in Spanje](https://nos.nl/nieuwsuur/artikel/2635898-tientallen-miljoenen-jeugdzorggeld-naar-extreme-behandelmethode-in-spanje)
@@ -10,6 +19,8 @@ __*Once the (philosophical) blade has been drawn, it needs to taste blood*__
 * [Miljoenen naar 'gezinshuis', waar jongeren zouden zijn gemarteld en vernederd](https://www.rtl.nl/nieuws/buitenland/artikel/5660013/signalen-marteling-gezinshuis-huize-soria-zorggeld-spanje)
 * [Minister wil plaatsing jongeren Spaans huis met 'extreme methode' niet onderzoeken](https://nos.nl/nieuwsuur/artikel/2635972-minister-wil-plaatsing-jongeren-spaans-huis-met-extreme-methode-niet-onderzoeken)
 * [Deze vader ontvoerde zijn zoon uit berucht gezinshuis in Spanje](https://nos.nl/nieuwsuur/artikel/2636034-deze-vader-ontvoerde-zijn-zoon-uit-berucht-gezinshuis-in-spanje)
+* [Jongeren berucht gezinshuis Spanje kunnen juridische stappen zetten tegen staat](https://nos.nl/nieuwsuur/artikel/2636188-jongeren-berucht-gezinshuis-spanje-kunnen-juridische-stappen-zetten-tegen-staat)
+* [Internationaal Strafhof krijgt mensenrechtenprijs van het Europees Parlement](https://www.rtl.nl/nieuws/binnenland/artikel/5660474/icc-krijgt-mensenrechtenprijs-van-het-europees-parlement)
 
 ## Introduction
 
@@ -240,6 +251,31 @@ reminiscent of what happened during the "toeslagen affaire". And you then wonder
 why people are angry and giving up on democracy as a system
 to use...
 
+## "The Emperor has no clothes": The Dutch stance on the ICC situation...
+
+* Source:
+  [Internationaal Strafhof krijgt mensenrechtenprijs van het Europees Parlement](https://www.rtl.nl/nieuws/binnenland/artikel/5660474/icc-krijgt-mensenrechtenprijs-van-het-europees-parlement)
+
+Right... So we defend the ICC from international criticism, but when
+internally human rights are violated reminiscent of what happened during the
+WWII in the concentration camps, of which we promised never, éver again,
+the minister Sterk says no research, Jetten is too busy becoming a father
+and celebrating that with his inner circle, and the government is not doing
+anything about it. Religious ideological power groups active much at the
+moment? The Netherlands, powers that are, moral systems, thinking they get
+away with it, forgetting I am a citizen of The Netherlands, I represent the
+highest authority in this democracy, the institute of citizenship. I will
+not have a nation, the democracy I am responsible for, act like
+[Hyacinth Bucket](https://en.wikipedia.org/wiki/Hyacinth_Bucket), acting
+like a narcissist: The facade on the outside, but at the same time acting
+oppposite to what the narcissist pretends to stand for,
+[virtue signalling](https://en.wikipedia.org/wiki/Virtue_signalling)
+trash behavior...You don't fool anyone, not me at least. "Let's give each
+other prices... I feel so good about myself now!" Let's communicate this to
+the embassies in The Netherlands, let's see what they have to say about this.
+Clean your own house first, before you start looking around you at the
+garden of the neighbour. For crying out loud...
+
 ## Actions
 
 * [Research into the decision of Mirjam Sterk why no research into this
@@ -296,3 +332,25 @@ to use...
 * Research into whom the people involved were, names, functions, and actions
   even if paid for by me (private detectives): Citizens will be held
   accountable if necessary at the societal level.
+* Get
+  [professor Frank van der Horst](https://nos.nl/nieuwsuur/artikel/2636188-jongeren-berucht-gezinshuis-spanje-kunnen-juridische-stappen-zetten-tegen-staat)
+  in front of court and fired. Getting him
+  to testify in a public legal or societal court. He is a professor (
+  "hoogleraar"), as an advisor, but not "knowing" what is actually going on
+  there? Let's see if he can prove he actually "didn't know". Proof and no
+  benefit of the doubt! You are guilty until proven innocent in this situation.
+
+  __*Bijzonder hoogleraar pedagogische wetenschappen Frank van der Horst van de
+  Universiteit Leiden is
+  sinds 2024 adviseur van het gezinshuis. Hij zegt in een reactie bekend te zijn
+  met de behandelvisie, maar niet met misstanden. "Mij was vóór de berichtgeving
+  niet bekend dat binnen Huize Soria maatregelen werden toegepast waarvan wordt
+  gezegd dat deze juridisch niet waren toegestaan."*__
+
+  I'll leave it to the professionality of a judge to corner you with your
+  ego to check for incompetence in general, and after you defended your ego
+  that you are nót incompentent because it would imply you are not fit for
+  the job of "hoogleraar", apply that conclusion to your situation in which
+  you were an advisor: If you are not incompetent, how could you really not
+  have known? What went wrong there then? Got you now you S.O.B.! Your games
+  can be played by others as well.
